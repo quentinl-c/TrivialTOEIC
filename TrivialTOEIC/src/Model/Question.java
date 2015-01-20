@@ -4,14 +4,16 @@
  * and open the template in the editor.
  */
 package Model;
+
+import java.util.ArrayList;
+
 /**
  *
- * @author vincent
+ * @author quentinlaporte-chabasse
  */
-public class Main {
-    
-    public static void main(String[] args) {
-        ImportJSON readJson = new ImportJSON();
-    }
-    
+public class Question {
+    private String question;
+    private ArrayList<String> answers;
+    private String rightAnswer;
+   
 }

@@ -4,14 +4,11 @@
  * and open the template in the editor.
  */
 package Model;
+
 /**
  *
- * @author vincent
+ * @author quentinlaporte-chabasse
  */
-public class Main {
-    
-    public static void main(String[] args) {
-        ImportJSON readJson = new ImportJSON();
-    }
+class jsonObject {
     
 }
