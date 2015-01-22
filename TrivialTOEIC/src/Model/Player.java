@@ -11,11 +11,13 @@ package Model;
  */
 public class Player {
     private int id; //Player number
+    private String name;
     private int score;// player's score
     private int[] stat;// Payer's stat
     
-    public Player(int id){
+    public Player(int id, String name){
         this.id = id;
+        this.name = name;
         this.score = 0;
         this.stat = new int[4]; // 4 categories
         //init stats

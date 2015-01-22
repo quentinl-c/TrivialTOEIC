@@ -15,5 +15,28 @@ public class Question {
     private String question;
     private ArrayList<String> answers;
     private String rightAnswer;
+    
+    public Question(String question){
+        this.question = question;
+        this.answers = new ArrayList<>();
+    }
+    
+    public void setAnswer(String answer){
+        this.answers.add(answer);
+    }
+    
+    public void setRightAnswer(String rightAnswer){
+        this.rightAnswer = rightAnswer;
+    }
+    public String toString(){
+        String result = this.question;
+        for(String s : this.answers){
+            result = result+" "+s;
+        }
+        result = result+" "+this.rightAnswer;
+        return result;
+    }
+    
+   
    
 }

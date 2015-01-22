@@ -1,0 +1,12 @@
+[
+	{
+		"question" : "Who is the boss ",
+		"answers" : ["me", "you", "no idea"],
+		"rightAnswer" : "me"
+	},
+	{
+		"question" : "Am I strong ",
+		"answers" : ["no", "yes", "no idea"],
+		"rightAnswer" : "yes"
+	}
+]

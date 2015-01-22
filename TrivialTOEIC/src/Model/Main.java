@@ -11,7 +11,11 @@ package Model;
 public class Main {
     
     public static void main(String[] args) {
-        ImportJSON readJson = new ImportJSON();
+        ImportJSON jsonImportation = new ImportJSON();
+        Party mainParty = new Party();
+        mainParty.initParty(jsonImportation);
+        
+        System.out.println(mainParty.randomQuestion("grammar"));
     }
     
 }
