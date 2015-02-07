@@ -16,6 +16,9 @@ public class Main {
         mainParty.initParty(jsonImportation);
         
         System.out.println(mainParty.randomQuestion("grammar"));
+        
+        
+        
     }
     
 }
