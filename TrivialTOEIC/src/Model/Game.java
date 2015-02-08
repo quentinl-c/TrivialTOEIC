@@ -16,9 +16,10 @@ import java.util.Random;
  * Manages : players, board, questions and answers
  */
 public class Game {
-    
-    private final ArrayList<Player> players;
-    private final boolean gameOver; //true when a player win a game
+
+      
+    private ArrayList<Player> players;
+    private boolean gameOver; //true when a player win a game
     private final HashMap<String, ArrayList<Question>> questions;
     private final HashMap<String, ArrayList<Question>> questionsUsed;
     
@@ -51,15 +52,32 @@ public class Game {
         }   
     }
     
-    public void addPlayer(String name){
-        int id = this.players.size();
-        Player currentPlayer = new Player(id, name);
-        this.players.add(currentPlayer);
+    public void addPlayer(Player player){
+        this.players.add(player);
     }
     
     public void initCategory(String catName, ImportJSON jsonImportation){
         questions.put(catName, jsonImportation.readJSONFile(catName+".json"));
         questionsUsed.put(catName, new ArrayList<>());
     }
+    
+    
+    public Player getPlayer(int index){
+        return this.players.get(index);
+    }
+    
+    public void gameOver(){
+        this.gameOver=true;
+    }
+    
+    /* Main loop */
+    public void playGame(){
+        while(!this.gameOver){
+            
+            this.gameOver();
+        }
+    }
+    
+    
     
 }

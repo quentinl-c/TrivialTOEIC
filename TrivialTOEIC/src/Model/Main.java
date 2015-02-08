@@ -11,13 +11,21 @@ package Model;
 public class Main {
     
     public static void main(String[] args) {
-        ImportJSON jsonImportation = new ImportJSON();
-        Game mainGame = new Game();
-        mainGame.initGame(jsonImportation);
         
+        /*Global settings for testing*/
+        Game mainGame = new Game();
+        Player player1 = new Player("Player1");
+        mainGame.addPlayer(player1); // For the moment testing with only one player
+        
+        
+        /* JSON importation */
+        ImportJSON jsonImportation = new ImportJSON();
+        mainGame.initGame(jsonImportation);
         System.out.println(mainGame.randomQuestion("grammar"));
         
-        
+        /* Game loop*/      
+        mainGame.playGame();
+        System.out.println(mainGame.getPlayer(0).getStat(0));
         
     }
     
