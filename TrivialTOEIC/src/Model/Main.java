@@ -15,7 +15,7 @@ public class Main {
         /*Global settings for testing*/
         Game mainGame = new Game();
         Player player1 = new Player("Player1");
-        mainGame.addPlayer(player1); // For the moment testing with only one player
+        mainGame.addPlayer(player1); // For the moment testing with only one player if you add more players be sure to change playGame() !
         
         
         /* JSON importation */

@@ -22,6 +22,7 @@ public class Game {
     private boolean gameOver; //true when a player win a game
     private final HashMap<String, ArrayList<Question>> questions;
     private final HashMap<String, ArrayList<Question>> questionsUsed;
+    private int dice;
     
     public Game(){
         this.players = new ArrayList<>();
@@ -70,10 +71,30 @@ public class Game {
         this.gameOver=true;
     }
     
+    public void rollTheDice(){
+        this.dice=(int)(Math.random()*6) + 1;
+    }
+    
     /* Main loop */
     public void playGame(){
+        
+        /* Positionning players*/
+        // need to randomize this when you add several players
+        this.players.get(0).setX(0);
+        this.players.get(0).setY(0);
+        
         while(!this.gameOver){
-            
+            // - Iterate over players ArrayList
+            // - Display Player turn
+            rollTheDice();
+            System.out.println("You rolled the dice and yout got : "+this.dice);
+            // - tell him where he can go 
+            // - move him on the square he chose
+            // - get the category
+            // - ask a random question 
+            // - get and check the answer 
+            // -
+            // - check if game is over
             this.gameOver();
         }
     }
