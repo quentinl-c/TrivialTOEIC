@@ -15,20 +15,20 @@ import java.util.Random;
  * Model of application
  * Manages : players, board, questions and answers
  */
-public class Party {
+public class Game {
     
-    private ArrayList<Player> players;
-    private boolean gameOver; //true when a player win a party
-    private HashMap<String, ArrayList<Question>> questions;
-    private HashMap<String, ArrayList<Question>> questionsUsed;
+    private final ArrayList<Player> players;
+    private final boolean gameOver; //true when a player win a game
+    private final HashMap<String, ArrayList<Question>> questions;
+    private final HashMap<String, ArrayList<Question>> questionsUsed;
     
-    public Party(){
+    public Game(){
         this.players = new ArrayList<>();
         this.gameOver = false;
         this.questions = new HashMap<>();
         this.questionsUsed = new HashMap<>();
     }
-    public void initParty(ImportJSON jsonImportation){
+    public void initGame(ImportJSON jsonImportation){
         initCategory("grammar", jsonImportation);
         initCategory("vocabulary", jsonImportation);
     }
