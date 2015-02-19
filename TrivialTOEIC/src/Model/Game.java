@@ -16,8 +16,7 @@ import java.util.Random;
  * Manages : players, board, questions and answers
  */
 public class Game {
-
-      
+ 
     private ArrayList<Player> players;
     private boolean gameOver; //true when a player win a game
     private final HashMap<String, ArrayList<Question>> questions;

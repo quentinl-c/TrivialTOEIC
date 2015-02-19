@@ -23,7 +23,8 @@ public class Main {
         mainGame.initGame(jsonImportation);
         System.out.println(mainGame.randomQuestion("grammar"));
         
-        /* Game loop*/      
+        /* Game loop*/
+        Board board = new Board();
         mainGame.playGame();
         System.out.println(mainGame.getPlayer(0).getStat(0));
         
