@@ -12,6 +12,7 @@ import java.util.ArrayList;
  * @author quentinlaporte-chabasse
  */
 public class Question {
+    private String content;
     private String question;
     private ArrayList<String> answers;
     private String rightAnswer;
@@ -28,8 +29,12 @@ public class Question {
     public void setRightAnswer(String rightAnswer){
         this.rightAnswer = rightAnswer;
     }
+    
+    public void setContent(String content){
+        this.content = content;
+    }
     public String toString(){
-        String result = this.question;
+        String result = this.question + this.content;
         for(String s : this.answers){
             result = result+" "+s;
         }

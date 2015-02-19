@@ -17,7 +17,7 @@ public class Player {
     public Player(String name){
         this.name = name;
         this.score = 0;
-        this.stat = new int[4]; // 4 categories, by default Java inits it with zeros
+        this.stat = new int[4]; // 4 categories, by default Java inits it with zeros I knwo it... 
     }
 
     public int getScore() {

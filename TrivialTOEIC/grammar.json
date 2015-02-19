@@ -1,10 +1,12 @@
 [
 	{
+		"content" : "bla bla bla bla ",
 		"question" : "Who is the boss ",
 		"answers" : ["me", "you", "no idea"],
 		"rightAnswer" : "me"
 	},
 	{
+		"cotent" : " ",
 		"question" : "Am I strong ",
 		"answers" : ["no", "yes", "no idea"],
 		"rightAnswer" : "yes"
