@@ -17,6 +17,8 @@ public class Main {
         
         /*Global settings for testing*/
         Game mainGame = new Game();
+        Player player1 = new Player("Player1");
+        mainGame.addPlayer(player1);
         
         /* JSON importation */
         ImportJSON jsonImportation = new ImportJSON();
@@ -24,8 +26,10 @@ public class Main {
         System.out.println(mainGame.randomQuestion("grammar"));
         
         /* Game loop*/
-        Board board = new Board();
-        //mainGame.playGame();
+
+        System.out.println(mainGame.getPlayer(0).getStat(0));
+
+        mainGame.playGame();
   
         
         MainWindow mw = new MainWindow(mainGame);

@@ -15,7 +15,7 @@ public class Player extends Observable{
     private String name;
     private int score;// Player's score
     private int[] stat;// Player's stat
-    private int x,y; // Player's position
+    private int pos; // Player's position
 
     public Player(String name){
         this.name = name;
@@ -43,21 +43,14 @@ public class Player extends Observable{
         this.stat[index] = newValue;
     }
 
-    public int getX() {
-        return x;
+    public int getPos() {
+        return pos;
     }
 
-    public void setX(int x) {
-        this.x = x;
+    public void setPos(int newPos) {
+        this.pos = newPos;
     }
 
-    public int getY() {
-        return y;
-    }
-
-    public void setY(int y) {
-        this.y = y;
-    }
     
     public String toString(){
         return this.name +" : "+ this.score;

@@ -18,6 +18,7 @@ import java.util.Random;
 public class Game {
  
     private ArrayList<Player> players;
+    private Board board;
     private boolean gameOver; //true when a player win a game
     private final HashMap<String, ArrayList<Question>> questions;
     private final HashMap<String, ArrayList<Question>> questionsUsed;
@@ -94,24 +95,66 @@ public class Game {
     /* Main loop */
     public void playGame(){
         
+        /*Creating the board*/
+        this.board = new Board();
+        
         /* Positionning players*/
         // need to randomize this when you add several players
-        this.players.get(0).setX(0);
-        this.players.get(0).setY(0);
+        for(int i=0;i<players.size();i++){
+            this.players.get(i).setPos(4+i*8);
+        }
+        
+        /*Init of loop vars*/
+        int currentPlayer = 0;//pl
+        int turnsNb = 0;
+        int currentPos;
+        int moveClockwise;
+        int moveAntiClockwise;
+        String category;
         
         while(!this.gameOver){
-            // - Iterate over players ArrayList
-            // - Display Player turn
+            /* New  turn*/
+            turnsNb++;
+            if(currentPlayer==players.size()) // check if we looped over the players
+                currentPlayer=0;
+            System.out.println("Turn n° "+turnsNb);
+            System.out.println("Player n° "+currentPlayer);//  Display Player turn
+            
+            /* Let's play*/
+            currentPos=players.get(currentPlayer).getPos();
             rollTheDice();
             System.out.println("You rolled the dice and yout got : "+this.dice);
-            // - tell him where he can go 
-            // - move him on the square he chose
-            // - get the category
-            // - ask a random question 
+            if(currentPos+dice<32)
+                moveClockwise=currentPos+dice;
+            else
+                moveClockwise=currentPos+dice-32;// looped over the board
+            
+            if(currentPos-dice>=0)
+                moveAntiClockwise=currentPos-dice;
+            else
+                moveAntiClockwise=currentPos-dice+32;//same but anticlockwise
+            
+            //display where he can go
+            System.out.println("Do you chose square n° "+moveClockwise+" or  square n° "+moveAntiClockwise);
+            
+            // move him on the square he chose ( for the moment he will automatically chose moveClockwise
+            currentPos=moveClockwise;
+            players.get(currentPlayer).setPos(currentPos);
+            
+            //  get the category
+            category=board.getCategory(currentPos);
+            // ask a random question 
+            System.out.println(category);
+            randomQuestion(category);
+            
+            //TODO 
+            
             // - get and check the answer 
             // -
             // - check if game is over
-            this.gameOver();
+            currentPlayer++;
+            if(turnsNb==4)//end of game not implemented yet
+                this.gameOver();
         }
     }
     
