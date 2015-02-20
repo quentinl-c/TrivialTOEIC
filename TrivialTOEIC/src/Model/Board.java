@@ -20,6 +20,7 @@ public class Board {
             /*
             Board generation
             Don't ask how it has been done, its done !
+            How does it work? ;-)
             */
             if((i+4)%8==0){
                 this.board.add(new Square("Base"));

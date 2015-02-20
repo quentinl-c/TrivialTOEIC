@@ -22,6 +22,7 @@ public class Game {
     private final HashMap<String, ArrayList<Question>> questions;
     private final HashMap<String, ArrayList<Question>> questionsUsed;
     private int dice;
+    private Board mainBoard;
     
     public Game(){
         this.players = new ArrayList<>();
@@ -56,6 +57,9 @@ public class Game {
         this.players.add(player);
     }
     
+    public void removePlayer(int index){
+        this.players.remove(index);
+    }
     public void initCategory(String catName, ImportJSON jsonImportation){
         questions.put(catName, jsonImportation.readJSONFile(catName+".json"));
         questionsUsed.put(catName, new ArrayList<>());
@@ -66,6 +70,18 @@ public class Game {
         return this.players.get(index);
     }
     
+    public ArrayList<Player> getPlayers(){
+        return this.players;
+    }
+    
+    public void setScore(int index, int value){
+        this.players.get(index).setScore(value);
+        System.out.println(players);
+    }
+    
+    public int getNumberofPlayers(){
+        return this.players.size();
+    }
     public void gameOver(){
         this.gameOver=true;
     }
@@ -73,6 +89,7 @@ public class Game {
     public void rollTheDice(){
         this.dice=(int)(Math.random()*6) + 1;
     }
+    
     
     /* Main loop */
     public void playGame(){

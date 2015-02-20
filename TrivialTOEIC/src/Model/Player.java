@@ -5,21 +5,26 @@
  */
 package Model;
 
+import java.util.Observable;
+
 /**
  *
  * @author quentinlaporte-chabasse
  */
-public class Player {
+public class Player extends Observable{
     private String name;
     private int score;// Player's score
     private int[] stat;// Player's stat
     private int x,y; // Player's position
+
     public Player(String name){
         this.name = name;
         this.score = 0;
         this.stat = new int[4]; // 4 categories, by default Java inits it with zeros I knwo it... 
-    }
 
+    }
+    
+   
     public int getScore() {
         return score;
     }
@@ -31,6 +36,8 @@ public class Player {
     public int getStat(int index) {
         return stat[index];
     }
+    
+    
 
     public void setStat(int index, int newValue ) {
         this.stat[index] = newValue;
@@ -52,6 +59,9 @@ public class Player {
         this.y = y;
     }
     
+    public String toString(){
+        return this.name +" : "+ this.score;
+    }
     
     
 }

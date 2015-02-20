@@ -5,37 +5,38 @@
  */
 package GUI;
 
-import javafx.application.Application;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Scene;
-import javafx.scene.layout.GridPane;
-import javafx.scene.layout.HBox;
-import javafx.scene.layout.VBox;
-import javafx.scene.shape.Circle;
-import javafx.stage.Stage;
+import Model.Game;
+import java.awt.BorderLayout;
+import java.awt.Dimension;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import javax.swing.Action;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
 
 /**
  *
  * @author quentinlaporte-chabasse
  */
-public class MainWindow extends Application {
 
-    @Override
-    public void start(Stage primaryStage) throws Exception {
-        HBox mainHBox = new HBox();
-        GridPane grid  = FXMLLoader.load(getClass().getResource("test.fxml"));
-        Circle token = new Circle(10);
-        grid.add(token, 4,5);
-        
-        mainHBox.getChildren().add(grid);
-        Scene scene = new Scene(mainHBox, 1000, 1000);
-        primaryStage.setTitle("Hello World!");
-        primaryStage.setScene(scene);
-        primaryStage.show();
+public class MainWindow extends JFrame{
+    private Game currentGame;
+    private PlayersView pv;
+    private JLabel mainTitle = new JLabel("Trivial TOEIC !!");
+
+    public MainWindow(Game currentGame) {
+        this.currentGame = currentGame;
+        this.pv = new PlayersView(this.currentGame);
+        this.setTitle("TrivialTOEIC");  
+        this.setPreferredSize(new Dimension(800,400));
+        this.setLayout(new BorderLayout());
+        this.add(this.mainTitle, BorderLayout.NORTH);
+        this.add(this.pv, BorderLayout.WEST);
+        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.pack();
+        this.setVisible(true);
     }
     
-    public void runUI(String[] args){
-        launch(args);
-    }
-    
+   
 }

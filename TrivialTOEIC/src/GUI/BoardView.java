@@ -5,13 +5,10 @@
  */
 package GUI;
 
-import javafx.scene.layout.HBox;
-
 /**
  *
  * @author quentinlaporte-chabasse
  */
-public class PlayerBoard extends HBox{
-    
+public class BoardView {
     
 }

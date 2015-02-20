@@ -4,6 +4,9 @@
  * and open the template in the editor.
  */
 package Model;
+
+import GUI.MainWindow;
+
 /**
  *
  * @author vincent
@@ -14,9 +17,6 @@ public class Main {
         
         /*Global settings for testing*/
         Game mainGame = new Game();
-        Player player1 = new Player("Player1");
-        mainGame.addPlayer(player1); // For the moment testing with only one player if you add more players be sure to change playGame() !
-        
         
         /* JSON importation */
         ImportJSON jsonImportation = new ImportJSON();
@@ -25,8 +25,10 @@ public class Main {
         
         /* Game loop*/
         Board board = new Board();
-        mainGame.playGame();
-        System.out.println(mainGame.getPlayer(0).getStat(0));
+        //mainGame.playGame();
+  
+        
+        MainWindow mw = new MainWindow(mainGame);
         
     }
     
