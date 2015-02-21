@@ -91,6 +91,10 @@ public class Game {
         this.dice=(int)(Math.random()*6) + 1;
     }
     
+    public Board getBoard(){
+        return this.board;
+    }
+    
     
     /* Main loop */
     public void playGame(){

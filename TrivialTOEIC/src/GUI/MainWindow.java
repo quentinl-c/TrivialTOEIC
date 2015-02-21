@@ -21,19 +21,28 @@ import javax.swing.JLabel;
  */
 
 public class MainWindow extends JFrame{
-    private Game currentGame;
-    private PlayersView pv;
-    private JLabel mainTitle = new JLabel("Trivial TOEIC !!");
+    private final Game currentGame;
+    private final PlayersView pv;
+    private final BoardView bv;
+    private final JLabel mainTitle;
 
     public MainWindow(Game currentGame) {
         this.currentGame = currentGame;
-        this.pv = new PlayersView(this.currentGame);
         this.setTitle("TrivialTOEIC");  
-        this.setPreferredSize(new Dimension(800,400));
-        this.setLayout(new BorderLayout());
-        this.add(this.mainTitle, BorderLayout.NORTH);
-        this.add(this.pv, BorderLayout.WEST);
+        //this.setPreferredSize(new Dimension(800,400));
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.setLayout(new BorderLayout());
+        
+        this.mainTitle=new JLabel("Trivial TOEIC !!");
+        this.add(this.mainTitle, BorderLayout.NORTH);
+        
+        this.pv = new PlayersView(this.currentGame);
+        this.add(this.pv, BorderLayout.WEST);
+        
+        this.bv=new BoardView(this.currentGame);
+        this.add(this.bv,BorderLayout.CENTER);
+        
+        
         this.pack();
         this.setVisible(true);
     }
