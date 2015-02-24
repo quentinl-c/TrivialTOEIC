@@ -87,8 +87,9 @@ public class Game {
         this.gameOver=true;
     }
     
-    public void rollTheDice(){
+    public int rollTheDice(){
         this.dice=(int)(Math.random()*6) + 1;
+        return this.dice;
     }
     
     public Board getBoard(){

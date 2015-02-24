@@ -6,90 +6,60 @@
 package GUI;
 
 import Model.Game;
-import Model.Player;
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.Observable;
-import java.util.Observer;
-import javax.swing.DefaultListModel;
 import javax.swing.JButton;
-import javax.swing.JList;
 import javax.swing.JPanel;
-import javax.swing.JTextField;
 
 /**
  *
  * @author quentinlaporte-chabasse
  */
 public class PlayersView extends JPanel{
+    
+    //Model
     private Game currentGame;
-    private JButton addPlayer =  new JButton("Add ");
-    private JButton delPlayer = new JButton("Del ");
+    //Buttons
+    
     private JButton begin = new JButton("Let's begin the game");
-    private JTextField nameField = new JTextField(8);
-    private DefaultListModel<Player> listModel = new DefaultListModel<>();
-    private JList<Player> pList = new JList<>(listModel);
-    private JPanel bot = new JPanel();
+    
+    //Add player and plyers list management
+    private PlayerListPanel pListPanel;
+    
+    //Manage the dice 
+    private JPanel top = new JPanel();
+    private DicePanel dicePanel;
     
     public PlayersView(Game currentGame) {
         
+        //links the Model
         this.currentGame = currentGame;
-        this.setLayout(new BorderLayout());
-        this.add(pList, BorderLayout.CENTER);
-        this.bot.setLayout(new BorderLayout());
         
-        this.addPlayer.addActionListener(new ActionListener() {
-
-            @Override
-            public void actionPerformed(ActionEvent e) {
-               String inputText = nameField.getText();
-               if(!inputText.equals("")){
-                   if(listModel.getSize()<4){
-                       Player pl = new Player(inputText);
-                       currentGame.addPlayer(pl);
-                       listModel.addElement(pl);		
-                       nameField.requestFocus();
-                       nameField.setText("");
-                       System.out.println(currentGame.getPlayers());
-                       if(listModel.getSize() ==4){
-                           addPlayer.setEnabled(false);
-                       }
-                   }
-                   
-                }
-            }
-        });
-        this.delPlayer.addActionListener(new ActionListener() {
-
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                if(!pList.isSelectionEmpty()){
-                    int index = pList.getSelectedIndex();
-                    listModel.remove(index);
-                    currentGame.removePlayer(index);
-                    System.out.println(currentGame.getPlayers());
-                }
-            }
-        });
+        this.pListPanel = new PlayerListPanel(currentGame);
+        //dice panel
+        this.dicePanel = new DicePanel(currentGame);
+        //Top panel which contains dice panel and start button
+        this.top.setLayout(new BorderLayout());
+        this.top.add(begin, BorderLayout.NORTH);
+        this.top.add(dicePanel, BorderLayout.CENTER);
         
         this.begin.addActionListener(new ActionListener() {
 
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                if(listModel.getSize() >= 2){
-                    addPlayer.setEnabled(false);
-                    delPlayer.setEnabled(false);
-                }
-                
-            }
-        });
-        this.add(begin, BorderLayout.NORTH);
-        this.bot.add(addPlayer, BorderLayout.WEST);
-        this.bot.add(nameField, BorderLayout.CENTER);
-        this.bot.add(delPlayer, BorderLayout.EAST);
-        this.add(pList, BorderLayout.CENTER);
-        this.add(bot, BorderLayout.SOUTH);
+           @Override
+           public void actionPerformed(ActionEvent e) {
+               if(currentGame.getNumberofPlayers() >= 2){
+                   pListPanel.playerButtonsEnable(false);
+               }
+
+           }
+       });
         
-    }    
+        this.setLayout(new BorderLayout());
+        this.add(top, BorderLayout.NORTH);
+        this.add(pListPanel, BorderLayout.CENTER);
+        
+    }
+    
+    
 }
