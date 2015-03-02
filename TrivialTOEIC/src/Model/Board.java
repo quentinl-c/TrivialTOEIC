@@ -6,6 +6,7 @@
 package Model;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 /**
  *
  * @author vincent
@@ -13,7 +14,8 @@ import java.util.ArrayList;
 public class Board {
     
     private ArrayList<Square> board;
-
+    private final HashMap<Integer,int[]> test;
+            
     public Board() {
         this.board= new ArrayList<>(32);
         for(int i=0;i<32;i++){
@@ -34,13 +36,48 @@ public class Board {
                 this.board.add(new Square("Category 4"));
             }
         }
+        
+        this.test = new HashMap<>(32);
+        
+        for(int i = 0 ; i<32;i++){
+            if(i<9){
+                int[] tempArray = {0,i};
+                this.test.put(i, tempArray);
+                System.out.println(i+"->"+tempArray[0]+";"+tempArray[1]);
+            }else if (i<17){
+                int[] tempArray = {(i!=16)?i%8:8,8};
+                this.test.put(i, tempArray);
+                System.out.println(i+"->"+tempArray[0]+";"+tempArray[1]);
+            }else if (i<25){
+                int[] tempArray = {8,(i!=24)?8-i%8:0};
+                this.test.put(i, tempArray);
+                System.out.println(i+"->"+tempArray[0]+";"+tempArray[1]);
+            }else{
+                int[] tempArray = {8-i%8,0}; 
+                this.test.put(i, tempArray);
+                System.out.println(i+"->"+tempArray[0]+";"+tempArray[1]);
+            }            
+        
+        
+            
+        }
+        
+        for(int i=0;i<9;i++){
+            for(int j=0; j<9;j++){
+                if(i%4==0&&j%4==0&&(i+j)%8!=0){
+                    //base
+                }else if(i==4&&j%4!=0||j==4&&i%4!=0){
+                    //casual
+                }
+                ;
+            }
+        }
+    
     }
     
     public String getCategory(int index){
         return this.board.get(index).getType();
     }
-    
-    
     
     
 }

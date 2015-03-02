@@ -26,11 +26,8 @@ public class Main {
         System.out.println(mainGame.randomQuestion("grammar"));
         
         /* Game loop*/
-
-        System.out.println(mainGame.getPlayer(0).getStat(0));
-
+        
         mainGame.playGame();
-  
         
         MainWindow mw = new MainWindow(mainGame);
         
