@@ -6,7 +6,7 @@
 		"rightAnswer" : "me"
 	},
 	{
-		"cotent" : " ",
+		"content" : " ",
 		"question" : "Am I strong ",
 		"answers" : ["no", "yes", "no idea"],
 		"rightAnswer" : "yes"

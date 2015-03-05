@@ -23,7 +23,7 @@ public class Main {
         /* JSON importation */
         ImportJSON jsonImportation = new ImportJSON();
         mainGame.initGame(jsonImportation);
-        System.out.println(mainGame.randomQuestion("grammar"));
+        System.out.println(mainGame.randomQuestion("incomplete-sentences"));
         
         /* Game loop*/
         

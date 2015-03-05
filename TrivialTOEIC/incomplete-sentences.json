@@ -1,0 +1,6712 @@
+[
+    {
+        "content": "",
+        "question": "A letter for Mr. Carn was left..........Mr. Britto's desk.",
+        "answers": [
+            "through",
+            "on",
+            "out",
+            "up"
+        ],
+        "rightAnswer": "on"
+    },
+    {
+        "content": "",
+        "question": "An .......... training period will be instituted in July.",
+        "answers": [
+            "extend",
+            "extended",
+            "extension",
+            "extent"
+        ],
+        "rightAnswer": "extended"
+    },
+    {
+        "content": "",
+        "question": "Mr. Lazer wants to make ..........",
+        "answers": [
+            "a meeting",
+            "an hour",
+            "an appointment",
+            "a time"
+        ],
+        "rightAnswer": "an appointment"
+    },
+    {
+        "content": "",
+        "question": "The visitors will be arriving .......... the office in tweniy minutes.",
+        "answers": [
+            "at",
+            "with",
+            "into",
+            "for"
+        ],
+        "rightAnswer": "at"
+    },
+    {
+        "content": "",
+        "question": "The proposal is due at the client's office .......... Thursday.",
+        "answers": [
+            "with",
+            "on",
+            "at",
+            "for"
+        ],
+        "rightAnswer": "on"
+    },
+    {
+        "content": "",
+        "question": "This is a customer ........ We have a special offer at the moment on bananas.",
+        "answers": [
+            "audition ",
+            "announcement ",
+            "statement ",
+            "prediction"
+        ],
+        "rightAnswer": "announcement "
+    },
+    {
+        "content": "",
+        "question": "The local department store has to make a sustained effort at this time of the year to ....... customer demand for summer clothing.",
+        "answers": [
+            "satisfy ",
+            "satisfaction ",
+            "satisfies ",
+            "satisfying"
+        ],
+        "rightAnswer": "satisfy "
+    },
+    {
+        "content": "",
+        "question": "I really wouldn't joke about it because these people are deadly serious and ....... business.",
+        "answers": [
+            "signify ",
+            "mean ",
+            "require ",
+            "need"
+        ],
+        "rightAnswer": "mean "
+    },
+    {
+        "content": "",
+        "question": "We got a very good ....... when we bought that three piece suite for half its usual price.",
+        "answers": [
+            "deal ",
+            "dealing ",
+            "dealer ",
+            "dealt"
+        ],
+        "rightAnswer": "deal "
+    },
+    {
+        "content": "",
+        "question": "Fifty people were made ....... when the company suffered a severe financial shock.",
+        "answers": [
+            "useless ",
+            "unwanted ",
+            "unneeded ",
+            "redundant"
+        ],
+        "rightAnswer": "redundant"
+    },
+    {
+        "content": "",
+        "question": "The animal rights organisation has ....... a new campaign to make people aware of cruelty to animals.",
+        "answers": [
+            "launched ",
+            "pursued ",
+            "offered ",
+            "ejected"
+        ],
+        "rightAnswer": "launched "
+    },
+    {
+        "content": "",
+        "question": "The head of department acknowledged that the ....... of the section was largely due to high quality support staff.",
+        "answers": [
+            "success ",
+            "progress ",
+            "business ",
+            "future"
+        ],
+        "rightAnswer": "success "
+    },
+    {
+        "content": "",
+        "question": "You've clearly got ....... and it's obvious that you'll get to the top.",
+        "answers": [
+            "control ",
+            "power ",
+            "talent ",
+            "strength"
+        ],
+        "rightAnswer": "talent "
+    },
+    {
+        "content": "",
+        "question": "Her job in the company was to sort out the relevant information thereby ....... it so that only appropriate material was sent to her directors.",
+        "answers": [
+            "draining ",
+            "filtering ",
+            "cleaning ",
+            "dredging"
+        ],
+        "rightAnswer": "filtering "
+    },
+    {
+        "content": "",
+        "question": "There is always a risk in any business ....... when your scheme is based on an entirely new concept.",
+        "answers": [
+            "venture ",
+            "journey ",
+            "adventure ",
+            "voyage"
+        ],
+        "rightAnswer": "venture "
+    },
+    {
+        "content": "",
+        "question": "The finance director is responsible for ....... the accounts for the business.",
+        "answers": [
+            "holding ",
+            "keeping ",
+            "taking ",
+            "finding"
+        ],
+        "rightAnswer": "keeping "
+    },
+    {
+        "content": "",
+        "question": "There are frequently ....... in the family home between parents and children about whether you should enter into credit agreements.",
+        "answers": [
+            "collisions ",
+            "clashes ",
+            "claims ",
+            "crashes"
+        ],
+        "rightAnswer": "clashes "
+    },
+    {
+        "content": "",
+        "question": "Without the right software I'm afraid you can't ....... that particular program.",
+        "answers": [
+            "reach ",
+            "access ",
+            "obtain ",
+            "find"
+        ],
+        "rightAnswer": "access "
+    },
+    {
+        "content": "",
+        "question": "I was pleased to receive your response to my proposal but there are one or two points that need ........",
+        "answers": [
+            "notification ",
+            "certification ",
+            "clarification ",
+            "signification"
+        ],
+        "rightAnswer": "clarification "
+    },
+    {
+        "content": "",
+        "question": "When someone dies and their ....... reach a certain figure, their family has to pay an additional tax.",
+        "answers": [
+            "profits ",
+            "wealth ",
+            "assets ",
+            "products"
+        ],
+        "rightAnswer": "assets "
+    },
+    {
+        "content": "",
+        "question": "Mr. Cruz needs someone to .......... him with the conference display.",
+        "answers": [
+            "assume",
+            "assign",
+            "assent",
+            "assist"
+        ],
+        "rightAnswer": "assist"
+    },
+    {
+        "content": "",
+        "question": "The stapler is .......... the desk.",
+        "answers": [
+            "on",
+            "through",
+            "into",
+            "without"
+        ],
+        "rightAnswer": "on"
+    },
+    {
+        "content": "",
+        "question": "Each passenger's name .......... with his or her cabin number.",
+        "answers": [
+            "is list",
+            "listing",
+            "is listed",
+            "is listing"
+        ],
+        "rightAnswer": "is listed"
+    },
+    {
+        "content": "",
+        "question": "If the delivery is late, we .......... the shipping charges.",
+        "answers": [
+            "paid",
+            "will pay",
+            "have paid",
+            "are paying"
+        ],
+        "rightAnswer": "will pay"
+    },
+    {
+        "content": "",
+        "question": "The bus will leave promptly ..........  8:30.",
+        "answers": [
+            "until",
+            "to",
+            "at",
+            "for"
+        ],
+        "rightAnswer": "at"
+    },
+    {
+        "content": "",
+        "question": "Candidate: I'm Mr Jensen. I'm afraid it's a case of ........",
+        "answers": [
+            "mistaken personality",
+            "mistaken character",
+            "mistaken person",
+            "mistaken identity"
+        ],
+        "rightAnswer": "mistaken identity"
+    },
+    {
+        "content": "",
+        "question": "When you go to an auction and you want to buy a particular item, you can simply make a ....... for it.",
+        "answers": [
+            "try ",
+            "test ",
+            "go ",
+            "bid"
+        ],
+        "rightAnswer": "bid"
+    },
+    {
+        "content": "",
+        "question": "It may seem a long way into the future but in the end you will get some ....... from your investment.",
+        "answers": [
+            "produce ",
+            "benefit ",
+            "products ",
+            "price"
+        ],
+        "rightAnswer": "benefit "
+    },
+    {
+        "content": "",
+        "question": "One of the fashionable ways of saying you've been sacked is to say that your company is .......sizing but you've still lost your job.",
+        "answers": [
+            "down ",
+            "cut ",
+            "out ",
+            "through"
+        ],
+        "rightAnswer": "down "
+    },
+    {
+        "content": "",
+        "question": "As we have enough money in our present budget, we are happy to launch this new product in the nature of an ........",
+        "answers": [
+            "enterprise ",
+            "experiment ",
+            "undertaking ",
+            "exception"
+        ],
+        "rightAnswer": "experiment "
+    },
+    {
+        "content": "",
+        "question": "I can see by the expression on your face ........",
+        "answers": [
+            "you don't really like the thought",
+            "you don't really like the concept",
+            "you don't really like the idea",
+            "you don't really like the belief"
+        ],
+        "rightAnswer": "you don't really like the idea"
+    },
+    {
+        "content": "",
+        "question": "Once again the company has had to make a ....... in the number of office staff to try and recoup their losses.",
+        "answers": [
+            "reducing ",
+            "reduction ",
+            "reduce ",
+            "reduces"
+        ],
+        "rightAnswer": "reduction "
+    },
+    {
+        "content": "",
+        "question": "All the famous film stars, actors, directors and writers were at the festival representing the world of ....... business.",
+        "answers": [
+            "play ",
+            "drama ",
+            "show ",
+            "performance"
+        ],
+        "rightAnswer": "show "
+    },
+    {
+        "content": "",
+        "question": "The ....... in the market was seen as a positive sign that the recession was over.",
+        "answers": [
+            "upturn ",
+            "upstart ",
+            "uptake ",
+            "upward"
+        ],
+        "rightAnswer": "upturn "
+    },
+    {
+        "content": "",
+        "question": "Just as we were about to leave the restaurant, the waiter came running up to apologize there had been a ....... in the bill.",
+        "answers": [
+            "error ",
+            "trip ",
+            "mistake ",
+            "damage"
+        ],
+        "rightAnswer": "mistake "
+    },
+    {
+        "content": "",
+        "question": "As we have all worked very hard this year, I'm hoping that our efforts will bear ........",
+        "answers": [
+            "produce ",
+            "benefits ",
+            "yields ",
+            "fruit"
+        ],
+        "rightAnswer": "fruit"
+    },
+    {
+        "content": "",
+        "question": "The contract was signed by the three partners who thus agreed to ....... by terms and conditions contained in it.",
+        "answers": [
+            "follow ",
+            "adhere ",
+            "abide ",
+            "stick"
+        ],
+        "rightAnswer": "abide "
+    },
+    {
+        "content": "",
+        "question": "When the bomb went off, most of the injured were just ordinary people going ....... their business.",
+        "answers": [
+            "about ",
+            "along ",
+            "across ",
+            "through"
+        ],
+        "rightAnswer": "about "
+    },
+    {
+        "content": "",
+        "question": "The pace of change in that industry is so fast that staff find it hard to ....... the latest developments.",
+        "answers": [
+            "hold on to ",
+            "keep on to ",
+            "hold up with ",
+            "keep up with"
+        ],
+        "rightAnswer": "keep up with"
+    },
+    {
+        "content": "",
+        "question": "There is a substantial ....... between the money you have available and the amount you need to spend.",
+        "answers": [
+            "shortdrop ",
+            "shortfall ",
+            "shortdown ",
+            "shortslide"
+        ],
+        "rightAnswer": "shortfall "
+    },
+    {
+        "content": "",
+        "question": "The extent of the ....... available in this one store is more than you can possibly imagine.",
+        "answers": [
+            "merchandise ",
+            "objects ",
+            "produce ",
+            "articles"
+        ],
+        "rightAnswer": "merchandise "
+    },
+    {
+        "content": "",
+        "question": "I regret to inform you that as your guarantee ....... last week, we can't help you.",
+        "answers": [
+            "died ",
+            "deceased ",
+            "expired ",
+            "extinguished"
+        ],
+        "rightAnswer": "expired "
+    },
+    {
+        "content": "",
+        "question": "I now want some kind of compensation for the total ....... of service I've experienced.",
+        "answers": [
+            "lack ",
+            "fail ",
+            "failing ",
+            "missing"
+        ],
+        "rightAnswer": "lack "
+    },
+    {
+        "content": "",
+        "question": "It's no good spending a small fortune on new IT equipment as it's more cost ....... to hire it.",
+        "answers": [
+            "affective ",
+            "addictive ",
+            "effective ",
+            "reductive"
+        ],
+        "rightAnswer": "effective "
+    },
+    {
+        "content": "",
+        "question": "You must think big in this business and not just think short ....... but what you hope to do in ten years' time.",
+        "answers": [
+            "term ",
+            "period ",
+            "length ",
+            "time"
+        ],
+        "rightAnswer": "term "
+    },
+    {
+        "content": "",
+        "question": "This is a general notice for all passengers: the restaurant in the main ....... is now open.",
+        "answers": [
+            "concord ",
+            "conduit ",
+            "concourse ",
+            "condition"
+        ],
+        "rightAnswer": "concourse "
+    },
+    {
+        "content": "",
+        "question": "In order to ....... the method by which staff pay is calculated the company has bought a new software package.",
+        "answers": [
+            "facile ",
+            "facility ",
+            "factual ",
+            "facilitate"
+        ],
+        "rightAnswer": "facility "
+    },
+    {
+        "content": "",
+        "question": "and the machine came on Tuesday February 2th \u2014 almost 5 weeks after the ....... delivery date.",
+        "answers": [
+            "promising ",
+            "promised ",
+            "promises ",
+            "promise"
+        ],
+        "rightAnswer": "promised "
+    },
+    {
+        "content": "",
+        "question": "and told me there was ....... that could be done immediately",
+        "answers": [
+            "less ",
+            "little ",
+            "least ",
+            "few"
+        ],
+        "rightAnswer": "little "
+    },
+    {
+        "content": "",
+        "question": "As all advisers always do, she stressed that investing in this particular market had to be considered as a ....... commitment over at least 1 years.",
+        "answers": [
+            "elongated ",
+            "lengthy ",
+            "long-term ",
+            "longing"
+        ],
+        "rightAnswer": "long-term "
+    },
+    {
+        "content": "",
+        "question": "Interviewer: Perhaps you could start by telling us why you've ........",
+        "answers": [
+            "obtained for this job",
+            "applied for this job",
+            "intended for this job",
+            "asked for this job"
+        ],
+        "rightAnswer": "applied for this job"
+    },
+    {
+        "content": "",
+        "question": "The one big fear of all world economies is that of ........",
+        "answers": [
+            "regression ",
+            "repression ",
+            "recession ",
+            "receding"
+        ],
+        "rightAnswer": "recession "
+    },
+    {
+        "content": "",
+        "question": "Under the new regulations you can agree yourself to ....... the tax you have to pay on the income over the previous year.",
+        "answers": [
+            "figure ",
+            "calculate ",
+            "add ",
+            "amount"
+        ],
+        "rightAnswer": "calculate "
+    },
+    {
+        "content": "",
+        "question": "High construction costs and condo conversions have reduced new supply and a slowing housing market increases rental demand, so owners can now flex their muscles with rent increases, and those who bought at high valuations may yet get the ........",
+        "answers": [
+            "brush off ",
+            "cat's meow ",
+            "door prize ",
+            "last laugh"
+        ],
+        "rightAnswer": "last laugh"
+    },
+    {
+        "content": "",
+        "question": "Studies have shown that the key to successful investing is to ....... your wealth among different asset classes.",
+        "answers": [
+            "diverge ",
+            "expand ",
+            "range ",
+            "spread"
+        ],
+        "rightAnswer": "spread"
+    },
+    {
+        "content": "",
+        "question": "Our goal is to turn.......... into success.",
+        "answers": [
+            "failing",
+            "fail",
+            "failed",
+            "failure"
+        ],
+        "rightAnswer": "failure"
+    },
+    {
+        "content": "",
+        "question": "If the waiter cannot handle your request,the captain..........assist you.",
+        "answers": [
+            "will",
+            "has",
+            "did",
+            "is"
+        ],
+        "rightAnswer": "will"
+    },
+    {
+        "content": "",
+        "question": "If our ship .......... fewer.passengers, the crew would not have to share rooms.",
+        "answers": [
+            "had",
+            "have",
+            "will have",
+            "would have"
+        ],
+        "rightAnswer": "had"
+    },
+    {
+        "content": "",
+        "question": "The .......... rates change daily.",
+        "answers": [
+            "money",
+            "bills",
+            "coins",
+            "currency"
+        ],
+        "rightAnswer": "currency"
+    },
+    {
+        "content": "",
+        "question": "The telephone directory is .......... the telephone.",
+        "answers": [
+            "among",
+            "to",
+            "under",
+            "between"
+        ],
+        "rightAnswer": "under"
+    },
+    {
+        "content": "",
+        "question": "The fans outside the cinema on the first showing of the film were unwilling to ....... until all the stars had gone home.",
+        "answers": [
+            "dispose ",
+            "displace ",
+            "discover ",
+            "disperse"
+        ],
+        "rightAnswer": "disperse"
+    },
+    {
+        "content": "",
+        "question": "We regret to announce that the 1.45 for London is now out of service because the driver is having a nervous ........",
+        "answers": [
+            "breakdown ",
+            "low down ",
+            "breakout ",
+            "low break"
+        ],
+        "rightAnswer": "breakdown "
+    },
+    {
+        "content": "",
+        "question": "We ask the ....... of this vehicle to go back to their car as soon as possible and park their car in another space.",
+        "answers": [
+            "possessor ",
+            "possessing ",
+            "ownership ",
+            "owner"
+        ],
+        "rightAnswer": "owner"
+    },
+    {
+        "content": "",
+        "question": "All the representatives are allowed to spend money for entertaining with their ....... account.",
+        "answers": [
+            "expensive ",
+            "expending ",
+            "expense ",
+            "expenses"
+        ],
+        "rightAnswer": "expense "
+    },
+    {
+        "content": "",
+        "question": "You should have ....... those shares when they were cheap.",
+        "answers": [
+            "taken out ",
+            "sold off ",
+            "bought up ",
+            "taken over"
+        ],
+        "rightAnswer": "bought up "
+    },
+    {
+        "content": "",
+        "question": "The report is ....... to show better than expected results.",
+        "answers": [
+            "necessary ",
+            "possibly ",
+            "clearly ",
+            "likely"
+        ],
+        "rightAnswer": "likely"
+    },
+    {
+        "content": "",
+        "question": "Well blow me down! I just can't believe I've actually ....... my exam.",
+        "answers": [
+            "succeeded ",
+            "passed ",
+            "caught ",
+            "tackled"
+        ],
+        "rightAnswer": "passed "
+    },
+    {
+        "content": "",
+        "question": "At the casino you can cash ....... your chips at the desk.",
+        "answers": [
+            "off ",
+            "out ",
+            "up ",
+            "in"
+        ],
+        "rightAnswer": "in"
+    },
+    {
+        "content": "",
+        "question": "It was easy to realise why the machine had stopped working since it was a direct ....... of his failure to maintain it.",
+        "answers": [
+            "complement ",
+            "concern ",
+            "consequence ",
+            "conviction"
+        ],
+        "rightAnswer": "consequence "
+    },
+    {
+        "content": "",
+        "question": "They can't possibly go ....... with your suggestions because it will involve too much expenditure.",
+        "answers": [
+            "over ",
+            "along ",
+            "in ",
+            "above"
+        ],
+        "rightAnswer": "along "
+    },
+    {
+        "content": "",
+        "question": "That policeman is getting out his ....... and walking near the statue I'm sitting on.",
+        "answers": [
+            "notebook ",
+            "exercise book ",
+            "storybook ",
+            "copybook"
+        ],
+        "rightAnswer": "notebook "
+    },
+    {
+        "content": "",
+        "question": "I could phone someone to ........",
+        "answers": [
+            "take me the money ",
+            "bring me the money ",
+            "carry me the money ",
+            "gain me the money"
+        ],
+        "rightAnswer": "bring me the money "
+    },
+    {
+        "content": "",
+        "question": "When it comes to the vote I'm willing to put my ....... up and support you.",
+        "answers": [
+            "head ",
+            "chin ",
+            "arm ",
+            "hand"
+        ],
+        "rightAnswer": "hand"
+    },
+    {
+        "content": "",
+        "question": "I'm very ....... that I'm late but there is a train strike on at the moment.",
+        "answers": [
+            "sore ",
+            "sorry ",
+            "sorrow ",
+            "sorrowful"
+        ],
+        "rightAnswer": "sorry "
+    },
+    {
+        "content": "",
+        "question": "and was very ....... as to when he would be able to find the right part and get it back to me.",
+        "answers": [
+            "unable ",
+            "unsure ",
+            "unskilled ",
+            "untrained"
+        ],
+        "rightAnswer": "unsure "
+    },
+    {
+        "content": "",
+        "question": "The train at platform 14 cannot leave because there is a power ....... on that particular line...",
+        "answers": [
+            "failure ",
+            "miss ",
+            "failing ",
+            "missing"
+        ],
+        "rightAnswer": "failure "
+    },
+    {
+        "content": "",
+        "question": "This is most embarrassing. I can't pay the bill for my meal. I'm afraid ........",
+        "answers": [
+            "I've forgotten my wallet at home",
+            "I've left my wallet at home",
+            "I've abandoned my wallet at home",
+            "I've quit my wallet at home"
+        ],
+        "rightAnswer": "I've left my wallet at home"
+    },
+    {
+        "content": "",
+        "question": "The other thing I could do is ........",
+        "answers": [
+            "leave my watch as a present",
+            "leave my watch as a token",
+            "leave my watch as a gift",
+            "leave my watch as a deposit"
+        ],
+        "rightAnswer": "leave my watch as a deposit"
+    },
+    {
+        "content": "",
+        "question": "The government has decided to hold an ....... into the latest financial scandal.",
+        "answers": [
+            "examination ",
+            "enquiry ",
+            "evaluation ",
+            "interpretation"
+        ],
+        "rightAnswer": "enquiry "
+    },
+    {
+        "content": "",
+        "question": "If you cannot get a job and remain ....... for a long period, you can claim some money from the state.",
+        "answers": [
+            "unengaged ",
+            "unattached ",
+            "unemployed ",
+            "unused"
+        ],
+        "rightAnswer": "unemployed "
+    },
+    {
+        "content": "",
+        "question": "You have to ....... the public that it is in their own interest to read the instructions on all our medicines.",
+        "answers": [
+            "convict ",
+            "conviction ",
+            "convince ",
+            "convincing"
+        ],
+        "rightAnswer": "convince "
+    },
+    {
+        "content": "",
+        "question": "The whole site has nothing but offices and administration centres and that's why we call it a business ........",
+        "answers": [
+            "place ",
+            "situation ",
+            "field ",
+            "park"
+        ],
+        "rightAnswer": "park"
+    },
+    {
+        "content": "",
+        "question": "You have to have a really ....... mind in order to get your head round some of today's computing technology.",
+        "answers": [
+            "acute ",
+            "cut ",
+            "razor ",
+            "sharp"
+        ],
+        "rightAnswer": "sharp"
+    },
+    {
+        "content": "",
+        "question": "Now that the summer has started, big department stores are hoping that sales of holiday items will ........",
+        "answers": [
+            "take on ",
+            "take up ",
+            "take off ",
+            "take to"
+        ],
+        "rightAnswer": "take off "
+    },
+    {
+        "content": "",
+        "question": "All I can do now is simply beg your ....... and hope that in time we can get back to where we used to be.",
+        "answers": [
+            "interest ",
+            "interpretation ",
+            "inclination ",
+            "indulgence"
+        ],
+        "rightAnswer": "indulgence"
+    },
+    {
+        "content": "",
+        "question": "The small cafe situated near platform 6 is now ....... free cups of tea to those waiting for the London train.",
+        "answers": [
+            "discharging ",
+            "dispensing ",
+            "offering ",
+            "disposing"
+        ],
+        "rightAnswer": "offering "
+    },
+    {
+        "content": "",
+        "question": "Next I can see some pensioners slowly moving along the road and some can't walk and are in ........",
+        "answers": [
+            "highchairs ",
+            "low chairs ",
+            "wheelchairs ",
+            "pushchairs"
+        ],
+        "rightAnswer": "wheelchairs "
+    },
+    {
+        "content": "",
+        "question": "The company had its own code of ....... in these matters.",
+        "answers": [
+            "behaviour ",
+            "practice ",
+            "dealing ",
+            "attitude"
+        ],
+        "rightAnswer": "practice "
+    },
+    {
+        "content": "",
+        "question": "The ....... books for manufacturers of small cars are now full following the rise in petrol.",
+        "answers": [
+            "exercise ",
+            "order ",
+            "place ",
+            "trade"
+        ],
+        "rightAnswer": "order "
+    },
+    {
+        "content": "",
+        "question": "If I decide that I no longer need my insurance, I can cash it in for the amount of its ....... value.",
+        "answers": [
+            "rebate ",
+            "surrender ",
+            "discount ",
+            "return"
+        ],
+        "rightAnswer": "return"
+    },
+    {
+        "content": "",
+        "question": "Further to our ....... for the Ford Fiesta to be reparked, this matter is now very urgent. Our lorry cannot get out.",
+        "answers": [
+            "saying ",
+            "asking ",
+            "request ",
+            "question"
+        ],
+        "rightAnswer": "request "
+    },
+    {
+        "content": "",
+        "question": "I would be most obliged if you ........",
+        "answers": [
+            "let me to pay later ",
+            "permit me pay later",
+            "allow me to pay later",
+            "grant me to pay later"
+        ],
+        "rightAnswer": "allow me to pay later"
+    },
+    {
+        "content": "",
+        "question": "Credit card holders struggle very hard to ....... the amount they owe.",
+        "answers": [
+            "reduce ",
+            "deduct ",
+            "curtail ",
+            "shorten"
+        ],
+        "rightAnswer": "reduce "
+    },
+    {
+        "content": "",
+        "question": "I do like to get a ....... reply to my letters especially when they are referring to the amount of money I'm supposed to be paying.",
+        "answers": [
+            "prompt ",
+            "private ",
+            "promoted ",
+            "prominent"
+        ],
+        "rightAnswer": "prompt "
+    },
+    {
+        "content": "",
+        "question": "Describe how you would describe ....... in five years' time.",
+        "answers": [
+            "you ",
+            "your ",
+            "yours ",
+            "yourself"
+        ],
+        "rightAnswer": "yourself"
+    },
+    {
+        "content": "",
+        "question": "They went ....... business shortly after their children had left home and got married.",
+        "answers": [
+            "out ",
+            "in ",
+            "into ",
+            "on"
+        ],
+        "rightAnswer": "into "
+    },
+    {
+        "content": "",
+        "question": "When you look at the modern office today you could compare the changes with those that took place in the industrial ....... in the 19th century.",
+        "answers": [
+            "revolt ",
+            "revolution ",
+            "revolting ",
+            "revolving"
+        ],
+        "rightAnswer": "revolution "
+    },
+    {
+        "content": "",
+        "question": "I'm very unhappy with the way I've been ........ No one seems at all interested in my case.",
+        "answers": [
+            "considered ",
+            "treated ",
+            "placed ",
+            "pushed"
+        ],
+        "rightAnswer": "treated "
+    },
+    {
+        "content": "",
+        "question": "I'll go to the foot of my stairs! It must be at ....... 2 years since we last met.",
+        "answers": [
+            "last ",
+            "length ",
+            "least ",
+            "end"
+        ],
+        "rightAnswer": "least "
+    },
+    {
+        "content": "",
+        "question": "It is absolutely essential in an interview to give the impression at least that you are full of ........",
+        "answers": [
+            "concern ",
+            "continuity ",
+            "confidence ",
+            "confirmation"
+        ],
+        "rightAnswer": "confidence "
+    },
+    {
+        "content": "",
+        "question": "There's really no virtue in me pussy....... around because I might as well tell you it's awful.",
+        "answers": [
+            "treading ",
+            "footing ",
+            "walking ",
+            "tripping"
+        ],
+        "rightAnswer": "footing "
+    },
+    {
+        "content": "",
+        "question": "I am feeling great, because the doctor told me that I have a life ....... of 82 years!",
+        "answers": [
+            "length ",
+            "line ",
+            "expectancy ",
+            "experience"
+        ],
+        "rightAnswer": "expectancy "
+    },
+    {
+        "content": "",
+        "question": "Whereas ten years ago we only dealt with customers in this country nowadays we are truly ....... with branches all over the world.",
+        "answers": [
+            "worldly ",
+            "mondial ",
+            "globular ",
+            "global"
+        ],
+        "rightAnswer": "global"
+    },
+    {
+        "content": "",
+        "question": "What sort of ....... of time would you stay with us if we offered you the job?",
+        "answers": [
+            "span ",
+            "duration ",
+            "period ",
+            "long"
+        ],
+        "rightAnswer": "period "
+    },
+    {
+        "content": "",
+        "question": "Another visit took ....... in late April but the engineer, although he had got the right part with him, was unable to make the washing machine work.",
+        "answers": [
+            "position ",
+            "spot ",
+            "time ",
+            "place"
+        ],
+        "rightAnswer": "place"
+    },
+    {
+        "content": "",
+        "question": "On her retirement she was given a substantial cheque in ....... of all the work she had done over the last 2 years.",
+        "answers": [
+            "respect ",
+            "thought ",
+            "appreciation ",
+            "belief"
+        ],
+        "rightAnswer": "appreciation "
+    },
+    {
+        "content": "",
+        "question": "There's absolutely no way I can ....... you on that matter.",
+        "answers": [
+            "meet ",
+            "hold ",
+            "take ",
+            "find"
+        ],
+        "rightAnswer": "meet "
+    },
+    {
+        "content": "",
+        "question": "One of the most successful tools in your organisation is that of good ....... because everybody knows what's going on.",
+        "answers": [
+            "communication ",
+            "concentration ",
+            "contemplation ",
+            "consideration"
+        ],
+        "rightAnswer": "communication "
+    },
+    {
+        "content": "",
+        "question": "and one of your technical staff came out to see me with the intention of replacing the ....... part.",
+        "answers": [
+            "defective ",
+            "deficient ",
+            "defining ",
+            "defeating"
+        ],
+        "rightAnswer": "defective "
+    },
+    {
+        "content": "",
+        "question": "....... I should have checked first since when I reached the shop I was led to believe that you were out for the day.",
+        "answers": [
+            "Admittedly ",
+            "Admitting ",
+            "Confessing ",
+            "Allowing"
+        ],
+        "rightAnswer": "Admittedly "
+    },
+    {
+        "content": "",
+        "question": "Oh dear, listeners, I shall have to return you to the studio because the policeman says he is going to ....... me.",
+        "answers": [
+            "seize ",
+            "arrest ",
+            "grasp ",
+            "hold"
+        ],
+        "rightAnswer": "arrest "
+    },
+    {
+        "content": "",
+        "question": "Before they got married, they decided to open a ....... account.",
+        "answers": [
+            "united ",
+            "joint ",
+            "unified ",
+            "combined"
+        ],
+        "rightAnswer": "joint "
+    },
+    {
+        "content": "",
+        "question": "One director of a major credit company has already been forced to ....... because of the bad publicity his company has attracted.",
+        "answers": [
+            "step over ",
+            "step through ",
+            "step down ",
+            "step out"
+        ],
+        "rightAnswer": "step down "
+    },
+    {
+        "content": "",
+        "question": "since there were a number of people ....... sick.",
+        "answers": [
+            "through ",
+            "for ",
+            "off ",
+            "under"
+        ],
+        "rightAnswer": "off "
+    },
+    {
+        "content": "",
+        "question": "In the tax office there will be a ....... that holds all the documents and papers connected with you.",
+        "answers": [
+            "file ",
+            "box ",
+            "book ",
+            "container"
+        ],
+        "rightAnswer": "file "
+    },
+    {
+        "content": "",
+        "question": "The new insurance plan is especially  .......... with employees who have families.",
+        "answers": [
+            "popularized",
+            "popular",
+            "populated",
+            "popularity"
+        ],
+        "rightAnswer": "popular"
+    },
+    {
+        "content": "",
+        "question": "You should check your messages .......... ",
+        "answers": [
+            "as soon as",
+            "twice a day",
+            "seldom",
+            "rarely"
+        ],
+        "rightAnswer": "twice a day"
+    },
+    {
+        "content": "",
+        "question": "The operator .......... Mr. Smith if she knew where to reach him.",
+        "answers": [
+            "will call",
+            "had called",
+            "called",
+            "would call"
+        ],
+        "rightAnswer": "would call"
+    },
+    {
+        "content": "",
+        "question": "The company ..........     spouses of employees in the invitation to the banquet.",
+        "answers": [
+            "are included",
+            "have included",
+            "is including",
+            "has including"
+        ],
+        "rightAnswer": "is including"
+    },
+    {
+        "content": "",
+        "question": "We cannot process the order .......... we get a copy of the purchase order.",
+        "answers": [
+            "because",
+            "that",
+            "until",
+            "when"
+        ],
+        "rightAnswer": "until"
+    },
+    {
+        "content": "",
+        "question": "There is really nothing much you can do to stop it and I'm afraid you'll just have to ....... and bear it.",
+        "answers": [
+            "scorn ",
+            "grin ",
+            "laugh ",
+            "smile"
+        ],
+        "rightAnswer": "grin "
+    },
+    {
+        "content": "",
+        "question": "At the interview all the candidates were shown round the building but could only really catch a ....... of the sort of work being carried out.",
+        "answers": [
+            "look ",
+            "view ",
+            "glimpse ",
+            "picture"
+        ],
+        "rightAnswer": "glimpse "
+    },
+    {
+        "content": "",
+        "question": "It is absolutely essential that the clerk takes care to ....... any decisions that have been reached during the meeting.",
+        "answers": [
+            "time ",
+            "minute ",
+            "detail ",
+            "measure"
+        ],
+        "rightAnswer": "minute "
+    },
+    {
+        "content": "",
+        "question": "If you can't improve your level of work, I'm afraid you'll have to look ....... for another job.",
+        "answers": [
+            "anywhere ",
+            "elsewhere ",
+            "nowhere ",
+            "somewhere"
+        ],
+        "rightAnswer": "elsewhere "
+    },
+    {
+        "content": "",
+        "question": "Even if I am late in paying, the insurance remains in effect for a ....... period of 3 days.",
+        "answers": [
+            "grace ",
+            "satisfaction ",
+            "long ",
+            "latent"
+        ],
+        "rightAnswer": "grace "
+    },
+    {
+        "content": "",
+        "question": "Have you ever tried your ....... at running a business?",
+        "answers": [
+            "arm ",
+            "finger ",
+            "hand ",
+            "leg"
+        ],
+        "rightAnswer": "hand "
+    },
+    {
+        "content": "",
+        "question": "If you want to increase sales of a particular product, you must be sure that you are ....... the right customers.",
+        "answers": [
+            "aiming ",
+            "directing ",
+            "targeting ",
+            "guiding"
+        ],
+        "rightAnswer": "targeting "
+    },
+    {
+        "content": "",
+        "question": "Are you able to ....... our conditions of delivery in line with our recent invoice?",
+        "answers": [
+            "except ",
+            "expect ",
+            "accept ",
+            "access"
+        ],
+        "rightAnswer": "accept "
+    },
+    {
+        "content": "",
+        "question": "The only way you can hope to ....... the level of your pay is to take on greater responsibility.",
+        "answers": [
+            "rise ",
+            "raise ",
+            "arise ",
+            "raze"
+        ],
+        "rightAnswer": "raise "
+    },
+    {
+        "content": "",
+        "question": "Thank you so much for helping me. I really ....... it.",
+        "answers": [
+            "accept ",
+            "agree ",
+            "appreciate ",
+            "deserve"
+        ],
+        "rightAnswer": "appreciate "
+    },
+    {
+        "content": "",
+        "question": "Candidate: Not to me, ........",
+        "answers": [
+            "it isn't ",
+            "it can't be ",
+            "it won't be ",
+            "it will be"
+        ],
+        "rightAnswer": "it isn't "
+    },
+    {
+        "content": "",
+        "question": "For the next hour it will be possible to buy just one ....... of bananas and get one more free.",
+        "answers": [
+            "bunch ",
+            "branch ",
+            "hand ",
+            "group"
+        ],
+        "rightAnswer": "bunch "
+    },
+    {
+        "content": "",
+        "question": "That sounds a good idea. I'm sure he'll ........",
+        "answers": [
+            "symbolise ",
+            "energise ",
+            "sympathise ",
+            "eulogise"
+        ],
+        "rightAnswer": "sympathise "
+    },
+    {
+        "content": "",
+        "question": "She knew that there was some kind of ....... business going on because strange things were happening.",
+        "answers": [
+            "weird ",
+            "unusual ",
+            "funny ",
+            "stupid"
+        ],
+        "rightAnswer": "funny "
+    },
+    {
+        "content": "",
+        "question": "How nice of you to come all this ....... just to wish me a happy birthday.",
+        "answers": [
+            "path ",
+            "journey ",
+            "route ",
+            "way"
+        ],
+        "rightAnswer": "way"
+    },
+    {
+        "content": "",
+        "question": "There was nothing in the contract that ....... who would be responsible in the event that one of the partners became seriously ill.",
+        "answers": [
+            "pointed ",
+            "specified ",
+            "printed ",
+            "developed"
+        ],
+        "rightAnswer": "specified "
+    },
+    {
+        "content": "",
+        "question": "If it helps to put things right, please let me take ....... everything I said earlier.",
+        "answers": [
+            "again ",
+            "back ",
+            "in ",
+            "across"
+        ],
+        "rightAnswer": "back "
+    },
+    {
+        "content": "",
+        "question": "I've really had enough of all your excuses, what I want is some ........",
+        "answers": [
+            "action ",
+            "acting ",
+            "acted ",
+            "active"
+        ],
+        "rightAnswer": "action "
+    },
+    {
+        "content": "",
+        "question": "My insurance ....... are only $7 per month.",
+        "answers": [
+            "receipts ",
+            "fees ",
+            "premiums ",
+            "payings"
+        ],
+        "rightAnswer": "premiums "
+    },
+    {
+        "content": "",
+        "question": "There doesn't seem to be anyone working really hard for the business and yet they all seem to earn ....... money.",
+        "answers": [
+            "facile ",
+            "simple ",
+            "easy ",
+            "quick"
+        ],
+        "rightAnswer": "easy "
+    },
+    {
+        "content": "",
+        "question": "Candidate: I'm sorry I don't understand what you're ........",
+        "answers": [
+            "in about ",
+            "on about ",
+            "for about ",
+            "off about"
+        ],
+        "rightAnswer": "on about "
+    },
+    {
+        "content": "",
+        "question": "Well, I did say I was sorry and I think ........",
+        "answers": [
+            "you're being very indistinct",
+            "you're being very unclear",
+            "you're being very unfavourable",
+            "you're being very unreasonable"
+        ],
+        "rightAnswer": "you're being very unreasonable"
+    },
+    {
+        "content": "",
+        "question": "Part of the ongoing training is to ensure that a regular time and place are ....... for department heads to meet their staff.",
+        "answers": [
+            "placed by ",
+            "put on ",
+            "set up ",
+            "set off"
+        ],
+        "rightAnswer": "set up "
+    },
+    {
+        "content": "",
+        "question": "When you take out a large loan over many years, you don't start paying off the ....... for some time.",
+        "answers": [
+            "main ",
+            "chief ",
+            "capital ",
+            "bulk"
+        ],
+        "rightAnswer": "capital "
+    },
+    {
+        "content": "",
+        "question": "I must ....... your pardon, I mistook you for somebody else.",
+        "answers": [
+            "bid ",
+            "bide ",
+            "beggar ",
+            "beg"
+        ],
+        "rightAnswer": "beg"
+    },
+    {
+        "content": "",
+        "question": "These addresses should be listed in..........order.",
+        "answers": [
+            "alphabet",
+            "alphabetize",
+            "alphabetically",
+            "alphabetical"
+        ],
+        "rightAnswer": "alphabetical"
+    },
+    {
+        "content": "",
+        "question": "The new waiter has not made any ..........            mistakes.",
+        "answers": [
+            "foolish",
+            "fool",
+            "foolishness",
+            "fooled"
+        ],
+        "rightAnswer": "foolish"
+    },
+    {
+        "content": "",
+        "question": "The final purchase price was higher than the investors .......... ",
+        "answers": [
+            "had expected",
+            "expect",
+            "are expecting",
+            "will expect"
+        ],
+        "rightAnswer": "had expected"
+    },
+    {
+        "content": "",
+        "question": "The directory lists each passenger's name .......... address.",
+        "answers": [
+            "and",
+            "the",
+            "but",
+            "nor"
+        ],
+        "rightAnswer": "and"
+    },
+    {
+        "content": "",
+        "question": "Mr. Dekar was responsible for .......... the data.",
+        "answers": [
+            "organization",
+            "organizing",
+            "organized",
+            "organize"
+        ],
+        "rightAnswer": "organizing"
+    },
+    {
+        "content": "",
+        "question": "One solution that has been suggested to control credit is to ....... the regulations to make it more difficult to get credit in the first place.",
+        "answers": [
+            "step under ",
+            "step up ",
+            "step by ",
+            "step across"
+        ],
+        "rightAnswer": "step up "
+    },
+    {
+        "content": "",
+        "question": "The main ....... of stationery for the office suddenly announced there would be an overall increase in their prices.",
+        "answers": [
+            "provision ",
+            "producer ",
+            "provisional ",
+            "provider"
+        ],
+        "rightAnswer": "provider"
+    },
+    {
+        "content": "",
+        "question": "The guarantee, as I understood it, ....... that everything was covered.",
+        "answers": [
+            "inferred ",
+            "implied ",
+            "imputed ",
+            "involved"
+        ],
+        "rightAnswer": "implied "
+    },
+    {
+        "content": "",
+        "question": "We now move on to late March when I imagine that the sick employees were fully .......",
+        "answers": [
+            "restored ",
+            "returned ",
+            "retired ",
+            "recovered"
+        ],
+        "rightAnswer": "recovered"
+    },
+    {
+        "content": "",
+        "question": "Each month when you receive your pay, the employer ....... a certain amount to pay towards your pension.",
+        "answers": [
+            "withholds ",
+            "withstands ",
+            "withdraws ",
+            "without"
+        ],
+        "rightAnswer": "withholds "
+    },
+    {
+        "content": "",
+        "question": "We have done this play many times in different towns but your ....... has been the greatest so far.",
+        "answers": [
+            "appointment ",
+            "application ",
+            "apposition ",
+            "applause"
+        ],
+        "rightAnswer": "applause"
+    },
+    {
+        "content": "",
+        "question": "Despite all the alterations that are taking place in the department store, the management wanted to explain it was business as ........",
+        "answers": [
+            "common ",
+            "practical ",
+            "frequent ",
+            "usual"
+        ],
+        "rightAnswer": "usual"
+    },
+    {
+        "content": "",
+        "question": "Thousands of ....... are already signing up for this new telephone service.",
+        "answers": [
+            "individuals ",
+            "subscribers ",
+            "applicants ",
+            "interviewees"
+        ],
+        "rightAnswer": "subscribers "
+    },
+    {
+        "content": "",
+        "question": "There is always a risk in any business ....... when your scheme is based on an entirely new concept.",
+        "answers": [
+            "venture ",
+            "journey ",
+            "adventure ",
+            "voyage"
+        ],
+        "rightAnswer": "venture "
+    },
+    {
+        "content": "",
+        "question": "Even after their recent heavy expenses, they still found there was a healthy ....... in their bank account.",
+        "answers": [
+            "rest ",
+            "remainder ",
+            "balance ",
+            "basis"
+        ],
+        "rightAnswer": "balance "
+    },
+    {
+        "content": "",
+        "question": "......., I couldn't agree with you more.",
+        "answers": [
+            "Totally ",
+            "Clearly ",
+            "Finally ",
+            "Absolutely"
+        ],
+        "rightAnswer": "Absolutely"
+    },
+    {
+        "content": "",
+        "question": "The stock market has hit new ....... this year.",
+        "answers": [
+            "lows ",
+            "bottoms ",
+            "depths ",
+            "ends"
+        ],
+        "rightAnswer": "lows "
+    },
+    {
+        "content": "",
+        "question": "You have to realise that not all your clients can reach you online because they don't have ....... to a computer.",
+        "answers": [
+            "address ",
+            "access ",
+            "acceptance ",
+            "approach"
+        ],
+        "rightAnswer": "access "
+    },
+    {
+        "content": "",
+        "question": "What would you say to a member of your staff who always ....... his work in late?",
+        "answers": [
+            "delivered ",
+            "handed ",
+            "produced ",
+            "completed"
+        ],
+        "rightAnswer": "handed "
+    },
+    {
+        "content": "",
+        "question": "If you want my honest opinion, I thought the play was ........",
+        "answers": [
+            "litter ",
+            "dust ",
+            "waste ",
+            "rubbish"
+        ],
+        "rightAnswer": "rubbish"
+    },
+    {
+        "content": "",
+        "question": "Many subscribers have requested that we .......... the journals to their offices.",
+        "answers": [
+            "mails",
+            "mailed",
+            "mail",
+            "mailing"
+        ],
+        "rightAnswer": "mail"
+    },
+    {
+        "content": "",
+        "question": ".......... none of us were familiar with the city, Mr. Gutman drove us to the meeting.",
+        "answers": [
+            "Although",
+            "Because",
+            "Therefore",
+            "However"
+        ],
+        "rightAnswer": "Because"
+    },
+    {
+        "content": "",
+        "question": "The auditor discovered that the accountant had not been .......... the checks into the correct account.",
+        "answers": [
+            "deposited",
+            "deposits",
+            "deposit",
+            "depositing"
+        ],
+        "rightAnswer": "depositing"
+    },
+    {
+        "content": "",
+        "question": "The trainers for the seminar had the crew     .......... their equipment to the conference center.",
+        "answers": [
+            "move",
+            "moving",
+            "mover",
+            "moved"
+        ],
+        "rightAnswer": "move"
+    },
+    {
+        "content": "",
+        "question": "Mr. Cain will return your call .......... he arrives.",
+        "answers": [
+            "soon",
+            "as soon",
+            "as soon as",
+            "soon than"
+        ],
+        "rightAnswer": "as soon as"
+    },
+    {
+        "content": "",
+        "question": "..........the meeting, Ms. Tran missed several important phone calls.",
+        "answers": [
+            "Although",
+            "In spite of",
+            "Because",
+            "During"
+        ],
+        "rightAnswer": "During"
+    },
+    {
+        "content": "",
+        "question": "The speaker has .......... his speech by two minutes.",
+        "answers": [
+            "short",
+            "shortening",
+            "shortened",
+            "shortage"
+        ],
+        "rightAnswer": "shortened"
+    },
+    {
+        "content": "",
+        "question": "The ship provisions officer .......... his supplies in large quantities.",
+        "answers": [
+            "buy",
+            "buys",
+            "buying",
+            "to buy"
+        ],
+        "rightAnswer": "buys"
+    },
+    {
+        "content": "",
+        "question": "Did Mr. Fisk . ..........  the reference guide from the company library?",
+        "answers": [
+            "loan",
+            "borrow",
+            "lend .",
+            "sent"
+        ],
+        "rightAnswer": "borrow"
+    },
+    {
+        "content": "",
+        "question": "If this report is sent by overnight delivery, it .......... Milan by noon tomorrow.",
+        "answers": [
+            "reaches",
+            "will reach",
+            "is reaching",
+            "has reached"
+        ],
+        "rightAnswer": "will reach"
+    },
+    {
+        "content": "",
+        "question": "If we had started earlier, we..........the deadline.",
+        "answers": [
+            "would meet",
+            "would have met",
+            "will meet",
+            "will have met"
+        ],
+        "rightAnswer": "would have met"
+    },
+    {
+        "content": "",
+        "question": "Mr. Ni .......... in charge of the research division for two years.",
+        "answers": [
+            "has",
+            "has been",
+            "is",
+            "had"
+        ],
+        "rightAnswer": "has been"
+    },
+    {
+        "content": "",
+        "question": "Mr. Flynn is the person .......... orders office supplies.",
+        "answers": [
+            "which",
+            "whose",
+            "who",
+            "whom"
+        ],
+        "rightAnswer": "who"
+    },
+    {
+        "content": "",
+        "question": "Mr. Larsen .......... for meetings.",
+        "answers": [
+            "late is always",
+            "is always late",
+            "always late is",
+            "is late always"
+        ],
+        "rightAnswer": "is always late"
+    },
+    {
+        "content": "",
+        "question": "The .......... about our recycling plans will reassure consumers.",
+        "answers": [
+            "public",
+            "publish",
+            "publishing",
+            "publicity"
+        ],
+        "rightAnswer": "publicity"
+    },
+    {
+        "content": "",
+        "question": "We will always remember the way you stood up and ....... at some of the speeches in the play.",
+        "answers": [
+            "clapped ",
+            "clopped ",
+            "clipped ",
+            "clammed"
+        ],
+        "rightAnswer": "clapped "
+    },
+    {
+        "content": "",
+        "question": "What concerns people most are the mounting ....... among governments that it will take at least a generation for us to be rid of excessive debt.",
+        "answers": [
+            "frights ",
+            "fearful ",
+            "fears ",
+            "afraid"
+        ],
+        "rightAnswer": "fears "
+    },
+    {
+        "content": "",
+        "question": "There is a lengthy procedure used in this office for staff who have produced shoddy work and it begins with a ....... warning.",
+        "answers": [
+            "wordy ",
+            "verbal ",
+            "worded ",
+            "verbose"
+        ],
+        "rightAnswer": "verbal "
+    },
+    {
+        "content": "",
+        "question": "Unfortunately he had ....... the wrong part with him",
+        "answers": [
+            "delivered ",
+            "fetched ",
+            "brought ",
+            "picked"
+        ],
+        "rightAnswer": "brought "
+    },
+    {
+        "content": "",
+        "question": "This machine is obviously useless and if I were you I'd get your money ........",
+        "answers": [
+            "back ",
+            "again ",
+            "return ",
+            "up"
+        ],
+        "rightAnswer": "back "
+    },
+    {
+        "content": "",
+        "question": "Our leading actor is unable to come on the stage at the moment because he is ....... with emotion.",
+        "answers": [
+            "overtaken ",
+            "overdrawn ",
+            "overcome ",
+            "overturned"
+        ],
+        "rightAnswer": "overcome "
+    },
+    {
+        "content": "",
+        "question": "Going on a spending ....... with your credit card and no concern about how you pay back the money you borrow, is a growing habit these days.",
+        "answers": [
+            "burst ",
+            "spree ",
+            "flight ",
+            "day"
+        ],
+        "rightAnswer": "spree "
+    },
+    {
+        "content": "",
+        "question": "The new office manager will be in ....... of all the IT requirements that the company uses.",
+        "answers": [
+            "use ",
+            "mind ",
+            "case ",
+            "charge"
+        ],
+        "rightAnswer": "charge"
+    },
+    {
+        "content": "",
+        "question": "This sport centre has largely been ....... by money that has come from the national lottery.",
+        "answers": [
+            "founded ",
+            "found ",
+            "fined ",
+            "funded"
+        ],
+        "rightAnswer": "funded"
+    },
+    {
+        "content": "",
+        "question": "no effort has been made to write to me and keep me ....... to date.",
+        "answers": [
+            "on ",
+            "up ",
+            "in ",
+            "over"
+        ],
+        "rightAnswer": "up "
+    },
+    {
+        "content": "",
+        "question": "To spread the cost of spending on articles you buy many big departments let you open a ........",
+        "answers": [
+            "credible ",
+            "credit ",
+            "credited ",
+            "credulous"
+        ],
+        "rightAnswer": "credit "
+    },
+    {
+        "content": "",
+        "question": "At the end of the financial year it is the responsibility of the chief finance officer to ....... the accounts.",
+        "answers": [
+            "print ",
+            "edit ",
+            "publish ",
+            "direct"
+        ],
+        "rightAnswer": "publish "
+    },
+    {
+        "content": "",
+        "question": "There was no fixed agenda for that particular day as it was to be regarded simply as a ....... meeting.",
+        "answers": [
+            "possible ",
+            "probable ",
+            "unplanned ",
+            "casual"
+        ],
+        "rightAnswer": "casual"
+    },
+    {
+        "content": "",
+        "question": "Whenever a member of staff makes a claim for travel expenses, they have to provide a ....... account of their journeys.",
+        "answers": [
+            "detailed ",
+            "dedicated ",
+            "descriptive ",
+            "described"
+        ],
+        "rightAnswer": "detailed "
+    },
+    {
+        "content": "",
+        "question": "Following some recent research our engineers ....... that our index system has scope for fast improvement.",
+        "answers": [
+            "fined ",
+            "finding ",
+            "found ",
+            "finds"
+        ],
+        "rightAnswer": "found "
+    },
+    {
+        "content": "",
+        "question": "It's a really clever piece of software because it enables you to ....... on your screen all the information in columns.",
+        "answers": [
+            "illustrate ",
+            "depict ",
+            "display ",
+            "delineate"
+        ],
+        "rightAnswer": "display "
+    },
+    {
+        "content": "",
+        "question": "We're paying for a stand at the new industrial exhibition with a view to ....... interest among potential employees in our company.",
+        "answers": [
+            "generalizing ",
+            "generating ",
+            "germinating ",
+            "gesticulating"
+        ],
+        "rightAnswer": "generating "
+    },
+    {
+        "content": "",
+        "question": "If you want my ....... opinion, I thought the food tasted revolting.",
+        "answers": [
+            "honoured ",
+            "honourable ",
+            "honest ",
+            "honour"
+        ],
+        "rightAnswer": "honest "
+    },
+    {
+        "content": "",
+        "question": "There are several matters on which I should like to take ....... concerning your report.",
+        "answers": [
+            "outcome ",
+            "outlook ",
+            "issue ",
+            "outing"
+        ],
+        "rightAnswer": "issue "
+    },
+    {
+        "content": "",
+        "question": "Get in there first and don't hesitate to act as the boss and take the ........",
+        "answers": [
+            "place ",
+            "lead ",
+            "leading ",
+            "leader"
+        ],
+        "rightAnswer": "lead "
+    },
+    {
+        "content": "",
+        "question": "Hi listeners, I should explain that I have a ....... eye view of this magnificent sight as the parade passes underneath me.",
+        "answers": [
+            "cat's ",
+            "dog's ",
+            "bird's ",
+            "rat's"
+        ],
+        "rightAnswer": "bird's "
+    },
+    {
+        "content": "",
+        "question": "To come straight to the ....... I think the management team needs replacing.",
+        "answers": [
+            "summit ",
+            "top ",
+            "topic ",
+            "point"
+        ],
+        "rightAnswer": "point"
+    },
+    {
+        "content": "",
+        "question": "Wow! You've certainly made a good ....... of decorating this room.",
+        "answers": [
+            "job ",
+            "work ",
+            "task ",
+            "duty"
+        ],
+        "rightAnswer": "job "
+    },
+    {
+        "content": "",
+        "question": "Get in there first and don't hesitate to act as the boss and take the ........",
+        "answers": [
+            "place ",
+            "lead ",
+            "leading ",
+            "leader"
+        ],
+        "rightAnswer": "lead "
+    },
+    {
+        "content": "",
+        "question": "There is an additional ....... added to the price of the product if you want to have it delivered to your house.",
+        "answers": [
+            "figure ",
+            "charge ",
+            "number ",
+            "charging"
+        ],
+        "rightAnswer": "charge "
+    },
+    {
+        "content": "",
+        "question": "The clerk found the typographical error after the messenger .......... the proposal.",
+        "answers": [
+            "delivered",
+            "delivers",
+            "has delivered",
+            "is delivering"
+        ],
+        "rightAnswer": "delivered"
+    },
+    {
+        "content": "",
+        "question": "You should register for the seminar .......... you attend.",
+        "answers": [
+            "while",
+            "before",
+            "nor",
+            "and"
+        ],
+        "rightAnswer": "before"
+    },
+    {
+        "content": "",
+        "question": "The purpose of our conference is to help employees .......... our policies.",
+        "answers": [
+            "understood",
+            "understanding",
+            "understand",
+            "is understanding"
+        ],
+        "rightAnswer": "understand"
+    },
+    {
+        "content": "",
+        "question": "Most employees drive to work and ..........  the building from the parking lot.",
+        "answers": [
+            "enter",
+            "entered",
+            "entering",
+            "entrance"
+        ],
+        "rightAnswer": "enter"
+    },
+    {
+        "content": "",
+        "question": "The hotel marketing director is quite .......... about advertising in Europe.",
+        "answers": [
+            "knowing",
+            "knowledge",
+            "knowledgeable",
+            "knows"
+        ],
+        "rightAnswer": "knowledgeable"
+    },
+    {
+        "content": "",
+        "question": "Having attended the office procedures course all employees were expected to ....... what they had learned and introduce it into their daily routine.",
+        "answers": [
+            "reinforce ",
+            "respond ",
+            "react ",
+            "resource"
+        ],
+        "rightAnswer": "reinforce "
+    },
+    {
+        "content": "",
+        "question": "We really can't delay any more with our plans and must ....... down to business as soon as possible.",
+        "answers": [
+            "set ",
+            "get ",
+            "cut ",
+            "find"
+        ],
+        "rightAnswer": "get "
+    },
+    {
+        "content": "",
+        "question": "This kind of legislation is in existence to ....... the customer from worthless warranties.",
+        "answers": [
+            "provide ",
+            "protect ",
+            "please ",
+            "pacify"
+        ],
+        "rightAnswer": "protect "
+    },
+    {
+        "content": "",
+        "question": "Am I going in the right ....... for the post office?",
+        "answers": [
+            "route ",
+            "way ",
+            "sign ",
+            "direction"
+        ],
+        "rightAnswer": "direction"
+    },
+    {
+        "content": "",
+        "question": "She told him to stop wasting time by coming up with tried and tested ideas and in this way simply re-inventing the ........",
+        "answers": [
+            "circle ",
+            "round ",
+            "curve ",
+            "wheel"
+        ],
+        "rightAnswer": "wheel"
+    },
+    {
+        "content": "",
+        "question": "It's quite easy if you want to find folders and files on the computer, all you do is click here and it immediately starts ........",
+        "answers": [
+            "seeking ",
+            "searching ",
+            "looking ",
+            "checking"
+        ],
+        "rightAnswer": "searching "
+    },
+    {
+        "content": "",
+        "question": "Quite honestly I didn't think ....... of the standard of acting in the play.",
+        "answers": [
+            "lot ",
+            "few ",
+            "little ",
+            "much"
+        ],
+        "rightAnswer": "much"
+    },
+    {
+        "content": "",
+        "question": "Well .......! This is a very good piece of work.",
+        "answers": [
+            "made ",
+            "done ",
+            "finished ",
+            "taken"
+        ],
+        "rightAnswer": "done "
+    },
+    {
+        "content": "",
+        "question": "The first question you have to ask is who are the customers that they are each trying to ........",
+        "answers": [
+            "target ",
+            "hit ",
+            "aim ",
+            "deliver"
+        ],
+        "rightAnswer": "target "
+    },
+    {
+        "content": "",
+        "question": "The introduction of radio created a new opportunity and by the end of the 192s, advertising had established itself in radio to such a(n) ....... that advertisers were producing many of their own programs.",
+        "answers": [
+            "amount ",
+            "extent ",
+            "range ",
+            "volume"
+        ],
+        "rightAnswer": "extent "
+    },
+    {
+        "content": "",
+        "question": "They're quite ....... in their policy of not giving refunds without a receipt in this store.",
+        "answers": [
+            "severe ",
+            "strong ",
+            "strict ",
+            "hard"
+        ],
+        "rightAnswer": "strict "
+    },
+    {
+        "content": "",
+        "question": "As soon as they heard what had happened, they ....... it their business to find out the truth.",
+        "answers": [
+            "made ",
+            "tried ",
+            "managed ",
+            "called"
+        ],
+        "rightAnswer": "made "
+    },
+    {
+        "content": "",
+        "question": "I see from your ....... form that you have had three different jobs in the last 5 years.",
+        "answers": [
+            "apply ",
+            "applying ",
+            "applied ",
+            "application"
+        ],
+        "rightAnswer": "application"
+    },
+    {
+        "content": "",
+        "question": "Although technically his judgement was not according to the ....... of the law, most people thought the judge was right to let the man go free.",
+        "answers": [
+            "print ",
+            "number ",
+            "point ",
+            "letter"
+        ],
+        "rightAnswer": "letter"
+    },
+    {
+        "content": "",
+        "question": "Inquiries are held which seem to go on forever and you only wish that the procedure could be ........",
+        "answers": [
+            "speeded through ",
+            "speeded along ",
+            "speeded up ",
+            "speeded in"
+        ],
+        "rightAnswer": "speeded up "
+    },
+    {
+        "content": "",
+        "question": "There is still an outstanding ....... on that account, which must be paid in 3 days.",
+        "answers": [
+            "balance ",
+            "scale ",
+            "difference ",
+            "cost"
+        ],
+        "rightAnswer": "balance "
+    },
+    {
+        "content": "",
+        "question": "Please send my ....... to the meeting as I shan't be able to attend.",
+        "answers": [
+            "apologies ",
+            "apologize ",
+            "apologized ",
+            "apologizing"
+        ],
+        "rightAnswer": "apologies "
+    },
+    {
+        "content": "",
+        "question": "I had the washing machine fitted by a ....... plumber but he was unable to make the thing work.",
+        "answers": [
+            "renowned ",
+            "remarkable ",
+            "reputable ",
+            "respectable"
+        ],
+        "rightAnswer": "reputable "
+    },
+    {
+        "content": "",
+        "question": "Shortly after the couple had bought their first house, they saw the number of bills ....... rapidly.",
+        "answers": [
+            "accentuate ",
+            "aggravate ",
+            "accumulate ",
+            "access"
+        ],
+        "rightAnswer": "accumulate "
+    },
+    {
+        "content": "",
+        "question": "You can decide, if you so wish, to ....... your right to take your pension at an earlier date.",
+        "answers": [
+            "give in ",
+            "give up ",
+            "give out ",
+            "give off"
+        ],
+        "rightAnswer": "give up "
+    },
+    {
+        "content": "",
+        "question": "I hope you will be patient and ....... with me a minute.",
+        "answers": [
+            "stay ",
+            "hold ",
+            "bear ",
+            "maintain"
+        ],
+        "rightAnswer": "bear "
+    },
+    {
+        "content": "",
+        "question": "In order to survive in this business you must adopt a ....... stance.",
+        "answers": [
+            "competition ",
+            "competing ",
+            "competitor ",
+            "competitive"
+        ],
+        "rightAnswer": "competitive"
+    },
+    {
+        "content": "",
+        "question": "That company has been in business for over 1 years and in fact was ....... in 1899.",
+        "answers": [
+            "grounded ",
+            "established ",
+            "found ",
+            "invented"
+        ],
+        "rightAnswer": "established "
+    },
+    {
+        "content": "",
+        "question": "In reality it's a very long ....... to get from owing to paying off all your debts.",
+        "answers": [
+            "hail ",
+            "halt ",
+            "haul ",
+            "help"
+        ],
+        "rightAnswer": "haul "
+    },
+    {
+        "content": "",
+        "question": "I understand that I can make it possible for both my computers to share the same programs by means of ........",
+        "answers": [
+            "joining ",
+            "connecting ",
+            "linking ",
+            "networking"
+        ],
+        "rightAnswer": "networking"
+    },
+    {
+        "content": "",
+        "question": "Candidate: No, sorry as I said I like working outside, I want to be a gardener, ........",
+        "answers": [
+            "if you don't care ",
+            "if you don't agree ",
+            "if you don't mind ",
+            "if you don't see"
+        ],
+        "rightAnswer": "if you don't mind "
+    },
+    {
+        "content": "",
+        "question": "Remember that before you leave your workstation, always ....... your computer.",
+        "answers": [
+            "shut out ",
+            "shut up ",
+            "shut in ",
+            "shut down"
+        ],
+        "rightAnswer": "shut down"
+    },
+    {
+        "content": "",
+        "question": "She was in such a state of extreme nervousness when she was ....... for the interview that she burst into tears.",
+        "answers": [
+            "called on ",
+            "called in ",
+            "called over ",
+            "called off"
+        ],
+        "rightAnswer": "called in "
+    },
+    {
+        "content": "",
+        "question": "....... one of the components was faulty and he recommended that I got back to you so that a replacement could be fitted.",
+        "answers": [
+            "Appearing ",
+            "Appearance ",
+            "Apparition ",
+            "Apparently"
+        ],
+        "rightAnswer": "Apparently"
+    },
+    {
+        "content": "",
+        "question": "Every year the college finance officer did not look forward to the visit from the government official who came to ....... the accounts.",
+        "answers": [
+            "order ",
+            "regulate ",
+            "control ",
+            "audit"
+        ],
+        "rightAnswer": "audit"
+    },
+    {
+        "content": "",
+        "question": "The trouble with these huge superstores is that they don't have enough ....... to deal with customers at busy times.",
+        "answers": [
+            "barriers ",
+            "sales points ",
+            "exits ",
+            "checkouts"
+        ],
+        "rightAnswer": "checkouts"
+    },
+    {
+        "content": "",
+        "question": "I'm afraid it won't be possible to talk to the boss today because he's away ....... business till Tuesday.",
+        "answers": [
+            "off ",
+            "on ",
+            "for ",
+            "to"
+        ],
+        "rightAnswer": "on "
+    },
+    {
+        "content": "",
+        "question": "Sometimes people don't bother about guarantees because the ....... of the manufacturer is enough for them.",
+        "answers": [
+            "repute ",
+            "reputed ",
+            "reputedly ",
+            "reputation"
+        ],
+        "rightAnswer": "reputation"
+    },
+    {
+        "content": "",
+        "question": "I know I shouldn't have made those remarks about your work and I hope you now know how deeply I ....... what I said.",
+        "answers": [
+            "review ",
+            "regret ",
+            "respect ",
+            "restore"
+        ],
+        "rightAnswer": "regret "
+    },
+    {
+        "content": "",
+        "question": "Let me just ....... what we have agreed in the agenda so far if nobody minds me going over it all again.",
+        "answers": [
+            "restore ",
+            "retake ",
+            "recap ",
+            "redo"
+        ],
+        "rightAnswer": "recap "
+    },
+    {
+        "content": "",
+        "question": "To tell you the truth I shouldn't be ....... up here on top of this large statue of Field Marshal Smith.",
+        "answers": [
+            "caught ",
+            "catching ",
+            "cornered ",
+            "perched"
+        ],
+        "rightAnswer": "perched"
+    },
+    {
+        "content": "",
+        "question": "The government has changed its policy and had a complete change of ........",
+        "answers": [
+            "view ",
+            "opinion ",
+            "mind ",
+            "heart"
+        ],
+        "rightAnswer": "heart"
+    },
+    {
+        "content": "",
+        "question": "The larger company did not really want to join with the smaller one because it was more interested in a ........",
+        "answers": [
+            "turn over ",
+            "turn up ",
+            "overtaker ",
+            "takeover"
+        ],
+        "rightAnswer": "takeover"
+    },
+    {
+        "content": "",
+        "question": "....... on the stockmarket just before Christmas is usually very slow.",
+        "answers": [
+            "Working ",
+            "Trading ",
+            "Pricing ",
+            "Adding"
+        ],
+        "rightAnswer": "Trading "
+    },
+    {
+        "content": "",
+        "question": "It was a great relief to Charlie when he realized that he had come to the end of his agreement with the bank and there was only one ....... payment left.",
+        "answers": [
+            "extraordinary ",
+            "upstanding ",
+            "outstanding ",
+            "standing"
+        ],
+        "rightAnswer": "outstanding "
+    },
+    {
+        "content": "",
+        "question": "The reas on for this is possibly that you thought it was a ....... but in fact it is a tragedy.",
+        "answers": [
+            "comic ",
+            "comedy ",
+            "comedian ",
+            "comely"
+        ],
+        "rightAnswer": "comedy "
+    },
+    {
+        "content": "",
+        "question": "I would ask you kindly not to interfere with what I'm doing as in all honesty it's ....... of your business.",
+        "answers": [
+            "no ",
+            "nothing ",
+            "none ",
+            "nor"
+        ],
+        "rightAnswer": "none "
+    },
+    {
+        "content": "",
+        "question": "At certain times of the year your shares will ....... a good profit but you must also be prepared for them to go down in value.",
+        "answers": [
+            "yield ",
+            "take up ",
+            "increase ",
+            "throw up"
+        ],
+        "rightAnswer": "yield "
+    },
+    {
+        "content": "",
+        "question": "Please accept this small present as my way of making ....... for all the trouble I've caused.",
+        "answers": [
+            "attempts ",
+            "attention ",
+            "amends ",
+            "arrears"
+        ],
+        "rightAnswer": "amends "
+    },
+    {
+        "content": "",
+        "question": "You must increase the sale of this commodity by trying to interest a different age range and by ....... into their society.",
+        "answers": [
+            "dripping ",
+            "floating ",
+            "tapping ",
+            "sailing"
+        ],
+        "rightAnswer": "tapping "
+    },
+    {
+        "content": "",
+        "question": "She has been proved right in everything she did as the report quite clearly bears ........",
+        "answers": [
+            "out ",
+            "to ",
+            "for ",
+            "onto"
+        ],
+        "rightAnswer": "out "
+    },
+    {
+        "content": "",
+        "question": "That is the reason why I am standing here and making this short ........",
+        "answers": [
+            "speak ",
+            "speaking ",
+            "spoke ",
+            "speech"
+        ],
+        "rightAnswer": "speech"
+    },
+    {
+        "content": "",
+        "question": "I think that the main ....... for all this emotion is probably the way you have reacted to the play.",
+        "answers": [
+            "ratio ",
+            "reason ",
+            "ration ",
+            "rate"
+        ],
+        "rightAnswer": "reason "
+    },
+    {
+        "content": "",
+        "question": "The ....... trend in children's desire to wear designer label clothes should be exploited.",
+        "answers": [
+            "currant ",
+            "current ",
+            "occuring ",
+            "occured"
+        ],
+        "rightAnswer": "current "
+    },
+    {
+        "content": "",
+        "question": "I had only had my computer for three weeks when I had to have the hard drive ........",
+        "answers": [
+            "replaced ",
+            "restored ",
+            "retaken ",
+            "revived"
+        ],
+        "rightAnswer": "replaced "
+    },
+    {
+        "content": "",
+        "question": "They really need to keep a check on the stationery supplies as they've run ....... A4 paper once again.",
+        "answers": [
+            "in to ",
+            "up for ",
+            "out of ",
+            "up to"
+        ],
+        "rightAnswer": "out of "
+    },
+    {
+        "content": "",
+        "question": "You should have read the ....... of payment as soon as you received the invoice for the goods.",
+        "answers": [
+            "reasons ",
+            "types ",
+            "lists ",
+            "terms"
+        ],
+        "rightAnswer": "terms"
+    },
+    {
+        "content": "",
+        "question": "and meet you face to face so that the matter could be settled once and for ........",
+        "answers": [
+            "everything ",
+            "now ",
+            "then ",
+            "all"
+        ],
+        "rightAnswer": "all"
+    },
+    {
+        "content": "",
+        "question": "Whatever she does, she just can't help ....... money.",
+        "answers": [
+            "doing ",
+            "making ",
+            "massing ",
+            "creating"
+        ],
+        "rightAnswer": "making "
+    },
+    {
+        "content": "",
+        "question": "The bank clerk at the counter did not know the customer and in view of the large amount of money involved was naturally ....... about paying out the sum on the cheque.",
+        "answers": [
+            "concerned ",
+            "careful ",
+            "conscious ",
+            "cautious"
+        ],
+        "rightAnswer": "cautious"
+    },
+    {
+        "content": "",
+        "question": "The director's intention in making the film was to try and ....... simplicity as seen by a child.",
+        "answers": [
+            "report ",
+            "reprehend ",
+            "represent ",
+            "comprehend"
+        ],
+        "rightAnswer": "represent "
+    },
+    {
+        "content": "",
+        "question": "You see throughout our ....... season we have never received so much laughter as we have from you.",
+        "answers": [
+            "currant ",
+            "curious ",
+            "current ",
+            "curtain"
+        ],
+        "rightAnswer": "current "
+    },
+    {
+        "content": "",
+        "question": "It has started to rain and I shall get ....... to the skin if I stay much longer up here.",
+        "answers": [
+            "sunk ",
+            "suited ",
+            "stuck ",
+            "soaked"
+        ],
+        "rightAnswer": "soaked"
+    },
+    {
+        "content": "",
+        "question": "Could you please ....... me in the direction of the motorway?",
+        "answers": [
+            "show ",
+            "indicate ",
+            "point ",
+            "deliver"
+        ],
+        "rightAnswer": "point "
+    },
+    {
+        "content": "",
+        "question": "I'm making for the M25 motorway \u2014 is this road the most ....... route?",
+        "answers": [
+            "straight ",
+            "clear ",
+            "obvious ",
+            "direct"
+        ],
+        "rightAnswer": "direct"
+    },
+    {
+        "content": "",
+        "question": "As so few members had turned up at the meeting, it was decided to ....... it until further notice.",
+        "answers": [
+            "delay ",
+            "wait ",
+            "postpone ",
+            "hold"
+        ],
+        "rightAnswer": "postpone "
+    },
+    {
+        "content": "",
+        "question": "When you retire, you should get a pension and a ....... sum from your employers.",
+        "answers": [
+            "lump ",
+            "block ",
+            "pile ",
+            "heap"
+        ],
+        "rightAnswer": "lump "
+    },
+    {
+        "content": "",
+        "question": "I'm happy to ....... those sentiments and wish you every success.",
+        "answers": [
+            "encompass ",
+            "enthuse ",
+            "endorse ",
+            "endure"
+        ],
+        "rightAnswer": "endorse "
+    },
+    {
+        "content": "",
+        "question": "Give us some idea of what you believe are your ....... and weaknesses.",
+        "answers": [
+            "strength ",
+            "strengths ",
+            "force ",
+            "forces"
+        ],
+        "rightAnswer": "strengths "
+    },
+    {
+        "content": "",
+        "question": "On the watch they gave him were the words: ....... gratitude for 4 years loyal service.",
+        "answers": [
+            "at ",
+            "of ",
+            "by ",
+            "in"
+        ],
+        "rightAnswer": "in"
+    },
+    {
+        "content": "",
+        "question": "I agree with what you say, ....... but ...",
+        "answers": [
+            "wholly ",
+            "basically ",
+            "quickly ",
+            "simply"
+        ],
+        "rightAnswer": "basically "
+    },
+    {
+        "content": "",
+        "question": "Severe storms last night together with heavy rainfall means that some of the lines of the station are now ........",
+        "answers": [
+            "waterlogged ",
+            "waterproof ",
+            "water soaked ",
+            "waterfall"
+        ],
+        "rightAnswer": "waterlogged "
+    },
+    {
+        "content": "",
+        "question": "This is the really important part of the machine and that's why we call it the business ........",
+        "answers": [
+            "centre ",
+            "end ",
+            "area ",
+            "point"
+        ],
+        "rightAnswer": "end "
+    },
+    {
+        "content": "",
+        "question": "Let's be honest about it we'll never agree on that because our views are diametrically ........",
+        "answers": [
+            "apposed ",
+            "imposed ",
+            "supposed ",
+            "opposed"
+        ],
+        "rightAnswer": "opposed"
+    },
+    {
+        "content": "",
+        "question": "Once the applications have been looked at the usual procedure for the panel is to follow ....... the references ofthose candidates who have been shortlisted.",
+        "answers": [
+            "across ",
+            "in ",
+            "up ",
+            "along"
+        ],
+        "rightAnswer": "up "
+    },
+    {
+        "content": "",
+        "question": "Mr. Selvas delivered the .......... bid to the client.",
+        "answers": [
+            "seals",
+            "seal",
+            "sealing",
+            "sealed"
+        ],
+        "rightAnswer": "sealed"
+    },
+    {
+        "content": "",
+        "question": "A computer is .......... than a typewriter.",
+        "answers": [
+            "more efficient",
+            "most efficient",
+            "the most efficient",
+            "the more efficient"
+        ],
+        "rightAnswer": "more efficient"
+    },
+    {
+        "content": "",
+        "question": "..........  .......... Ms. Butrus was late, she did not miss the performance.",
+        "answers": [
+            "During",
+            "Because",
+            "In spite of",
+            "Although"
+        ],
+        "rightAnswer": "Although"
+    },
+    {
+        "content": "",
+        "question": "This memo is .......... the previous one.",
+        "answers": [
+            "as confusing",
+            "confusing as",
+            "as confusing as",
+            "as confused as"
+        ],
+        "rightAnswer": "as confusing as"
+    },
+    {
+        "content": "",
+        "question": "Tomorrow we ..........  the letter by overnight mail.",
+        "answers": [
+            "will send",
+            "sent",
+            "had sent",
+            "is sending"
+        ],
+        "rightAnswer": "will send"
+    },
+    {
+        "content": "",
+        "question": "The billing clerk was not able to find the invoice..........the order.",
+        "answers": [
+            "or",
+            "and",
+            "but",
+            "though"
+        ],
+        "rightAnswer": "or"
+    },
+    {
+        "content": "",
+        "question": "Is the annual report..........yet?",
+        "answers": [
+            "avail",
+            "available",
+            "availability",
+            "availing"
+        ],
+        "rightAnswer": "available"
+    },
+    {
+        "content": "",
+        "question": "If Ms. Kamano leaves at 2:00, she.......... at the station on time.",
+        "answers": [
+            "would have arrived",
+            "will arrive",
+            "arrived",
+            "would arrive"
+        ],
+        "rightAnswer": "will arrive"
+    },
+    {
+        "content": "",
+        "question": "Because his finger was broken, the secretary could not type..........",
+        "answers": [
+            "efficiently",
+            "intermittently",
+            "slowly",
+            "gradually"
+        ],
+        "rightAnswer": "efficiently"
+    },
+    {
+        "content": "",
+        "question": "The head housekeeper is going to ask Ms. Chang how much time she .......... available.",
+        "answers": [
+            "will have had",
+            "is having",
+            "have",
+            "has"
+        ],
+        "rightAnswer": "has"
+    },
+    {
+        "content": "",
+        "question": "Very often someone will give a ....... of a film and when you see it for yourself, it's quite different.",
+        "answers": [
+            "describing ",
+            "describes ",
+            "described ",
+            "description"
+        ],
+        "rightAnswer": "description"
+    },
+    {
+        "content": "",
+        "question": "Once you are earning money and you want to keep it safe, you can always ....... an account with a bank.",
+        "answers": [
+            "open ",
+            "start ",
+            "begin ",
+            "commence"
+        ],
+        "rightAnswer": "open "
+    },
+    {
+        "content": "",
+        "question": "A good team leader must be able to ....... his colleagues to face the challenge of a downturn in business.",
+        "answers": [
+            "inspiring ",
+            "inspiration ",
+            "inspires ",
+            "inspire"
+        ],
+        "rightAnswer": "inspire"
+    },
+    {
+        "content": "",
+        "question": "It is the policy of the company to ....... all interviews for new recruits with a member of the trade union present.",
+        "answers": [
+            "control ",
+            "conduct ",
+            "convene ",
+            "confirm"
+        ],
+        "rightAnswer": "conduct "
+    },
+    {
+        "content": "",
+        "question": "The loan you have taken out is for a ....... term, which in your case is 5 years.",
+        "answers": [
+            "steady ",
+            "fixed ",
+            "long ",
+            "exact"
+        ],
+        "rightAnswer": "fixed "
+    },
+    {
+        "content": "",
+        "question": "The plane will be landing..........Chicago in twenty minutes.",
+        "answers": [
+            "with",
+            "into",
+            "in",
+            "for"
+        ],
+        "rightAnswer": "in"
+    },
+    {
+        "content": "",
+        "question": "All cabin attendants must lock the cabin door..........leaving the room.",
+        "answers": [
+            "afterwards",
+            "after",
+            "later than",
+            "late"
+        ],
+        "rightAnswer": "after"
+    },
+    {
+        "content": "",
+        "question": "The restaurant is open on weekends,..........not on holidays.",
+        "answers": [
+            "either",
+            "or",
+            "so",
+            "but"
+        ],
+        "rightAnswer": "but"
+    },
+    {
+        "content": "",
+        "question": "The airline will refund the money .......... you cancel the reservation.",
+        "answers": [
+            "during",
+            "soon",
+            "when",
+            "until"
+        ],
+        "rightAnswer": "when"
+    },
+    {
+        "content": "",
+        "question": "Have you ever used this type of copy machine .......... ?",
+        "answers": [
+            "before",
+            "prior",
+            "advance",
+            "previous"
+        ],
+        "rightAnswer": "before"
+    },
+    {
+        "content": "",
+        "question": "The delay in ....... the film to the general public was because certain scenes were considered tasteless.",
+        "answers": [
+            "replacing ",
+            "repeating ",
+            "releasing ",
+            "reporting"
+        ],
+        "rightAnswer": "releasing "
+    },
+    {
+        "content": "",
+        "question": "Unfortunately it is now 11 o'clock and so there is a ....... of 15 minutes already.",
+        "answers": [
+            "waiting ",
+            "lateness ",
+            "space ",
+            "delay"
+        ],
+        "rightAnswer": "delay"
+    },
+    {
+        "content": "",
+        "question": "Recent reports have ....... that being in debt is not now looked upon as a disgrace but rather as an attractive way of life.",
+        "answers": [
+            "revealed ",
+            "restored ",
+            "replied ",
+            "responded"
+        ],
+        "rightAnswer": "revealed "
+    },
+    {
+        "content": "",
+        "question": "The reason for the ....... in the economy is because there is a great deal of uncertainty at the moment.",
+        "answers": [
+            "slowness ",
+            "slowly ",
+            "slowdown ",
+            "slow"
+        ],
+        "rightAnswer": "slowdown "
+    },
+    {
+        "content": "",
+        "question": "It was at this stage that I was seriously considering getting ....... of the machine",
+        "answers": [
+            "rid ",
+            "riddance ",
+            "hold ",
+            "loose"
+        ],
+        "rightAnswer": "rid "
+    },
+    {
+        "content": "",
+        "question": "I heard of a new company today with which we should co-operate and ....... business with.",
+        "answers": [
+            "make ",
+            "create ",
+            "have ",
+            "do"
+        ],
+        "rightAnswer": "do"
+    },
+    {
+        "content": "",
+        "question": "Laptop computers are becoming more and more ....... in the business world.",
+        "answers": [
+            "famous ",
+            "popular ",
+            "sought ",
+            "wished"
+        ],
+        "rightAnswer": "popular "
+    },
+    {
+        "content": "",
+        "question": "You can ....... the cost of insuring your car if you keep it in a garage.",
+        "answers": [
+            "refine ",
+            "drop ",
+            "cut ",
+            "slice"
+        ],
+        "rightAnswer": "cut "
+    },
+    {
+        "content": "",
+        "question": "Sometimes you get a one year warranty, a two year one or even a six month one \u2014 they all ........",
+        "answers": [
+            "various ",
+            "variable ",
+            "variety ",
+            "vary"
+        ],
+        "rightAnswer": "vary"
+    },
+    {
+        "content": "",
+        "question": "We'll never agree, that's clear so let's ....... to differ.",
+        "answers": [
+            "ask ",
+            "bid ",
+            "beg ",
+            "try"
+        ],
+        "rightAnswer": "beg "
+    },
+    {
+        "content": "",
+        "question": "It started off as a small street corner shop over 3 years ago but it has now ....... into a massive department store.",
+        "answers": [
+            "expanded ",
+            "extended ",
+            "explored ",
+            "enlarged"
+        ],
+        "rightAnswer": "expanded "
+    },
+    {
+        "content": "",
+        "question": "A university education is of course important but it is essential that all employees undergo a period of intensive ........",
+        "answers": [
+            "preparation ",
+            "concentration ",
+            "training ",
+            "learning"
+        ],
+        "rightAnswer": "training "
+    },
+    {
+        "content": "",
+        "question": "The idea caught on very quickly and people were queuing up to buy the goods so that year the company's investment ....... substantial profits.",
+        "answers": [
+            "confirmed ",
+            "yielded ",
+            "harvested ",
+            "maintained"
+        ],
+        "rightAnswer": "yielded "
+    },
+    {
+        "content": "",
+        "question": "In that particular industry everyone has to look after themselves because the law of the ....... rules.",
+        "answers": [
+            "animals ",
+            "zoo ",
+            "jungle ",
+            "forest"
+        ],
+        "rightAnswer": "jungle "
+    },
+    {
+        "content": "",
+        "question": "Throughout this time of course I have been without the ....... of a washing machine",
+        "answers": [
+            "faculty ",
+            "facility ",
+            "ability ",
+            "control"
+        ],
+        "rightAnswer": "facility "
+    },
+    {
+        "content": "",
+        "question": "It's difficult to say exactly how many people are involved but I would say ....... 5.",
+        "answers": [
+            "around ",
+            "across ",
+            "through ",
+            "intoa"
+        ],
+        "rightAnswer": "around "
+    },
+    {
+        "content": "",
+        "question": "The train now ....... at the platform 6 is the 1.45 for London.",
+        "answers": [
+            "sitting ",
+            "standing ",
+            "waiting ",
+            "remaining"
+        ],
+        "rightAnswer": "standing "
+    },
+    {
+        "content": "",
+        "question": "Unfortunately this program is not ....... with the operating system on my computer.",
+        "answers": [
+            "amicable ",
+            "compatible ",
+            "adaptable ",
+            "amenable"
+        ],
+        "rightAnswer": "compatible "
+    },
+    {
+        "content": "",
+        "question": "This charity was set up to ....... money for the poor.",
+        "answers": [
+            "collect ",
+            "gather ",
+            "assemble ",
+            "convene"
+        ],
+        "rightAnswer": "collect "
+    },
+    {
+        "content": "",
+        "question": "A newsletter is sent out every ten days to all the staff so that they receive a regular ....... on recent appointments.",
+        "answers": [
+            "update ",
+            "dating ",
+            "dates ",
+            "dated"
+        ],
+        "rightAnswer": "update "
+    },
+    {
+        "content": "",
+        "question": "I would be very interested in ....... for that job.",
+        "answers": [
+            "entering ",
+            "working ",
+            "applying ",
+            "writing"
+        ],
+        "rightAnswer": "applying "
+    },
+    {
+        "content": "",
+        "question": "Shortly after he was dismissed from the firm he decided to ....... himself up in his own business.",
+        "answers": [
+            "put ",
+            "set ",
+            "place ",
+            "hold"
+        ],
+        "rightAnswer": "set "
+    },
+    {
+        "content": "",
+        "question": "Some people are ....... to learn a foreign language.",
+        "answers": [
+            "unaccustomed ",
+            "shy ",
+            "reluctant ",
+            "inhibited"
+        ],
+        "rightAnswer": "reluctant "
+    },
+    {
+        "content": "",
+        "question": "The price of petrol has ....... again.",
+        "answers": [
+            "raised ",
+            "risen ",
+            "escalated ",
+            "ascended"
+        ],
+        "rightAnswer": "risen "
+    },
+    {
+        "content": "",
+        "question": "We will make no ....... for the catalogue, which you can take with our compliments.",
+        "answers": [
+            "cost ",
+            "debt ",
+            "charge ",
+            "payment"
+        ],
+        "rightAnswer": "charge "
+    },
+    {
+        "content": "",
+        "question": "At midnight, the second shift of security guards .......... . on duty.",
+        "answers": [
+            "coming",
+            "to come",
+            "comes",
+            "come"
+        ],
+        "rightAnswer": "comes"
+    },
+    {
+        "content": "",
+        "question": "Ms. Najar wants to .......... the costs by tonight.",
+        "answers": [
+            "final",
+            "finalize",
+            "finally",
+            "finality"
+        ],
+        "rightAnswer": "finalize"
+    },
+    {
+        "content": "",
+        "question": "Ms. Yu has suggested ..........more reservation clerks.",
+        "answers": [
+            "hire",
+            "hiring",
+            "hired",
+            "to hire"
+        ],
+        "rightAnswer": "hiring"
+    },
+    {
+        "content": "",
+        "question": "A customer service representative .......... at our catalogue number.",
+        "answers": [
+            "always is available",
+            "is always available",
+            "is available always",
+            "being always available"
+        ],
+        "rightAnswer": "is always available"
+    },
+    {
+        "content": "",
+        "question": "Can you meet with us ..........  11:00?",
+        "answers": [
+            "on",
+            "for",
+            "at",
+            "in"
+        ],
+        "rightAnswer": "at"
+    },
+    {
+        "content": "",
+        "question": "The CD-player was damaged when it ..........",
+        "answers": [
+            "was delivered",
+            "has delivered",
+            "was delivering",
+            "had delivered"
+        ],
+        "rightAnswer": "was delivered"
+    },
+    {
+        "content": "",
+        "question": "The operator does not remember receiving a fax from the Madrid office .......... from the Paris office.",
+        "answers": [
+            "or",
+            "and",
+            "either",
+            "but"
+        ],
+        "rightAnswer": "or"
+    },
+    {
+        "content": "",
+        "question": "Passengers can check in for the charter flight .......... 8:00 and 12:00 tomorrow.",
+        "answers": [
+            "between",
+            "with",
+            "through",
+            "from"
+        ],
+        "rightAnswer": "between"
+    },
+    {
+        "content": "",
+        "question": "The head of the porters  .......... guests with their luggage.",
+        "answers": [
+            "assist",
+            "were assisting",
+            "assists",
+            "are assisting"
+        ],
+        "rightAnswer": "assists"
+    },
+    {
+        "content": "",
+        "question": "The variety of insurance benefits .......... very broad under this policy.",
+        "answers": [
+            "are",
+            "is",
+            "being",
+            "be"
+        ],
+        "rightAnswer": "is"
+    },
+    {
+        "content": "",
+        "question": "Try and be a little more cheerful because if you don't bear ....... soon, you'll make everyone else miserable.",
+        "answers": [
+            "through ",
+            "along ",
+            "up ",
+            "to"
+        ],
+        "rightAnswer": "up "
+    },
+    {
+        "content": "",
+        "question": "Her latest film ....... its object in a very short space of time, which was to shock.",
+        "answers": [
+            "acquired ",
+            "got ",
+            "attained ",
+            "controlled"
+        ],
+        "rightAnswer": "attained "
+    },
+    {
+        "content": "",
+        "question": "Ladies and gentlemen, I want to thank you for your ....... of our performance.",
+        "answers": [
+            "appearance ",
+            "appreciation ",
+            "appeasement ",
+            "apparition"
+        ],
+        "rightAnswer": "appreciation "
+    },
+    {
+        "content": "",
+        "question": "For the first three months of your employment with the firm you will be under the care of a ........",
+        "answers": [
+            "minor ",
+            "monitor ",
+            "mender ",
+            "mentor"
+        ],
+        "rightAnswer": "mentor"
+    },
+    {
+        "content": "",
+        "question": "I'm afraid to tell you that your standard of work has fallen well below what we think is ........",
+        "answers": [
+            "considerable ",
+            "believable ",
+            "acceptable ",
+            "available"
+        ],
+        "rightAnswer": "acceptable "
+    },
+    {
+        "content": "",
+        "question": "It was one of those sights that you never forget it was ........",
+        "answers": [
+            "fine ",
+            "awesome ",
+            "interesting ",
+            "clear"
+        ],
+        "rightAnswer": "awesome "
+    },
+    {
+        "content": "",
+        "question": "After the soldiers I can see a group of circus ....... who are jumping and dancing as they go.",
+        "answers": [
+            "members ",
+            "doers ",
+            "actors ",
+            "performers"
+        ],
+        "rightAnswer": "performers"
+    },
+    {
+        "content": "",
+        "question": "They have a ....... restriction in the shop with regard to the number of items of clothing that you can try on at one time.",
+        "answers": [
+            "legal ",
+            "reasonable ",
+            "required ",
+            "mandatory"
+        ],
+        "rightAnswer": "mandatory"
+    },
+    {
+        "content": "",
+        "question": "I'm really not satisfied with the way you have ....... the situation.",
+        "answers": [
+            "dealt ",
+            "handled ",
+            "done ",
+            "fingered"
+        ],
+        "rightAnswer": "handled "
+    },
+    {
+        "content": "",
+        "question": "The amount of money that my wife will get has already been calculated by State Ranch's ........",
+        "answers": [
+            "manager ",
+            "archivist ",
+            "actuary ",
+            "agent"
+        ],
+        "rightAnswer": "actuary "
+    },
+    {
+        "content": "",
+        "question": "Could you tell me please how ....... I am from the town centre?",
+        "answers": [
+            "near ",
+            "far ",
+            "close ",
+            "away"
+        ],
+        "rightAnswer": "far "
+    },
+    {
+        "content": "",
+        "question": "In view of our previous orders over the last year we were offered a 1% ....... on any future dealings.",
+        "answers": [
+            "discord ",
+            "dispute ",
+            "dislike ",
+            "discount"
+        ],
+        "rightAnswer": "discount"
+    },
+    {
+        "content": "",
+        "question": "As the couple had a ....... account, the money to pay the mortage was taken from there.",
+        "answers": [
+            "joint ",
+            "united ",
+            "unified ",
+            "joined"
+        ],
+        "rightAnswer": "joint "
+    },
+    {
+        "content": "",
+        "question": "Although he knew it was a sensitive subject, his boss had to ask him the ....... question about his drink problem.",
+        "answers": [
+            "sincere ",
+            "fragile ",
+            "breakable ",
+            "delicate"
+        ],
+        "rightAnswer": "delicate"
+    },
+    {
+        "content": "",
+        "question": "I regret I have no choice but to reject the plan out of ........",
+        "answers": [
+            "power ",
+            "court ",
+            "hand ",
+            "grip"
+        ],
+        "rightAnswer": "hand "
+    },
+    {
+        "content": "",
+        "question": "If the managers want to stay employed, they will have to learn how to stay on ....... of their jobs.",
+        "answers": [
+            "summit ",
+            "top ",
+            "head ",
+            "line"
+        ],
+        "rightAnswer": "top "
+    },
+    {
+        "content": "",
+        "question": "My insurance does not ....... me if I commit suicide.",
+        "answers": [
+            "collect ",
+            "cover ",
+            "console ",
+            "contribute"
+        ],
+        "rightAnswer": "cover "
+    },
+    {
+        "content": "",
+        "question": "Tell us something about your ....... in the engineering industry?",
+        "answers": [
+            "foreground ",
+            "background ",
+            "knowledge ",
+            "history"
+        ],
+        "rightAnswer": "background "
+    },
+    {
+        "content": "",
+        "question": "The representative of the financial consultants assured her that the policy of the firm was that of complete ........",
+        "answers": [
+            "destiny ",
+            "devotion ",
+            "commitment ",
+            "attention"
+        ],
+        "rightAnswer": "commitment "
+    },
+    {
+        "content": "",
+        "question": "Then the final result is announced that there is to be a ....... between EASISHOP and GOSHOP, which will then become a super supermarket.",
+        "answers": [
+            "joiner ",
+            "combine ",
+            "link ",
+            "merger"
+        ],
+        "rightAnswer": "merger"
+    },
+    {
+        "content": "",
+        "question": "You've refused to help me now for six months and so I shall now have to take the matter ........",
+        "answers": [
+            "on ",
+            "longer ",
+            "far ",
+            "further"
+        ],
+        "rightAnswer": "further"
+    },
+    {
+        "content": "",
+        "question": "I'm obviously not getting anywhere with my complaint please let me talk to someone ....... to you.",
+        "answers": [
+            "older ",
+            "above ",
+            "over ",
+            "senior"
+        ],
+        "rightAnswer": "senior"
+    },
+    {
+        "content": "",
+        "question": "I'm sure if you ......., you'll succeed.",
+        "answers": [
+            "pursue ",
+            "proceed ",
+            "propel ",
+            "persevere"
+        ],
+        "rightAnswer": "persevere"
+    },
+    {
+        "content": "",
+        "question": "The early 193s ....... in dozens of radio dramatic series that were known as soap operas because they were sponsored by soap companies.",
+        "answers": [
+            "escorted ",
+            "showed ",
+            "ushered ",
+            "welcomed"
+        ],
+        "rightAnswer": "ushered "
+    },
+    {
+        "content": "",
+        "question": "Another benefit, the stock ownership plan, permits the employee to buy ....... of the company's stock at subsidized prices.",
+        "answers": [
+            "sections ",
+            "segments ",
+            "shares ",
+            "slices"
+        ],
+        "rightAnswer": "shares "
+    },
+    {
+        "content": "",
+        "question": "An independent adviser was called in after the collapse of the company to ....... some of the issues that were not clear.",
+        "answers": [
+            "result ",
+            "retake ",
+            "restrain ",
+            "resolve"
+        ],
+        "rightAnswer": "resolve"
+    },
+    {
+        "content": "",
+        "question": "It has been ....... by a government agency that the percentage of under 25 year olds owing large sums to companies is on the increase.",
+        "answers": [
+            "distinguished ",
+            "deciphered ",
+            "dissolved ",
+            "disclosed"
+        ],
+        "rightAnswer": "disclosed"
+    },
+    {
+        "content": "",
+        "question": "It's good that we both have the same way of ....... at things.",
+        "answers": [
+            "seeing ",
+            "peeping ",
+            "looking ",
+            "viewing"
+        ],
+        "rightAnswer": "looking "
+    },
+    {
+        "content": "",
+        "question": "I took the wrong ....... at the last road junction, can you tell me how I get back on the motorway?",
+        "answers": [
+            "turn ",
+            "turner ",
+            "turned ",
+            "turning"
+        ],
+        "rightAnswer": "turning"
+    },
+    {
+        "content": "",
+        "question": "Mary: Yes, that's excellent. Another short sound that ....... to me is brass.",
+        "answers": [
+            "attracts ",
+            "adheres ",
+            "appeals ",
+            "attains"
+        ],
+        "rightAnswer": "appeals "
+    },
+    {
+        "content": "",
+        "question": "Will the driver of the blue Ford Fiesta XYZ 343 please ....... their car.",
+        "answers": [
+            "send ",
+            "move ",
+            "take ",
+            "tow"
+        ],
+        "rightAnswer": "move "
+    },
+    {
+        "content": "",
+        "question": "The main problem was that the newly formed organisation was not attracting enough work and so they decided to ....... the services of a public relations expert.",
+        "answers": [
+            "call ",
+            "engage ",
+            "enter ",
+            "register"
+        ],
+        "rightAnswer": "engage "
+    },
+    {
+        "content": "",
+        "question": "The chief administrative officer disliked lack of attention to detail and insisted that such mistakes should never ........",
+        "answers": [
+            "recur ",
+            "repeat ",
+            "retake ",
+            "refer"
+        ],
+        "rightAnswer": "recur "
+    },
+    {
+        "content": "",
+        "question": "The ordinary person is again being asked to ....... to pay for dental treatment.",
+        "answers": [
+            "stump up ",
+            "throw up ",
+            "cheer up ",
+            "bring up"
+        ],
+        "rightAnswer": "stump up "
+    },
+    {
+        "content": "",
+        "question": "You have to accept that this kind of expenditure is quite ....... in an enterprise of this kind.",
+        "answers": [
+            "general ",
+            "typical ",
+            "formal ",
+            "correct"
+        ],
+        "rightAnswer": "typical "
+    },
+    {
+        "content": "",
+        "question": "Mr. Hatori was very..........when he got a promotion.",
+        "answers": [
+            "excite'",
+            "exciting",
+            "excited",
+            "excites"
+        ],
+        "rightAnswer": "excited"
+    },
+    {
+        "content": "",
+        "question": ".......... she left the ship, the purser signed out.",
+        "answers": [
+            "For",
+            "That",
+            "And",
+            "Before"
+        ],
+        "rightAnswer": "Before"
+    },
+    {
+        "content": "",
+        "question": "Ask the accounts receivable clerk .......... the invoice.",
+        "answers": [
+            "to send",
+            "sending",
+            "will send",
+            "sends"
+        ],
+        "rightAnswer": "to send"
+    },
+    {
+        "content": "",
+        "question": "If the product were not safe, we .......... it.",
+        "answers": [
+            "had sold",
+            "don't sell",
+            "will sell",
+            "would not sell"
+        ],
+        "rightAnswer": "would not sell"
+    },
+    {
+        "content": "",
+        "question": "The meeting will be held .......... Thursday.",
+        "answers": [
+            "of",
+            "in",
+            "for",
+            "on"
+        ],
+        "rightAnswer": "on"
+    },
+    {
+        "content": "",
+        "question": "The reason there are no buses is because the drivers are on ........",
+        "answers": [
+            "hit ",
+            "stop ",
+            "strike ",
+            "leave"
+        ],
+        "rightAnswer": "strike "
+    },
+    {
+        "content": "",
+        "question": "Interest ....... are at their lowest level since the 195's.",
+        "answers": [
+            "figures ",
+            "rates ",
+            "numbers ",
+            "standards"
+        ],
+        "rightAnswer": "rates "
+    },
+    {
+        "content": "",
+        "question": "Nothing in the world will ever make me change my ....... on that subject.",
+        "answers": [
+            "thought ",
+            "mind ",
+            "idea ",
+            "heart"
+        ],
+        "rightAnswer": "mind "
+    },
+    {
+        "content": "",
+        "question": "What on earth are you talking about? I can't make head or ....... of it.",
+        "answers": [
+            "tail ",
+            "end ",
+            "finish ",
+            "part"
+        ],
+        "rightAnswer": "tail "
+    },
+    {
+        "content": "",
+        "question": "When I telephoned your store and explained the ....... to your receptionist,",
+        "answers": [
+            "criterion ",
+            "situation ",
+            "place ",
+            "happening"
+        ],
+        "rightAnswer": "situation "
+    },
+    {
+        "content": "",
+        "question": "In order to make a sensible ....... among the different vacuum cleaners available, it is important to do some research.",
+        "answers": [
+            "comparing ",
+            "comparison ",
+            "compares ",
+            "comparative"
+        ],
+        "rightAnswer": "comparison "
+    },
+    {
+        "content": "",
+        "question": "Do you want to ....... as a candidate in the local elections?",
+        "answers": [
+            "stand ",
+            "sit ",
+            "go ",
+            "try"
+        ],
+        "rightAnswer": "stand "
+    },
+    {
+        "content": "",
+        "question": "The main problem is that a debt ....... has developed recently believing that it is cool to owe large sums of money.",
+        "answers": [
+            "cultivation ",
+            "cult ",
+            "cultivate ",
+            "culture"
+        ],
+        "rightAnswer": "culture"
+    },
+    {
+        "content": "",
+        "question": "Is this ....... for the railway station?",
+        "answers": [
+            "correct ",
+            "clear ",
+            "fine ",
+            "right"
+        ],
+        "rightAnswer": "right"
+    },
+    {
+        "content": "",
+        "question": "Before the product is put on the market, the company must ....... whether it complies with safety standards.",
+        "answers": [
+            "ask ",
+            "calculate ",
+            "ascertain ",
+            "argue"
+        ],
+        "rightAnswer": "ascertain "
+    },
+    {
+        "content": "",
+        "question": ".......... it was Mr. Guiton's birthday, his staff took him to lunch.",
+        "answers": [
+            "Although",
+            "During",
+            "Because",
+            "That"
+        ],
+        "rightAnswer": "Because"
+    },
+    {
+        "content": "",
+        "question": "Ms. Franklin directed a very .......... project.",
+        "answers": [
+            "successfully",
+            "successive",
+            "success",
+            "successful"
+        ],
+        "rightAnswer": "successful"
+    },
+    {
+        "content": "",
+        "question": "The airport taxes are .......... in the ticket price.",
+        "answers": [
+            "including",
+            "include",
+            "been included",
+            "included"
+        ],
+        "rightAnswer": "included"
+    },
+    {
+        "content": "",
+        "question": "New paint .......... pictures will make the office look better.",
+        "answers": [
+            "but",
+            "and",
+            "as",
+            "though"
+        ],
+        "rightAnswer": "and"
+    },
+    {
+        "content": "",
+        "question": "The president had her travel agent .......... the reservations.",
+        "answers": [
+            "made",
+            "has made",
+            "make",
+            "makes"
+        ],
+        "rightAnswer": "make"
+    },
+    {
+        "content": "",
+        "question": "The seminar was canceled because the invitations were not..........in time.",
+        "answers": [
+            "printer",
+            "printed",
+            "printing",
+            "print"
+        ],
+        "rightAnswer": "printed"
+    },
+    {
+        "content": "",
+        "question": "This product..........our most popular item.",
+        "answers": [
+            "always has considered been",
+            "has been always considered",
+            "has been considered always",
+            "has always been considered"
+        ],
+        "rightAnswer": "has always been considered"
+    },
+    {
+        "content": "",
+        "question": "Budget meetings are held .......... in the conference room.",
+        "answers": [
+            "rarely",
+            "every'week",
+            "always",
+            "sometimes"
+        ],
+        "rightAnswer": "every'week"
+    },
+    {
+        "content": "",
+        "question": "An administrative assistant keeps an office running .......... ",
+        "answers": [
+            "smooth",
+            "smoothness",
+            "smoothed",
+            "smoothly"
+        ],
+        "rightAnswer": "smoothly"
+    },
+    {
+        "content": "",
+        "question": "A record of complaints ..........  kept in the purser's office.",
+        "answers": [
+            "are",
+            "is",
+            "were",
+            "has"
+        ],
+        "rightAnswer": "is"
+    },
+    {
+        "content": "",
+        "question": "The judge dismissed the new evidence completely because it had no bearing ....... the trial.",
+        "answers": [
+            "to ",
+            "on ",
+            "into ",
+            "by"
+        ],
+        "rightAnswer": "on "
+    },
+    {
+        "content": "",
+        "question": "I see. So what you are saying is ........",
+        "answers": [
+            "I'm holding up your trade ",
+            "I'm holding off your trade",
+            "I'm holding on your trade",
+            "I'm holding in your trade"
+        ],
+        "rightAnswer": "I'm holding up your trade "
+    },
+    {
+        "content": "",
+        "question": "Visiting clients had commented on the casual dress ....... of most of the clerical staff.",
+        "answers": [
+            "manner ",
+            "method ",
+            "feature ",
+            "code"
+        ],
+        "rightAnswer": "code"
+    },
+    {
+        "content": "",
+        "question": "Each year the Chancellor of the Exchequer stands up in the House of Commons and gives a ....... of what is seen as the economic outlook for the country.",
+        "answers": [
+            "forecast ",
+            "foretell ",
+            "foresee ",
+            "forego"
+        ],
+        "rightAnswer": "forecast "
+    },
+    {
+        "content": "",
+        "question": "What a wonderful day to see the mountains .......!",
+        "answers": [
+            "off ",
+            "by ",
+            "on ",
+            "in"
+        ],
+        "rightAnswer": "on "
+    },
+    {
+        "content": "",
+        "question": "It really is quite uncomfortable up here and there's a policeman ....... at me, which I don't like.",
+        "answers": [
+            "spying ",
+            "guiding ",
+            "staring ",
+            "starring"
+        ],
+        "rightAnswer": "staring "
+    },
+    {
+        "content": "",
+        "question": "You are never too young to start ....... some money in a savings account.",
+        "answers": [
+            "inputting ",
+            "interesting ",
+            "infusing ",
+            "investing"
+        ],
+        "rightAnswer": "investing"
+    },
+    {
+        "content": "",
+        "question": "Her job in the company was to sort out the relevant information thereby ....... it so that only appropriate material was sent to her directors.",
+        "answers": [
+            "draining ",
+            "filtering ",
+            "cleaning ",
+            "dredging"
+        ],
+        "rightAnswer": "filtering "
+    },
+    {
+        "content": "",
+        "question": "Imagine one of your staff loses her temper and shouts at you in front of others, how would you ....... with this?",
+        "answers": [
+            "take ",
+            "do ",
+            "handle ",
+            "deal"
+        ],
+        "rightAnswer": "deal"
+    },
+    {
+        "content": "",
+        "question": "who were most ....... hand",
+        "answers": [
+            "to ",
+            "in ",
+            "by ",
+            "off"
+        ],
+        "rightAnswer": "off"
+    },
+    {
+        "content": "",
+        "question": "I can strongly recommend this ....... as the best available on the market today.",
+        "answers": [
+            "producer ",
+            "product ",
+            "production ",
+            "produce"
+        ],
+        "rightAnswer": "product "
+    },
+    {
+        "content": "",
+        "question": "The aim of the office manager is to ....... enough room on the building plans so that each employee can have space for a personal computer.",
+        "answers": [
+            "arrange ",
+            "accord ",
+            "allocate ",
+            "organize"
+        ],
+        "rightAnswer": "allocate "
+    },
+    {
+        "content": "",
+        "question": "I've warned you before that you shouldn't get involved in this matter and you have ....... business discussing it.",
+        "answers": [
+            "some ",
+            "little ",
+            "no ",
+            "not"
+        ],
+        "rightAnswer": "no "
+    },
+    {
+        "content": "",
+        "question": "You sometimes have to ....... very seriously whether to buy a second hand car which has no guarantee.",
+        "answers": [
+            "consider ",
+            "contend ",
+            "contain ",
+            "convince"
+        ],
+        "rightAnswer": "consider "
+    },
+    {
+        "content": "",
+        "question": "I was informed that this was out of the .......",
+        "answers": [
+            "problem ",
+            "concern ",
+            "question ",
+            "hand"
+        ],
+        "rightAnswer": "question "
+    },
+    {
+        "content": "",
+        "question": "We were in a small rowing boat and were terrified that the steamer hadn't seen us as it was bearing ....... on us.",
+        "answers": [
+            "down ",
+            "across ",
+            "over ",
+            "under"
+        ],
+        "rightAnswer": "down "
+    },
+    {
+        "content": "",
+        "question": "We would like to ....... our customers that over the Christmas period we will be closing an hour earlier than usual.",
+        "answers": [
+            "remember ",
+            "retake ",
+            "repeat ",
+            "remind"
+        ],
+        "rightAnswer": "remind"
+    },
+    {
+        "content": "",
+        "question": "There are now only ten minutes remaining for you to make your ....... and go to the checkout.",
+        "answers": [
+            "purchases ",
+            "buying ",
+            "sales ",
+            "selling"
+        ],
+        "rightAnswer": "purchases "
+    },
+    {
+        "content": "",
+        "question": "There's really no point in hoping to add important topics right at the end of the meeting under the heading of any other ........",
+        "answers": [
+            "business ",
+            "work ",
+            "activity ",
+            "tasks"
+        ],
+        "rightAnswer": "business "
+    },
+    {
+        "content": "",
+        "question": "So many of these animals have been shot over the years that they are now classed as ....... species.",
+        "answers": [
+            "dangerous ",
+            "endangered ",
+            "unwanted ",
+            "limited"
+        ],
+        "rightAnswer": "endangered "
+    },
+    {
+        "content": "",
+        "question": "I really think we should talk about the subject we wanted to in the first place and ....... the issue.",
+        "answers": [
+            "advise ",
+            "speak ",
+            "address ",
+            "talk"
+        ],
+        "rightAnswer": "address "
+    },
+    {
+        "content": "",
+        "question": "There was in fact a small fire in the train on platform 6 but we're glad to tell you that the flames have been ........",
+        "answers": [
+            "distinguished ",
+            "dampened ",
+            "saturated ",
+            "extinguished"
+        ],
+        "rightAnswer": "extinguished"
+    },
+    {
+        "content": "",
+        "question": "The ....... of zip discs in the office is running dangerously low.",
+        "answers": [
+            "share ",
+            "state ",
+            "stock ",
+            "selection"
+        ],
+        "rightAnswer": "stock "
+    },
+    {
+        "content": "",
+        "question": "The circular will contain ....... financial information to help investors.",
+        "answers": [
+            "key ",
+            "obvious ",
+            "intelligent ",
+            "noted"
+        ],
+        "rightAnswer": "key "
+    },
+    {
+        "content": "",
+        "question": "I have a long ....... of things I think are wrong, where shall I start?",
+        "answers": [
+            "story ",
+            "description ",
+            "file ",
+            "list"
+        ],
+        "rightAnswer": "list"
+    },
+    {
+        "content": "",
+        "question": "The critics ....... to praise the work of this director whatever films he makes.",
+        "answers": [
+            "run ",
+            "continue ",
+            "persist ",
+            "insist"
+        ],
+        "rightAnswer": "continue "
+    },
+    {
+        "content": "",
+        "question": "The theme of the second film is quite simply a ....... of the first.",
+        "answers": [
+            "construction ",
+            "continuation ",
+            "continuum ",
+            "continuing"
+        ],
+        "rightAnswer": "continuation "
+    },
+    {
+        "content": "",
+        "question": "Managers prefer to select people who have been ....... to many different types of office environments.",
+        "answers": [
+            "devoted ",
+            "exposed ",
+            "opened ",
+            "experienced"
+        ],
+        "rightAnswer": "exposed "
+    },
+    {
+        "content": "",
+        "question": "The product had been on the market for some years and was selling well but somehow the image was in need of a face lift or ........",
+        "answers": [
+            "enhancement ",
+            "enthusiasm ",
+            "endeavour ",
+            "enticement"
+        ],
+        "rightAnswer": "enhancement "
+    },
+    {
+        "content": "",
+        "question": "As this is a managerial post, we must ask you how you deal with bad ....... keeping or unpunctuality in an employee.",
+        "answers": [
+            "house ",
+            "space ",
+            "time ",
+            "record"
+        ],
+        "rightAnswer": "time "
+    },
+    {
+        "content": "",
+        "question": "We thought for a moment that the 1.45 for London might be about to catch fire but it was a ....... alarm.",
+        "answers": [
+            "wrong ",
+            "false ",
+            "difficult ",
+            "general"
+        ],
+        "rightAnswer": "false "
+    },
+    {
+        "content": "",
+        "question": "However hard I try, I find it impossible to account ....... this missing sum of money.",
+        "answers": [
+            "with ",
+            "to ",
+            "for ",
+            "by"
+        ],
+        "rightAnswer": "for "
+    },
+    {
+        "content": "",
+        "question": "After the complaint had been received from the customer about poor service, she was given a written ....... that the matter would be put right.",
+        "answers": [
+            "paper ",
+            "insurance ",
+            "assurance ",
+            "conviction"
+        ],
+        "rightAnswer": "assurance "
+    },
+    {
+        "content": "",
+        "question": "You can ....... on me for your support.",
+        "answers": [
+            "show ",
+            "rely ",
+            "try ",
+            "test"
+        ],
+        "rightAnswer": "rely "
+    },
+    {
+        "content": "",
+        "question": "From the end of May until August I have been away on business and was surprised that ....... that period",
+        "answers": [
+            "while ",
+            "attending ",
+            "from ",
+            "during"
+        ],
+        "rightAnswer": "during"
+    },
+    {
+        "content": "",
+        "question": "Concern was expressed by the office manager that the company would buy an ....... financial package.",
+        "answers": [
+            "agreeable ",
+            "affordable ",
+            "absolute ",
+            "actual"
+        ],
+        "rightAnswer": "affordable "
+    },
+    {
+        "content": "",
+        "question": "They tried very hard to install the new components on the computer but the language in the manual was too ....... for them to understand.",
+        "answers": [
+            "technical ",
+            "technique ",
+            "technician ",
+            "technically"
+        ],
+        "rightAnswer": "technical "
+    },
+    {
+        "content": "",
+        "question": "I'm pleased to say that we speak on this matter with one ........",
+        "answers": [
+            "sound ",
+            "tone ",
+            "harmony ",
+            "voice"
+        ],
+        "rightAnswer": "voice"
+    },
+    {
+        "content": "",
+        "question": "I must ....... you do something immediately as I've been patient long enough.",
+        "answers": [
+            "persist ",
+            "desist ",
+            "insist ",
+            "consist"
+        ],
+        "rightAnswer": "insist "
+    },
+    {
+        "content": "",
+        "question": "You could have knocked me down with a feather! You mean to say he's ....... cleaned my car.",
+        "answers": [
+            "certainly ",
+            "surely ",
+            "naturally ",
+            "actually"
+        ],
+        "rightAnswer": "actually"
+    },
+    {
+        "content": "",
+        "question": "We don't know precisely how much it will cost but I could give a ....... figure of 6 million dollars.",
+        "answers": [
+            "ball field ",
+            "ball place ",
+            "ball park ",
+            "ball game"
+        ],
+        "rightAnswer": "ball park "
+    },
+    {
+        "content": "",
+        "question": "The leading lady is also absent from our stage and you can probably hear her ....... her heart out as I speak.",
+        "answers": [
+            "sobbing ",
+            "soaking ",
+            "spitting ",
+            "calling"
+        ],
+        "rightAnswer": "sobbing "
+    },
+    {
+        "content": "",
+        "question": "I have tried and tried again and again and no matter what I do it still shows \"error\" \u2014 I just can't ....... what's wrong.",
+        "answers": [
+            "look out ",
+            "check out ",
+            "figure out ",
+            "bring out"
+        ],
+        "rightAnswer": "figure out "
+    },
+    {
+        "content": "",
+        "question": "Whenever I go to the old part of a city, I like to ....... all the shops selling antiques.",
+        "answers": [
+            "examine ",
+            "search ",
+            "check ",
+            "explore"
+        ],
+        "rightAnswer": "explore"
+    },
+    {
+        "content": "",
+        "question": "Plans have already been drawn ....... to deal with such situations.",
+        "answers": [
+            "over ",
+            "through ",
+            "up ",
+            "into"
+        ],
+        "rightAnswer": "up "
+    },
+    {
+        "content": "",
+        "question": "Thirty years ago this kind of informality would not have been ........",
+        "answers": [
+            "withheld ",
+            "endured ",
+            "suffered ",
+            "tolerated"
+        ],
+        "rightAnswer": "tolerated"
+    },
+    {
+        "content": "",
+        "question": "Although they had high hopes that they would be successful, they ....... out of business within six months.",
+        "answers": [
+            "turned ",
+            "came ",
+            "went ",
+            "fell"
+        ],
+        "rightAnswer": "went "
+    },
+    {
+        "content": "",
+        "question": "....... it has not been a bad year as our costs are well down on last year's.",
+        "answers": [
+            "Overall ",
+            "Largely ",
+            "Mainly ",
+            "Quite"
+        ],
+        "rightAnswer": "Overall "
+    },
+    {
+        "content": "",
+        "question": "What a disaster! I don't believe anything else could go ....... now.",
+        "answers": [
+            "off ",
+            "wrong ",
+            "incorrect ",
+            "false"
+        ],
+        "rightAnswer": "wrong "
+    },
+    {
+        "content": "",
+        "question": "In the hope of finding fresh ideas he used the internet to help him by using as many search ....... as he could discover.",
+        "answers": [
+            "gangways ",
+            "portals ",
+            "doorways ",
+            "passages"
+        ],
+        "rightAnswer": "portals "
+    },
+    {
+        "content": "",
+        "question": "When you see that particular symbol on the screen, you have to take that as a ....... that something is wrong.",
+        "answers": [
+            "indicating ",
+            "checking ",
+            "briefing ",
+            "warning"
+        ],
+        "rightAnswer": "warning"
+    },
+    {
+        "content": "",
+        "question": "Certain warranties ....... the purchaser to have the item serviced at regular intervals.",
+        "answers": [
+            "remand ",
+            "repeat ",
+            "require ",
+            "retain"
+        ],
+        "rightAnswer": "require "
+    },
+    {
+        "content": "",
+        "question": "It's all very well having a dream or an idea but you must know where you're going and what your ....... is.",
+        "answers": [
+            "terminus ",
+            "terminal ",
+            "goal ",
+            "tendency"
+        ],
+        "rightAnswer": "goal "
+    },
+    {
+        "content": "",
+        "question": "You must increase the sale of this commodity by trying to interest a different age range and by ....... into their society.",
+        "answers": [
+            "dripping ",
+            "floating ",
+            "tapping ",
+            "sailing"
+        ],
+        "rightAnswer": "tapping "
+    },
+    {
+        "content": "",
+        "question": "She is trying to get some form of ....... to make up for the poor working conditions she had to put up with for all those years.",
+        "answers": [
+            "cooperation ",
+            "confirmation ",
+            "compensation ",
+            "consideration"
+        ],
+        "rightAnswer": "compensation "
+    },
+    {
+        "content": "",
+        "question": "Inter Coast Airlines' flight .......... Seoul has been delayed.",
+        "answers": [
+            "to",
+            "in",
+            "by",
+            "at"
+        ],
+        "rightAnswer": "to"
+    },
+    {
+        "content": "",
+        "question": "The finance committee will meet again  .......... the eighth of May.",
+        "answers": [
+            "for",
+            "to",
+            "from",
+            "on"
+        ],
+        "rightAnswer": "on"
+    },
+    {
+        "content": "",
+        "question": "The .......... of the new building will start next month.",
+        "answers": [
+            "constructive",
+            "construction",
+            "construct",
+            "constructed"
+        ],
+        "rightAnswer": "construction"
+    },
+    {
+        "content": "",
+        "question": "The itinerary .......... with the cruise list.",
+        "answers": [
+            "be filing",
+            "is filed",
+            "be filed",
+            "is filing"
+        ],
+        "rightAnswer": "is filed"
+    },
+    {
+        "content": "",
+        "question": "Please .......... me any time if I can help you.",
+        "answers": [
+            "are calling",
+            "call",
+            "calls",
+            "will call"
+        ],
+        "rightAnswer": "call"
+    },
+    {
+        "content": "",
+        "question": "We all have our ....... to bear so I should be grateful if you would stop complaining all the time.",
+        "answers": [
+            "problems ",
+            "situations ",
+            "crosses ",
+            "results"
+        ],
+        "rightAnswer": "crosses "
+    },
+    {
+        "content": "",
+        "question": "In order to check all the telephone calls made during the month I want the account to be ........",
+        "answers": [
+            "detailed ",
+            "particular ",
+            "specialized ",
+            "itemized"
+        ],
+        "rightAnswer": "itemized"
+    },
+    {
+        "content": "",
+        "question": "He was very keen that we kept in touch and for that reason he handed me his business ........",
+        "answers": [
+            "ticket ",
+            "paper ",
+            "card ",
+            "notice"
+        ],
+        "rightAnswer": "card "
+    },
+    {
+        "content": "",
+        "question": "I'm afraid this cheque will be of no value until you have put your ....... on it.",
+        "answers": [
+            "signature ",
+            "signs ",
+            "signing ",
+            "signed"
+        ],
+        "rightAnswer": "signature "
+    },
+    {
+        "content": "",
+        "question": "Of course there is a little extra added to your salary because you will ....... from the inner city allowance.",
+        "answers": [
+            "increase ",
+            "benefit ",
+            "grow ",
+            "develop"
+        ],
+        "rightAnswer": "benefit "
+    },
+    {
+        "content": "",
+        "question": "She's got the kind of job that seems to keep her occupied all the time \u2014 24-........",
+        "answers": [
+            "4 ",
+            "5 ",
+            "6 ",
+            "7"
+        ],
+        "rightAnswer": "7"
+    },
+    {
+        "content": "",
+        "question": "One of the ....... mentioned in the original agreement has decided that she does not want to continue with the profit-sharing scheme.",
+        "answers": [
+            "partakers ",
+            "participants ",
+            "particles ",
+            "parties"
+        ],
+        "rightAnswer": "parties"
+    },
+    {
+        "content": "",
+        "question": "The ....... of staff doing physical exercises before the start of the day is well established in Japanese companies.",
+        "answers": [
+            "practical ",
+            "practicality ",
+            "practice ",
+            "practically"
+        ],
+        "rightAnswer": "practice "
+    },
+    {
+        "content": "",
+        "question": "The chairman was obliged to bring the meeting to a ....... because a fire broke out in the adjoining room.",
+        "answers": [
+            "cessation ",
+            "standstill ",
+            "stopping ",
+            "halt"
+        ],
+        "rightAnswer": "halt"
+    },
+    {
+        "content": "",
+        "question": "Obviously a computer can take all the hard work out of ....... a large mass of data.",
+        "answers": [
+            "proceeding ",
+            "procedure ",
+            "processing ",
+            "processes"
+        ],
+        "rightAnswer": "processing "
+    },
+    {
+        "content": "",
+        "question": "Interviewer: So you're not after the job of guardian, ........",
+        "answers": [
+            "I presume ",
+            "I pretend ",
+            "I prefer ",
+            "I preview"
+        ],
+        "rightAnswer": "I presume "
+    },
+    {
+        "content": "",
+        "question": "There is a long line of soldiers on horseback marching to the sound of a ....... band.",
+        "answers": [
+            "copper ",
+            "brass ",
+            "zinc ",
+            "aluminium"
+        ],
+        "rightAnswer": "brass "
+    },
+    {
+        "content": "",
+        "question": "All right, all right Mr manager. Just as you say, ........",
+        "answers": [
+            "of course I'll wash the dishes in the kitchen",
+            "inevitably I'll wash the dishes in the kitchen",
+            "understandably I'll wash the dishes in the kitchen",
+            "indubitably I'll wash the dishes in the kitchen"
+        ],
+        "rightAnswer": "of course I'll wash the dishes in the kitchen"
+    },
+    {
+        "content": "",
+        "question": "They were very careful to make sure in the original agreement that ....... would be made to pay for staff redundancies.",
+        "answers": [
+            "foresight ",
+            "forecast ",
+            "providing ",
+            "provision"
+        ],
+        "rightAnswer": "provision"
+    },
+    {
+        "content": "",
+        "question": "It's a gamble at the moment whether the company will make profit in its second year but that nevertheless is the ....... aim.",
+        "answers": [
+            "wanted ",
+            "wished ",
+            "desired ",
+            "needed"
+        ],
+        "rightAnswer": "desired "
+    },
+    {
+        "content": "",
+        "question": "In the making of the film the direction is quite ....... from the financing of the project.",
+        "answers": [
+            "separate ",
+            "separation ",
+            "separately ",
+            "separates"
+        ],
+        "rightAnswer": "separate "
+    },
+    {
+        "content": "",
+        "question": "The reason for this is that the Fiesta is ....... our delivery lorry from leaving the premises.",
+        "answers": [
+            "holding ",
+            "keeping ",
+            "preventing ",
+            "promoting"
+        ],
+        "rightAnswer": "preventing "
+    },
+    {
+        "content": "",
+        "question": "She was very enthusiastic about her new job and was making rapid progress ....... nobody's business.",
+        "answers": [
+            "as ",
+            "with ",
+            "similar ",
+            "like"
+        ],
+        "rightAnswer": "like"
+    },
+    {
+        "content": "",
+        "question": "In the event of my death, the ....... will be my widow.",
+        "answers": [
+            "recipient ",
+            "widow ",
+            "donor ",
+            "beneficiary"
+        ],
+        "rightAnswer": "beneficiary"
+    },
+    {
+        "content": "",
+        "question": "I am writing this letter to you as a sort of last ....... since all my attempts to phone you",
+        "answers": [
+            "result ",
+            "return ",
+            "report ",
+            "resort"
+        ],
+        "rightAnswer": "resort"
+    },
+    {
+        "content": "",
+        "question": "The only reason for them going to the cinema on that day was to find some form of ........",
+        "answers": [
+            "internment ",
+            "involvement ",
+            "engrossment ",
+            "entertainment"
+        ],
+        "rightAnswer": "entertainment"
+    },
+    {
+        "content": "",
+        "question": "Managers complained bitterly at the Annual General Meeting that ....... of production had dropped to an all time low.",
+        "answers": [
+            "signs ",
+            "indications ",
+            "types ",
+            "levels"
+        ],
+        "rightAnswer": "levels"
+    },
+    {
+        "content": "",
+        "question": "I prefer to deal in ....... cash rather than cheques.",
+        "answers": [
+            "solid ",
+            "hard ",
+            "real ",
+            "actual"
+        ],
+        "rightAnswer": "hard "
+    },
+    {
+        "content": "",
+        "question": "If you are self-employed, you must make sure that you ....... the form indicating how much you have earned.",
+        "answers": [
+            "fill up ",
+            "fill through ",
+            "fill out ",
+            "fill on"
+        ],
+        "rightAnswer": "fill out "
+    },
+    {
+        "content": "",
+        "question": "The only problem with your cooking is that the more I eat, the more I want ....... more.",
+        "answers": [
+            "any ",
+            "all ",
+            "some ",
+            "no"
+        ],
+        "rightAnswer": "some "
+    },
+    {
+        "content": "",
+        "question": "I fully understand your comments and bearing those in ......., I have made the appropriate decision.",
+        "answers": [
+            "brain ",
+            "mind ",
+            "thought ",
+            "sense"
+        ],
+        "rightAnswer": "mind "
+    },
+    {
+        "content": "",
+        "question": "The really effective television commercial is the one that ....... you of its authenticity.",
+        "answers": [
+            "persuades ",
+            "persuasion ",
+            "persuasive ",
+            "persuading"
+        ],
+        "rightAnswer": "persuades "
+    },
+    {
+        "content": "",
+        "question": "They are completely ....... up with all the noise in the centre of town.",
+        "answers": [
+            "tired ",
+            "fed ",
+            "sick ",
+            "ill"
+        ],
+        "rightAnswer": "fed "
+    },
+    {
+        "content": "",
+        "question": "As this job was of a very specialist nature an ....... was invited to join the interview panel.",
+        "answers": [
+            "expert ",
+            "exponent ",
+            "exhibitor ",
+            "expedient"
+        ],
+        "rightAnswer": "expert "
+    },
+    {
+        "content": "",
+        "question": "The building society sent a letter to all its savers and ....... that there would be a reduction in the interest rate.",
+        "answers": [
+            "lenders ",
+            "borrowers ",
+            "loans ",
+            "takers"
+        ],
+        "rightAnswer": "borrowers "
+    },
+    {
+        "content": "",
+        "question": "This is a ....... example of what not to do.",
+        "answers": [
+            "critical ",
+            "pure ",
+            "simple ",
+            "prime"
+        ],
+        "rightAnswer": "prime"
+    },
+    {
+        "content": "",
+        "question": "They have no respect for modern conventions and do exactly what they want \u2014 they are a law ....... themselves.",
+        "answers": [
+            "unto ",
+            "into ",
+            "outside ",
+            "across"
+        ],
+        "rightAnswer": "unto "
+    },
+    {
+        "content": "",
+        "question": "Inspiration has its place in any form of product development but at the same time you also need to adopt some kind of ....... approach.",
+        "answers": [
+            "systematic ",
+            "thematic ",
+            "automatic ",
+            "emblematic"
+        ],
+        "rightAnswer": "systematic "
+    },
+    {
+        "content": "",
+        "question": "The advantages of working for this company is that all employees ....... themselves as a member of the team.",
+        "answers": [
+            "believe ",
+            "think ",
+            "perceive ",
+            "hold"
+        ],
+        "rightAnswer": "perceive "
+    },
+    {
+        "content": "",
+        "question": "I'll give you just one more ....... and after that, you'll be in real trouble.",
+        "answers": [
+            "go ",
+            "occasion ",
+            "time ",
+            "chance"
+        ],
+        "rightAnswer": "chance"
+    },
+    {
+        "content": "",
+        "question": "The purchasing department is located..........the reception desk.",
+        "answers": [
+            "across",
+            "between",
+            "behind",
+            "from"
+        ],
+        "rightAnswer": "behind"
+    },
+    {
+        "content": "",
+        "question": "Employees dislike tasks that are..........",
+        "answers": [
+            "repeat",
+            "repetitive",
+            "repetition",
+            "repetitively"
+        ],
+        "rightAnswer": "repetitive"
+    },
+    {
+        "content": "",
+        "question": "The receptionist receives packages and .......... them until the proper department is notified.",
+        "answers": [
+            "is holding",
+            "held",
+            "hold",
+            "holds"
+        ],
+        "rightAnswer": "holds"
+    },
+    {
+        "content": "",
+        "question": "Mr. Vasco worked hard to develop his  .......... in electronics.",
+        "answers": [
+            "expertly",
+            "expert",
+            "expertise",
+            "expectant"
+        ],
+        "rightAnswer": "expertise"
+    },
+    {
+        "content": "",
+        "question": ".......... costs make profits smaller.",
+        "answers": [
+            "Raise",
+            "Risen",
+            "Rising",
+            "Raised"
+        ],
+        "rightAnswer": "Rising"
+    },
+    {
+        "content": "",
+        "question": "Interviewer: You mean you like the idea of an office with ........",
+        "answers": [
+            "air control ",
+            "air managment ",
+            "air conditioning ",
+            "air condition"
+        ],
+        "rightAnswer": "air conditioning "
+    },
+    {
+        "content": "",
+        "question": "The great thing about this guarantee is that there is never any doubt and there is no ....... about getting your money back.",
+        "answers": [
+            "squabble ",
+            "argument ",
+            "quibble ",
+            "quarrel"
+        ],
+        "rightAnswer": "quibble "
+    },
+    {
+        "content": "",
+        "question": "I see no ....... why you shouldn't be accepted as an employee.",
+        "answers": [
+            "cause ",
+            "sense ",
+            "reason ",
+            "doubt"
+        ],
+        "rightAnswer": "reason "
+    },
+    {
+        "content": "",
+        "question": "It's all very well having a dream or an idea but you must know where you're going and what your ....... is.",
+        "answers": [
+            "terminus ",
+            "terminal ",
+            "goal ",
+            "tendency"
+        ],
+        "rightAnswer": "goal "
+    },
+    {
+        "content": "",
+        "question": "In the hope of finding fresh ideas he used the internet to help him by using as many search ....... as he could discover.",
+        "answers": [
+            "gangways ",
+            "portals ",
+            "doorways ",
+            "passages"
+        ],
+        "rightAnswer": "portals "
+    },
+    {
+        "content": "",
+        "question": "Quite honestly the two cases are so completely different that they really don't bear ........",
+        "answers": [
+            "confirmation ",
+            "contrast ",
+            "comprehension ",
+            "comparison"
+        ],
+        "rightAnswer": "comparison"
+    },
+    {
+        "content": "",
+        "question": "If you have saved some money, it is a good idea to put the money into a ....... account.",
+        "answers": [
+            "heap ",
+            "pile ",
+            "lump ",
+            "deposit"
+        ],
+        "rightAnswer": "deposit"
+    },
+    {
+        "content": "",
+        "question": "My computer is not capable of saving material on a separate ....... because it has no floppy drive.",
+        "answers": [
+            "space ",
+            "compact ",
+            "disc ",
+            "place"
+        ],
+        "rightAnswer": "disc "
+    },
+    {
+        "content": "",
+        "question": "After the interview one of the candidates ....... phoned the office to see whether he had been successful.",
+        "answers": [
+            "always ",
+            "ever ",
+            "constantly ",
+            "competently"
+        ],
+        "rightAnswer": "constantly "
+    },
+    {
+        "content": "",
+        "question": "In January this year I bought a washing machine from you for which I paid .......",
+        "answers": [
+            "cash ",
+            "money ",
+            "cheque ",
+            "pounds"
+        ],
+        "rightAnswer": "cash "
+    },
+    {
+        "content": "",
+        "question": "The guard must..........your identification at the gate.",
+        "answers": [
+            "checked",
+            "checking",
+            "checks",
+            "check"
+        ],
+        "rightAnswer": "check"
+    },
+    {
+        "content": "",
+        "question": "By Friday, twenty-five applications had been submitted .......... the position. of desk clerk.",
+        "answers": [
+            "at",
+            "on",
+            "for",
+            "by"
+        ],
+        "rightAnswer": "for"
+    },
+    {
+        "content": "",
+        "question": ".......... they were ordered, the brochures and business cards were never printed.",
+        "answers": [
+            "Although",
+            "Even",
+            "However",
+            "Despite"
+        ],
+        "rightAnswer": "Although"
+    },
+    {
+        "content": "",
+        "question": "The supervisor had Ms. Balla .......... her job responsibilities.",
+        "answers": [
+            "to write",
+            "wrote",
+            "written",
+            "write"
+        ],
+        "rightAnswer": "write"
+    },
+    {
+        "content": "",
+        "question": "Mr. Benito received the notice .......... January 5.",
+        "answers": [
+            "on",
+            "in",
+            "at",
+            "to"
+        ],
+        "rightAnswer": "on"
+    },
+    {
+        "content": "",
+        "question": "The train for London at platform 6 is still there and is not ....... to leave for at least 2 minutes.",
+        "answers": [
+            "intended ",
+            "expected ",
+            "proposed ",
+            "awaited"
+        ],
+        "rightAnswer": "expected "
+    },
+    {
+        "content": "",
+        "question": "You must try and hurry up because my patience is ....... out.",
+        "answers": [
+            "running ",
+            "racing ",
+            "pacing ",
+            "turning"
+        ],
+        "rightAnswer": "running "
+    },
+    {
+        "content": "",
+        "question": "We got there early so that we could get the best ....... in the sale before anyone else.",
+        "answers": [
+            "objects ",
+            "products ",
+            "bargains ",
+            "offerings"
+        ],
+        "rightAnswer": "bargains "
+    },
+    {
+        "content": "",
+        "question": "Never ....... up. That's a good philosophy.",
+        "answers": [
+            "give ",
+            "do ",
+            "take ",
+            "try"
+        ],
+        "rightAnswer": "give "
+    },
+    {
+        "content": "",
+        "question": "In London in any underground station it is ....... the law to smoke.",
+        "answers": [
+            "by ",
+            "for ",
+            "through ",
+            "against"
+        ],
+        "rightAnswer": "against"
+    },
+    {
+        "content": "",
+        "question": "Interviewer: I think there must be a mistake, I ........",
+        "answers": [
+            "put it you're Mr Johnson",
+            "take it you're Mr Johnson",
+            "place it you're Mr Johnson",
+            "try it you're Mr Johnson"
+        ],
+        "rightAnswer": "take it you're Mr Johnson"
+    },
+    {
+        "content": "",
+        "question": "We decided to employ a solicitor who would be able to ....... the extent of our liability in this matter.",
+        "answers": [
+            "decipher ",
+            "decide ",
+            "defer ",
+            "determine"
+        ],
+        "rightAnswer": "determine"
+    },
+    {
+        "content": "",
+        "question": "One of the great advantages of using the Internet is that people can ....... more quickly.",
+        "answers": [
+            "interfere ",
+            "interrupt ",
+            "intervene ",
+            "interact"
+        ],
+        "rightAnswer": "interact"
+    },
+    {
+        "content": "",
+        "question": "At the beginning of May I decided that the only course of action was to ....... a visit to your store",
+        "answers": [
+            "charge ",
+            "settle ",
+            "pay ",
+            "owe"
+        ],
+        "rightAnswer": "pay "
+    },
+    {
+        "content": "",
+        "question": "John: Another one that ....... with jolly is the word lolly.",
+        "answers": [
+            "sounds ",
+            "strikes ",
+            "hits ",
+            "rhymes"
+        ],
+        "rightAnswer": "rhymes"
+    },
+    {
+        "content": "",
+        "question": "With this program you can always check your spelling and grammar and if you don't want to accept what it shows, you simply press ........",
+        "answers": [
+            "'ignore' ",
+            "'quit' ",
+            "'leave' ",
+            "'forget'"
+        ],
+        "rightAnswer": "'ignore' "
+    },
+    {
+        "content": "",
+        "question": "According to the ....... in the report it is clear that employees under the age of 35 prefer to dress casually at work.",
+        "answers": [
+            "seeking ",
+            "searching ",
+            "findings ",
+            "probing"
+        ],
+        "rightAnswer": "findings "
+    },
+    {
+        "content": "",
+        "question": "All employees are kindly requested to ....... from smoking in the presence of customers.",
+        "answers": [
+            "stop ",
+            "restrain ",
+            "refrain ",
+            "restrict"
+        ],
+        "rightAnswer": "refrain "
+    },
+    {
+        "content": "",
+        "question": "If ever you find you have an unexpected expense, you can always ....... some money from your savings.",
+        "answers": [
+            "extract ",
+            "exit ",
+            "withhold ",
+            "withdraw"
+        ],
+        "rightAnswer": "withdraw"
+    },
+    {
+        "content": "",
+        "question": "I would like to tell you the story from the ....... beginning.",
+        "answers": [
+            "simple ",
+            "same ",
+            "extreme ",
+            "very"
+        ],
+        "rightAnswer": "very"
+    },
+    {
+        "content": "",
+        "question": "The future of his job was at ....... when he made the decision to invest in new machinery.",
+        "answers": [
+            "steak ",
+            "state ",
+            "stake ",
+            "stress"
+        ],
+        "rightAnswer": "stake "
+    },
+    {
+        "content": "",
+        "question": "I'm ....... for the town hall \u2014 am I anywhere near?",
+        "answers": [
+            "seeking ",
+            "making ",
+            "seeing ",
+            "trying"
+        ],
+        "rightAnswer": "making "
+    },
+    {
+        "content": "",
+        "question": "In order to cut down the expenses of compiling and sending out the invoices, you need to employ an ....... administrator.",
+        "answers": [
+            "officious ",
+            "effecting ",
+            "efficient ",
+            "affected"
+        ],
+        "rightAnswer": "efficient "
+    },
+    {
+        "content": "",
+        "question": "At the moment we are experiencing some cash ....... problems because little money is coming in.",
+        "answers": [
+            "fly ",
+            "stream ",
+            "flow ",
+            "run"
+        ],
+        "rightAnswer": "flow "
+    },
+    {
+        "content": "",
+        "question": "Timing can be ....... crucial when you're considering launching a new online marketing campaign.",
+        "answers": [
+            "strongly ",
+            "greatly ",
+            "extremely ",
+            "already"
+        ],
+        "rightAnswer": "extremely "
+    },
+    {
+        "content": "",
+        "question": "After all these years she has decided to take early ........",
+        "answers": [
+            "leave ",
+            "finishing ",
+            "departure ",
+            "retirement"
+        ],
+        "rightAnswer": "retirement"
+    },
+    {
+        "content": "",
+        "question": "Job losses are mainly in the ....... sectors of the industry.",
+        "answers": [
+            "blue-collar ",
+            "red-collar ",
+            "stiff-collar ",
+            "high-collar"
+        ],
+        "rightAnswer": "blue-collar "
+    },
+    {
+        "content": "",
+        "question": "I was totally ....... of the increased taxes.",
+        "answers": [
+            "unknowing ",
+            "unclear ",
+            "incredulous ",
+            "unaware"
+        ],
+        "rightAnswer": "unaware"
+    },
+    {
+        "content": "",
+        "question": "One of the most popular questions asked of interviewees is to explain their strengths and ........",
+        "answers": [
+            "weaknesses ",
+            "varieties ",
+            "virtues ",
+            "variables"
+        ],
+        "rightAnswer": "weaknesses "
+    },
+    {
+        "content": "",
+        "question": "Since returning in September I have made at least a dozen phone calls and quite frankly I have reached the end of my ........",
+        "answers": [
+            "tether ",
+            "line ",
+            "rope ",
+            "cord"
+        ],
+        "rightAnswer": "tether "
+    },
+    {
+        "content": "",
+        "question": "When you need supplies,...........a request with the office manager.",
+        "answers": [
+            "filling",
+            "fell",
+            "fallen",
+            "file"
+        ],
+        "rightAnswer": "file"
+    },
+    {
+        "content": "",
+        "question": "The bell captain suggested that more porters..........hired.",
+        "answers": [
+            "are",
+            "have",
+            "be",
+            "do"
+        ],
+        "rightAnswer": "be"
+    },
+    {
+        "content": "",
+        "question": "The last train to Hamburg..........at 10:30.",
+        "answers": [
+            "depart",
+            "departs",
+            "to depart",
+            "departing"
+        ],
+        "rightAnswer": "departs"
+    },
+    {
+        "content": "",
+        "question": "The vice-president will be seated ..........        the chairman at the banquet.",
+        "answers": [
+            "as",
+            "by",
+            "to",
+            "from"
+        ],
+        "rightAnswer": "by"
+    },
+    {
+        "content": "",
+        "question": "The manager got his staff .......... last weekend.",
+        "answers": [
+            "to work",
+            "was working",
+            "workable",
+            "worked"
+        ],
+        "rightAnswer": "to work"
+    },
+    {
+        "content": "",
+        "question": "We have to inform our customers that the store will be closing in half an hour's ........",
+        "answers": [
+            "o'clock ",
+            "time ",
+            "hour ",
+            "duration"
+        ],
+        "rightAnswer": "time "
+    },
+    {
+        "content": "",
+        "question": "The two companies have decided to ....... because they believe that their combined resources will produce greater profits.",
+        "answers": [
+            "merge ",
+            "double ",
+            "mix ",
+            "blend"
+        ],
+        "rightAnswer": "merge "
+    },
+    {
+        "content": "",
+        "question": "Can you help please because I've lost my way and ....... to get to the shops before closing time?",
+        "answers": [
+            "need ",
+            "require ",
+            "request ",
+            "must"
+        ],
+        "rightAnswer": "need "
+    },
+    {
+        "content": "",
+        "question": "You mustn't ever be ....... off by a few setbacks.",
+        "answers": [
+            "taken ",
+            "held ",
+            "put ",
+            "pushed"
+        ],
+        "rightAnswer": "put "
+    },
+    {
+        "content": "",
+        "question": "and made ....... for it to be delivered to my home in Southcote on the following Tuesday.",
+        "answers": [
+            "instigations ",
+            "arrangements ",
+            "alterations ",
+            "confirmations"
+        ],
+        "rightAnswer": "arrangements "
+    },
+    {
+        "content": "",
+        "question": "When you are setting out to ....... new customers in an advertisement, choose the right words.",
+        "answers": [
+            "attraction ",
+            "attractive ",
+            "attract ",
+            "attracts"
+        ],
+        "rightAnswer": "attract "
+    },
+    {
+        "content": "",
+        "question": "This supermarket is trying to ....... young shoppers by offering fashionable clothes.",
+        "answers": [
+            "target ",
+            "persuade ",
+            "encourage ",
+            "trap"
+        ],
+        "rightAnswer": "target "
+    },
+    {
+        "content": "",
+        "question": "The meeting went on for three hours and as a result there was no time left to discuss all the topics on the ........",
+        "answers": [
+            "list ",
+            "index ",
+            "contents ",
+            "agenda"
+        ],
+        "rightAnswer": "agenda"
+    },
+    {
+        "content": "",
+        "question": "I should explain that we would naturally ....... any previous holiday arrangements you have made.",
+        "answers": [
+            "believe ",
+            "show ",
+            "decide ",
+            "honour"
+        ],
+        "rightAnswer": "honour"
+    },
+    {
+        "content": "",
+        "question": "Again I stayed in all day in ....... and there was no delivery.",
+        "answers": [
+            "vain ",
+            "fault ",
+            "vanity ",
+            "error"
+        ],
+        "rightAnswer": "vain "
+    },
+    {
+        "content": "",
+        "question": "I hope you can be patient for a little longer and bear ....... me while I try and solve the problem.",
+        "answers": [
+            "by ",
+            "on ",
+            "at ",
+            "with"
+        ],
+        "rightAnswer": "with"
+    },
+    {
+        "content": "",
+        "question": "I spent hours writing that report and checking all the information was correct and then without thinking I pressed the ....... button.",
+        "answers": [
+            "'destroy' ",
+            "'delete' ",
+            "'deface' ",
+            "'deny'"
+        ],
+        "rightAnswer": "'delete' "
+    },
+    {
+        "content": "",
+        "question": "I think that your financial optimism is not really justified and you should adopt a more ....... attitude.",
+        "answers": [
+            "really ",
+            "realize ",
+            "reality ",
+            "realistic"
+        ],
+        "rightAnswer": "realistic"
+    },
+    {
+        "content": "",
+        "question": "Don't give up whatever you do. I'm sure you'll ....... it in the end.",
+        "answers": [
+            "acquire ",
+            "get ",
+            "put ",
+            "make"
+        ],
+        "rightAnswer": "make"
+    },
+    {
+        "content": "",
+        "question": "They were so impressed with the way she reacted to their questions that they didn't ....... to offer her the job.",
+        "answers": [
+            "delay ",
+            "hesitate ",
+            "waiver ",
+            "dither"
+        ],
+        "rightAnswer": "hesitate "
+    },
+    {
+        "content": "",
+        "question": "Don't worry I'm sure it's only ....... and that he'll soon recover before the next performance.",
+        "answers": [
+            "temperate ",
+            "temporary ",
+            "contemporary ",
+            "temporarily"
+        ],
+        "rightAnswer": "temporary "
+    },
+    {
+        "content": "",
+        "question": "Are you aware of the latest ....... in children's clothing?",
+        "answers": [
+            "tendency ",
+            "trend ",
+            "custom ",
+            "habit"
+        ],
+        "rightAnswer": "trend "
+    },
+    {
+        "content": "",
+        "question": "You can argue with me till the cows come ....... but I can't accept that.",
+        "answers": [
+            "away ",
+            "along ",
+            "back ",
+            "home"
+        ],
+        "rightAnswer": "home"
+    },
+    {
+        "content": "",
+        "question": "She told him to stop wasting time by coming up with tried and tested ideas and in this way simply re-inventing the ........",
+        "answers": [
+            "circle ",
+            "round ",
+            "curve ",
+            "wheel"
+        ],
+        "rightAnswer": "wheel"
+    },
+    {
+        "content": "",
+        "question": "Before these articles leave the factory to be forwarded to the retailer, each one is thoroughly ........",
+        "answers": [
+            "seen ",
+            "looked at ",
+            "appraised ",
+            "inspected"
+        ],
+        "rightAnswer": "inspected"
+    },
+    {
+        "content": "",
+        "question": "The film was the first to show conditions in which poor people lived and as such was to ....... future directors.",
+        "answers": [
+            "influence ",
+            "hold ",
+            "infect ",
+            "show"
+        ],
+        "rightAnswer": "influence "
+    },
+    {
+        "content": "",
+        "question": "In view of the serious problems associated with the takeover the newspaper company has decided to ....... its offer of financial help.",
+        "answers": [
+            "throw ",
+            "reject ",
+            "cancel ",
+            "deter"
+        ],
+        "rightAnswer": "cancel "
+    },
+    {
+        "content": "",
+        "question": "The great advantage of having an external zip drive is that you can use it as an extra means of ........",
+        "answers": [
+            "hoarding ",
+            "keeping ",
+            "holding ",
+            "storage"
+        ],
+        "rightAnswer": "storage"
+    },
+    {
+        "content": "",
+        "question": "Our views clearly ....... at this point I'm pleased to say.",
+        "answers": [
+            "convert ",
+            "concert ",
+            "conduct ",
+            "coincide"
+        ],
+        "rightAnswer": "coincide"
+    },
+    {
+        "content": "",
+        "question": "The product had been on the market for some years and was selling well but somehow the image was in need of a face lift or ........",
+        "answers": [
+            "enhancement ",
+            "enthusiasm ",
+            "endeavour ",
+            "enticement"
+        ],
+        "rightAnswer": "enhancement "
+    },
+    {
+        "content": "",
+        "question": "Interviewer: I should have thought this was ........",
+        "answers": [
+            "clear obvious ",
+            "mostly obvious ",
+            "pretty obvious ",
+            "mainly obvious"
+        ],
+        "rightAnswer": "pretty obvious "
+    },
+    {
+        "content": "",
+        "question": "If you ....... with me, I'll go and see whether we have that in your size.",
+        "answers": [
+            "hold ",
+            "stay ",
+            "bear ",
+            "wait"
+        ],
+        "rightAnswer": "bear "
+    },
+    {
+        "content": "",
+        "question": "The figures that have just been published by the company's accountants will give management some kind of ....... on how sales are going.",
+        "answers": [
+            "prospective ",
+            "perception ",
+            "perusal ",
+            "perspective"
+        ],
+        "rightAnswer": "perspective"
+    },
+    {
+        "content": "",
+        "question": "....... to this map I should be near the church. Is it near?",
+        "answers": [
+            "Following ",
+            "After ",
+            "According ",
+            "considering"
+        ],
+        "rightAnswer": "According "
+    },
+    {
+        "content": "",
+        "question": "One of the most important qualities which the panel is looking for in a candidate is the ....... to work with others.",
+        "answers": [
+            "ease ",
+            "case ",
+            "power ",
+            "ability"
+        ],
+        "rightAnswer": "ability"
+    },
+    {
+        "content": "",
+        "question": "Hotel employees are..........to knock before entering the rooms.",
+        "answers": [
+            "requited",
+            "required",
+            "requisite",
+            "repulsed"
+        ],
+        "rightAnswer": "required"
+    },
+    {
+        "content": "",
+        "question": "Visitors are reminded..........name tags at all times.",
+        "answers": [
+            "to wear",
+            "wear",
+            "be worn",
+            "is wearing"
+        ],
+        "rightAnswer": "to wear"
+    },
+    {
+        "content": "",
+        "question": "Mr. Nolde called to cancel his..........",
+        "answers": [
+            "notebook",
+            "calendar",
+            "appointment",
+            "notice"
+        ],
+        "rightAnswer": "appointment"
+    },
+    {
+        "content": "",
+        "question": "A manager .......... new things from his or her staff.",
+        "answers": [
+            "can sometimes learn",
+            "learning sometimes can",
+            "sometimes learn can",
+            "sometimes can learning"
+        ],
+        "rightAnswer": "can sometimes learn"
+    },
+    {
+        "content": "",
+        "question": "The budget analysis is due .......... . Friday.",
+        "answers": [
+            "at",
+            "from",
+            "until",
+            "on"
+        ],
+        "rightAnswer": "on"
+    },
+    {
+        "content": "",
+        "question": "The ....... of alcohol is not allowed in any of the company's premises in order to present a clean image.",
+        "answers": [
+            "consumer ",
+            "consumption ",
+            "consuming ",
+            "consumes"
+        ],
+        "rightAnswer": "consumption "
+    },
+    {
+        "content": "",
+        "question": "Take a good look at the receipt when you leave so that you can see that all the ....... have been listed.",
+        "answers": [
+            "proceeds ",
+            "items ",
+            "products ",
+            "produce"
+        ],
+        "rightAnswer": "items "
+    },
+    {
+        "content": "",
+        "question": "In view of the excessive workload you have at the moment I won't expect you to keep ....... during the next few days.",
+        "answers": [
+            "on line ",
+            "on road ",
+            "on track ",
+            "on path"
+        ],
+        "rightAnswer": "on track "
+    },
+    {
+        "content": "",
+        "question": "I certainly won't ....... any objection when you make your proposal.",
+        "answers": [
+            "rise ",
+            "raise ",
+            "lift ",
+            "arise"
+        ],
+        "rightAnswer": "raise "
+    },
+    {
+        "content": "",
+        "question": "I'm sick and ....... of always having to put right your mistakes.",
+        "answers": [
+            "weary ",
+            "exhausted ",
+            "fatigued ",
+            "tired"
+        ],
+        "rightAnswer": "tired"
+    },
+    {
+        "content": "",
+        "question": "You fill in those forms on a weekly ........",
+        "answers": [
+            "stand ",
+            "base ",
+            "size ",
+            "basis"
+        ],
+        "rightAnswer": "basis"
+    },
+    {
+        "content": "",
+        "question": "Candidate: I think the main reason is because I like working in ........",
+        "answers": [
+            "the free air ",
+            "the clear air ",
+            "the pure air ",
+            "the open air"
+        ],
+        "rightAnswer": "the open air"
+    },
+    {
+        "content": "",
+        "question": "It's not worth paying for an annual service when you can simply call the supplier on an as-....... basis.",
+        "answers": [
+            "needed ",
+            "noted ",
+            "called ",
+            "told"
+        ],
+        "rightAnswer": "needed "
+    },
+    {
+        "content": "",
+        "question": "Currently there is a shortage of clerical staff but it is hoped that by the end of the year they will be up to full ........",
+        "answers": [
+            "capability ",
+            "capacity ",
+            "control ",
+            "capable"
+        ],
+        "rightAnswer": "capacity "
+    },
+    {
+        "content": "",
+        "question": "If you go to an unauthorized garage to have your car serviced, the ....... is that your warranty will be invalid.",
+        "answers": [
+            "consequence ",
+            "conduct ",
+            "convenience ",
+            "consideration"
+        ],
+        "rightAnswer": "consequence "
+    },
+    {
+        "content": "",
+        "question": "A final ....... for the driver of the Ford Fiesta: there is no need now to repark as our delivery lorry has done that for you!",
+        "answers": [
+            "note ",
+            "message ",
+            "saying ",
+            "hint"
+        ],
+        "rightAnswer": "message "
+    },
+    {
+        "content": "",
+        "question": "You say you have no choice but to ........",
+        "answers": [
+            "collect the manager ",
+            "call the manager ",
+            "deliver the manager ",
+            "present the manager"
+        ],
+        "rightAnswer": "call the manager "
+    },
+    {
+        "content": "",
+        "question": "A troubleshooter was brought into the office from another firm to get rid of some very ....... procedures.",
+        "answers": [
+            "outdated ",
+            "completed ",
+            "finished ",
+            "ended"
+        ],
+        "rightAnswer": "outdated "
+    },
+    {
+        "content": "",
+        "question": "It was a big ....... for her to give up her acting career to look after her family.",
+        "answers": [
+            "trial ",
+            "sacrifice ",
+            "endeavour ",
+            "test"
+        ],
+        "rightAnswer": "sacrifice "
+    },
+    {
+        "content": "",
+        "question": "I've watched a lot of young people try to make a success of it, but you're the only one I really ....... in.",
+        "answers": [
+            "think ",
+            "trust ",
+            "hold ",
+            "believe"
+        ],
+        "rightAnswer": "believe"
+    },
+    {
+        "content": "",
+        "question": "A report has just been ....... that gives details of the causes of this trend towards informality in the business sector.",
+        "answers": [
+            "published ",
+            "directed ",
+            "opened ",
+            "held"
+        ],
+        "rightAnswer": "published "
+    },
+    {
+        "content": "",
+        "question": "In their religion as long as they ......., they will be forgiven their sins.",
+        "answers": [
+            "repent ",
+            "restore ",
+            "repeat ",
+            "request"
+        ],
+        "rightAnswer": "repent "
+    },
+    {
+        "content": "",
+        "question": "I would love to meet you half way but I'm afraid I can't because with me it's a matter of ........",
+        "answers": [
+            "principal ",
+            "principles ",
+            "principally ",
+            "principle"
+        ],
+        "rightAnswer": "principle"
+    },
+    {
+        "content": "",
+        "question": "For goodness sake stop ....... about the weather! It'll stop raining soon.",
+        "answers": [
+            "criticizing ",
+            "telling ",
+            "complaining ",
+            "calling"
+        ],
+        "rightAnswer": "complaining "
+    },
+    {
+        "content": "",
+        "question": "From the point of view of relevant ....... she was the ideal candidate at least on paper.",
+        "answers": [
+            "reference ",
+            "history ",
+            "family ",
+            "background"
+        ],
+        "rightAnswer": "background"
+    },
+    {
+        "content": "",
+        "question": "I'm ....... you all the way as far as that's concerned.",
+        "answers": [
+            "with ",
+            "by ",
+            "at ",
+            "across"
+        ],
+        "rightAnswer": "with "
+    },
+    {
+        "content": "",
+        "question": "Please ....... me for interrupting you, I didn't realize you were busy with someone else.",
+        "answers": [
+            "forget ",
+            "forfeit ",
+            "forbid ",
+            "forgive"
+        ],
+        "rightAnswer": "forgive"
+    },
+    {
+        "content": "",
+        "question": "You're the tenth person I've been put through to and I'm on the point of losing my ........",
+        "answers": [
+            "mood ",
+            "temper ",
+            "state ",
+            "feeling"
+        ],
+        "rightAnswer": "temper "
+    },
+    {
+        "content": "",
+        "question": "I very much regret that we must ....... company on that issue.",
+        "answers": [
+            "divide ",
+            "devise ",
+            "part ",
+            "leave"
+        ],
+        "rightAnswer": "part "
+    },
+    {
+        "content": "",
+        "question": "How stupid can I get! I ....... my keys in the door overnight.",
+        "answers": [
+            "forgot ",
+            "deserted ",
+            "traced ",
+            "left"
+        ],
+        "rightAnswer": "left"
+    },
+    {
+        "content": "",
+        "question": "At the end of thirty days the company will ask you to ....... the account.",
+        "answers": [
+            "arrange ",
+            "finish ",
+            "end ",
+            "settle"
+        ],
+        "rightAnswer": "settle"
+    },
+    {
+        "content": "",
+        "question": "You can be absolutely sure I'm on your ........",
+        "answers": [
+            "road ",
+            "corner ",
+            "route ",
+            "side"
+        ],
+        "rightAnswer": "side"
+    },
+    {
+        "content": "",
+        "question": "After six more phone calls I ....... succeeded in settling on a date",
+        "answers": [
+            "eventfully ",
+            "event ",
+            "eventually ",
+            "events"
+        ],
+        "rightAnswer": "eventually "
+    },
+    {
+        "content": "",
+        "question": "As the builder wanted cash for the work he had done, she had to go to the bank personally to ....... the money herself.",
+        "answers": [
+            "take off ",
+            "take out ",
+            "take over ",
+            "take in"
+        ],
+        "rightAnswer": "take out "
+    },
+    {
+        "content": "",
+        "question": "When people are considering whether to loan your new business a substantial sum, they are going to ....... your potential.",
+        "answers": [
+            "encompass ",
+            "evolve ",
+            "evaluate ",
+            "enquire"
+        ],
+        "rightAnswer": "evaluate "
+    },
+    {
+        "content": "",
+        "question": "If the customer..........not satisfied, please have him call the manager.",
+        "answers": [
+            "am",
+            "is",
+            "are",
+            "be"
+        ],
+        "rightAnswer": "is"
+    },
+    {
+        "content": "",
+        "question": "The office requires that all employees park in their..........spaces.",
+        "answers": [
+            "signed",
+            "assignment",
+            "assigned",
+            "significant"
+        ],
+        "rightAnswer": "assigned"
+    },
+    {
+        "content": "",
+        "question": "At the end of the year, the company puts   ..........a picnic for the employees.",
+        "answers": [
+            "for",
+            "by",
+            "up",
+            "on"
+        ],
+        "rightAnswer": "on"
+    },
+    {
+        "content": "",
+        "question": "Clients are..........allowed to see the research department.",
+        "answers": [
+            "rare",
+            "ever",
+            "never",
+            "no time"
+        ],
+        "rightAnswer": "never"
+    },
+    {
+        "content": "",
+        "question": "The food has been ordered, ..........  it has not arrived.",
+        "answers": [
+            "or",
+            "since",
+            "because",
+            "but"
+        ],
+        "rightAnswer": "but"
+    }
+]

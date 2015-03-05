@@ -13,7 +13,6 @@ import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
-import java.util.HashMap;
 import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 
@@ -24,8 +23,7 @@ import javax.swing.JPanel;
 public class BoardView extends JPanel{
     
     private Board board;
-    private HashMap<Integer,int[]> correspondanceHm;
-    private BufferedImage imageCasual;
+    private BufferedImage imageCasual; //to remove later if not used, use this one for tests
     private BufferedImage  imageCenter;
     private BufferedImage  imageCross;
     private BufferedImage  imageBase;
@@ -37,7 +35,6 @@ public class BoardView extends JPanel{
     BoardView(Game currentGame) {
         this.setPreferredSize(new Dimension(500,500));
         this.board=currentGame.getBoard();
-        this.correspondanceHm = this.board.getCorrHashmap();
         this.setBackground(Color.LIGHT_GRAY);
         
         try {                

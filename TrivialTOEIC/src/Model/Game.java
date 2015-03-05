@@ -34,6 +34,7 @@ public class Game {
     public void initGame(ImportJSON jsonImportation){
         initCategory("grammar", jsonImportation);
         initCategory("vocabulary", jsonImportation);
+        initCategory("incomplete-sentences", jsonImportation);
     }
     
     public Question randomQuestion(String category){
