@@ -7,6 +7,12 @@ package GUI;
 
 import Model.Game;
 import java.awt.BorderLayout;
+import java.awt.Dimension;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import javax.swing.Action;
+import javax.swing.JButton;
+import javax.swing.JDialog;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
@@ -22,6 +28,7 @@ public class MainWindow extends JFrame{
     private final JLabel mainTitle;
 
     public MainWindow(Game currentGame) {
+        
         this.currentGame = currentGame;
         this.setTitle("TrivialTOEIC");  
         //this.setPreferredSize(new Dimension(800,400));
@@ -37,6 +44,8 @@ public class MainWindow extends JFrame{
         this.bv=new BoardView(this.currentGame);
         this.add(this.bv,BorderLayout.CENTER);
         
+         QuestionView jd  = new QuestionView(currentGame);
+        jd.setVisible(true);
         
         this.pack();
         this.setVisible(true);

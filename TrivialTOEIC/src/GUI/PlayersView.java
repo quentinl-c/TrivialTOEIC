@@ -50,6 +50,7 @@ public class PlayersView extends JPanel{
            public void actionPerformed(ActionEvent e) {
                if(currentGame.getNumberofPlayers() >= 2){
                    pListPanel.playerButtonsEnable(false);
+                    
                }
 
            }
