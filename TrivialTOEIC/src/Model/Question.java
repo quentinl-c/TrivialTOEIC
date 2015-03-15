@@ -41,6 +41,22 @@ public class Question {
         result = result+" "+this.rightAnswer;
         return result;
     }
+    public String getQuestion(){
+        return this.question;
+    }
+    
+    public String getContent(){
+        return this.content;
+    }
+    
+    public String getAnswer(int index){
+        if(index < this.answers.size()){
+            return this.answers.get(index);
+        }else{
+            return "Error";
+        }
+        
+    }
     
    
    
