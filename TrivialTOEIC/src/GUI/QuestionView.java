@@ -7,7 +7,6 @@ package GUI;
 
 import Model.Game;
 import Model.Question;
-import com.sun.j3d.utils.applet.MainFrame;
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.Frame;
