@@ -47,9 +47,11 @@ public class MainWindow extends JFrame{
         this.add(this.pv, BorderLayout.WEST);
         
         this.currentGame.addObserver(bv);
-        
-         QuestionView jd  = new QuestionView(currentGame);
+        QuestionView jd  = new QuestionView(currentGame, "incomplete-sentences");
         jd.setVisible(true);
+        
+        
+
         
         this.pack();
         this.setVisible(true);

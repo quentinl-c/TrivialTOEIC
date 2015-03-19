@@ -58,6 +58,15 @@ public class Question {
         
     }
     
+    public String getRightAnswer(){
+        return this.rightAnswer;
+    }
+    
+    
+    public boolean answerVerif( String answer){
+        return this.rightAnswer.equals(answer);
+    }
+    
    
    
 }

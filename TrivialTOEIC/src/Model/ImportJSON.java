@@ -36,7 +36,6 @@ public class ImportJSON {
             JSONArray questionsArray = (JSONArray) this.parser.parse(new FileReader(dir));
             
             for(Object obj : questionsArray){
-                
                 JSONObject question = (JSONObject) obj;
                 Question questionObj = new Question((String) question.get("question"));
                 questionObj.setContent((String) question.get("content"));
