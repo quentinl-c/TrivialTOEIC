@@ -5,17 +5,20 @@
  */
 package GUI;
 
-import Model.Game;
-import Model.Player;
 import java.awt.BorderLayout;
+import java.awt.GridLayout;
 import java.awt.Panel;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+
 import javax.swing.DefaultListModel;
 import javax.swing.JButton;
 import javax.swing.JList;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
+
+import Model.Game;
+import Model.Player;
 
 /**
  *
@@ -30,11 +33,19 @@ public class PlayerListPanel extends Panel {
     private JButton addPlayer =  new JButton("Add ");
     private JButton delPlayer = new JButton("Del ");
     private JPanel bot = new JPanel();
+    private JPanel mainPan = new JPanel();
+    private GamePanel gPanel;
     
     public PlayerListPanel(Game currentGame){
+    	
+    	this.currentGame = currentGame;
+    	
+    	//Set Layouts 
         this.setLayout(new BorderLayout());
-        this.currentGame = currentGame;
+        this.mainPan.setLayout(new GridLayout(2,1));
         this.bot.setLayout(new BorderLayout());
+        
+        this.gPanel = new GamePanel(currentGame);
         
         this.addPlayer.addActionListener(new ActionListener() {
             @Override
@@ -69,12 +80,16 @@ public class PlayerListPanel extends Panel {
                 }
             }
         });
-       
+        
+        
         this.bot.add(addPlayer, BorderLayout.WEST);
         this.bot.add(nameField, BorderLayout.CENTER);
         this.bot.add(delPlayer, BorderLayout.EAST);
         
-        this.add(pList, BorderLayout.CENTER);
+        this.mainPan.add(gPanel);
+        this.mainPan.add(pList);
+        
+        this.add(mainPan, BorderLayout.CENTER);
         this.add(bot, BorderLayout.SOUTH);
     }
     

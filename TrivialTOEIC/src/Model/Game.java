@@ -24,6 +24,7 @@ public class Game extends Observable {
     private final HashMap<String, ArrayList<Question>> questions;
     private final HashMap<String, ArrayList<Question>> questionsUsed;
     private int dice;
+    private int currentPlayer = -1;
     private String[] playerColor={"yellow","red","blue","green"};
     
     public Game(){
@@ -50,7 +51,6 @@ public class Game extends Observable {
             Question q = this.questions.get(category).remove(randomNum);
             this.questionsUsed.get(category).add(q);
             return q;
-
         
         }else{
             return null;
@@ -92,8 +92,12 @@ public class Game extends Observable {
     }
     
     public int rollTheDice(){
+    	this.currentPlayer = (this.currentPlayer + 1)%(this.players.size());
         this.dice=(int)(Math.random()*6) + 1;
+        this.setChanged();
+        this.notifyObservers();
         return this.dice;
+        
     }
     
     public Board getBoard(){
@@ -106,6 +110,15 @@ public class Game extends Observable {
         notifyObservers();
     }
     
+    public int maxScore(){
+    	int max = 0;
+    	for (Player p : this.players){
+    		if(p.getScore() >= max){
+    			max = p.getScore();
+    		}
+    	}
+    	return max;
+    }
     
     public void counterClockwise(int shift,int playerIndex){
         this.getPlayer(playerIndex).setPos(this.getPlayer(playerIndex).getPos()+shift);
@@ -113,7 +126,13 @@ public class Game extends Observable {
         notifyObservers();
     }
     
+    public void incScore(int player, String category){
+    	this.players.get(player).incPlayerScore(category);
+    }
     
+    public int getCurrentPlayer(){
+    	return this.currentPlayer;
+    }
     /* Main loop */
     public void playGame(){
                 

@@ -5,14 +5,16 @@
  */
 package GUI;
 
-import Model.Game;
-import Model.Question;
 import java.awt.Dimension;
 import java.awt.GridLayout;
+
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
+
+import Model.Game;
+import Model.Question;
 
 /**
  *
@@ -39,7 +41,9 @@ public class QuestionView{
         JTextArea qLabel = new JTextArea();
         
         qLabel.setLineWrap(true);
-        qLabel.setPreferredSize(new Dimension(200,100));
+        qLabel.setWrapStyleWord(true);
+        qLabel.setPreferredSize(new Dimension(300,100));
+        qLabel.setEditable(false);
         
        if(content.equals("")){
            
@@ -61,7 +65,16 @@ public class QuestionView{
        for(int i=0; i<4; i++){
            answers[i] = this.question.getAnswer(i);
        }
+       String answer = (String)JOptionPane.showInputDialog(null,mainPan, "Question",JOptionPane.QUESTION_MESSAGE, null, answers, answers[0]);
        
-       JOptionPane.showInputDialog(null,new JScrollPane(qLabel), "Question",JOptionPane.QUESTION_MESSAGE,null, answers, answers[0]);
+       String message;
+       if(answer != null && answer.equals(this.question.getRightAnswer())){
+    	   message = "Well done, it's the right answer";
+    	   this.currentGame.incScore(this.currentGame.getCurrentPlayer(), this.category);
+       }else{
+    	  message = "Sorry, the right answer is : "+this.question.getRightAnswer();
+       }
+     
+       JOptionPane.showMessageDialog(null, message);
     }
 }

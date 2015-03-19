@@ -71,8 +71,26 @@ public class Player{
         return color;
     }
     
+    public void incPlayerScore(String category){
+    	this.score ++;
+    	
+    	switch (category){
+    		case "incomplete-sentences":
+    			stat[0]++;
+    			break;
+    		case "advanced-structures":
+    			stat[1]++;
+    			break;
+			default:
+				//nothing
+				break;
+		}
     
+    }
     
+    public String getName(){
+    	return this.name;
+    }
     
     
 }

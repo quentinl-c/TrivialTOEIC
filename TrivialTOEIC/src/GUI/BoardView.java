@@ -5,10 +5,6 @@
  */
 package GUI;
 
-import Model.Board;
-import Model.Game;
-import Model.Main;
-import Model.Player;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
@@ -18,8 +14,13 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Observable;
 import java.util.Observer;
+
 import javax.imageio.ImageIO;
 import javax.swing.JPanel;
+
+import Model.Board;
+import Model.Game;
+import Model.Player;
 
 /**
  *
@@ -27,7 +28,11 @@ import javax.swing.JPanel;
  */
 public class BoardView extends JPanel implements Observer {
     
-    private Game currentGame;
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	private Game currentGame;
     private Board board;
     private ArrayList <Player> players;
     private BufferedImage imageCasual; //to remove later if not used, use this one for tests

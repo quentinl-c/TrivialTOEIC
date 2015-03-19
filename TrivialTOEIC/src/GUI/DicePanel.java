@@ -5,30 +5,27 @@
  */
 package GUI;
 
-import Model.Game;
-import java.awt.Dimension;
-import java.awt.GridBagLayout;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.image.BufferedImage;
-import java.io.File;
-import java.io.IOException;
-import java.util.Observable;
-import java.util.Observer;
-import javax.imageio.ImageIO;
-import javax.swing.Icon;
+
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
+
+import Model.Game;
 
 /**
  *
  * @author quentinlaporte-chabasse
  */
 public class DicePanel extends JPanel{
-    private JButton rollDice;
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	private JButton rollDice;
     private JButton clockwiseB = new JButton("clockwise");
     private JButton counterclockwiseB = new JButton("counterclockwise");
     private JLabel diceValue = new JLabel("0");
@@ -42,13 +39,16 @@ public class DicePanel extends JPanel{
        //import icon
        ImageIcon diceIcon = new ImageIcon("ressources/dice.png");
        this.rollDice = new JButton(diceIcon);
-       
+       this.desableRollDice();
+       this.desableClokwise();
        //attribute Listeners
        this.rollDice.addActionListener(new ActionListener() {
 
            @Override
            public void actionPerformed(ActionEvent e) {
                diceValue.setText(Integer.toString(currentGame.rollTheDice()));
+               clockwiseB.setEnabled(true);
+               counterclockwiseB.setEnabled(true);
                rollDice.setEnabled(false);
            }
        });
@@ -59,6 +59,10 @@ public class DicePanel extends JPanel{
            public void actionPerformed(ActionEvent e) {
                //TODO
                currentGame.clockwise(Integer.parseInt(diceValue.getText()),0);
+               QuestionView qView = new QuestionView(currentGame, "incomplete-sentences");
+               qView.askQuestion();
+               enableRollDice();
+               desableClokwise();
                
            }
        });
@@ -69,6 +73,10 @@ public class DicePanel extends JPanel{
            public void actionPerformed(ActionEvent e) {
                //TODO
                currentGame.counterClockwise(Integer.parseInt(diceValue.getText()),0);
+               QuestionView qView = new QuestionView(currentGame, "incomplete-sentences");
+               qView.askQuestion();
+               enableRollDice();
+               desableClokwise();
            }
        });
        
@@ -83,4 +91,13 @@ public class DicePanel extends JPanel{
     public void desableRollDice(){
         this.rollDice.setEnabled(false);
     }
+    public void enableClockwise(){
+    	this.clockwiseB.setEnabled(true);
+    	this.counterclockwiseB.setEnabled(true);
+    }
+    public void desableClokwise(){
+    	this.clockwiseB.setEnabled(false);
+    	this.counterclockwiseB.setEnabled(false);
+    }
+    
 }
