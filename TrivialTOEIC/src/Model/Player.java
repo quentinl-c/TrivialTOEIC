@@ -5,13 +5,12 @@
  */
 package Model;
 
-import java.util.Observable;
 
 /**
  *
  * @author quentinlaporte-chabasse
  */
-public class Player extends Observable{
+public class Player{
     private String name;
     private int score;// Player's score
     private int[] stat;// Player's stat
@@ -32,8 +31,6 @@ public class Player extends Observable{
 
     public void setScore(int score) {
         this.score = score;
-        setChanged();
-        notifyObservers();
     }
 
     public int getStat(int index) {
@@ -44,8 +41,6 @@ public class Player extends Observable{
 
     public void setStat(int index, int newValue ) {
         this.stat[index] = newValue;
-        setChanged();
-        notifyObservers();
     }
 
     public int getPos() {
@@ -53,9 +48,14 @@ public class Player extends Observable{
     }
 
     public void setPos(int newPos) {
-        this.pos = newPos;
-        setChanged();
-        notifyObservers();
+        if(newPos>31){
+            this.pos=newPos-32;
+        }else if(newPos<0){
+            this.pos=newPos+32;
+        }else{
+            this.pos = newPos;
+        }
+        
     }
 
     
@@ -70,6 +70,8 @@ public class Player extends Observable{
     public String getColor() {
         return color;
     }
+    
+    
     
     
     

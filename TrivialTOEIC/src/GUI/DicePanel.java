@@ -58,7 +58,8 @@ public class DicePanel extends JPanel{
            @Override
            public void actionPerformed(ActionEvent e) {
                //TODO
-               System.out.println("Clockwise");
+               currentGame.clockwise(Integer.parseInt(diceValue.getText()),0);
+               
            }
        });
        
@@ -67,7 +68,7 @@ public class DicePanel extends JPanel{
            @Override
            public void actionPerformed(ActionEvent e) {
                //TODO
-               System.out.println("Counterclockwise");
+               currentGame.counterClockwise(Integer.parseInt(diceValue.getText()),0);
            }
        });
        

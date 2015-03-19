@@ -15,6 +15,9 @@ import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Observable;
+import java.util.Observer;
 import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 
@@ -22,10 +25,11 @@ import javax.swing.JPanel;
  *
  * @author quentinlaporte-chabasse
  */
-public class BoardView extends JPanel{
+public class BoardView extends JPanel implements Observer {
     
     private Game currentGame;
     private Board board;
+    private ArrayList <Player> players;
     private BufferedImage imageCasual; //to remove later if not used, use this one for tests
     private BufferedImage  imageCenter;
     private BufferedImage  imageCross;
@@ -43,7 +47,10 @@ public class BoardView extends JPanel{
         this.setPreferredSize(new Dimension(500,500));
         this.currentGame=currentGame;
         this.board=currentGame.getBoard();
+        this.players=this.currentGame.getPlayers();
         this.setBackground(Color.LIGHT_GRAY);
+        
+        
         
         try {                
           imageCasual = ImageIO.read(new File("ressources/github.png"));
@@ -113,15 +120,17 @@ public class BoardView extends JPanel{
     }
      
     public void paintPlayers(){
+        System.out.println("coucou");
         Graphics g = this.getGraphics();
         
-        for(Player player : this.currentGame.getPlayers()){
+        for(Player player : this.players){
             int key = player.getPos();
             int[] pos = this.board.getValfromIndex(key);
             String color = player.getColor();
             
             switch(color){
                 case "yellow":
+                    System.out.println(pos[0]);
                     g.drawImage(yellowPawn, pos[0]*50+10, pos[1]*50+10, this);
                     break;
                 
@@ -143,6 +152,12 @@ public class BoardView extends JPanel{
             
         }
        
+    }
+
+    @Override
+    public void update(Observable o, Object arg) {
+        this.paintComponent(this.getGraphics());
+        this.paintPlayers();
     }
     
 }

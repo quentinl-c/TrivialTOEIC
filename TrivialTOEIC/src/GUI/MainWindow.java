@@ -7,6 +7,7 @@ package GUI;
 
 import Model.Game;
 import Model.Main;
+import Model.Player;
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
@@ -45,9 +46,7 @@ public class MainWindow extends JFrame{
         this.pv = new PlayersView(this.currentGame,this.bv);
         this.add(this.pv, BorderLayout.WEST);
         
-               
-        
-        
+        this.currentGame.addObserver(bv);
         
          QuestionView jd  = new QuestionView(currentGame);
         jd.setVisible(true);
@@ -55,12 +54,7 @@ public class MainWindow extends JFrame{
         this.pack();
         this.setVisible(true);
     }
-
-    public BoardView getBv() {
-        return bv;
-    }
-    
-    
+  
     
     
    

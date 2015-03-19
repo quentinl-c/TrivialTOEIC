@@ -7,6 +7,7 @@ package Model;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Observable;
 import java.util.Random;
 
 /**
@@ -15,7 +16,7 @@ import java.util.Random;
  * Model of application
  * Manages : players, board, questions and answers
  */
-public class Game {
+public class Game extends Observable {
  
     private ArrayList<Player> players;
     private Board board;
@@ -97,6 +98,19 @@ public class Game {
     
     public Board getBoard(){
         return this.board;
+    }
+    
+    public void clockwise(int shift,int playerIndex){
+        this.getPlayer(playerIndex).setPos(this.getPlayer(playerIndex).getPos()-shift);
+        setChanged();
+        notifyObservers();
+    }
+    
+    
+    public void counterClockwise(int shift,int playerIndex){
+        this.getPlayer(playerIndex).setPos(this.getPlayer(playerIndex).getPos()+shift);
+        setChanged();
+        notifyObservers();
     }
     
     
