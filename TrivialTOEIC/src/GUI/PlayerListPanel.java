@@ -80,6 +80,13 @@ public class PlayerListPanel extends Panel {
     
     public void playerButtonsEnable(boolean bool){
         this.addPlayer.setEnabled(bool);
+        this.addPlayer.setVisible(bool);
+        
+        this.nameField.setEnabled(bool);
+        this.nameField.setVisible(bool);
+        
         this.delPlayer.setEnabled(bool);
+        this.delPlayer.setVisible(bool);
+
     }
 }
