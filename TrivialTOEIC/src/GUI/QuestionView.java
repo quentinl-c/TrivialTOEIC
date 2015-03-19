@@ -7,86 +7,61 @@ package GUI;
 
 import Model.Game;
 import Model.Question;
-import java.awt.BorderLayout;
 import java.awt.Dimension;
-import java.awt.Frame;
-import java.awt.GridBagLayout;
 import java.awt.GridLayout;
-import java.awt.TextArea;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import javax.swing.JButton;
-import javax.swing.JDialog;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
+import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
 /**
  *
  * @author quentinlaporte-chabasse
  */
-public class QuestionView extends JDialog{
+public class QuestionView{
     
     private Game currentGame;
-    private JLabel content =  new JLabel();
-    private JTextArea question = new JTextArea("No Question ...");
-    private JTextArea contentQuestion = new JTextArea("No content ...");
-    private JPanel mainPan = new JPanel();
-    private JPanel answers = new JPanel();
-    private JPanel center = new JPanel();
-    private JPanel questionPan = new JPanel();
+    private String category;
+    private Question question;
+    
     
     public QuestionView (Game currentGame, String category){
-        //Set Layouts
-        this.center.setLayout(new GridLayout(2,1));
-        this.answers.setLayout(new GridLayout(2,2));
-        this.questionPan.setLayout(new GridLayout(2,1));
-        this.mainPan.setLayout(new BorderLayout());
-        
-        //link to the model
         this.currentGame = currentGame;
-        Question q = this.currentGame.randomQuestion(category);
-        
-        //Init Text area
-        this.question.setLineWrap(true);
-        this.question.setWrapStyleWord(true);
-        this.question.setEditable(false);
-        
-        this.contentQuestion.setLineWrap(true);
-        this.contentQuestion.setWrapStyleWord(true);
-        this.contentQuestion.setEditable(false);
-        
-        
-        this.question.setText(q.getQuestion());
-        this.content.setText(q.getContent());
-        this.center.add(this.content);
-        
-        //Answers panel 
-        for(int i = 0; i<4; i++){
-            JButton answer = new JButton(q.getAnswer(i));
-            answer.addActionListener(new ActionListener() {
-
-                @Override
-                public void actionPerformed(ActionEvent e) {
-                    
-                }
-            });
-            this.answers.add(answer);
-        }
-        
-        this.questionPan.add(this.question);
-        this.questionPan.add(this.contentQuestion);
-        this.center.add(this.answers);
-        this.mainPan.add(this.question, BorderLayout.NORTH);
-        this.mainPan.add(this.center, BorderLayout.CENTER);
-        
-        this.add(this.mainPan);
-        this.setMinimumSize(new Dimension(500, 300));
-        this.setPreferredSize(new Dimension(500, 300));
-        
-        
+        this.category = category;
+        this.question = this.currentGame.randomQuestion(this.category);
     }
     
+    public void askQuestion(){
+        System.out.println("coucou");
+        String q = this.question.getQuestion();
+        String content = this.question.getContent();
+        JPanel mainPan = new JPanel();
+        JTextArea qLabel = new JTextArea();
+        
+        qLabel.setLineWrap(true);
+        qLabel.setPreferredSize(new Dimension(200,100));
+        
+       if(content.equals("")){
+           
+           qLabel.setText(q);
+           mainPan.add(new JScrollPane(qLabel));
+    
+       }else{
+           
+           qLabel.setText(q);
+           JTextArea contentLabel = new JTextArea();
+           contentLabel.setPreferredSize(new Dimension(200,100));
+           contentLabel.setText(content);
+           mainPan.setLayout(new GridLayout(1,2));
+           mainPan.add(new JScrollPane(qLabel));
+           mainPan.add(new JScrollPane(contentLabel));
+       }
+       String[] answers = new String[4];
+       
+       for(int i=0; i<4; i++){
+           answers[i] = this.question.getAnswer(i);
+       }
+       
+       JOptionPane.showInputDialog(null,new JScrollPane(qLabel), "Question",JOptionPane.QUESTION_MESSAGE,null, answers, answers[0]);
+    }
 }
