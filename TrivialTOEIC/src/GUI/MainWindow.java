@@ -6,6 +6,7 @@
 package GUI;
 
 import Model.Game;
+import Model.Main;
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
@@ -38,11 +39,15 @@ public class MainWindow extends JFrame{
         this.mainTitle=new JLabel("Trivial TOEIC !!");
         this.add(this.mainTitle, BorderLayout.NORTH);
         
-        this.pv = new PlayersView(this.currentGame);
-        this.add(this.pv, BorderLayout.WEST);
-        
         this.bv=new BoardView(this.currentGame);
         this.add(this.bv,BorderLayout.CENTER);
+        
+        this.pv = new PlayersView(this.currentGame,this.bv);
+        this.add(this.pv, BorderLayout.WEST);
+        
+               
+        
+        
         
          QuestionView jd  = new QuestionView(currentGame);
         jd.setVisible(true);
@@ -50,6 +55,13 @@ public class MainWindow extends JFrame{
         this.pack();
         this.setVisible(true);
     }
+
+    public BoardView getBv() {
+        return bv;
+    }
+    
+    
+    
     
    
 }

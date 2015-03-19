@@ -80,4 +80,8 @@ public class Board {
             }
         return -1;
     }
+    
+    public int[] getValfromIndex(int index){
+        return correspondance.get(index);
+    }
 }

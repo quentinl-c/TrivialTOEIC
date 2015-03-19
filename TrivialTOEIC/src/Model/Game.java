@@ -23,13 +23,14 @@ public class Game {
     private final HashMap<String, ArrayList<Question>> questions;
     private final HashMap<String, ArrayList<Question>> questionsUsed;
     private int dice;
-    private Board mainBoard;
+    private String[] playerColor={"yellow","red","blue","green"};
     
     public Game(){
         this.players = new ArrayList<>();
         this.gameOver = false;
         this.questions = new HashMap<>();
         this.questionsUsed = new HashMap<>();
+        this.board = new Board();
     }
     public void initGame(ImportJSON jsonImportation){
         initCategory("grammar", jsonImportation);
@@ -56,6 +57,8 @@ public class Game {
     }
     
     public void addPlayer(Player player){
+        player.setPos(this.players.size()*8+4);
+        player.setColor(this.playerColor[this.players.size()]);
         this.players.add(player);
     }
     
@@ -78,7 +81,6 @@ public class Game {
     
     public void setScore(int index, int value){
         this.players.get(index).setScore(value);
-        System.out.println(players);
     }
     
     public int getNumberofPlayers(){
@@ -100,10 +102,7 @@ public class Game {
     
     /* Main loop */
     public void playGame(){
-        
-        /*Creating the board*/
-        this.board = new Board();
-        
+                
         /* Positionning players*/
         // need to randomize this when you add several players
         for(int i=0;i<players.size();i++){

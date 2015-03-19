@@ -7,6 +7,8 @@ package GUI;
 
 import Model.Board;
 import Model.Game;
+import Model.Main;
+import Model.Player;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
@@ -22,6 +24,7 @@ import javax.swing.JPanel;
  */
 public class BoardView extends JPanel{
     
+    private Game currentGame;
     private Board board;
     private BufferedImage imageCasual; //to remove later if not used, use this one for tests
     private BufferedImage  imageCenter;
@@ -31,9 +34,14 @@ public class BoardView extends JPanel{
     private BufferedImage  imageCategory2;
     private BufferedImage  imageCategory3;
     private BufferedImage  imageCategory4;
+    private BufferedImage  yellowPawn;
+    private BufferedImage  redPawn;
+    private BufferedImage  bluePawn;
+    private BufferedImage  greenPawn;
 
     BoardView(Game currentGame) {
         this.setPreferredSize(new Dimension(500,500));
+        this.currentGame=currentGame;
         this.board=currentGame.getBoard();
         this.setBackground(Color.LIGHT_GRAY);
         
@@ -46,6 +54,10 @@ public class BoardView extends JPanel{
           imageCenter = ImageIO.read(new File("ressources/center.png"));
           imageCross = ImageIO.read(new File("ressources/cross.png"));
           imageBase = ImageIO.read(new File("ressources/base.png"));
+          yellowPawn = ImageIO.read(new File("ressources/yellowPawn.png"));
+          redPawn = ImageIO.read(new File("ressources/redPawn.png"));
+          bluePawn = ImageIO.read(new File("ressources/bluePawn.png"));
+          greenPawn = ImageIO.read(new File("ressources/greenPawn.png"));
           
        } catch (IOException ex) {
             System.out.println(ex);
@@ -99,4 +111,38 @@ public class BoardView extends JPanel{
             }
         }
     }
+     
+    public void paintPlayers(){
+        Graphics g = this.getGraphics();
+        
+        for(Player player : this.currentGame.getPlayers()){
+            int key = player.getPos();
+            int[] pos = this.board.getValfromIndex(key);
+            String color = player.getColor();
+            
+            switch(color){
+                case "yellow":
+                    g.drawImage(yellowPawn, pos[0]*50+10, pos[1]*50+10, this);
+                    break;
+                
+                case "red":
+                    g.drawImage(redPawn, pos[0]*50+10, pos[1]*50+10, this);
+                    break;
+                
+                case "blue":
+                    g.drawImage(bluePawn, pos[0]*50+10, pos[1]*50+10, this);
+                    break;
+                    
+                case "green":
+                    g.drawImage(greenPawn, pos[0]*50+10, pos[1]*50+10, this);
+                    break;
+                
+                default:
+                    break;
+            }
+            
+        }
+       
+    }
+    
 }

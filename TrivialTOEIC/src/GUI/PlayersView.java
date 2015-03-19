@@ -31,7 +31,7 @@ public class PlayersView extends JPanel{
     private JPanel top = new JPanel();
     private DicePanel dicePanel;
     
-    public PlayersView(Game currentGame) {
+    public PlayersView(Game currentGame, BoardView bv) {
         
         //links the Model
         this.currentGame = currentGame;
@@ -48,9 +48,9 @@ public class PlayersView extends JPanel{
 
            @Override
            public void actionPerformed(ActionEvent e) {
-               if(currentGame.getNumberofPlayers() >= 2){
+               if(currentGame.getNumberofPlayers() >= 1){
                    pListPanel.playerButtonsEnable(false);
-                    
+                   bv.paintPlayers();                    
                }
 
            }
