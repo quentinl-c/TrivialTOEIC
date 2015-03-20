@@ -129,6 +129,7 @@ public class Game extends Observable {
     
     public void incScore(int player, String category){
     	this.players.get(player).incPlayerScore(category);
+    	this.checkGameOver();
     }
     
     public int getCurrentPlayer(){
@@ -138,67 +139,38 @@ public class Game extends Observable {
     public String getCategory(){
     	return this.board.getCategory(this.getPlayer(this.currentPlayer).getPos());
     }
-    /* Main loop */
-    public void playGame(){
-                
-        /* Positionning players*/
-        // need to randomize this when you add several players
-        for(int i=0;i<players.size();i++){
-            this.players.get(i).setPos(4+i*8);
-        }
-        
-        /*Init of loop vars*/
-        int currentPlayer = 0;//pl
-        int turnsNb = 0;
-        int currentPos;
-        int moveClockwise;
-        int moveAntiClockwise;
-        String category;
-        
-        while(!this.gameOver){
-            /* New  turn*/
-            turnsNb++;
-            if(currentPlayer==players.size()) // check if we looped over the players
-                currentPlayer=0;
-            System.out.println("Turn n° "+turnsNb);
-            System.out.println("Player n° "+currentPlayer);//  Display Player turn
-            
-            /* Let's play*/
-            currentPos=players.get(currentPlayer).getPos();
-            rollTheDice();
-            System.out.println("You rolled the dice and yout got : "+this.dice);
-            if(currentPos+dice<32)
-                moveClockwise=currentPos+dice;
-            else
-                moveClockwise=currentPos+dice-32;// looped over the board
-            
-            if(currentPos-dice>=0)
-                moveAntiClockwise=currentPos-dice;
-            else
-                moveAntiClockwise=currentPos-dice+32;//same but anticlockwise
-            
-            //display where he can go
-            System.out.println("Do you chose square n° "+moveClockwise+" or  square n° "+moveAntiClockwise);
-            
-            // move him on the square he chose ( for the moment he will automatically chose moveClockwise
-            currentPos=moveClockwise;
-            players.get(currentPlayer).setPos(currentPos);
-            
-            //  get the category
-            category=board.getCategory(currentPos);
-            // ask a random question 
-            System.out.println(category);
-            randomQuestion(category);
-            
-            //TODO 
-            
-            // - get and check the answer 
-            // -
-            // - check if game is over
-            currentPlayer++;
-            if(turnsNb==4)//end of game not implemented yet
-                this.gameOver();
-        }
+    
+    public String getNextPlayer(){
+    	int nexPlayerId = (this.currentPlayer + 1)%(this.players.size());
+    	return this.getPlayer(nexPlayerId).getName();
+    }
+    
+    public String getStat(){
+    	String s="";
+    	for(int i=0; i<4; i++){
+    		s+="C"+Integer.toString( i+1)+" : "+Integer.toString(this.getPlayer(this.currentPlayer).getStat(i))+" | ";
+    	}
+    	return s;
+    }
+    
+    public void checkGameOver(){
+    	//the score must be greater than 20
+    	if(this.players.get(this.currentPlayer).getScore() > 20){
+    		boolean isGameOver = true;
+    		for(int i = 0; i<4; i++){
+    			//The player must have more than one good answer by category
+    			if(this.players.get(this.currentPlayer).getStat(i) < 1){
+    				isGameOver = false;
+    			}
+    		}
+    		if(isGameOver){
+    			this.gameOver = true;
+    		}
+    	}
+    }
+    
+    public boolean isGameOver(){
+    	return this.gameOver;
     }
     
     

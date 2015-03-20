@@ -34,7 +34,7 @@ public class QuestionView{
     }
     
     public void askQuestion(){
-   
+    	System.out.println(question);
         String q = this.question.getQuestion();
         String content = this.question.getContent();
         JPanel mainPan = new JPanel();

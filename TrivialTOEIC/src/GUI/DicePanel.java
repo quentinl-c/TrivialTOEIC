@@ -8,10 +8,13 @@ package GUI;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.Observable;
+import java.util.Observer;
 
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
 import Model.Game;
@@ -20,7 +23,7 @@ import Model.Game;
  *
  * @author quentinlaporte-chabasse
  */
-public class DicePanel extends JPanel{
+public class DicePanel extends JPanel implements Observer{
     /**
 	 * 
 	 */
@@ -32,10 +35,12 @@ public class DicePanel extends JPanel{
     private Game currentGame;
     
     public DicePanel(Game currentGame){
+    	
         //Set the Grid Layout for this Pane 
        this.setLayout(new GridLayout(2,2));
-       this.currentGame = currentGame;
        
+       this.currentGame = currentGame;
+       this.currentGame.addObserver(this);
        //import icon
        
        ImageIcon diceIcon = new ImageIcon("ressources/dice.png");
@@ -60,7 +65,13 @@ public class DicePanel extends JPanel{
            public void actionPerformed(ActionEvent e) {
                //TODO
                currentGame.clockwise(Integer.parseInt(diceValue.getText()),0);
-               QuestionView qView = new QuestionView(currentGame, currentGame.getCategory());
+               String category;
+               if(currentGame.getCategory().equals("Base")){
+            	   category = "advanced-structures"; //default value
+               }else{
+            	   category = currentGame.getCategory();
+               }
+               QuestionView qView = new QuestionView(currentGame, category);
                qView.askQuestion();
                enableRollDice();
                desableClokwise();
@@ -74,7 +85,13 @@ public class DicePanel extends JPanel{
            public void actionPerformed(ActionEvent e) {
                //TODO
                currentGame.counterClockwise(Integer.parseInt(diceValue.getText()),0);
-               QuestionView qView = new QuestionView(currentGame, currentGame.getCategory());
+               String category;
+               if(currentGame.getCategory().equals("Base")){
+            	   category = "advanced-structures"; //default value
+               }else{
+            	   category = currentGame.getCategory();
+               }
+               QuestionView qView = new QuestionView(currentGame, category);
                qView.askQuestion();
                enableRollDice();
                desableClokwise();
@@ -100,5 +117,19 @@ public class DicePanel extends JPanel{
     	this.clockwiseB.setEnabled(false);
     	this.counterclockwiseB.setEnabled(false);
     }
+	@Override
+	public void update(Observable o, Object arg) {
+		if(this.currentGame.isGameOver()){
+			this.desableClokwise();
+			this.desableRollDice();
+			JOptionPane.showMessageDialog(null,
+				    "Well done ! "+this.currentGame.getPlayer(this.currentGame.getCurrentPlayer()).getName()+"has won :",
+				    "Game over",
+				    JOptionPane.WARNING_MESSAGE);
+		}
+		
+	}
+    
+ 
     
 }

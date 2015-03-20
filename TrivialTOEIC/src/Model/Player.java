@@ -82,12 +82,15 @@ public class Player{
     		case "advanced-structures":
     			stat[1]++;
     			break;
+    		//TODO Add the remaining category
 			default:
 				//nothing
 				break;
 		}
     
     }
+    
+  
     
     public String getName(){
     	return this.name;
