@@ -31,7 +31,8 @@ public class MainWindow extends JFrame{
         
         //QuestionView qView = new QuestionView(currentGame, "incomplete-sentences" );
         //qView.askQuestion();
-      
+
+
         this.currentGame = currentGame;
         this.setTitle("TrivialTOEIC");  
         //this.setPreferredSize(new Dimension(800,400));

@@ -32,11 +32,12 @@ public class DicePanel extends JPanel{
     private Game currentGame;
     
     public DicePanel(Game currentGame){
-        //Set the Gride Layout for this Pane 
+        //Set the Grid Layout for this Pane 
        this.setLayout(new GridLayout(2,2));
        this.currentGame = currentGame;
        
        //import icon
+       
        ImageIcon diceIcon = new ImageIcon("ressources/dice.png");
        this.rollDice = new JButton(diceIcon);
        this.desableRollDice();
@@ -59,7 +60,7 @@ public class DicePanel extends JPanel{
            public void actionPerformed(ActionEvent e) {
                //TODO
                currentGame.clockwise(Integer.parseInt(diceValue.getText()),0);
-               QuestionView qView = new QuestionView(currentGame, "incomplete-sentences");
+               QuestionView qView = new QuestionView(currentGame, currentGame.getCategory());
                qView.askQuestion();
                enableRollDice();
                desableClokwise();
@@ -73,7 +74,7 @@ public class DicePanel extends JPanel{
            public void actionPerformed(ActionEvent e) {
                //TODO
                currentGame.counterClockwise(Integer.parseInt(diceValue.getText()),0);
-               QuestionView qView = new QuestionView(currentGame, "incomplete-sentences");
+               QuestionView qView = new QuestionView(currentGame, currentGame.getCategory());
                qView.askQuestion();
                enableRollDice();
                desableClokwise();

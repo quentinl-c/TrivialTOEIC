@@ -38,6 +38,7 @@ public class Game extends Observable {
         initCategory("grammar", jsonImportation);
         initCategory("vocabulary", jsonImportation);
         initCategory("incomplete-sentences", jsonImportation);
+        initCategory("advanced-structures", jsonImportation);
     }
     
     public Question randomQuestion(String category){
@@ -132,6 +133,10 @@ public class Game extends Observable {
     
     public int getCurrentPlayer(){
     	return this.currentPlayer;
+    }
+    
+    public String getCategory(){
+    	return this.board.getCategory(this.getPlayer(this.currentPlayer).getPos());
     }
     /* Main loop */
     public void playGame(){

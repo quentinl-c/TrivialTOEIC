@@ -34,7 +34,7 @@ public class QuestionView{
     }
     
     public void askQuestion(){
-        System.out.println("coucou");
+   
         String q = this.question.getQuestion();
         String content = this.question.getContent();
         JPanel mainPan = new JPanel();
@@ -55,8 +55,11 @@ public class QuestionView{
            qLabel.setText(q);
            JTextArea contentLabel = new JTextArea();
            contentLabel.setPreferredSize(new Dimension(200,100));
+           contentLabel.setWrapStyleWord(true);
+           contentLabel.setLineWrap(true);
+           contentLabel.setEditable(false);
            contentLabel.setText(content);
-           mainPan.setLayout(new GridLayout(1,2));
+           mainPan.setLayout(new GridLayout(2,1));
            mainPan.add(new JScrollPane(qLabel));
            mainPan.add(new JScrollPane(contentLabel));
        }

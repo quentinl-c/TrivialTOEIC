@@ -19,6 +19,7 @@ public class GamePanel extends JPanel implements Observer {
 	private JPanel scorePan = new JPanel();
 	private Game currentGame;
 	
+	
 	public GamePanel(Game currentGame){
 		//Link to the model
 		this.currentGame = currentGame;

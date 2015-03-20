@@ -54,6 +54,7 @@ public class PlayersView extends JPanel{
                    pListPanel.playerButtonsEnable(false);
                    bv.paintPlayers(); 
                    dicePanel.enableRollDice();
+                   begin.setEnabled(false);
                }
 
            }

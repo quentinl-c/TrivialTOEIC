@@ -77,7 +77,9 @@ public class PlayerListPanel extends Panel {
                     listModel.remove(index);
                     currentGame.removePlayer(index);
                     System.out.println(currentGame.getPlayers());
+                    addPlayer.setEnabled(true);
                 }
+                
             }
         });
         

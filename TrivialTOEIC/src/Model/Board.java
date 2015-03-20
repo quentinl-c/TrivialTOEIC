@@ -28,13 +28,13 @@ public class Board {
             if((i+4)%8==0){
                 this.board.add(new Square("Base"));
             }else if(i%7==0||(i-4)%7==0){
-                this.board.add(new Square("Category 1"));
+                this.board.add(new Square("incomplete-sentences"));
             }else if((i-1)%7==0||(i-1-4)%7==0){
-                this.board.add(new Square("Category 2"));
+                this.board.add(new Square("advanced-structures"));
             }else if((i-2)%7==0||(i-2-4)%7==0){
-                this.board.add(new Square("Category 3"));
+                this.board.add(new Square("vocabulary"));
             }else if((i-3)%7==0||(i-3-4)%7==0){
-                this.board.add(new Square("Category 4"));
+                this.board.add(new Square("grammar"));
             }
         }
         

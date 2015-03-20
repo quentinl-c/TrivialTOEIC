@@ -100,19 +100,19 @@ public class BoardView extends JPanel implements Observer {
                     int index = this.board.getIndexFromVal(tempArray);
                     String type = this.board.getCategory(index);
                     switch(type){
-                        case "Category 1":
+                        case "incomplete-sentences":
                             g.drawImage(imageCategory1, i*50+10, j*50+10, this);
                             break;
                             
-                        case "Category 2":
+                        case "advanced-structures":
                             g.drawImage(imageCategory2, i*50+10, j*50+10, this);
                             break;
                         
-                        case "Category 3":
+                        case "vocabulary":
                             g.drawImage(imageCategory3, i*50+10, j*50+10, this);
                             break;
                             
-                        case "Category 4":
+                        case "grammar":
                             g.drawImage(imageCategory4, i*50+10, j*50+10, this);
                             break;
                          
