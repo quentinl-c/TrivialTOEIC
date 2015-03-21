@@ -47,6 +47,7 @@ public class BoardView extends JPanel implements Observer {
     private BufferedImage  redPawn;
     private BufferedImage  bluePawn;
     private BufferedImage  greenPawn;
+    private BufferedImage  background;
 
     BoardView(Game currentGame) {
         this.setPreferredSize(new Dimension(500,500));
@@ -54,9 +55,7 @@ public class BoardView extends JPanel implements Observer {
         this.board=currentGame.getBoard();
         this.players=this.currentGame.getPlayers();
         this.setBackground(Color.LIGHT_GRAY);
-        
-        
-        
+              
         try {                
           imageCasual = ImageIO.read(new File("ressources/github.png"));
           imageCategory1 = ImageIO.read(new File("ressources/Category1.png"));
@@ -70,6 +69,7 @@ public class BoardView extends JPanel implements Observer {
           redPawn = ImageIO.read(new File("ressources/redPawn.png"));
           bluePawn = ImageIO.read(new File("ressources/bluePawn.png"));
           greenPawn = ImageIO.read(new File("ressources/greenPawn.png"));
+          background = ImageIO.read(new File("ressources/background.png"));
           
        } catch (IOException ex) {
             System.out.println(ex);
@@ -79,6 +79,7 @@ public class BoardView extends JPanel implements Observer {
     @Override
     public void paintComponent(Graphics g){
         super.paintComponent(g);
+        g.drawImage(background, 75, 75, this);
         for(int i=0 ; i<9 ; i++){
             for(int j = 0; j<9 ; j++){
                 //center
