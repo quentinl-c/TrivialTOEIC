@@ -8,6 +8,7 @@ package GUI;
 import java.awt.Dimension;
 import java.awt.GridLayout;
 
+import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
@@ -25,16 +26,22 @@ public class QuestionView{
     private Game currentGame;
     private String category;
     private Question question;
+    private ImageIcon tickIcon;
+    private ImageIcon crossIcon;
+    private ImageIcon questionIcon;
     
     
     public QuestionView (Game currentGame, String category){
         this.currentGame = currentGame;
         this.category = category;
         this.question = this.currentGame.randomQuestion(this.category);
+        this.tickIcon = new ImageIcon("ressources/tick.png");
+        this.crossIcon = new ImageIcon("ressources/cross.png");
+        this.questionIcon = new ImageIcon("ressources/question.png");
     }
     
     public void askQuestion(){
-    	System.out.println(question);
+    	
         String q = this.question.getQuestion();
         String content = this.question.getContent();
         JPanel mainPan = new JPanel();
@@ -68,16 +75,22 @@ public class QuestionView{
        for(int i=0; i<4; i++){
            answers[i] = this.question.getAnswer(i);
        }
-       String answer = (String)JOptionPane.showInputDialog(null,mainPan, "Question",JOptionPane.QUESTION_MESSAGE, null, answers, answers[0]);
+       String answer = (String)JOptionPane.showInputDialog(null,mainPan, "Question",JOptionPane.QUESTION_MESSAGE, questionIcon, answers, answers[0]);
        
+       String header;
        String message;
+       ImageIcon icon;
        if(answer != null && answer.equals(this.question.getRightAnswer())){
+    	   header = "Right answer !";
     	   message = "Well done, it's the right answer";
+    	   icon = this.tickIcon;
     	   this.currentGame.incScore(this.currentGame.getCurrentPlayer(), this.category);
        }else{
+    	  header = "Wrong answer !";
     	  message = "Sorry, the right answer is : "+this.question.getRightAnswer();
+    	  icon = this.crossIcon;
        }
      
-       JOptionPane.showMessageDialog(null, message);
+       JOptionPane.showMessageDialog(null, message, header, JOptionPane.INFORMATION_MESSAGE, icon);
     }
 }

@@ -8,7 +8,6 @@ package GUI;
 import java.awt.BorderLayout;
 
 import javax.swing.JFrame;
-import javax.swing.JLabel;
 
 import Model.Game;
 
@@ -25,7 +24,7 @@ public class MainWindow extends JFrame{
 	private final Game currentGame;
     private final PlayersView pv;
     private final BoardView bv;
-    private final JLabel mainTitle;
+   // private final JLabel mainTitle;
 
     public MainWindow(Game currentGame) {
         
@@ -39,8 +38,8 @@ public class MainWindow extends JFrame{
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setLayout(new BorderLayout());
         
-        this.mainTitle=new JLabel("Trivial TOEIC !!");
-        this.add(this.mainTitle, BorderLayout.NORTH);
+        //this.mainTitle=new JLabel("Trivial TOEIC !!");
+        //this.add(this.mainTitle, BorderLayout.NORTH);
         
         this.bv=new BoardView(this.currentGame);
         this.add(this.bv,BorderLayout.CENTER);

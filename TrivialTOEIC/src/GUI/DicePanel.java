@@ -33,6 +33,7 @@ public class DicePanel extends JPanel implements Observer{
     private JPanel clockwisePan = new JPanel();
     private ImageIcon diceValue;
     private Game currentGame;
+    private boolean alreadyRolled ;
     
     public DicePanel(Game currentGame){
     	
@@ -43,6 +44,7 @@ public class DicePanel extends JPanel implements Observer{
        
        this.currentGame = currentGame;
        this.currentGame.addObserver(this);
+       this.alreadyRolled = false;
 
        //Import Icon
        ImageIcon clockw = new ImageIcon("ressources/clockw.png");
@@ -61,10 +63,12 @@ public class DicePanel extends JPanel implements Observer{
 
            @Override
            public void actionPerformed(ActionEvent e) {
-               setDiceValue(currentGame.rollTheDice());
-               clockwiseB.setEnabled(true);
-               counterclockwiseB.setEnabled(true);
-               rollDice.setEnabled(false);
+               if(!alreadyRolled){
+            	   setDiceValue(currentGame.rollTheDice());
+                   clockwiseB.setEnabled(true);
+                   counterclockwiseB.setEnabled(true);
+                   alreadyRolled = true;
+               }
            }
        });
        
@@ -82,9 +86,9 @@ public class DicePanel extends JPanel implements Observer{
                }
                QuestionView qView = new QuestionView(currentGame, category);
                qView.askQuestion();
-               enableRollDice();
                desableClokwise();
                resetDiceDisplay();
+               alreadyRolled = false;
                
            }
        });
@@ -103,9 +107,9 @@ public class DicePanel extends JPanel implements Observer{
                }
                QuestionView qView = new QuestionView(currentGame, category);
                qView.askQuestion();
-               enableRollDice();
                desableClokwise();
                resetDiceDisplay();
+               alreadyRolled = false;
            }
        });
        
