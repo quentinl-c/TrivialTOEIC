@@ -170,6 +170,7 @@ public class DicePanel extends JPanel implements Observer{
 			break;
 		}
 		this.rollDice.setIcon(this.diceValue);
+		
 	}
    public void resetDiceDisplay(){
 	   this.diceValue = new ImageIcon("ressources/dice.png");
