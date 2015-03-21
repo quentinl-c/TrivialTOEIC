@@ -9,6 +9,7 @@ import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JPanel;
 
@@ -24,7 +25,7 @@ public class PlayersView extends JPanel{
     private Game currentGame;
     //Buttons
     
-    private JButton begin = new JButton("Let's begin the game");
+    private JButton begin;
     
     //Add player and plyers list management
     private PlayerListPanel pListPanel;
@@ -41,6 +42,10 @@ public class PlayersView extends JPanel{
         this.pListPanel = new PlayerListPanel(currentGame);
         //dice panel
         this.dicePanel = new DicePanel(currentGame);
+        //Import icon
+        ImageIcon runIcon = new ImageIcon("ressources/run.png");
+        
+        begin = new JButton(runIcon);
         //Top panel which contains dice panel and start button
         this.top.setLayout(new BorderLayout());
         this.top.add(begin, BorderLayout.NORTH);

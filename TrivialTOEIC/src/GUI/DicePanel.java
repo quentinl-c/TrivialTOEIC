@@ -29,8 +29,8 @@ public class DicePanel extends JPanel implements Observer{
 	 */
 	private static final long serialVersionUID = 1L;
 	private JButton rollDice;
-    private JButton clockwiseB = new JButton("clockwise");
-    private JButton counterclockwiseB = new JButton("counterclockwise");
+    private JButton clockwiseB;
+    private JButton counterclockwiseB;
     private JLabel diceValue = new JLabel("0");
     private Game currentGame;
     
@@ -44,7 +44,17 @@ public class DicePanel extends JPanel implements Observer{
        //import icon
        
        ImageIcon diceIcon = new ImageIcon("ressources/dice.png");
+    
        this.rollDice = new JButton(diceIcon);
+   
+       
+       //Import Icon
+       ImageIcon clockw = new ImageIcon("ressources/clockw.png");
+       ImageIcon counterclockw = new ImageIcon("ressources/counterclockw.png");
+       
+       this.clockwiseB = new JButton(clockw);
+       this.counterclockwiseB = new JButton(counterclockw);
+       
        this.desableRollDice();
        this.desableClokwise();
        //attribute Listeners
@@ -64,7 +74,7 @@ public class DicePanel extends JPanel implements Observer{
            @Override
            public void actionPerformed(ActionEvent e) {
                //TODO
-               currentGame.clockwise(Integer.parseInt(diceValue.getText()),0);
+               currentGame.clockwise(Integer.parseInt(diceValue.getText()),currentGame.getCurrentPlayer());
                String category;
                if(currentGame.getCategory().equals("Base")){
             	   category = "advanced-structures"; //default value
@@ -84,7 +94,7 @@ public class DicePanel extends JPanel implements Observer{
            @Override
            public void actionPerformed(ActionEvent e) {
                //TODO
-               currentGame.counterClockwise(Integer.parseInt(diceValue.getText()),0);
+               currentGame.counterClockwise(Integer.parseInt(diceValue.getText()),currentGame.getCurrentPlayer());
                String category;
                if(currentGame.getCategory().equals("Base")){
             	   category = "advanced-structures"; //default value

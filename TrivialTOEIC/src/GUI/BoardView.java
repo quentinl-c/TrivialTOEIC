@@ -83,7 +83,7 @@ public class BoardView extends JPanel implements Observer {
             for(int j = 0; j<9 ; j++){
                 //center
                 if(i==j&&i==4){
-                    g.drawImage(imageCenter, i*50+10, j*50+10, this);
+                    //g.drawImage(imageCenter, i*50+10, j*50+10, this);
                 }
                 //base
                 else if(i%4==0&&j%4==0&&(i+j)%8!=0){
@@ -91,7 +91,7 @@ public class BoardView extends JPanel implements Observer {
                 }
                 //cross
                 else if(i==4&&j%4!=0||j==4&&i%4!=0){
-                    g.drawImage(imageCross, i*50+10, j*50+10, this);
+                    //g.drawImage(imageCross, i*50+10, j*50+10, this);
                 }
                 
                 // casual
@@ -135,7 +135,6 @@ public class BoardView extends JPanel implements Observer {
             
             switch(color){
                 case "yellow":
-                    System.out.println(pos[0]);
                     g.drawImage(yellowPawn, pos[0]*50+10, pos[1]*50+10, this);
                     break;
                 
