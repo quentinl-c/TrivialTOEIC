@@ -179,6 +179,10 @@ public class Game extends Observable {
     	return this.gameOver;
     }
     
+    public int getDiceValue(){
+    	return this.dice;
+    }
+    
     
     
 }

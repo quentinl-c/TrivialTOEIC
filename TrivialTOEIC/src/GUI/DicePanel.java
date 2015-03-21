@@ -13,7 +13,6 @@ import java.util.Observer;
 
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
-import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
@@ -28,29 +27,29 @@ public class DicePanel extends JPanel implements Observer{
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
-	private JButton rollDice;
+	private JButton rollDice = new JButton();
     private JButton clockwiseB;
     private JButton counterclockwiseB;
-    private JLabel diceValue = new JLabel("0");
+    private JPanel clockwisePan = new JPanel();
+    private ImageIcon diceValue;
     private Game currentGame;
     
     public DicePanel(Game currentGame){
     	
         //Set the Grid Layout for this Pane 
-       this.setLayout(new GridLayout(2,2));
+       this.setLayout(new GridLayout(2,1));
+       
+       this.clockwisePan.setLayout(new GridLayout(1,2));
        
        this.currentGame = currentGame;
        this.currentGame.addObserver(this);
-       //import icon
-       
-       ImageIcon diceIcon = new ImageIcon("ressources/dice.png");
-    
-       this.rollDice = new JButton(diceIcon);
-   
-       
+
        //Import Icon
        ImageIcon clockw = new ImageIcon("ressources/clockw.png");
        ImageIcon counterclockw = new ImageIcon("ressources/counterclockw.png");
+      
+       
+       this.resetDiceDisplay();
        
        this.clockwiseB = new JButton(clockw);
        this.counterclockwiseB = new JButton(counterclockw);
@@ -62,7 +61,7 @@ public class DicePanel extends JPanel implements Observer{
 
            @Override
            public void actionPerformed(ActionEvent e) {
-               diceValue.setText(Integer.toString(currentGame.rollTheDice()));
+               setDiceValue(currentGame.rollTheDice());
                clockwiseB.setEnabled(true);
                counterclockwiseB.setEnabled(true);
                rollDice.setEnabled(false);
@@ -74,7 +73,7 @@ public class DicePanel extends JPanel implements Observer{
            @Override
            public void actionPerformed(ActionEvent e) {
                //TODO
-               currentGame.clockwise(Integer.parseInt(diceValue.getText()),currentGame.getCurrentPlayer());
+               currentGame.clockwise(currentGame.getDiceValue(),currentGame.getCurrentPlayer());
                String category;
                if(currentGame.getCategory().equals("Base")){
             	   category = "advanced-structures"; //default value
@@ -85,6 +84,7 @@ public class DicePanel extends JPanel implements Observer{
                qView.askQuestion();
                enableRollDice();
                desableClokwise();
+               resetDiceDisplay();
                
            }
        });
@@ -94,7 +94,7 @@ public class DicePanel extends JPanel implements Observer{
            @Override
            public void actionPerformed(ActionEvent e) {
                //TODO
-               currentGame.counterClockwise(Integer.parseInt(diceValue.getText()),currentGame.getCurrentPlayer());
+               currentGame.counterClockwise(currentGame.getDiceValue(),currentGame.getCurrentPlayer());
                String category;
                if(currentGame.getCategory().equals("Base")){
             	   category = "advanced-structures"; //default value
@@ -105,13 +105,14 @@ public class DicePanel extends JPanel implements Observer{
                qView.askQuestion();
                enableRollDice();
                desableClokwise();
+               resetDiceDisplay();
            }
        });
        
        this.add(this.rollDice);
-       this.add(this.diceValue);
-       this.add(this.clockwiseB);
-       this.add(this.counterclockwiseB);
+       this.clockwisePan.add(this.clockwiseB);
+       this.clockwisePan.add(this.counterclockwiseB);
+       this.add(this.clockwisePan);
     }
     public void enableRollDice(){
         this.rollDice.setEnabled(true);
@@ -139,7 +140,38 @@ public class DicePanel extends JPanel implements Observer{
 		}
 		
 	}
-    
+	
+	public void setDiceValue(int value){
+		switch(value) {
+		case 1 :
+			this.diceValue = new ImageIcon("ressources/one.png");
+			break;
+		case 2 :
+			this.diceValue = new ImageIcon("ressources/two.png");
+			break;
+		case 3 :
+			this.diceValue = new ImageIcon("ressources/three.png");
+			break;
+		case 4 :
+			this.diceValue = new ImageIcon("ressources/four.png");
+			break;
+		case 5 :
+			this.diceValue = new ImageIcon("ressources/five.png");
+			break;
+		case 6 :
+			this.diceValue = new ImageIcon("ressources/six.png");
+			break;
+		default :
+			this.diceValue = new ImageIcon("ressources/one.png");
+			break;
+		}
+		this.rollDice.setIcon(this.diceValue);
+	}
+   public void resetDiceDisplay(){
+	   this.diceValue = new ImageIcon("ressources/dice.png");
+	   this.rollDice.setIcon(this.diceValue);
+	   
+   }
  
     
 }
