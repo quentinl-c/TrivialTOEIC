@@ -39,6 +39,7 @@ public class Game extends Observable {
         initCategory("vocabulary", jsonImportation);
         initCategory("incomplete-sentences", jsonImportation);
         initCategory("advanced-structures", jsonImportation);
+        initCategory("reading-comprehension", jsonImportation);
     }
     
     public Question randomQuestion(String category){

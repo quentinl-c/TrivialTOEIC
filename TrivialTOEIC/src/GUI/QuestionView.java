@@ -60,8 +60,9 @@ public class QuestionView{
        }else{
            
            qLabel.setText(q);
+           JScrollPane vertical = new JScrollPane();
            JTextArea contentLabel = new JTextArea();
-           contentLabel.setPreferredSize(new Dimension(200,100));
+           
            contentLabel.setWrapStyleWord(true);
            contentLabel.setLineWrap(true);
            contentLabel.setEditable(false);

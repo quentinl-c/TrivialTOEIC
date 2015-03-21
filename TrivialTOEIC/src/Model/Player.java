@@ -82,7 +82,9 @@ public class Player{
     		case "advanced-structures":
     			stat[1]++;
     			break;
-    		//TODO Add the remaining category
+    		case "reading-comprehension":
+    			stat[2]++;
+    			break;
 			default:
 				//nothing
 				break;
