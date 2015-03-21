@@ -87,7 +87,7 @@ public class BoardView extends JPanel implements Observer {
                 }
                 //base
                 else if(i%4==0&&j%4==0&&(i+j)%8!=0){
-                    g.drawImage(imageBase, i*50+10, j*50+10, this);
+                    g.drawImage(imageBase, i*50+25, j*50+25, this);
                 }
                 //cross
                 else if(i==4&&j%4!=0||j==4&&i%4!=0){
@@ -101,19 +101,19 @@ public class BoardView extends JPanel implements Observer {
                     String type = this.board.getCategory(index);
                     switch(type){
                         case "incomplete-sentences":
-                            g.drawImage(imageCategory1, i*50+10, j*50+10, this);
+                            g.drawImage(imageCategory1, i*50+25, j*50+25, this);
                             break;
                             
                         case "advanced-structures":
-                            g.drawImage(imageCategory2, i*50+10, j*50+10, this);
+                            g.drawImage(imageCategory2, i*50+25, j*50+25, this);
                             break;
                         
                         case "vocabulary":
-                            g.drawImage(imageCategory3, i*50+10, j*50+10, this);
+                            g.drawImage(imageCategory3, i*50+25, j*50+25, this);
                             break;
                             
                         case "grammar":
-                            g.drawImage(imageCategory4, i*50+10, j*50+10, this);
+                            g.drawImage(imageCategory4, i*50+25, j*50+25, this);
                             break;
                          
                         default:
@@ -135,19 +135,19 @@ public class BoardView extends JPanel implements Observer {
             
             switch(color){
                 case "yellow":
-                    g.drawImage(yellowPawn, pos[0]*50+10, pos[1]*50+10, this);
+                    g.drawImage(yellowPawn, pos[0]*50+25, pos[1]*50+25, this);
                     break;
                 
                 case "red":
-                    g.drawImage(redPawn, pos[0]*50+10, pos[1]*50+10, this);
+                    g.drawImage(redPawn, pos[0]*50+25, pos[1]*50+25, this);
                     break;
                 
                 case "blue":
-                    g.drawImage(bluePawn, pos[0]*50+10, pos[1]*50+10, this);
+                    g.drawImage(bluePawn, pos[0]*50+25, pos[1]*50+25, this);
                     break;
                     
                 case "green":
-                    g.drawImage(greenPawn, pos[0]*50+10, pos[1]*50+10, this);
+                    g.drawImage(greenPawn, pos[0]*50+25, pos[1]*50+25, this);
                     break;
                 
                 default:
