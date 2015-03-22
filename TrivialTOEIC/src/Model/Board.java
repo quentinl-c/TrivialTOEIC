@@ -26,7 +26,7 @@ public class Board {
             Don't ask how it has been done, its done !
             */
             if((i+4)%8==0){
-                this.board.add(new Square("vocabulary"));
+                this.board.add(new Square("Base"));
             }else if(i%7==0||(i-4)%7==0){
                 this.board.add(new Square("incomplete-sentences"));
             }else if((i-1)%7==0||(i-1-4)%7==0){

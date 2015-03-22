@@ -111,11 +111,6 @@ public class Game extends Observable {
     }
     
     public void clockwise(int shift,int playerIndex){
-    	System.out.println("houuu !");
-    	System.out.println("layer index");
-    	System.out.println(playerIndex);
-    	System.out.println("shift");
-    	System.out.println(shift);
         this.getPlayer(playerIndex).setPos(this.getPlayer(playerIndex).getPos()-shift);
         setChanged();
         notifyObservers();
@@ -141,6 +136,8 @@ public class Game extends Observable {
     public void incScore(int player, String category){
     	this.players.get(player).incPlayerScore(category);
     	this.checkGameOver();
+    	this.setChanged();
+    	this.notifyObservers();
     }
     
     public int getCurrentPlayer(){

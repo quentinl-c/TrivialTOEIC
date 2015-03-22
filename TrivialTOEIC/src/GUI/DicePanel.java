@@ -78,7 +78,7 @@ public class DicePanel extends JPanel implements Observer{
                currentGame.clockwise(currentGame.getDiceValue(),currentGame.getCurrentPlayer());
                String category;
                if(currentGame.getCategory().equals("Base")){
-            	   category = "reading-comprehension"; //default value
+            	   category = "vocabulary"; //default value
                }else{
             	   category = currentGame.getCategory();
                }
@@ -99,7 +99,7 @@ public class DicePanel extends JPanel implements Observer{
                currentGame.counterClockwise(currentGame.getDiceValue(),currentGame.getCurrentPlayer());
                String category;
                if(currentGame.getCategory().equals("Base")){
-            	   category = "reading-comprehension"; //default value
+            	   category = "vocabulary"; //default value
                }else{
             	   category = currentGame.getCategory();
                }

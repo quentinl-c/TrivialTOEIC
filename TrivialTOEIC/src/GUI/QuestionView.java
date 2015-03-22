@@ -60,7 +60,7 @@ public class QuestionView{
        }else{
            
            qLabel.setText(q);
-           JScrollPane vertical = new JScrollPane();
+      
            JTextArea contentLabel = new JTextArea();
            
            contentLabel.setWrapStyleWord(true);
