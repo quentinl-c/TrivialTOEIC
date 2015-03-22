@@ -41,6 +41,11 @@ public class Game extends Observable {
         initCategory("advanced-structures", jsonImportation);
         initCategory("reading-comprehension", jsonImportation);
         initCategory("error-recognition", jsonImportation);
+        System.out.println(this.questions.get("incomplete-sentences").size() );
+        System.out.println(this.questions.get("advanced-structures").size() );
+        System.out.println(this.questions.get("reading-comprehension").size() );
+        System.out.println(this.questions.get("error-recognition").size() );
+        
     }
     
     public Question randomQuestion(String category){

@@ -76,7 +76,7 @@ public class QuestionView{
        for(int i=0; i<4; i++){
            answers[i] = this.question.getAnswer(i);
        }
-       String answer = (String)JOptionPane.showInputDialog(null,mainPan, "Question",JOptionPane.QUESTION_MESSAGE, questionIcon, answers, answers[0]);
+       String answer = (String)JOptionPane.showInputDialog(null,mainPan, this.category,JOptionPane.QUESTION_MESSAGE, questionIcon, answers, answers[0]);
        
        String header;
        String message;
