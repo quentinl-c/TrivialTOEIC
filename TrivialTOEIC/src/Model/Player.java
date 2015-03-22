@@ -85,9 +85,12 @@ public class Player{
     		case "reading-comprehension":
     			stat[2]++;
     			break;
-			default:
-				//nothing
-				break;
+                case "error-recognition":
+                        stat[3]++;
+                        break;
+                default:
+                        //nothing
+                        break;
 		}
     
     }

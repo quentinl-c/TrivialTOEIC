@@ -113,7 +113,7 @@ public class BoardView extends JPanel implements Observer {
                             g.drawImage(imageCategory3, i*50+25, j*50+25, this);
                             break;
                             
-                        case "grammar":
+                        case "error-recognition":
                             g.drawImage(imageCategory4, i*50+25, j*50+25, this);
                             break;
                          

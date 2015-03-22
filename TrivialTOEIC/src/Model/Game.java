@@ -40,6 +40,7 @@ public class Game extends Observable {
         initCategory("incomplete-sentences", jsonImportation);
         initCategory("advanced-structures", jsonImportation);
         initCategory("reading-comprehension", jsonImportation);
+        initCategory("error-recognition", jsonImportation);
     }
     
     public Question randomQuestion(String category){
