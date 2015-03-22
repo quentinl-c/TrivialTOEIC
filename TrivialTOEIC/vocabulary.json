@@ -1,14 +1,4215 @@
 [
-	{
-		"content" : "blabla",
-		"question" : "Who is the boss ",
-		"answers" : ["me", "you", "no idea"],
-		"rightAnswer" : "me"
-	},
-	{
-		"content" : " ",
-		"question" : "Am I strong ",
-		"answers" : ["no", "yes", "no idea"],
-		"rightAnswer" : "yes"
-	}
+    {
+        "content": "",
+        "question": "The Romans had   *insatiable*  appetites for everything. ",
+        "answers": [
+            "huge",
+            " impatient",
+            "sudden",
+            "intermittent"
+        ],
+        "rightAnswer": "huge"
+    },
+    {
+        "content": "",
+        "question": "Congress was   *hesitant*  to repeal the Prohibition Act. ",
+        "answers": [
+            "willing",
+            " urged",
+            "reluctant",
+            "supposed"
+        ],
+        "rightAnswer": "reluctant"
+    },
+    {
+        "content": "",
+        "question": "  *Deceptively*  simple in design, the sculptural works of Isamu  Noguchi incorporate a broad range of textures, sizes, and contours. ",
+        "answers": [
+            "Misleadingly",
+            " Generally",
+            "Noticeably",
+            "Exceptionally"
+        ],
+        "rightAnswer": "Misleadingly"
+    },
+    {
+        "content": "",
+        "question": "Under  the major's able  *leadership* , the soldiers found safety. ",
+        "answers": [
+            " guidance",
+            "intensity",
+            "flagship",
+            "ability"
+        ],
+        "rightAnswer": " guidance"
+    },
+    {
+        "content": "",
+        "question": "The  Chinese people worship their  *ancestors* . ",
+        "answers": [
+            " fossils",
+            "elders",
+            "forefathers",
+            "heirs"
+        ],
+        "rightAnswer": "forefathers"
+    },
+    {
+        "content": "",
+        "question": "Phosphorus is used in paints  for highway signs and markers because it is  *bright*  at night.  ",
+        "answers": [
+            " luminous",
+            "harmless",
+            "adequate",
+            "attractive"
+        ],
+        "rightAnswer": " luminous"
+    },
+    {
+        "content": "",
+        "question": "Thomas Edison's office  was always  *disorganized*  with books and papers. ",
+        "answers": [
+            "cluttered",
+            " decorated",
+            "sorted",
+            "stacked"
+        ],
+        "rightAnswer": "cluttered"
+    },
+    {
+        "content": "",
+        "question": "One of the responsibilities  of a forest ranger is to  *drive slowly*  through the area in search  of animals in distress. ",
+        "answers": [
+            "cruise",
+            "race",
+            "skid",
+            "swerve"
+        ],
+        "rightAnswer": "cruise"
+    },
+    {
+        "content": "",
+        "question": "Even though the evidence is overwhelming, if one juror  is still  *skeptical* , the case must be retried. ",
+        "answers": [
+            "not  present",
+            "not surprised",
+            "not convinced",
+            "not worried"
+        ],
+        "rightAnswer": "not convinced"
+    },
+    {
+        "content": "",
+        "question": " A human body requires more nutrients in cold weather because more energy is  necessary to  *maintain*  body temperature. ",
+        "answers": [
+            " surpass",
+            "preserve",
+            "equip",
+            "reach"
+        ],
+        "rightAnswer": "preserve"
+    },
+    {
+        "content": "",
+        "question": "There are hundreds of  *species*  of eels, some  living in fresh water but most living in oceanic waters. ",
+        "answers": [
+            " specialties",
+            "relatives",
+            "kinds",
+            " offspring"
+        ],
+        "rightAnswer": "kinds"
+    },
+    {
+        "content": "",
+        "question": "Fainting, or a temporary loss of consciousness, may be brought  about by an  *insufficient*  supply of oxygen to the brain. ",
+        "answers": [
+            " inappropriate",
+            "inadequate",
+            "unstable",
+            " undiluted"
+        ],
+        "rightAnswer": " inappropriate"
+    },
+    {
+        "content": "",
+        "question": "Many   *properties*  of the atmosphere affect the amount of solar radiation  that reaches the earth. ",
+        "answers": [
+            "belongings",
+            "impurities",
+            "levels",
+            " characteristics"
+        ],
+        "rightAnswer": " characteristics"
+    },
+    {
+        "content": "",
+        "question": "The  Sahara, the world's largest desert,  *extends*  over 9 million square  kilometers. ",
+        "answers": [
+            "spreads",
+            "sits",
+            "presents",
+            "condenses"
+        ],
+        "rightAnswer": "spreads"
+    },
+    {
+        "content": "",
+        "question": "The   *most secure*  type of bolt is a deadbolt. ",
+        "answers": [
+            " heaviest",
+            "most costly",
+            "most common",
+            "safest"
+        ],
+        "rightAnswer": "safest"
+    },
+    {
+        "content": "",
+        "question": "When Joan of Arc described  her vision, her voice did not  *hesitate* . ",
+        "answers": [
+            "amplify",
+            " falter",
+            "dissolve",
+            "mumble"
+        ],
+        "rightAnswer": " falter"
+    },
+    {
+        "content": "",
+        "question": "The  earliest canoes were made from  *hollowed*  tree trunks. ",
+        "answers": [
+            " sturdy",
+            "burnt",
+            "heavy",
+            "emptied"
+        ],
+        "rightAnswer": "emptied"
+    },
+    {
+        "content": "",
+        "question": "It is  much easier to talk about social change than it is to  *make it  happen* . ",
+        "answers": [
+            "acknowledge it",
+            "predict it",
+            "bring it  about",
+            "put up with it"
+        ],
+        "rightAnswer": "bring it  about"
+    },
+    {
+        "content": "",
+        "question": "That he should ask her  to marry him was rather  *presumptuous*  on his part. ",
+        "answers": [
+            " audacious",
+            "stupid",
+            "brave",
+            "nice"
+        ],
+        "rightAnswer": " audacious"
+    },
+    {
+        "content": "",
+        "question": "The judge's decision was  made  *impartially*  since he knew both parties personally. ",
+        "answers": [
+            "quickly",
+            "without  prejudice",
+            "immediately",
+            "clearly"
+        ],
+        "rightAnswer": "without  prejudice"
+    },
+    {
+        "content": "",
+        "question": "In the 1960's the upper level of Pennsylvania Station in  New York City was  *torn down*  and replaced by Madison Square Garden.  ",
+        "answers": [
+            " detracted",
+            "demoted",
+            "distended",
+            "dismantled"
+        ],
+        "rightAnswer": "dismantled"
+    },
+    {
+        "content": "",
+        "question": "American children   *customarily*  go trick-or-treating on Halloween. ",
+        "answers": [
+            " gaily",
+            "traditionally",
+            "readily",
+            "inevitably"
+        ],
+        "rightAnswer": "traditionally"
+    },
+    {
+        "content": "",
+        "question": "According to scientists, it  is possible that another Ice Age will  *soon*  be upon us. ",
+        "answers": [
+            "some  day",
+            "now",
+            "in the near future",
+            " undoubtedly"
+        ],
+        "rightAnswer": "in the near future"
+    },
+    {
+        "content": "",
+        "question": " *Efficiency*  was lacking in the  company's management, and consequently productivity suffered. ",
+        "answers": [
+            " Effectiveness",
+            "Diligence",
+            "Honesty",
+            " Cooperation"
+        ],
+        "rightAnswer": " Effectiveness"
+    },
+    {
+        "content": "",
+        "question": "Nearly half of the town's inhabitants are descendants of   *indigenous*  civilizations. ",
+        "answers": [
+            " native",
+            "backward",
+            "hard-working",
+            "poor"
+        ],
+        "rightAnswer": " native"
+    },
+    {
+        "content": "",
+        "question": "Though many scientific breakthroughs have  resulted from  *mishaps* , it has taken brilliant thinkers to  recognize their potential. ",
+        "answers": [
+            "misunderstandings",
+            "accidents",
+            " misfortunes",
+            "incidentals"
+        ],
+        "rightAnswer": "accidents"
+    },
+    {
+        "content": "",
+        "question": "During the Great  Depression, there were many  *wanderers*  who traveled on the  railroads and camped along the tracks. ",
+        "answers": [
+            "vagabonds",
+            " tyros",
+            "zealots",
+            "veterans"
+        ],
+        "rightAnswer": "vagabonds"
+    },
+    {
+        "content": "",
+        "question": "We decided to pay for the furniture on the   *installment*  plan. ",
+        "answers": [
+            "cash and carry",
+            "piece by  piece",
+            "monthly payment",
+            "credit card"
+        ],
+        "rightAnswer": "monthly payment"
+    },
+    {
+        "content": "",
+        "question": "Mail service will be   *suspended*  during the postal workers' strike. ",
+        "answers": [
+            "inspected",
+            " delayed",
+            "uninterrupted",
+            "curtailed"
+        ],
+        "rightAnswer": "curtailed"
+    },
+    {
+        "content": "",
+        "question": "  *Domestic*  cats in the United States are generally classified in ten  short-haired breeds and seven long-haired breeds. ",
+        "answers": [
+            " Household",
+            "Friendly",
+            "Trained",
+            "Foreign"
+        ],
+        "rightAnswer": " Household"
+    },
+    {
+        "content": "",
+        "question": " Translating literally from one language to another  *works*   unsatisfactorily at best. ",
+        "answers": [
+            "pays",
+            "functions",
+            "reads",
+            " labors"
+        ],
+        "rightAnswer": "functions"
+    },
+    {
+        "content": "",
+        "question": " General acceptance of 3-D films may prove hard to  *come by* , as the  experience of three decades ago indicated. ",
+        "answers": [
+            " obtain",
+            "explain",
+            "understand",
+            "discern"
+        ],
+        "rightAnswer": " obtain"
+    },
+    {
+        "content": "",
+        "question": "The  gorilla, the largest of the apes, is now able to be bred in   *confinement* . ",
+        "answers": [
+            "haste",
+            "safety",
+            "captivity",
+            " intervals"
+        ],
+        "rightAnswer": "captivity"
+    },
+    {
+        "content": "",
+        "question": "Every year, each  households in the United States discards approximately a ton of   *trash* . ",
+        "answers": [
+            "filler",
+            "garbage",
+            "paper",
+            "fuel"
+        ],
+        "rightAnswer": "garbage"
+    },
+    {
+        "content": "",
+        "question": "The accident occurred because the truck driver was   *careless* . ",
+        "answers": [
+            "alert",
+            "negligent",
+            "subsequent",
+            " decrepit"
+        ],
+        "rightAnswer": "negligent"
+    },
+    {
+        "content": "",
+        "question": " Honeybees live in a  *complicated*  society of ten to fifty thousand  members. ",
+        "answers": [
+            "concealed",
+            "complex",
+            "cooperative",
+            "congested"
+        ],
+        "rightAnswer": "complex"
+    },
+    {
+        "content": "",
+        "question": "When Benjamin Franklin became the first American postmaster  general in 1775, he worked to improve the frequency and   *reliability*  of mail delivery. ",
+        "answers": [
+            " satisfaction",
+            "opportunity",
+            " dependability",
+            "extent"
+        ],
+        "rightAnswer": " dependability"
+    },
+    {
+        "content": "",
+        "question": "When he won the first prize  he realised that this was the highest  *attainment*  of his life.  ",
+        "answers": [
+            " accomplishment",
+            "task",
+            "surprise",
+            "shock"
+        ],
+        "rightAnswer": " accomplishment"
+    },
+    {
+        "content": "",
+        "question": "Recent studies have shown  that the  *statute*  of male Americans has scarcely in the past two  hundred years. ",
+        "answers": [
+            "weight",
+            "height",
+            "life span",
+            "head size"
+        ],
+        "rightAnswer": "height"
+    },
+    {
+        "content": "",
+        "question": "Travel agents will  *confirm*  your  reservations for you free. ",
+        "answers": [
+            "purchase",
+            "verify",
+            "exchange",
+            " obtain"
+        ],
+        "rightAnswer": "verify"
+    },
+    {
+        "content": "",
+        "question": " Marcia's career involved a  *dual*  role for her as a counselor and a  teacher. ",
+        "answers": [
+            "tiring",
+            "dedicated",
+            "twofold",
+            " satisfying"
+        ],
+        "rightAnswer": "twofold"
+    },
+    {
+        "content": "",
+        "question": " The  *blank space*  of the paper must be 1.5 inches at the top and 1  inch at the bottom and on the sides. ",
+        "answers": [
+            " frames",
+            "borders",
+            "shutters",
+            "margins"
+        ],
+        "rightAnswer": "margins"
+    },
+    {
+        "content": "",
+        "question": "Early log cabins were   *crude*  if sturdy structures. ",
+        "answers": [
+            " unpainted",
+            "resilient",
+            "unseasoned",
+            "rough"
+        ],
+        "rightAnswer": "rough"
+    },
+    {
+        "content": "",
+        "question": "When the protestor entered the meeting clad only in a  beach towel, the audience was  *dumbfounded* . ",
+        "answers": [
+            " speechless",
+            "excited",
+            "content",
+            " applauding"
+        ],
+        "rightAnswer": " speechless"
+    },
+    {
+        "content": "",
+        "question": "The walnut is a deciduous tree that   *bears*  valuable nuts. ",
+        "answers": [
+            "enriches",
+            "yields",
+            "replaces",
+            "hides"
+        ],
+        "rightAnswer": "yields"
+    },
+    {
+        "content": "",
+        "question": "In the early days of baseball, the game was  played by young men  *of means*  and social position. ",
+        "answers": [
+            "with  skill",
+            "with equipment",
+            "with money",
+            "with ambition"
+        ],
+        "rightAnswer": "with money"
+    },
+    {
+        "content": "",
+        "question": "Alexander Hamilton remained  *adamantly*   opposed to the policies of John Adams throughout the latter's presidency. ",
+        "answers": [
+            "admirably",
+            " strongly",
+            "inflexibly",
+            "manfully"
+        ],
+        "rightAnswer": "inflexibly"
+    },
+    {
+        "content": "",
+        "question": "Did  you remember to fill the  *thermos* ? ",
+        "answers": [
+            "jug",
+            " flask",
+            "tank",
+            "battery"
+        ],
+        "rightAnswer": " flask"
+    },
+    {
+        "content": "",
+        "question": " Marcia and Bill were the  *recipients*  of the president's scholarship  for fine arts. ",
+        "answers": [
+            "creators",
+            "donors",
+            "receivers",
+            "instigators"
+        ],
+        "rightAnswer": "receivers"
+    },
+    {
+        "content": "",
+        "question": "The news of the president's death   *astonished*  the world. ",
+        "answers": [
+            " alerted",
+            "admonished",
+            "atoned",
+            "astounded"
+        ],
+        "rightAnswer": "astounded"
+    },
+    {
+        "content": "",
+        "question": "Ethnocentrism prevents us from  *putting up  with*  all of the customs we encounter in another culture. ",
+        "answers": [
+            "experiencing",
+            " adopting",
+            "comprehending",
+            "tolerating"
+        ],
+        "rightAnswer": "tolerating"
+    },
+    {
+        "content": "",
+        "question": " The tetracyclines are a family of antibiotics used to  *infection* .  ",
+        "answers": [
+            " battles",
+            "contamination",
+            "injury",
+            "deterioration"
+        ],
+        "rightAnswer": "contamination"
+    },
+    {
+        "content": "",
+        "question": " There are many  *potential*  dangers ahead of the inexperienced scuba  diver. ",
+        "answers": [
+            "exciting",
+            "novel",
+            "horrid",
+            "possible"
+        ],
+        "rightAnswer": "horrid"
+    },
+    {
+        "content": "",
+        "question": "One should always  *temper*  enthusiasm with  caution. ",
+        "answers": [
+            "modify",
+            "compare",
+            "replace",
+            "encourage"
+        ],
+        "rightAnswer": "modify"
+    },
+    {
+        "content": "",
+        "question": "When Professor Baker  suffered a  *return of his illness* , he was ordered to enter the  hospital. ",
+        "answers": [
+            "rebuff",
+            "reform",
+            "relapse",
+            "resort"
+        ],
+        "rightAnswer": "relapse"
+    },
+    {
+        "content": "",
+        "question": "They had always thought  the volcano  *inactive* . ",
+        "answers": [
+            "interesting",
+            " dangerous",
+            "silent",
+            "extinct"
+        ],
+        "rightAnswer": "silent"
+    },
+    {
+        "content": "",
+        "question": " When preparing a  *diet* , a person should be aware that vitamin D  acts to increase the amount of calcium absorbed by the body. ",
+        "answers": [
+            "schedule of  exercises",
+            "nutritional plan",
+            "study on longevity",
+            "medicinal chart"
+        ],
+        "rightAnswer": "medicinal chart"
+    },
+    {
+        "content": "",
+        "question": "If you  don't get the  *gist*  of this article ask the teacher in the morning.  ",
+        "answers": [
+            " idea",
+            "conclusion",
+            "detail",
+            "copy"
+        ],
+        "rightAnswer": " idea"
+    },
+    {
+        "content": "",
+        "question": "A good auditorium will assure that the sound is   *able to be heard* . ",
+        "answers": [
+            "superior",
+            "genuine",
+            " audible",
+            "contained"
+        ],
+        "rightAnswer": " audible"
+    },
+    {
+        "content": "",
+        "question": "Reagan seemed   *sure*  that he would win the election. ",
+        "answers": [
+            "eager",
+            " hopeful",
+            "confident",
+            "resigned"
+        ],
+        "rightAnswer": "confident"
+    },
+    {
+        "content": "",
+        "question": "Library cards will   *expire*  when they are not used. ",
+        "answers": [
+            "cost more  money",
+            "cease to be effective",
+            "be mailed to the holder",
+            "be continued  automatically"
+        ],
+        "rightAnswer": "cease to be effective"
+    },
+    {
+        "content": "",
+        "question": "Collections of opals and  quartz are featured at the City Museum's annual exhibition of  *precious  stones* . ",
+        "answers": [
+            "coins",
+            "loot",
+            "gems",
+            "shells"
+        ],
+        "rightAnswer": "gems"
+    },
+    {
+        "content": "",
+        "question": " *Lifting the shoulders*  is a gesture that  indicates lack of interest. ",
+        "answers": [
+            "Napping",
+            "Shrugging",
+            " Sighing",
+            "Yawning"
+        ],
+        "rightAnswer": "Shrugging"
+    },
+    {
+        "content": "",
+        "question": "The American bald  eagle is not really  *bald*  in the usual sense. ",
+        "answers": [
+            "mighty",
+            " majestic",
+            "hairless",
+            "flightless"
+        ],
+        "rightAnswer": "hairless"
+    },
+    {
+        "content": "",
+        "question": "Poet Emma  Lazarus is perhaps best known for having written the sonnet inscribes on the   *pedestal*  of the Statue of Liberty. ",
+        "answers": [
+            "inside",
+            " base",
+            "torch",
+            "replica"
+        ],
+        "rightAnswer": " base"
+    },
+    {
+        "content": "",
+        "question": "Primary education in the United States is   *compulsory* . ",
+        "answers": [
+            "free of charge",
+            "required",
+            "excellent",
+            " easy"
+        ],
+        "rightAnswer": "required"
+    },
+    {
+        "content": "",
+        "question": "  *Mounting*  evidence indicates that acid rain is damaging historic  sites in Boston and Philadelphia. ",
+        "answers": [
+            "Hanging",
+            "Tentative",
+            " Increasing",
+            "Irrefutable"
+        ],
+        "rightAnswer": " Increasing"
+    },
+    {
+        "content": "",
+        "question": "Jan took many  *snapshots*  while on vacation in  Europe. ",
+        "answers": [
+            "notes",
+            "gifts",
+            "photos",
+            "clothes"
+        ],
+        "rightAnswer": "photos"
+    },
+    {
+        "content": "",
+        "question": " Double agents live in a  *perpetual*  state of fear. ",
+        "answers": [
+            " perfect",
+            "constant",
+            "ceasing",
+            "perpetrated"
+        ],
+        "rightAnswer": "constant"
+    },
+    {
+        "content": "",
+        "question": "Neon is an element which  does not combine readily with any other element; because of this property, it is  called an  *inactive*  element. ",
+        "answers": [
+            "inert",
+            " adjacent",
+            "explicit",
+            "obsolete"
+        ],
+        "rightAnswer": "inert"
+    },
+    {
+        "content": "",
+        "question": "Canada  and the United States are cooperating to clean up the  *dirty*  lakes  along their borders. ",
+        "answers": [
+            "contaminated",
+            "huge",
+            "mutual",
+            "gorgeous"
+        ],
+        "rightAnswer": "contaminated"
+    },
+    {
+        "content": "",
+        "question": "When Pope John Paul  visited Latin America, he often  *signaled for*  children to come to  him. ",
+        "answers": [
+            "denied",
+            "adored",
+            "beckoned",
+            " allowed"
+        ],
+        "rightAnswer": "beckoned"
+    },
+    {
+        "content": "",
+        "question": "  *Interfering*  with someone's mail is a serious crime in the United  States. ",
+        "answers": [
+            "Assisting",
+            "Tampering",
+            "Gambling",
+            " Intimidating"
+        ],
+        "rightAnswer": "Tampering"
+    },
+    {
+        "content": "",
+        "question": "The  development of general anesthetics has allowed doctors to operate without the   *pain*  once associated with surgery. ",
+        "answers": [
+            " fear",
+            "protest",
+            "rage",
+            "anguish"
+        ],
+        "rightAnswer": " fear"
+    },
+    {
+        "content": "",
+        "question": "Cowrie shells were once in widespread use as  *a  token*  of value. ",
+        "answers": [
+            "a symbol",
+            "an amount",
+            "a thing",
+            "an  investment"
+        ],
+        "rightAnswer": "a symbol"
+    },
+    {
+        "content": "",
+        "question": "Our final assignment  for the English class is to give an  *impromptu*  speech. ",
+        "answers": [
+            " eloquent",
+            "unprepared",
+            "technical",
+            "unbiased"
+        ],
+        "rightAnswer": "unprepared"
+    },
+    {
+        "content": "",
+        "question": " Techniques that create an atmosphere of suspense are commonly used by filmmakers  to  *arouse*  their audiences. ",
+        "answers": [
+            "excite",
+            " harass",
+            "appease",
+            "arrest"
+        ],
+        "rightAnswer": "excite"
+    },
+    {
+        "content": "",
+        "question": "Despite the  breakthrough, expectations remain  *modest* . ",
+        "answers": [
+            " thorough",
+            "slight",
+            "intricate",
+            "shy"
+        ],
+        "rightAnswer": "slight"
+    },
+    {
+        "content": "",
+        "question": "Marvin's doctor said he was  *obese*  and had to  take immediate measures to correct the problem. ",
+        "answers": [
+            " anemia",
+            "tired",
+            "corpulent",
+            "petulant"
+        ],
+        "rightAnswer": "corpulent"
+    },
+    {
+        "content": "",
+        "question": "The meat must be  *chopped*  before it can be  used in that recipe. ",
+        "answers": [
+            "stewed",
+            "bought",
+            "cut",
+            " cooked"
+        ],
+        "rightAnswer": "cut"
+    },
+    {
+        "content": "",
+        "question": " Silver was  *eliminated from*  quarters with the Coinage Act of 1965.  ",
+        "answers": [
+            "reduced  from",
+            "added to",
+            "removed from",
+            "increased in"
+        ],
+        "rightAnswer": "removed from"
+    },
+    {
+        "content": "",
+        "question": "The   *remnants*  of the Roman Empire can be found in many countries in  Asia, Europe, and Africa. ",
+        "answers": [
+            "effects",
+            "small pieces",
+            "buildings",
+            " destruction"
+        ],
+        "rightAnswer": "small pieces"
+    },
+    {
+        "content": "",
+        "question": "John Dewey  *loathed*  the idea that  children should not participate in activities as part of their educational  experience. ",
+        "answers": [
+            "encouraged",
+            "noticed",
+            "hated",
+            " began"
+        ],
+        "rightAnswer": "hated"
+    },
+    {
+        "content": "",
+        "question": "It takes  *roughly*  4000 pounds of petals to make  a single pound of rose oil. ",
+        "answers": [
+            "as much as",
+            "amazingly",
+            "more or  less",
+            "relatively"
+        ],
+        "rightAnswer": "more or  less"
+    },
+    {
+        "content": "",
+        "question": "Macrame is used to make clothing and accessories as  well as  *ornamental*  items. ",
+        "answers": [
+            " colorful",
+            "decorative",
+            "utilitarian",
+            "hand-made"
+        ],
+        "rightAnswer": "decorative"
+    },
+    {
+        "content": "",
+        "question": "He could   *barely*  stand up after completing the marathon, even though he won.  ",
+        "answers": [
+            " hardly",
+            "still",
+            "really",
+            "bravely"
+        ],
+        "rightAnswer": " hardly"
+    },
+    {
+        "content": "",
+        "question": "In the past, energy sources were thought to be   *boundless* . ",
+        "answers": [
+            "without limits",
+            "inexpensive",
+            "natural",
+            " solar"
+        ],
+        "rightAnswer": "without limits"
+    },
+    {
+        "content": "",
+        "question": "It is  better to try to change things than to  *complain*  about them. ",
+        "answers": [
+            "ramble",
+            " straddle",
+            "grumble",
+            "dangle"
+        ],
+        "rightAnswer": "grumble"
+    },
+    {
+        "content": "",
+        "question": "Joyce is loved by all her friends because  she is very  *congenial* . ",
+        "answers": [
+            " pleasant",
+            "wealthy",
+            "courageous",
+            "sensitive"
+        ],
+        "rightAnswer": " pleasant"
+    },
+    {
+        "content": "",
+        "question": "There are   *considerably*  more weekly newspapers than daily newspapers in the  United States. ",
+        "answers": [
+            "mostly",
+            "hardly",
+            "rarely",
+            " substantially"
+        ],
+        "rightAnswer": " substantially"
+    },
+    {
+        "content": "",
+        "question": " *Proximity to*  the court house  makes an office building more valuable. ",
+        "answers": [
+            "Interest in",
+            "Similarity  to",
+            "Nearness to",
+            "Usefulness for"
+        ],
+        "rightAnswer": "Nearness to"
+    },
+    {
+        "content": "",
+        "question": "It is obvious that Mary Anne  *greatly  loves*  her new husband. ",
+        "answers": [
+            "adores",
+            "admires",
+            " affects",
+            "abhors"
+        ],
+        "rightAnswer": "adores"
+    },
+    {
+        "content": "",
+        "question": "With a new project the   *initial*  stages are often the key to success. ",
+        "answers": [
+            "final",
+            " first",
+            "concluding",
+            "preparatory"
+        ],
+        "rightAnswer": " first"
+    },
+    {
+        "content": "",
+        "question": "Modern techniques have  made  *dentures*  virtually unnoticeable. ",
+        "answers": [
+            "false  teeth",
+            "surgical implants",
+            "artificial hair",
+            "plastic  surgery"
+        ],
+        "rightAnswer": "false  teeth"
+    },
+    {
+        "content": "",
+        "question": "Mark  cannot talk well because he has a speech  *impediment* . ",
+        "answers": [
+            " skeptic",
+            "defect",
+            "imposition",
+            "aspect"
+        ],
+        "rightAnswer": "defect"
+    },
+    {
+        "content": "",
+        "question": " The raccoon is a  *nocturnal*  animal. ",
+        "answers": [
+            " harmless",
+            "night",
+            "marsupial",
+            "diurnal"
+        ],
+        "rightAnswer": "night"
+    },
+    {
+        "content": "",
+        "question": "  *Variations*  in the color of sea water from blue to green seem to be  caused by high or low concentrations of salt. ",
+        "answers": [
+            " Changes",
+            "Descriptions",
+            "Measures",
+            "Clarity"
+        ],
+        "rightAnswer": " Changes"
+    },
+    {
+        "content": "",
+        "question": "The  calf of the human leg  *contains*  seven muscles. ",
+        "answers": [
+            " includes",
+            "requires",
+            "makes use of",
+            "depends on"
+        ],
+        "rightAnswer": " includes"
+    },
+    {
+        "content": "",
+        "question": "The   *daring*  young man rode through the Indian village trying to find  his long-lost sister. ",
+        "answers": [
+            "bold",
+            "cowardly",
+            "persistent",
+            " captured"
+        ],
+        "rightAnswer": "bold"
+    },
+    {
+        "content": "",
+        "question": "The new  manager's  *aggressive*  behavior soon turned all the employees  against him. ",
+        "answers": [
+            "shy",
+            "depressed",
+            "hostile",
+            " unstable"
+        ],
+        "rightAnswer": "hostile"
+    },
+    {
+        "content": "",
+        "question": "He was  *refused*  admission to the  restaurant for not wearing a tie. ",
+        "answers": [
+            "granted",
+            "denied",
+            " acquiesced",
+            "appealed"
+        ],
+        "rightAnswer": "denied"
+    },
+    {
+        "content": "",
+        "question": "The revolutionary  forces had to  *muster up*  enough men to oppose the British Army.  ",
+        "answers": [
+            " finance",
+            "disguise",
+            "convince",
+            "gather"
+        ],
+        "rightAnswer": "gather"
+    },
+    {
+        "content": "",
+        "question": "We  watched as the plane  *disappeared*  behind the clouds. ",
+        "answers": [
+            " melted",
+            "escaped",
+            "vanished",
+            "perished"
+        ],
+        "rightAnswer": "vanished"
+    },
+    {
+        "content": "",
+        "question": "It is difficult to get young people to plan for their old  age, which seems very  *distant*  to them. ",
+        "answers": [
+            " impossible",
+            "faraway",
+            "observable",
+            " fearful"
+        ],
+        "rightAnswer": "faraway"
+    },
+    {
+        "content": "",
+        "question": "A few   *spots*  of paint splattered on the floor in spite of the care that  we took to cover it. ",
+        "answers": [
+            "speaks",
+            "tricks",
+            "cracks",
+            "bricks"
+        ],
+        "rightAnswer": "speaks"
+    },
+    {
+        "content": "",
+        "question": "The  passengers on the boat were  *mesmerized*  by the motion of the sea.  ",
+        "answers": [
+            " paralysed",
+            "hypnotized",
+            "nauseated",
+            "reverberated"
+        ],
+        "rightAnswer": "hypnotized"
+    },
+    {
+        "content": "",
+        "question": "In  some countries, nuclear power  *produces*  up to two-thirds of the  necessary electricity. ",
+        "answers": [
+            "makes",
+            "receives",
+            "dissipates",
+            " manages"
+        ],
+        "rightAnswer": "makes"
+    },
+    {
+        "content": "",
+        "question": "Defined most   *broadly* , folklore includes all the customs, beliefs, and  traditions that people have handed down from the generation to generation.  ",
+        "answers": [
+            " fancifully",
+            "liberally",
+            "quaintly",
+            " dryly"
+        ],
+        "rightAnswer": " dryly"
+    },
+    {
+        "content": "",
+        "question": "The  campers heard a strange  *rustling*  in the trees. ",
+        "answers": [
+            " stealing",
+            "pillaging",
+            "movement",
+            "fight"
+        ],
+        "rightAnswer": "movement"
+    },
+    {
+        "content": "",
+        "question": "The company asked for  *additional*   information. ",
+        "answers": [
+            "certain",
+            "emphatic",
+            "further",
+            " enchanting"
+        ],
+        "rightAnswer": "further"
+    },
+    {
+        "content": "",
+        "question": " It is no  *simple*  matter for chimpanzees accustomed to living with  human beings to return to the wild. ",
+        "answers": [
+            "foolish",
+            " easy",
+            "common",
+            "unique"
+        ],
+        "rightAnswer": " easy"
+    },
+    {
+        "content": "",
+        "question": "Computerized  editing systems are the  *norm*  in major newsrooms today. ",
+        "answers": [
+            " rule",
+            "requirement",
+            "value",
+            "specialty"
+        ],
+        "rightAnswer": " rule"
+    },
+    {
+        "content": "",
+        "question": "A  series of  *calamities*  can severely affect underwriters' earnings.  ",
+        "answers": [
+            " reports",
+            "investments",
+            "becalmings",
+            "disasters"
+        ],
+        "rightAnswer": "disasters"
+    },
+    {
+        "content": "",
+        "question": "Speech difficulties may  sometimes be  *overcome*  if a person is shown where to place the  tongue and teeth to make sounds. ",
+        "answers": [
+            "identified",
+            "minimized",
+            " surmised",
+            "surmounted"
+        ],
+        "rightAnswer": "surmounted"
+    },
+    {
+        "content": "",
+        "question": "Legislators are considering whether the drug laws for  possession of marijuana are too  *severe* . ",
+        "answers": [
+            "vague",
+            " harsh",
+            "diverse",
+            "covert"
+        ],
+        "rightAnswer": " harsh"
+    },
+    {
+        "content": "",
+        "question": "When snow   *collects*  on top of a building during the winter, the weight  sometimes weakens the construction, and occasionally causes the roof to  collapse. ",
+        "answers": [
+            "accumulates",
+            "promulgates",
+            " disseminates",
+            "confiscates"
+        ],
+        "rightAnswer": "accumulates"
+    },
+    {
+        "content": "",
+        "question": "City taxes are  based on an  *estimate of the value*  of one's property. ",
+        "answers": [
+            " appraisal",
+            "forecast",
+            "diagnosis",
+            "outline"
+        ],
+        "rightAnswer": "forecast"
+    },
+    {
+        "content": "",
+        "question": "Since Ron has such an  *intense dislike*   for flying, I am certain that he will not want to go with us. ",
+        "answers": [
+            "avarice for",
+            "aversion  to",
+            "affection for",
+            "affirmation of"
+        ],
+        "rightAnswer": "aversion  to"
+    },
+    {
+        "content": "",
+        "question": "The flowers on the table were a  *manifestation*   of the child's love for his mother. ",
+        "answers": [
+            "a  demonstration",
+            "an infestation",
+            "a  combination",
+            "a satisfaction"
+        ],
+        "rightAnswer": "a  demonstration"
+    },
+    {
+        "content": "",
+        "question": "The most  important environmental influence on fish is water temperature for fish tend to   *take on*  the temperature of their surroundings. ",
+        "answers": [
+            "assume",
+            " regulate",
+            "avoid",
+            "exceed"
+        ],
+        "rightAnswer": "assume"
+    },
+    {
+        "content": "",
+        "question": "Neutron stars are incredibly dense stars that are formed  after the  *explosion*  of a supernova. ",
+        "answers": [
+            " brilliance",
+            "dynamism",
+            "expansion",
+            " burst"
+        ],
+        "rightAnswer": " burst"
+    },
+    {
+        "content": "",
+        "question": "It is  possible for a chemist to use the melting point of a particular   *substance*  to determine its purity. ",
+        "answers": [
+            " liquid",
+            "element",
+            "quantity",
+            "mixture"
+        ],
+        "rightAnswer": "element"
+    },
+    {
+        "content": "",
+        "question": " He is person who understands his  *obligations*  and attends to them.  ",
+        "answers": [
+            " restrictions",
+            "annoyances",
+            "observations",
+            " duties"
+        ],
+        "rightAnswer": " duties"
+    },
+    {
+        "content": "",
+        "question": " Contractors hire surveyors to mark the  *limits*  of the property  before they begin construction. ",
+        "answers": [
+            "basements",
+            "expenses",
+            " boundaries",
+            "supplies"
+        ],
+        "rightAnswer": " boundaries"
+    },
+    {
+        "content": "",
+        "question": "Many desert animals have made adaptations that are   *strikingly*  similar to those of desert plants. ",
+        "answers": [
+            " predominantly",
+            "precipitously",
+            "forcefully",
+            " remarkably"
+        ],
+        "rightAnswer": " remarkably"
+    },
+    {
+        "content": "",
+        "question": "Roget's  Thesaurus, a collection of English words and phrases, was originally arranged by  the ideas they express  *rather than*  by alphabetical order. ",
+        "answers": [
+            "restricted",
+            "as well  as",
+            "unless",
+            "instead of"
+        ],
+        "rightAnswer": "instead of"
+    },
+    {
+        "content": "",
+        "question": "A  feeling of sadness  *permeated*  the atmosphere. ",
+        "answers": [
+            " quieted",
+            "pervaded",
+            "stilled",
+            "stifled"
+        ],
+        "rightAnswer": "pervaded"
+    },
+    {
+        "content": "",
+        "question": "The president's  *compassion*  for the refugees  caused him to admit a very large number of them. ",
+        "answers": [
+            " friendship",
+            "respect",
+            "pity",
+            " hostility"
+        ],
+        "rightAnswer": "pity"
+    },
+    {
+        "content": "",
+        "question": "The Supreme Court has a reputation for being   *just* . ",
+        "answers": [
+            "stubborn",
+            "impartial",
+            "humorous",
+            " capricious"
+        ],
+        "rightAnswer": "impartial"
+    },
+    {
+        "content": "",
+        "question": "Practitioners of behavioral medicine   *encourage*  patients to be responsible for their own health. ",
+        "answers": [
+            " urge",
+            "enlighten",
+            "allow",
+            "admonish"
+        ],
+        "rightAnswer": " urge"
+    },
+    {
+        "content": "",
+        "question": "I was   *horrified*  to see the child about to cross the expressway alone.  ",
+        "answers": [
+            " ashamed",
+            "shocked",
+            "nervous",
+            "surprised"
+        ],
+        "rightAnswer": "shocked"
+    },
+    {
+        "content": "",
+        "question": "The  museum dismissed the  *curator*  after some of the oldest paintings  were damaged. ",
+        "answers": [
+            "artist",
+            "cleaner",
+            "guard",
+            "director"
+        ],
+        "rightAnswer": "director"
+    },
+    {
+        "content": "",
+        "question": "Frontier settlements had to   *depend on*  the cavalry. ",
+        "answers": [
+            "visit",
+            " trust",
+            "meet",
+            "help"
+        ],
+        "rightAnswer": " trust"
+    },
+    {
+        "content": "",
+        "question": " The plane took off and after a few seconds was barely  *visible* .  ",
+        "answers": [
+            " forgotten",
+            "heard",
+            "gone",
+            "observable"
+        ],
+        "rightAnswer": "observable"
+    },
+    {
+        "content": "",
+        "question": "The Boy Scouts usually sell  *apple  juice*  in the fall in order to earn money for their activities. ",
+        "answers": [
+            "punch",
+            " ale",
+            "cider",
+            "soda"
+        ],
+        "rightAnswer": "cider"
+    },
+    {
+        "content": "",
+        "question": "He was  *mystified*   by the look on the stranger's face. ",
+        "answers": [
+            "perplexed",
+            " shocked",
+            "upset",
+            "excited"
+        ],
+        "rightAnswer": "perplexed"
+    },
+    {
+        "content": "",
+        "question": "Relaxation therapy teaches one not to  *fret  over*  small problems. ",
+        "answers": [
+            "worry about",
+            "get angry about",
+            "get involved  in",
+            "look for"
+        ],
+        "rightAnswer": "worry about"
+    },
+    {
+        "content": "",
+        "question": "In Benjamin Franklin's almanac, he warns  against making  *hasty*  decisions. ",
+        "answers": [
+            " expensive",
+            "unhealthy",
+            "firm",
+            "quick"
+        ],
+        "rightAnswer": "quick"
+    },
+    {
+        "content": "",
+        "question": " Feudal society depended on the existence of  *faithful*  vassals.  ",
+        "answers": [
+            " diligent",
+            "gullible",
+            "pious",
+            "loyal"
+        ],
+        "rightAnswer": "loyal"
+    },
+    {
+        "content": "",
+        "question": "Crop irrigation has long played a role in  agricultural  *practices* . ",
+        "answers": [
+            " possibilities",
+            "routines",
+            "rehearsals",
+            " services"
+        ],
+        "rightAnswer": "routines"
+    },
+    {
+        "content": "",
+        "question": "Before  the earthquake hit the area,many minor  *tremors*  were felt. ",
+        "answers": [
+            " spasms",
+            "noises",
+            "vibrations",
+            "crumblings"
+        ],
+        "rightAnswer": "vibrations"
+    },
+    {
+        "content": "",
+        "question": "Mark Anthony's   *eulogy*  of Caesar at his funeral is memorably recorded in a play by  Shakespeare. ",
+        "answers": [
+            "prayer",
+            "biography",
+            "praise",
+            " denunciation"
+        ],
+        "rightAnswer": "praise"
+    },
+    {
+        "content": "",
+        "question": "The Morrill Act of 1862   *authorized*  the states to use federal lands for the establishment  of colleges that would offer programs in agriculture and the mechanical arts.  ",
+        "answers": [
+            " challenged",
+            "persuaded",
+            "empowered",
+            "invited"
+        ],
+        "rightAnswer": "empowered"
+    },
+    {
+        "content": "",
+        "question": "Most eyeglasses will not  *break into many  pieces*  because they are made with either plastic or a special blend of  glass. ",
+        "answers": [
+            "shatter",
+            "tear",
+            "collapse",
+            "rupture"
+        ],
+        "rightAnswer": "shatter"
+    },
+    {
+        "content": "",
+        "question": "The new  representative from our state is such an  *extrovert*  I think he'll  have problems. ",
+        "answers": [
+            "ambitious person",
+            "out going person",
+            "egoist",
+            " underdog"
+        ],
+        "rightAnswer": "out going person"
+    },
+    {
+        "content": "",
+        "question": "The Civil War in 1863   *cut*  the United States into two nations - a southern Confederacy  and a northern Union. ",
+        "answers": [
+            "severed",
+            "acknowledged",
+            "integrated",
+            " alienated"
+        ],
+        "rightAnswer": "severed"
+    },
+    {
+        "content": "",
+        "question": "George Washington's  armies set up  *an encampment*  at Morristown, New Jersey, for two  winters during the American Revolution. ",
+        "answers": [
+            "an  encounter",
+            "a bivouac",
+            "an encroachment",
+            "a detainment"
+        ],
+        "rightAnswer": "a bivouac"
+    },
+    {
+        "content": "",
+        "question": "In the early 1960's many Southern   *communities*  were slow to desegregate their public schools. ",
+        "answers": [
+            " establishments",
+            "communes",
+            "states",
+            " neighborhoods"
+        ],
+        "rightAnswer": " neighborhoods"
+    },
+    {
+        "content": "",
+        "question": " *Fragments*  of the Dead Sea Scrolls  have been found in recent years. ",
+        "answers": [
+            "aromas",
+            "pieces",
+            " drawings",
+            "writers"
+        ],
+        "rightAnswer": "pieces"
+    },
+    {
+        "content": "",
+        "question": "The National Institute of  Mental Health is conducting  *far-reaching * research to determine the  psychological effects of using drugs. ",
+        "answers": [
+            "extensive",
+            " prevalent",
+            "refined",
+            "tentative"
+        ],
+        "rightAnswer": "extensive"
+    },
+    {
+        "content": "",
+        "question": "The choir  sang as a  *preliminary event*  to the ceremony. ",
+        "answers": [
+            " precaution",
+            "prelude",
+            "precept",
+            " precise"
+        ],
+        "rightAnswer": "prelude"
+    },
+    {
+        "content": "",
+        "question": " After the drops were placed in the patient's eyes, his pupils became   *dilated* . ",
+        "answers": [
+            "enlarged",
+            "smaller",
+            "irritated",
+            " sensible"
+        ],
+        "rightAnswer": "enlarged"
+    },
+    {
+        "content": "",
+        "question": "An appendectomy is a   *routine*  operation. ",
+        "answers": [
+            "cheap",
+            "small",
+            "usual",
+            "quick"
+        ],
+        "rightAnswer": "usual"
+    },
+    {
+        "content": "",
+        "question": "Since the research studies  have shown a relationship between cancer and cigarette smoking, many people have   *cut down* . ",
+        "answers": [
+            "ceased smoking",
+            "become frightened",
+            "decreased the number of  cigarettes",
+            "gotten sick"
+        ],
+        "rightAnswer": "decreased the number of  cigarettes"
+    },
+    {
+        "content": "",
+        "question": "The General Motors Corporation is the   *principal*  industry in Pontiac, Michigan. ",
+        "answers": [
+            " chief",
+            "oldest",
+            "earliest",
+            "automotive"
+        ],
+        "rightAnswer": " chief"
+    },
+    {
+        "content": "",
+        "question": "  *Carpets*  from countries such as Persia and Afghanistan often fetch  high prices in the United States. ",
+        "answers": [
+            "Artifacts",
+            "Rugs",
+            " Pottery",
+            "Textiles"
+        ],
+        "rightAnswer": "Rugs"
+    },
+    {
+        "content": "",
+        "question": "Many weak  and  *incompetent*  rulers were overthrown by more powerful forces.  ",
+        "answers": [
+            " incapable",
+            "impulsive",
+            "clever",
+            "greedy"
+        ],
+        "rightAnswer": " incapable"
+    },
+    {
+        "content": "",
+        "question": "The copperhead, a snake that strikes without warning,  is considered more  *dangerous*  than the rattlesnake. ",
+        "answers": [
+            " exquisite",
+            "sporadic",
+            "treacherous",
+            "aloof"
+        ],
+        "rightAnswer": "treacherous"
+    },
+    {
+        "content": "",
+        "question": "For  your safety and the safety of others, always  *pay attention to*   traffic signals. ",
+        "answers": [
+            "overlook",
+            "heed",
+            "glance at",
+            "repair"
+        ],
+        "rightAnswer": "heed"
+    },
+    {
+        "content": "",
+        "question": "A balance of international payment refers to the net  result of the business which a nation  *carries on*  with other  nations in a given period. ",
+        "answers": [
+            "cancels",
+            "appropriates",
+            "transacts",
+            " mediates"
+        ],
+        "rightAnswer": "transacts"
+    },
+    {
+        "content": "",
+        "question": "The new suit he has bought  is unfortunately made of  *synthetic*  material. ",
+        "answers": [
+            "blended",
+            " silken",
+            "artificial",
+            "natural"
+        ],
+        "rightAnswer": "artificial"
+    },
+    {
+        "content": "",
+        "question": " Taillevent's fame as a  *chef*  has endured since the 14th century.  ",
+        "answers": [
+            " cook",
+            "soldier",
+            "diplomat",
+            "leader"
+        ],
+        "rightAnswer": " cook"
+    },
+    {
+        "content": "",
+        "question": "Athlets learn to   *conceal*  their disappointment when they lose. ",
+        "answers": [
+            "ignore",
+            " regret",
+            "accept",
+            "disguise"
+        ],
+        "rightAnswer": "disguise"
+    },
+    {
+        "content": "",
+        "question": "\"Uncle  Tom's Cabin\" has been frequently translated and often dramatized, most recently  as a  *curiously*  sentimental melodrama. ",
+        "answers": [
+            "an overly",
+            "an  unfortunately",
+            "an unambiguously",
+            "an oddly"
+        ],
+        "rightAnswer": "an oddly"
+    },
+    {
+        "content": "",
+        "question": "They couldn't believe their  eyes looking at the  *contortionist* . ",
+        "answers": [
+            " exhibitionist",
+            "painting",
+            "acrobat",
+            "fight"
+        ],
+        "rightAnswer": "acrobat"
+    },
+    {
+        "content": "",
+        "question": " *Unorganized*  guessing will not raise a test  score as significantly as choosing one letter as a \"guess answer\" for the entire  examination. ",
+        "answers": [
+            "Cryptic",
+            "Haphazard",
+            "Economical",
+            " Subsequent"
+        ],
+        "rightAnswer": "Haphazard"
+    },
+    {
+        "content": "",
+        "question": "The   *recycling*  of aluminum converses ninety-percent of the energy  needed to make new metal. ",
+        "answers": [
+            "cleaning",
+            "reprocessing",
+            "reselling",
+            " crushing"
+        ],
+        "rightAnswer": "reprocessing"
+    },
+    {
+        "content": "",
+        "question": "A   *hot land covered with a dense growth of trees*  offers the best  climate for growing orchids. ",
+        "answers": [
+            "plateau",
+            "plain",
+            "jungle",
+            "forest"
+        ],
+        "rightAnswer": "jungle"
+    },
+    {
+        "content": "",
+        "question": "We were caught in  a  *deluge*  while returning from our vacation. ",
+        "answers": [
+            " hailstorm",
+            "downpour",
+            "sandstorm",
+            "blizzard"
+        ],
+        "rightAnswer": "downpour"
+    },
+    {
+        "content": "",
+        "question": "The coroner was able to extract a  *minute*   particle of cloth from under the victim's fingernail. ",
+        "answers": [
+            " infinitesimal",
+            "significant",
+            "large",
+            " short"
+        ],
+        "rightAnswer": " infinitesimal"
+    },
+    {
+        "content": "",
+        "question": "In  the 1776 pamphlet \"Common Sense,\" Thomas Paine  *defended*  the cause  of the American Revolution. ",
+        "answers": [
+            "fought",
+            "championed",
+            " exposed",
+            "believed"
+        ],
+        "rightAnswer": "championed"
+    },
+    {
+        "content": "",
+        "question": "Astronomy provides the knowledge necessary for   *correct*  timekeeping, navigation, surveying and mapmaking. ",
+        "answers": [
+            "meticulous",
+            " incessant",
+            "accurate",
+            "ancient"
+        ],
+        "rightAnswer": "accurate"
+    },
+    {
+        "content": "",
+        "question": "Since you don't know them very  well, it would be  *suitable*  for you to send a card instead of a  gift. ",
+        "answers": [
+            "obstinate",
+            "intricate",
+            "appropriate",
+            " ultimate"
+        ],
+        "rightAnswer": "appropriate"
+    },
+    {
+        "content": "",
+        "question": "  *Efficient*  air service has been made available through modern  technology. ",
+        "answers": [
+            "affluent",
+            "modern",
+            "inexpensive",
+            "effective"
+        ],
+        "rightAnswer": "effective"
+    },
+    {
+        "content": "",
+        "question": " One of the most common uses of boric acid is as  *an antiseptic* .  ",
+        "answers": [
+            "a  solvent",
+            "a bacteria",
+            "a compound",
+            "a  disinfectant"
+        ],
+        "rightAnswer": "a  disinfectant"
+    },
+    {
+        "content": "",
+        "question": "Many  doctors are still general practitioners, but the  *tendency*  is  toward specialization in medicine. ",
+        "answers": [
+            "rumor",
+            "trend",
+            "prejudice",
+            " security"
+        ],
+        "rightAnswer": "trend"
+    },
+    {
+        "content": "",
+        "question": " If the teams were not so evenly matched, it would be easier to   *foretell*  the outcome of the Superbowl. ",
+        "answers": [
+            " argue",
+            "predict",
+            "discuss",
+            "influence"
+        ],
+        "rightAnswer": "predict"
+    },
+    {
+        "content": "",
+        "question": " When he was director of the company, his first  *accomplishment*  was  to bring about better working conditions. ",
+        "answers": [
+            " accumulation",
+            "achievement",
+            "defeat",
+            " job"
+        ],
+        "rightAnswer": "achievement"
+    },
+    {
+        "content": "",
+        "question": "A credit union can  *distribute*  earnings to  its members as dividends. ",
+        "answers": [
+            "increase",
+            "allocate",
+            "implement",
+            " augment"
+        ],
+        "rightAnswer": "allocate"
+    },
+    {
+        "content": "",
+        "question": "While  they were away on vacation, they allowed their mail to  *accumulate*   at the post office. ",
+        "answers": [
+            "be delivered",
+            "pile up",
+            "get lost",
+            "be  returned"
+        ],
+        "rightAnswer": "pile up"
+    },
+    {
+        "content": "",
+        "question": "It is very  discourteous to  *intrude*  during someone's conversation. ",
+        "answers": [
+            "find fault",
+            " disagree",
+            "be in the way",
+            "leave quickly"
+        ],
+        "rightAnswer": "be in the way"
+    },
+    {
+        "content": "",
+        "question": "The teacher decided to take  the students for a weekend  *trek* . ",
+        "answers": [
+            "visit",
+            "study  tour",
+            "seminar",
+            "hike"
+        ],
+        "rightAnswer": "hike"
+    },
+    {
+        "content": "",
+        "question": "The \"Mona  Lisa\" is the portrait of a woman with a very  *enticing*  smile.  ",
+        "answers": [
+            " oblivious",
+            "luminous",
+            "alluring",
+            "elusive"
+        ],
+        "rightAnswer": "alluring"
+    },
+    {
+        "content": "",
+        "question": " Chemicals are used to  *retard*  the growth of ornamental trees.  ",
+        "answers": [
+            " initiate",
+            "stunt",
+            "benefit",
+            "alter"
+        ],
+        "rightAnswer": "stunt"
+    },
+    {
+        "content": "",
+        "question": "I always  thought  *ornithology*  was for older people not for teenagers. ",
+        "answers": [
+            " rock-climbing",
+            "the study of birds",
+            "deep-sea  diving",
+            "free-fall parachuting"
+        ],
+        "rightAnswer": "the study of birds"
+    },
+    {
+        "content": "",
+        "question": "Rain   *lessens*  in the fall throughout most of the Appalachian Mountain  region. ",
+        "answers": [
+            "pours",
+            "accumulates",
+            "abates",
+            " evaporates"
+        ],
+        "rightAnswer": "abates"
+    },
+    {
+        "content": "",
+        "question": "The  harp, with up to 47 strings, produces the most  *tones*  of any  stringed instrument. ",
+        "answers": [
+            "noise",
+            "melodies",
+            "sounds",
+            " scales"
+        ],
+        "rightAnswer": "sounds"
+    },
+    {
+        "content": "",
+        "question": "The test site region  *encompassed*  a  ten-square-mile area. ",
+        "answers": [
+            "overlooked",
+            "owned",
+            "surveyed",
+            "encircled"
+        ],
+        "rightAnswer": "encircled"
+    },
+    {
+        "content": "",
+        "question": "Although a cheetah can  *achieve*  a speed of 110  kilometers per hour, it can maintain this speed for only a few hundred meters.  ",
+        "answers": [
+            "race  at",
+            "bypass",
+            "uphold",
+            "attain"
+        ],
+        "rightAnswer": "attain"
+    },
+    {
+        "content": "",
+        "question": "The professor  reprimanded the  *tardy*  student. ",
+        "answers": [
+            "unpunctual",
+            " sleepy",
+            "impolite",
+            "tiresome"
+        ],
+        "rightAnswer": "unpunctual"
+    },
+    {
+        "content": "",
+        "question": "The secretary  left after weeks of  *harassment*  by the manager of her department.  ",
+        "answers": [
+            " teasing",
+            "irritation",
+            "absence",
+            "goading"
+        ],
+        "rightAnswer": "irritation"
+    },
+    {
+        "content": "",
+        "question": "When one is  unfamiliar with the customs, it is easy to make a  *blunder* . ",
+        "answers": [
+            "a commitment",
+            "a  mistake",
+            "an enemy",
+            "an injury"
+        ],
+        "rightAnswer": "a  mistake"
+    },
+    {
+        "content": "",
+        "question": "Embroidery   *depicting*  scenic views became popular in the United States toward  the end of the eighteenth century. ",
+        "answers": [
+            "distorting",
+            " commemorating",
+            "portraying",
+            "emphasizing"
+        ],
+        "rightAnswer": "portraying"
+    },
+    {
+        "content": "",
+        "question": " Caffeine is a stimulant that was  *originally*  produced from plants  but now can be made under laboratory conditions. ",
+        "answers": [
+            " first",
+            "appropriately",
+            "often",
+            "only"
+        ],
+        "rightAnswer": " first"
+    },
+    {
+        "content": "",
+        "question": "The   *rooms and meals*  at the Campus Motel were not only adequate but  also inexpensive. ",
+        "answers": [
+            "registrations",
+            "reservations",
+            " accommodations",
+            "confirmations"
+        ],
+        "rightAnswer": " accommodations"
+    },
+    {
+        "content": "",
+        "question": "The new   *amphitheater*  was based on the ancient Greek design. ",
+        "answers": [
+            "underwater  theater",
+            "oval theater",
+            "sound and light theater",
+            " mini-theater"
+        ],
+        "rightAnswer": "oval theater"
+    },
+    {
+        "content": "",
+        "question": " After a long, hard struggle, we  *gradually*  succeeded in having  people accept the truth of our theory. ",
+        "answers": [
+            " slowly",
+            "momentarily",
+            "suddenly",
+            "graciously"
+        ],
+        "rightAnswer": " slowly"
+    },
+    {
+        "content": "",
+        "question": "The world's  *busiest*  airport is Chicago's  O'Hare, where each year 550,000 flights land and take off. ",
+        "answers": [
+            "best  run",
+            "most active",
+            "most spacious",
+            "most  successful"
+        ],
+        "rightAnswer": "most active"
+    },
+    {
+        "content": "",
+        "question": "The disinterred mummy was found to be in an advanced stage  of  *disintegration* . ",
+        "answers": [
+            "glorification",
+            "saturation",
+            " decomposition",
+            "preservation"
+        ],
+        "rightAnswer": " decomposition"
+    },
+    {
+        "content": "",
+        "question": "People living along the  coast  *escaped*  inland before the hurricane hit. ",
+        "answers": [
+            "fled",
+            " floundered",
+            "flipped",
+            "flattered"
+        ],
+        "rightAnswer": "fled"
+    },
+    {
+        "content": "",
+        "question": "A   *multitude*  of people attended the fund-raising presentation in the  mall. ",
+        "answers": [
+            "small number",
+            "select group",
+            "huge crowd",
+            "large  herd"
+        ],
+        "rightAnswer": "huge crowd"
+    },
+    {
+        "content": "",
+        "question": "The  *coveted*  Oscar was won by the best  performing actor. ",
+        "answers": [
+            "much desired",
+            "rewarding",
+            " outstanding",
+            "highly regarded"
+        ],
+        "rightAnswer": "much desired"
+    },
+    {
+        "content": "",
+        "question": "The  *drought*   was finally over as the fall brought in some welcome rain. ",
+        "answers": [
+            "summer",
+            " aridity",
+            "heatwave",
+            "harvest"
+        ],
+        "rightAnswer": " aridity"
+    },
+    {
+        "content": "",
+        "question": "Drink  only  *tepid*  liquids. ",
+        "answers": [
+            "slightly warm",
+            "very hot",
+            "slightly cool",
+            "very  cold"
+        ],
+        "rightAnswer": "slightly warm"
+    },
+    {
+        "content": "",
+        "question": "The dog  saw his  *reflection*  in the pool of water. ",
+        "answers": [
+            " image",
+            "bone",
+            "imagination",
+            "leash"
+        ],
+        "rightAnswer": " image"
+    },
+    {
+        "content": "",
+        "question": "After  *eating an excessive  amount*  at the dinner, he became ill. ",
+        "answers": [
+            " surfeiting",
+            "lamenting",
+            "exploiting",
+            " inhabiting"
+        ],
+        "rightAnswer": " surfeiting"
+    },
+    {
+        "content": "",
+        "question": "The  *degree*  to  which heat affects tennis players' performance depends in part on the level of  humidity. ",
+        "answers": [
+            "extent",
+            "temperature",
+            "height",
+            " strength"
+        ],
+        "rightAnswer": "extent"
+    },
+    {
+        "content": "",
+        "question": " *Prior  to*  his appointment as secretary of state, Henry Kissinger was a  professor of government and international affairs at Harvard. ",
+        "answers": [
+            "After",
+            " Before",
+            "During",
+            "Instead of"
+        ],
+        "rightAnswer": " Before"
+    },
+    {
+        "content": "",
+        "question": "After Senator Smith announced that he  planned to run for president, the telephone at campaign headquarters rang   *continuously* . ",
+        "answers": [
+            "incessantly",
+            "ignorantly",
+            "incisively",
+            " impartially"
+        ],
+        "rightAnswer": "incessantly"
+    },
+    {
+        "content": "",
+        "question": "If a  student has a  *grievance*  she can always take it up with her  adviser. ",
+        "answers": [
+            "protest",
+            "task",
+            "difficulty",
+            "sickness"
+        ],
+        "rightAnswer": "protest"
+    },
+    {
+        "content": "",
+        "question": "A  *vacant*  apartment in New York City is  very difficult to find. ",
+        "answers": [
+            "good",
+            "large",
+            "empty",
+            "clean"
+        ],
+        "rightAnswer": "empty"
+    },
+    {
+        "content": "",
+        "question": "A satire by Mark Twain,  the story is about a prince and a  *very poor person*  who exchange  places for a time. ",
+        "answers": [
+            "pauper",
+            "tyro",
+            "recluse",
+            "captive"
+        ],
+        "rightAnswer": "pauper"
+    },
+    {
+        "content": "",
+        "question": "The students were given   *complimentary*  passes for the new movie. ",
+        "answers": [
+            " inexpensive",
+            "free",
+            "expensive",
+            " good"
+        ],
+        "rightAnswer": "free"
+    },
+    {
+        "content": "",
+        "question": "Exchange rates  for most  *currencies*  do not float freely. ",
+        "answers": [
+            " newspapers",
+            "securities",
+            "money",
+            " finances"
+        ],
+        "rightAnswer": "money"
+    },
+    {
+        "content": "",
+        "question": "Although buses are   *scheduled*  to depart at a certain hour, they are often late. ",
+        "answers": [
+            "listed",
+            " requested",
+            "obligated",
+            "loaded"
+        ],
+        "rightAnswer": "listed"
+    },
+    {
+        "content": "",
+        "question": "In  certain types of poisoning, immediately give large quantities of soapy or salty  water in order to  *induce*  vomiting. ",
+        "answers": [
+            "control",
+            " clean",
+            "cause",
+            "stop"
+        ],
+        "rightAnswer": "cause"
+    },
+    {
+        "content": "",
+        "question": "This tapestry has a very   *complicated*  pattern. ",
+        "answers": [
+            "appropriate",
+            "obsolete",
+            "ultimate",
+            "intricate"
+        ],
+        "rightAnswer": "intricate"
+    },
+    {
+        "content": "",
+        "question": "Tiny  Tim, a character in \"A Christmas Carol\" was a happy little boy in spite of the  disability that caused him to  *favor one leg* . ",
+        "answers": [
+            "limp",
+            " weep",
+            "rest",
+            "shout"
+        ],
+        "rightAnswer": "limp"
+    },
+    {
+        "content": "",
+        "question": " Insects are the most  *diverse*  class of animals in number, form, and  natural range. ",
+        "answers": [
+            "poetic",
+            "intricate",
+            "varied",
+            "hard  working"
+        ],
+        "rightAnswer": "varied"
+    },
+    {
+        "content": "",
+        "question": "The  audience  *applauded*  enthusiastically after the performance at the  Grand Old Opera. ",
+        "answers": [
+            "clapped",
+            "chatted",
+            "laughed",
+            " contributed"
+        ],
+        "rightAnswer": "clapped"
+    },
+    {
+        "content": "",
+        "question": "A series  of  *columns*  supporting a large porch is typical of the architecture  of pre-Civil War mansions in the South. ",
+        "answers": [
+            "statues",
+            " murals",
+            "pillars",
+            "arches"
+        ],
+        "rightAnswer": "pillars"
+    },
+    {
+        "content": "",
+        "question": "The child was rushed to  hospital after he  *ingested*  more than a dozen sharp nails. ",
+        "answers": [
+            "sat on",
+            "fell  on",
+            "swallowed",
+            "stepped on"
+        ],
+        "rightAnswer": "swallowed"
+    },
+    {
+        "content": "",
+        "question": "Jane suffered a   *light blow*  on her head as she got out of the car. ",
+        "answers": [
+            "jump",
+            " hump",
+            "bump",
+            "stump"
+        ],
+        "rightAnswer": "bump"
+    },
+    {
+        "content": "",
+        "question": "He was fired because of  his  *misconduct*  at the office party. ",
+        "answers": [
+            "mistake",
+            " impropriety",
+            "condition",
+            "singing"
+        ],
+        "rightAnswer": " impropriety"
+    },
+    {
+        "content": "",
+        "question": "The 1908 Siberian  meteorite explosion  *brought about*  considerable depletion of the  northern hemisphere's ozone layer. ",
+        "answers": [
+            "was caused by",
+            "resulted  in",
+            "brought back",
+            "was initiated by"
+        ],
+        "rightAnswer": "resulted  in"
+    },
+    {
+        "content": "",
+        "question": "The representatives of the company seemed very   *callous*  concerning the conditions of the workers. ",
+        "answers": [
+            "liberal",
+            " ignorant",
+            "responsible",
+            "insensitive"
+        ],
+        "rightAnswer": "insensitive"
+    },
+    {
+        "content": "",
+        "question": "Lindbergh's first  nonstop flight across the Atlantic Ocean was  *an act*  of great  daring and courage. ",
+        "answers": [
+            "a narrative",
+            "a feat",
+            "an attempt",
+            "a conspiracy"
+        ],
+        "rightAnswer": "a feat"
+    },
+    {
+        "content": "",
+        "question": "Her only chance to  elude her  *pursuer*  was to mingle with the crowd. ",
+        "answers": [
+            "friend",
+            " lawyer",
+            "follower",
+            "captor"
+        ],
+        "rightAnswer": "follower"
+    },
+    {
+        "content": "",
+        "question": "Scott  *seized*  the opportunity to present  his proposal to the director. ",
+        "answers": [
+            "realized",
+            "grasped",
+            " rendered",
+            "delivered"
+        ],
+        "rightAnswer": "grasped"
+    },
+    {
+        "content": "",
+        "question": "Pets sometimes   *imitate*  their owners, but seldom the other way round. ",
+        "answers": [
+            "follow",
+            " copy",
+            "annoy",
+            "admire"
+        ],
+        "rightAnswer": " copy"
+    },
+    {
+        "content": "",
+        "question": "We will need to  *leave out*  some of the  preliminary exercises at the graduation because of the large number of students  receiving degrees. ",
+        "answers": [
+            "outfit",
+            "omit",
+            "audit",
+            "quit"
+        ],
+        "rightAnswer": "omit"
+    },
+    {
+        "content": "",
+        "question": "People who live in the country enjoy a  *rustic*   life style. ",
+        "answers": [
+            "slow",
+            "difficult",
+            "simple",
+            " happy"
+        ],
+        "rightAnswer": "simple"
+    },
+    {
+        "content": "",
+        "question": "Some scientists have argued that the purpose of the human  appendix may have been to digest uncooked meat and bark, functions that are   *no longer useful* . ",
+        "answers": [
+            "simulated",
+            "perilous",
+            " obsolete",
+            "sluggish"
+        ],
+        "rightAnswer": " obsolete"
+    },
+    {
+        "content": "",
+        "question": "The diver's task  was complicated by the fact that,  *besides*  the gold, the wreck  contained bombs and ammunition. ",
+        "answers": [
+            "next to",
+            "away from",
+            "allied  to",
+            "in addition to"
+        ],
+        "rightAnswer": "in addition to"
+    },
+    {
+        "content": "",
+        "question": "He  decided to subscribe to the magazine although it only came out   *biannually*  ",
+        "answers": [
+            "biennial",
+            "semi-annual",
+            "four times a  year",
+            "every year"
+        ],
+        "rightAnswer": "semi-annual"
+    },
+    {
+        "content": "",
+        "question": "Only  five hundred people live in this tiny  *village* . ",
+        "answers": [
+            " hamlet",
+            "metropolis",
+            "ranch",
+            "suburb"
+        ],
+        "rightAnswer": " hamlet"
+    },
+    {
+        "content": "",
+        "question": "Most  of the  *wounded*  passengers were quickly removed from the aircraft.  ",
+        "answers": [
+            " unconscious",
+            "injured",
+            "deceased",
+            " distressed"
+        ],
+        "rightAnswer": "injured"
+    },
+    {
+        "content": "",
+        "question": " The  *plainer*  a bower bird's plumage, the more brightly it decorates  its nest to attract a mate. ",
+        "answers": [
+            "more spectacular",
+            "duller",
+            " flatter",
+            "more melancholy"
+        ],
+        "rightAnswer": "duller"
+    },
+    {
+        "content": "",
+        "question": "Some of the gangs that  terrorized Chicago in the 1920s did not have the  *propriety*  to keep  their activities off the streets. ",
+        "answers": [
+            "decency",
+            "ability",
+            "resources",
+            "courage"
+        ],
+        "rightAnswer": "decency"
+    },
+    {
+        "content": "",
+        "question": "The  *fort*  now known as Fort McHenry was  built prior to the War of 1812 to guard Baltimore harbor. ",
+        "answers": [
+            "mansion",
+            " garrison",
+            "tower",
+            "museum"
+        ],
+        "rightAnswer": " garrison"
+    },
+    {
+        "content": "",
+        "question": " Recent border  *confrontations*  between the two military groups lend  credence to the rumors of an impending war. ",
+        "answers": [
+            " enterprises",
+            "consequences",
+            " conferences",
+            "disputes"
+        ],
+        "rightAnswer": "disputes"
+    },
+    {
+        "content": "",
+        "question": "The  cheetah is  *considered*  the fastest of all land animal. ",
+        "answers": [
+            "recorded  as",
+            "substituted for",
+            "compelled to be",
+            "expected to  be"
+        ],
+        "rightAnswer": "expected to  be"
+    },
+    {
+        "content": "",
+        "question": "Many apartments have  doors with a security window so that one may  *take a look*  outside  and observe visitors without being seen. ",
+        "answers": [
+            "block",
+            " joke",
+            "peek",
+            "shake"
+        ],
+        "rightAnswer": "peek"
+    },
+    {
+        "content": "",
+        "question": "In the play \"The Devil and  Daniel Webster\", the  *retorts*  attributed to Webster may be more  fiction than history. ",
+        "answers": [
+            "replies",
+            "advice",
+            "behavior",
+            "possessions"
+        ],
+        "rightAnswer": "replies"
+    },
+    {
+        "content": "",
+        "question": "Alaska boasts of several climates due to its   *lofty*  mountains. warm ocean currents, and frozen seas. ",
+        "answers": [
+            " towering",
+            "countless",
+            "rugged",
+            "ageless"
+        ],
+        "rightAnswer": " towering"
+    },
+    {
+        "content": "",
+        "question": " *Adverse*  reviews in the New York press  may greatly change the prospects of a new Broadway production ",
+        "answers": [
+            " additional",
+            "encouraging",
+            " unfavorable",
+            "subversive"
+        ],
+        "rightAnswer": " unfavorable"
+    },
+    {
+        "content": "",
+        "question": " Prospects for an upturn in the economy remain  *bleak* . ",
+        "answers": [
+            "dismal",
+            " indifferent",
+            "encouraging",
+            "unknown"
+        ],
+        "rightAnswer": "dismal"
+    },
+    {
+        "content": "",
+        "question": "The  pianist was  *adept*  at playing the arpeggios. ",
+        "answers": [
+            " proficient",
+            "adjustable",
+            "awkward",
+            " careful"
+        ],
+        "rightAnswer": " proficient"
+    },
+    {
+        "content": "",
+        "question": "Scientists believe that a 400-mile wide meteoric   *crater*  to the east of Hudson Bay may be the world's largest.  ",
+        "answers": [
+            " container",
+            "depression",
+            "locale",
+            "mound"
+        ],
+        "rightAnswer": "depression"
+    },
+    {
+        "content": "",
+        "question": "The company has decided to  offer  *incentives*  in the hope of increasing productivity. ",
+        "answers": [
+            "inducements",
+            " training",
+            "promotions",
+            "bonuses"
+        ],
+        "rightAnswer": "inducements"
+    },
+    {
+        "content": "",
+        "question": "The fer-de-lance, a kind of viper, is one of the most   *poisonous*  snakes. ",
+        "answers": [
+            "deadly",
+            "vicious",
+            "bad  tasting",
+            "unhealthy"
+        ],
+        "rightAnswer": "deadly"
+    },
+    {
+        "content": "",
+        "question": "John  was not promoted because his work did not meet the manager's   *expectations* . ",
+        "answers": [
+            "anticipations",
+            " expenditures",
+            "expertise",
+            "gaudiness"
+        ],
+        "rightAnswer": "anticipations"
+    },
+    {
+        "content": "",
+        "question": " Part of the county area was  *annexed*  to the city in recent months.  ",
+        "answers": [
+            " joined",
+            "separated",
+            "dispensed",
+            "revoked"
+        ],
+        "rightAnswer": " joined"
+    },
+    {
+        "content": "",
+        "question": "An  *immature*  teenager may start smoking in  order to appear older. ",
+        "answers": [
+            "shy",
+            "juvenile",
+            "naive",
+            "insecure"
+        ],
+        "rightAnswer": "juvenile"
+    },
+    {
+        "content": "",
+        "question": "The superintendent was the   *principal*  speaker at the school board meeting. ",
+        "answers": [
+            " only",
+            "main",
+            "outstanding",
+            "strongest"
+        ],
+        "rightAnswer": "main"
+    },
+    {
+        "content": "",
+        "question": "Volcanoes are formed  where the plates in the earth's crust  *meet* . ",
+        "answers": [
+            " crack",
+            "intersect",
+            "collapse",
+            "float"
+        ],
+        "rightAnswer": "collapse"
+    },
+    {
+        "content": "",
+        "question": "The use  of Navajo code-talkers resolved a situation of the utmost  *gravity*   in World War II. ",
+        "answers": [
+            "delicacy",
+            "seriousness",
+            "levity",
+            " deadliness"
+        ],
+        "rightAnswer": "seriousness"
+    },
+    {
+        "content": "",
+        "question": " Victoria Holtand William Shakespeare are  *prolific*  writers. ",
+        "answers": [
+            " productive",
+            "famous",
+            "esteemed",
+            " celebrated"
+        ],
+        "rightAnswer": " productive"
+    },
+    {
+        "content": "",
+        "question": "The  director's  *spacious*  new office overlooked the city. ",
+        "answers": [
+            " quiet",
+            "colorful",
+            "roomy",
+            "comfortable"
+        ],
+        "rightAnswer": "roomy"
+    },
+    {
+        "content": "",
+        "question": "The   *founder*  of the American Red Cross was Clara Barton. ",
+        "answers": [
+            " leader",
+            "backer",
+            "discoverer",
+            "originator"
+        ],
+        "rightAnswer": "originator"
+    },
+    {
+        "content": "",
+        "question": "That a driver   *swerves*  in order to avoid an accident can be proven by examining  the marks on the pavement. ",
+        "answers": [
+            "turns sharply",
+            "stops quickly",
+            "hits something  else",
+            "goes backwards"
+        ],
+        "rightAnswer": "turns sharply"
+    },
+    {
+        "content": "",
+        "question": "The company possesses  *unique*  research  capabilities. ",
+        "answers": [
+            "single",
+            "only",
+            "unequalled",
+            " different"
+        ],
+        "rightAnswer": "unequalled"
+    },
+    {
+        "content": "",
+        "question": "Lyndon  Johnson  *succeeded*  John Kennedy as president of the United States.  ",
+        "answers": [
+            " overruled",
+            "preceded",
+            "followed",
+            "assisted"
+        ],
+        "rightAnswer": "followed"
+    },
+    {
+        "content": "",
+        "question": "The  *lingering*  disease gradually broke down  his will. ",
+        "answers": [
+            "fatal",
+            "persisting",
+            "annoying",
+            " infectious"
+        ],
+        "rightAnswer": "persisting"
+    },
+    {
+        "content": "",
+        "question": "Milk is   *purified*  by heating it at 60*C for thirty minutes. ",
+        "answers": [
+            "cleansed",
+            " stored",
+            "mixed",
+            "packaged"
+        ],
+        "rightAnswer": "cleansed"
+    },
+    {
+        "content": "",
+        "question": "The student's  application was turned down because it was  *incorrectly*  filled out.  ",
+        "answers": [
+            " belatedly",
+            "roughly",
+            "absurdly",
+            "erroneously"
+        ],
+        "rightAnswer": "erroneously"
+    },
+    {
+        "content": "",
+        "question": "Studies of  climatology  *indicate*  that volcanic dust in the atmosphere may  contribute to the onset of ice ages. ",
+        "answers": [
+            " explain",
+            "insinuate",
+            "suggest",
+            "prove"
+        ],
+        "rightAnswer": "suggest"
+    },
+    {
+        "content": "",
+        "question": "A  cut in the budget put 10 percent of the state employees' jobs in   *jeopardy* . ",
+        "answers": [
+            "range",
+            "review",
+            " perspective",
+            "danger"
+        ],
+        "rightAnswer": "danger"
+    },
+    {
+        "content": "",
+        "question": "Carbon monoxide   *prevents*  hemoglobin from supplying oxygen to the body. ",
+        "answers": [
+            " discourages",
+            "distracts",
+            "impedes",
+            " excuses"
+        ],
+        "rightAnswer": "impedes"
+    },
+    {
+        "content": "",
+        "question": "During  the American colonial period, the capable leaders  *instilled*  a  spirit of nationalism in the colonists. ",
+        "answers": [
+            " insatiated",
+            "extirpated",
+            "implanted",
+            " extracted"
+        ],
+        "rightAnswer": "implanted"
+    },
+    {
+        "content": "",
+        "question": "The guests at the luau enjoyed it  very much but refused to eat the  *raw*  fish. ",
+        "answers": [
+            " marinated",
+            "fresh",
+            "rotten",
+            "uncooked"
+        ],
+        "rightAnswer": "uncooked"
+    },
+    {
+        "content": "",
+        "question": "Bread has been a   *staple*  of the human diet since prehistoric times. ",
+        "answers": [
+            "great  delicacy",
+            "basic part",
+            "fastener",
+            "highlight"
+        ],
+        "rightAnswer": "basic part"
+    },
+    {
+        "content": "",
+        "question": "The  doctor asked the patient to  *disrobe*  before the examination. ",
+        "answers": [
+            "take  medicine",
+            "breathe deeply",
+            "relax",
+            "undress"
+        ],
+        "rightAnswer": "undress"
+    },
+    {
+        "content": "",
+        "question": "We were told to   *intermingle*  with the guests. ",
+        "answers": [
+            "talk",
+            " sing",
+            "mix",
+            "intercede"
+        ],
+        "rightAnswer": "mix"
+    },
+    {
+        "content": "",
+        "question": " When heated to temperatures above 1250 degrees Centigrade, clay   *fuses*  and becomes pottery or stoneware. ",
+        "answers": [
+            "burns  off",
+            "steams up",
+            "melts together",
+            "decays"
+        ],
+        "rightAnswer": "melts together"
+    },
+    {
+        "content": "",
+        "question": "The last week of classes is always  *very  busy*  because students are taking examinations, making applications to  the University, and extending their visas. ",
+        "answers": [
+            "hectic",
+            " prolific",
+            "fanatic",
+            "eccentric"
+        ],
+        "rightAnswer": "hectic"
+    },
+    {
+        "content": "",
+        "question": " Elizabeth Blackwell founded  *an academy*  to train women physicians  in 1868. ",
+        "answers": [
+            "a philosophy",
+            "a clinic",
+            "a school",
+            "a company"
+        ],
+        "rightAnswer": "a school"
+    },
+    {
+        "content": "",
+        "question": "Martin Luther King   *detested*  injustice. ",
+        "answers": [
+            "recognized",
+            "confronted",
+            "suffered",
+            " abhorred"
+        ],
+        "rightAnswer": " abhorred"
+    },
+    {
+        "content": "",
+        "question": "The landscape can change   *abruptly*  after a rainstorm in the desert Southwest. ",
+        "answers": [
+            "quickly",
+            " sharply",
+            "favorably",
+            "slightly"
+        ],
+        "rightAnswer": "quickly"
+    },
+    {
+        "content": "",
+        "question": "The spectacle being  planned for the next Fourth of July party is quite  *awesome* . ",
+        "answers": [
+            "funny",
+            " ordinary",
+            "alarming",
+            "prodigious"
+        ],
+        "rightAnswer": "prodigious"
+    },
+    {
+        "content": "",
+        "question": " Ralph Nader always  *speaks out*  about everything. ",
+        "answers": [
+            "declares his  opinion",
+            "agrees",
+            "quarrels",
+            "has an  interest"
+        ],
+        "rightAnswer": "declares his  opinion"
+    },
+    {
+        "content": "",
+        "question": "Fear of pirate   *raids*  caused the Spaniards to fortify their coastline. ",
+        "answers": [
+            " invasions",
+            "ships",
+            "arms",
+            "investigations"
+        ],
+        "rightAnswer": " invasions"
+    },
+    {
+        "content": "",
+        "question": "The conditions under which visas are given are quite   *explicit* , so nobody should complain if they are not given one.  ",
+        "answers": [
+            " equivocal",
+            "dubious",
+            "strict",
+            "clear"
+        ],
+        "rightAnswer": "clear"
+    },
+    {
+        "content": "",
+        "question": "John  didn't enjoy the rock concert because he thought the  *tempo*  was  bad. ",
+        "answers": [
+            "audience",
+            "rhythm",
+            "singer",
+            " weather"
+        ],
+        "rightAnswer": "rhythm"
+    },
+    {
+        "content": "",
+        "question": "Allowing fields to lie  *fallow*   is one means of restoring fertility. ",
+        "answers": [
+            " unplanted",
+            "plowed",
+            "watered",
+            "seeded"
+        ],
+        "rightAnswer": " unplanted"
+    },
+    {
+        "content": "",
+        "question": "When  students do not have time to read a novel before class, they read  *an  outline of the plot*  instead. ",
+        "answers": [
+            "an article",
+            "a  synopsis",
+            "a critique",
+            "an essay"
+        ],
+        "rightAnswer": "a  synopsis"
+    },
+    {
+        "content": "",
+        "question": "J.P.Morgan had a reputation for being a   *prudent*  businessman. ",
+        "answers": [
+            "clever",
+            "wealthy",
+            " careful",
+            "dishonest"
+        ],
+        "rightAnswer": "dishonest"
+    },
+    {
+        "content": "",
+        "question": " Written divorce  *regulations*  first appeared in the legal code of  ancient Babylonia. ",
+        "answers": [
+            "rules",
+            "outlines",
+            " regularities",
+            "specifics"
+        ],
+        "rightAnswer": "rules"
+    },
+    {
+        "content": "",
+        "question": "In the fall the weather is  *cool*  in the  morning but warm by midday. ",
+        "answers": [
+            "chilly",
+            "rusty",
+            "silly",
+            "fluffy"
+        ],
+        "rightAnswer": "chilly"
+    },
+    {
+        "content": "",
+        "question": "Of  the approximately 400 billion  *packages*  used yearly in the United  States, half are for food and drink. ",
+        "answers": [
+            " posters",
+            "suitcases",
+            "dishes",
+            "containers"
+        ],
+        "rightAnswer": "containers"
+    },
+    {
+        "content": "",
+        "question": "It will be  necessary for the doctor to  *widen*  the pupils of your eyes with  some drops in order to examine them. ",
+        "answers": [
+            " massage",
+            "treat",
+            "dilate",
+            "soothe"
+        ],
+        "rightAnswer": "dilate"
+    },
+    {
+        "content": "",
+        "question": "The real meaning of the  poem was  *obscured*  by the pretentious language in which it was  written. ",
+        "answers": [
+            "exposed",
+            "apparent",
+            "hidden",
+            "shown"
+        ],
+        "rightAnswer": "hidden"
+    },
+    {
+        "content": "",
+        "question": " According to a belief  *prevalent*  in many places, a small, forked  stick referred to as a \"divining rod\" is able to locate subterranean springs.  ",
+        "answers": [
+            "held  sacred",
+            "broadly accepted",
+            "documented",
+            "detected"
+        ],
+        "rightAnswer": "broadly accepted"
+    },
+    {
+        "content": "",
+        "question": "Heterogeneous catalysts are  *widely*  used in  petroleum production. ",
+        "answers": [
+            "strongly",
+            "extensively",
+            "weightily",
+            " narrowly"
+        ],
+        "rightAnswer": "extensively"
+    },
+    {
+        "content": "",
+        "question": " Because Dolly is such a good cook, she has  *concocted*  a great new  recipe. ",
+        "answers": [
+            "created",
+            "named",
+            "epitomized",
+            " baked"
+        ],
+        "rightAnswer": "created"
+    },
+    {
+        "content": "",
+        "question": "  *Given*  current economic trends, liberal increases in the money  supply appear unlikely in the extreme. ",
+        "answers": [
+            " Following",
+            "Presenting",
+            "In view of",
+            "In lieu of"
+        ],
+        "rightAnswer": "In view of"
+    },
+    {
+        "content": "",
+        "question": "In a   *search*  to further his knowledge of the unknown, man has explored  the earth, the sea, and now, outer space. ",
+        "answers": [
+            "quest",
+            " colloquy",
+            "fantasy",
+            "documentary"
+        ],
+        "rightAnswer": "quest"
+    },
+    {
+        "content": "",
+        "question": " Parsley is  *cultivated*  throughout much of the world. ",
+        "answers": [
+            "seen",
+            " grown",
+            "dried",
+            "cooked"
+        ],
+        "rightAnswer": " grown"
+    },
+    {
+        "content": "",
+        "question": "Third World countries have  had enough of the industrialised nations'  *exploitation*  of their  natural resources. ",
+        "answers": [
+            "trading",
+            "purchasing",
+            "misuse",
+            " desire"
+        ],
+        "rightAnswer": "misuse"
+    },
+    {
+        "content": "",
+        "question": "As a result of severe  illness or treatments for illness one may become temporarily   *hairless* . ",
+        "answers": [
+            "bald",
+            "hoarse",
+            "lame",
+            "stiff"
+        ],
+        "rightAnswer": "bald"
+    },
+    {
+        "content": "",
+        "question": "Valium is  a strong drug that can cause a driver to  *sleep*  at the wheel.  ",
+        "answers": [
+            " dream",
+            "sneeze",
+            "doze",
+            "snore"
+        ],
+        "rightAnswer": "doze"
+    },
+    {
+        "content": "",
+        "question": "Ralph Bunche won a Nobel Prize  in 1950 for his peacemaking  *efforts*  as a United Nations diplomat.  ",
+        "answers": [
+            " requests",
+            "attempts",
+            "offers",
+            "trips"
+        ],
+        "rightAnswer": "attempts"
+    },
+    {
+        "content": "",
+        "question": "Even as a  child Thomas Edison had a very  *inquisitive*  mind; at the age of  three he performed his first experiment. ",
+        "answers": [
+            "complex",
+            " brilliant",
+            "mature",
+            "curious"
+        ],
+        "rightAnswer": "curious"
+    },
+    {
+        "content": "",
+        "question": "In an annulment, a marriage is declared   *invalid* . ",
+        "answers": [
+            "ill",
+            "unhappy",
+            "unfinished",
+            " void"
+        ],
+        "rightAnswer": " void"
+    },
+    {
+        "content": "",
+        "question": " In order to assure that no infection will occur, a surgeon must   *wash*  his hands and arms with an antiseptic soap prior to  operating. ",
+        "answers": [
+            "scrub",
+            "crib",
+            "club",
+            "grab"
+        ],
+        "rightAnswer": "scrub"
+    },
+    {
+        "content": "",
+        "question": "You must  *have lost your marbles*  if you're seriously considering buying that house",
+        "answers": [
+            "be serious",
+            "be crazy",
+            "be adventurous",
+            "be happy"
+        ],
+        "rightAnswer": "be crazy"
+    },
+    {
+        "content": "",
+        "question": "If you don't mind me saying so I think  *you're a bit over the top* , aren't you?",
+        "answers": [
+            "you're exaggerating a bit",
+            "you're joking a little",
+            "you're laughing a bit",
+            "you're describing a little"
+        ],
+        "rightAnswer": "you're exaggerating a bit"
+    },
+    {
+        "content": "",
+        "question": "All right then if you like  *I'll put my cards on the table* .",
+        "answers": [
+            "I'll tell you a story",
+            "I'll tell you what to do",
+            "I'll tell you something",
+            "I'll tell you my honest opinion"
+        ],
+        "rightAnswer": "I'll tell you my honest opinion"
+    },
+    {
+        "content": "",
+        "question": "I'd appreciate that. Go on,  *I'm all ears* ..",
+        "answers": [
+            "I can hear what you're saying",
+            "I am listening very carefully",
+            "I am listening to you",
+            "I can't hear a word"
+        ],
+        "rightAnswer": "I am listening very carefully"
+    },
+    {
+        "content": "",
+        "question": "Well in the first place all the windows are broken, which is  *a real pain in the neck* ",
+        "answers": [
+            "a bad ache",
+            "a serious ache",
+            "a serious problem",
+            "a bad shock"
+        ],
+        "rightAnswer": "a serious problem"
+    },
+    {
+        "content": "",
+        "question": "Nobody knows what's  *going on* ?",
+        "answers": [
+            "meaning",
+            "continuing",
+            "happening",
+            "taking"
+        ],
+        "rightAnswer": "happening"
+    },
+    {
+        "content": "",
+        "question": "Don't worry we'll  *see you're all right* .",
+        "answers": [
+            "look at you",
+            "look on you",
+            "look for you",
+            "look after you"
+        ],
+        "rightAnswer": "look after you"
+    },
+    {
+        "content": "",
+        "question": "What you need is something that will  *pick you up* .",
+        "answers": [
+            "make you feel better",
+            "make you stand better",
+            "make you hold on better",
+            "make you stay on better"
+        ],
+        "rightAnswer": "make you feel better"
+    },
+    {
+        "content": "",
+        "question": "I simply  *can't stand*  sugar in my tea or coffee.",
+        "answers": [
+            "can't eat",
+            "can't drink",
+            "can't tolerate",
+            "can't allow"
+        ],
+        "rightAnswer": "can't tolerate"
+    },
+    {
+        "content": "",
+        "question": "I have a feeling that she's  *taking you for a ride* .",
+        "answers": [
+            "taking you in a car",
+            "pulling you along",
+            "trying to trick you",
+            "trying to push you"
+        ],
+        "rightAnswer": "trying to trick you"
+    },
+    {
+        "content": "",
+        "question": "They tried  *in vain* to save enough money to buy a house and so finally they rented one.",
+        "answers": [
+            "without money",
+            "without trial",
+            "without success",
+            "without work"
+        ],
+        "rightAnswer": "without success"
+    },
+    {
+        "content": "",
+        "question": "Although Romeo and Juliet  *were deeply in love* ,they still managed to kill themselves.",
+        "answers": [
+            "loved each other often",
+            "loved each other very much",
+            "loved each other most of the time",
+            "loved each other mostly"
+        ],
+        "rightAnswer": "loved each other often"
+    },
+    {
+        "content": "",
+        "question": "I cannot understand why she did that, it really  *doesn't add up* .",
+        "answers": [
+            "doesn't calculate",
+            "isn't mathematics",
+            "doesn't make sense",
+            "makes the wrong addition"
+        ],
+        "rightAnswer": "doesn't make sense"
+    },
+    {
+        "content": "",
+        "question": "All the students got high marks in the test but Mary  *stood out* .",
+        "answers": [
+            "got a lot of marks",
+            "got higher marks than someone",
+            "got very good marks",
+            "got the most marks of all"
+        ],
+        "rightAnswer": "got the most marks of all"
+    },
+    {
+        "content": "",
+        "question": "He has sold his house and has no job and so now  *he has next to nothing* ",
+        "answers": [
+            "he is unemployed",
+            "he has almost no money",
+            "he has a few things",
+            "he has nothing at all"
+        ],
+        "rightAnswer": "he has almost no money"
+    },
+    {
+        "content": "",
+        "question": "As a newspaper reporter she always wanted to get information  *at first hand* .",
+        "answers": [
+            "quickly",
+            "slowly",
+            "easily",
+            "directly"
+        ],
+        "rightAnswer": "directly"
+    },
+    {
+        "content": "",
+        "question": "I think we can safely say now that we have got our money back, we are  *home and dry* ",
+        "answers": [
+            "have not got wet",
+            "have got no water",
+            "have been successful",
+            "have got home dry"
+        ],
+        "rightAnswer": "have been successful"
+    },
+    {
+        "content": "",
+        "question": "I'm sure that he could make a better job of being prime minister *any day of the week* .",
+        "answers": [
+            "whatever the details",
+            "whatever the time",
+            "whatever the circumstances",
+            "whatever the week"
+        ],
+        "rightAnswer": "whatever the circumstances"
+    },
+    {
+        "content": "",
+        "question": "Don't worry we pride ourselves on being helpful to all our customers and getting that booked for you is  *all in a day's work*  for us",
+        "answers": [
+            "perfectly easy",
+            "perfectly simple",
+            "perfectly done",
+            "perfectly normal"
+        ],
+        "rightAnswer": "perfectly normal"
+    },
+    {
+        "content": "",
+        "question": "Yes, we went away on holiday last week but it rained  *day in, day out* ",
+        "answers": [
+            "every single day",
+            "every other day",
+            "every second day",
+            "every two days"
+        ],
+        "rightAnswer": "every single day"
+    },
+    {
+        "content": "",
+        "question": "I think the time has now come when we'll simply have to  *call it a day* ",
+        "answers": [
+            "stop trying",
+            "stop thinking",
+            "stop working",
+            "stop going"
+        ],
+        "rightAnswer": "stop working"
+    },
+    {
+        "content": "",
+        "question": "You know what they said about radio that it had  *had its day*  but it's still going strong",
+        "answers": [
+            "stopped being clever",
+            "stopped being popular",
+            "stopped being heard",
+            "stopped being good"
+        ],
+        "rightAnswer": "stopped being popular"
+    },
+    {
+        "content": "",
+        "question": "If you think I'm going to parachute out of a plane for fun, you must be  *out of your mind* .",
+        "answers": [
+            "mad",
+            "unsure",
+            "unusual",
+            "uncertain"
+        ],
+        "rightAnswer": "unsure"
+    },
+    {
+        "content": "",
+        "question": "Wait till they're  *out of sight* ,and then I'll show you what I'm buying them for Christmas.",
+        "answers": [
+            "unable to show",
+            "unable to find",
+            "unable to follow",
+            "unable to see"
+        ],
+        "rightAnswer": "unable to show"
+    },
+    {
+        "content": "",
+        "question": "I'm very sorry but you're  *out of luck* because we sold the last one about twenty minutes ago.",
+        "answers": [
+            "unhappy",
+            "unlucky",
+            "unable",
+            "undecided"
+        ],
+        "rightAnswer": "undecided"
+    },
+    {
+        "content": "",
+        "question": "Wait until they're  *out of earshot* , then I tell you exactly what happened to them when they were on holiday.",
+        "answers": [
+            "unable to tell",
+            "unable to hear",
+            "unable to say",
+            "unable to speak"
+        ],
+        "rightAnswer": "unable to hear"
+    },
+    {
+        "content": "",
+        "question": "You have a limited number of minutes to answer the test and you've spent 3 minutes so  *you're out of time* .",
+        "answers": [
+            "you've used up your time",
+            "you've used in your time",
+            "you've used for your time",
+            "you've used out your time"
+        ],
+        "rightAnswer": "you've used in your time"
+    },
+    {
+        "content": "",
+        "question": "As usual he left it to the last moment and as a consequence he *missed the boat* ",
+        "answers": [
+            "didn't take advantage of the situation",
+            "didn't take advantage of the opportunity",
+            "didn't take advantage of the fare",
+            "didn't take advantage of the date"
+        ],
+        "rightAnswer": "didn't take advantage of the opportunity"
+    },
+    {
+        "content": "",
+        "question": "I'm sorry to tell you that  *you've burnt your boats*  now and so you won't be able to go back.",
+        "answers": [
+            "your current situation cannot be reversed",
+            "your current situation cannot be repeated",
+            "your current situation cannot be retaken",
+            "your current situation cannot be restyled"
+        ],
+        "rightAnswer": "your current situation cannot be reversed"
+    },
+    {
+        "content": "",
+        "question": "I told her I understood exactly what she was feeling as we were both after all  *in the same boat* .",
+        "answers": [
+            "in a similar case",
+            "in a similar find",
+            "in a similar take",
+            "in a similar situation"
+        ],
+        "rightAnswer": "in a similar situation"
+    },
+    {
+        "content": "",
+        "question": "No matter how smoothly things are running, you can always rely on Charlie to  *rock the boat* .",
+        "answers": [
+            "spoil something",
+            "spoil anything",
+            "spoil everything",
+            "spoil nothing"
+        ],
+        "rightAnswer": "spoil everything"
+    },
+    {
+        "content": "",
+        "question": "Although they were a couple well into their 80's everything in their house was always  *shipshape* .",
+        "answers": [
+            "very old",
+            "very neat",
+            "very fresh",
+            "very clean"
+        ],
+        "rightAnswer": "very neat"
+    },
+    {
+        "content": "",
+        "question": "I'm sorry I didn't  *take in*  what he said",
+        "answers": [
+            "listen",
+            "hear",
+            "understand",
+            "note"
+        ],
+        "rightAnswer": "understand"
+    },
+    {
+        "content": "",
+        "question": "I hope she  *gets through*  her exams next week.",
+        "answers": [
+            "passes",
+            "follows",
+            "takes",
+            "stands"
+        ],
+        "rightAnswer": "passes"
+    },
+    {
+        "content": "",
+        "question": "What time do you  *get up*  in the morning?",
+        "answers": [
+            "leave home",
+            "start for work",
+            "finish off sleep",
+            "get out of bed"
+        ],
+        "rightAnswer": "get out of bed"
+    },
+    {
+        "content": "",
+        "question": "When you stop work, you can  *take up*  golf.",
+        "answers": [
+            "finish playing",
+            "start playing",
+            "stop playing",
+            "enjoy playing"
+        ],
+        "rightAnswer": "start playing"
+    },
+    {
+        "content": "",
+        "question": "Don't  *overdo it*  because you're very tired",
+        "answers": [
+            "do a lot",
+            "do a little",
+            "do too little",
+            "do too much"
+        ],
+        "rightAnswer": "do too much"
+    },
+    {
+        "content": "",
+        "question": "The audience  *held their breath*  as the magician started to saw a woman half.",
+        "answers": [
+            "watched anxiously",
+            "stopped breathing",
+            "couldn't breathe",
+            "couldn't watch"
+        ],
+        "rightAnswer": "watched anxiously"
+    },
+    {
+        "content": "",
+        "question": "The police officer called out to the driver to  *hold on*  until he arrived",
+        "answers": [
+            "continue",
+            "listen",
+            "wait",
+            "attend"
+        ],
+        "rightAnswer": "wait"
+    },
+    {
+        "content": "",
+        "question": "In the end she lost her temper and told her daughter to  *hold her tongue* ",
+        "answers": [
+            "stand still",
+            "speak up",
+            "start speaking",
+            "be quiet"
+        ],
+        "rightAnswer": "be quiet"
+    },
+    {
+        "content": "",
+        "question": "There's no need to change any of the regulations this year as the old ones will still  *hold good*  this year, too.",
+        "answers": [
+            "be finished",
+            "be all right",
+            "be necessary",
+            "be careful"
+        ],
+        "rightAnswer": "be all right"
+    },
+    {
+        "content": "",
+        "question": "I don't know what it is exactly but she seems to have some kind of  *hold over*  him",
+        "answers": [
+            "control over",
+            "look over",
+            "trust over",
+            "belief over"
+        ],
+        "rightAnswer": "control over"
+    },
+    {
+        "content": "",
+        "question": "We need to do something about it! This situation is getting  *out of hand* !",
+        "answers": [
+            "too big",
+            "too organized",
+            "out of control",
+            "out of order"
+        ],
+        "rightAnswer": "out of control"
+    },
+    {
+        "content": "",
+        "question": "Now the grandparents have the children  *on their hands* .",
+        "answers": [
+            "in their care",
+            "in trouble",
+            "spanked",
+            "to obey them"
+        ],
+        "rightAnswer": "in their care"
+    },
+    {
+        "content": "",
+        "question": "This last year, my company has made money  *hand over fist* !",
+        "answers": [
+            "with a lot of struggle",
+            "at a huge rate",
+            "poorly",
+            "distribution"
+        ],
+        "rightAnswer": "at a huge rate"
+    },
+    {
+        "content": "",
+        "question": "As soon as he  *laid his hands on*  all that money, he donated part of it to charitable institutions.",
+        "answers": [
+            "stole",
+            "scattered",
+            "released",
+            "took possession of"
+        ],
+        "rightAnswer": "took possession of"
+    },
+    {
+        "content": "",
+        "question": "The beginning of a new generation of computer software is  *at hand* ",
+        "answers": [
+            "imminent",
+            "remote",
+            "current",
+            "in someone's possession"
+        ],
+        "rightAnswer": "imminent"
+    },
+    {
+        "content": "",
+        "question": "I just want to stay at home and watch television and  *take it easy* .",
+        "answers": [
+            "sleep",
+            "",
+            " down",
+            "eat"
+        ],
+        "rightAnswer": " down"
+    },
+    {
+        "content": "",
+        "question": "relax",
+        "answers": [
+            " *Am I allowed to*  smoke in here?",
+            "May I",
+            "Must I",
+            "Can I"
+        ],
+        "rightAnswer": "May I"
+    },
+    {
+        "content": "",
+        "question": "Will I",
+        "answers": [
+            " *Are you any good at cooking* ?",
+            "Can you cook sometimes",
+            "Do you cook very often",
+            "Can you cook well"
+        ],
+        "rightAnswer": "Can you cook well"
+    },
+    {
+        "content": "",
+        "question": "Do you like cooking",
+        "answers": [
+            "When do you  *do the washing up* ?",
+            "clean the dishes",
+            "do the housework",
+            "wash the floor"
+        ],
+        "rightAnswer": "clean the dishes"
+    },
+    {
+        "content": "",
+        "question": "clean the windows",
+        "answers": [
+            "She never  *shouts at*  her children.",
+            "makes conversation with",
+            "calls out to",
+            "talks in a loud voice to"
+        ],
+        "rightAnswer": "talks in a loud voice to"
+    },
+    {
+        "content": "",
+        "question": "I  *can't wait*  to hear about your English class.",
+        "answers": [
+            "am eager to",
+            "am late to",
+            "am indifferent",
+            "am happy to"
+        ],
+        "rightAnswer": "am happy to"
+    },
+    {
+        "content": "",
+        "question": "I am glad I was able  *to be there for*  my friend when her mom died.",
+        "answers": [
+            "to cry with",
+            "to offer support in time of need for",
+            "to visit",
+            "to travel with"
+        ],
+        "rightAnswer": "to cry with"
+    },
+    {
+        "content": "",
+        "question": "You've got me  *head over heels* !",
+        "answers": [
+            "angry at you",
+            "impatient",
+            "in love with you",
+            "disappointed"
+        ],
+        "rightAnswer": "impatient"
+    },
+    {
+        "content": "",
+        "question": "I love you  *bunches* !",
+        "answers": [
+            "a little",
+            "a lot",
+            "too much",
+            "less than before"
+        ],
+        "rightAnswer": "too much"
+    },
+    {
+        "content": "",
+        "question": "I wish I could trust you again, but all that you ever did to me was  *to let me down* .",
+        "answers": [
+            "to make me cry",
+            "to make me angry",
+            "to despise me",
+            "to disappoint me"
+        ],
+        "rightAnswer": "to make me angry"
+    },
+    {
+        "content": "",
+        "question": "They're very generous in that museum ? not only is the entrance fee reasonable but they give you a brochure *for free* .",
+        "answers": [
+            "at no cost",
+            "at little cost",
+            "at some cost",
+            "at low cost"
+        ],
+        "rightAnswer": "at little cost"
+    },
+    {
+        "content": "",
+        "question": "That's the thing about Charlie even when things are really bad he doesn't panic and  *keeps his cool* .",
+        "answers": [
+            "stays calm",
+            "turns on the air conditioning",
+            "uses a fan",
+            "puts ice on his head"
+        ],
+        "rightAnswer": "uses a fan"
+    },
+    {
+        "content": "",
+        "question": "In a situation like his of course the one thing you must do is *keep the wolf from the door*  and try to find money to pay all the bills.",
+        "answers": [
+            "get rid of wild animals",
+            "get enough money to live on",
+            "make sure the door is locked",
+            "not let wild animals in"
+        ],
+        "rightAnswer": "get rid of wild animals"
+    },
+    {
+        "content": "",
+        "question": "At least Charlie can manage that but he doesn't go telling everyone about his problem and  *keeps himself to himself* .",
+        "answers": [
+            "talks to himself a lot",
+            "doesn't go out much",
+            "stays in a lot",
+            "doesn't talk about himself to others"
+        ],
+        "rightAnswer": "doesn't go out much"
+    },
+    {
+        "content": "",
+        "question": "Some of his friends are a bit worried about him because he doesn't seem so friendly to them as he used to be and  *keeps his distance* .",
+        "answers": [
+            "doesn't let people get too close",
+            "doesn't travel far",
+            "decides how far to go",
+            "doesn't like travelling"
+        ],
+        "rightAnswer": "doesn't like travelling"
+    },
+    {
+        "content": "",
+        "question": "The main thing that you have to admire him for is that he doesn't get into trouble and  *keeps his nose clean* .",
+        "answers": [
+            "blows his nose a lot",
+            "behaves legally",
+            "sneezes often",
+            "breathes easily"
+        ],
+        "rightAnswer": "blows his nose a lot"
+    },
+    {
+        "content": "",
+        "question": "I'm sorry that looks awful ? those two colours  *don't go together* .",
+        "answers": [
+            "smash",
+            "crash",
+            "clash",
+            "hash"
+        ],
+        "rightAnswer": "clash"
+    },
+    {
+        "content": "",
+        "question": "After what you've  *gone through* , I'm sure you need a holiday",
+        "answers": [
+            "felt",
+            "sensed",
+            "acted",
+            "experienced"
+        ],
+        "rightAnswer": "experienced"
+    },
+    {
+        "content": "",
+        "question": "We won't  *go into*  that now but I don't think we can avoid the subject much longer",
+        "answers": [
+            "discuss",
+            "enter",
+            "introduce",
+            "interrupt"
+        ],
+        "rightAnswer": "discuss"
+    },
+    {
+        "content": "",
+        "question": " *He's gone right down in my estimation*  now that I've heard what he has done to his family.",
+        "answers": [
+            "I think often of him",
+            "I think a lot of him",
+            "I don't think at all of him",
+            "I don't think much of him"
+        ],
+        "rightAnswer": "I don't think at all of him"
+    },
+    {
+        "content": "",
+        "question": "My advice to you is to make your mind up before it's too late and simply  *go for it* .",
+        "answers": [
+            "take the opportunity soon",
+            "take the opportunity fairly",
+            "take the opportunity now",
+            "take the opportunity slowly"
+        ],
+        "rightAnswer": "take the opportunity now"
+    },
+    {
+        "content": "",
+        "question": "You shouldn't worry about the exam because you have prepared well and you'll probably find it  *a piece of cake* .",
+        "answers": [
+            "easy to digest",
+            "easy to read",
+            "easy to start",
+            "very easy"
+        ],
+        "rightAnswer": "very easy"
+    },
+    {
+        "content": "",
+        "question": "The trouble with you is that you are a bit selfish and your sole philosophy is to  *have your cake and eat it* .",
+        "answers": [
+            "expect too much of life",
+            "lead a life of pleasure",
+            "spend your life eating",
+            "eat too much"
+        ],
+        "rightAnswer": "expect too much of life"
+    },
+    {
+        "content": "",
+        "question": "When he heard that the necklace had been stolen,  *he dropped it like a hot potato* ",
+        "answers": [
+            "he let it fall from his hands",
+            "he suddenly lost interest in it",
+            "he gave it to somebody else",
+            "he hid it in the fridge"
+        ],
+        "rightAnswer": "he suddenly lost interest in it"
+    },
+    {
+        "content": "",
+        "question": "He sits and watches TV all day and has turned into  *a veritable couch potato* .",
+        "answers": [
+            "a good sleeper",
+            "an enthusiast",
+            "a very lazy person",
+            "a deep thinker"
+        ],
+        "rightAnswer": "a very lazy person"
+    },
+    {
+        "content": "",
+        "question": "Thanks to you we're really  *in the soup*  now and I don't honestly know why I ever listen to you.",
+        "answers": [
+            "in an interesting situation",
+            "in deep trouble",
+            "in an unusual situation",
+            "in rough water"
+        ],
+        "rightAnswer": "in deep trouble"
+    },
+    {
+        "content": "",
+        "question": "He's  *up to his ears in*  work and cannot possibly see you now",
+        "answers": [
+            "fully occupied with",
+            "very interested in",
+            "not involved with",
+            "concerned with"
+        ],
+        "rightAnswer": "fully occupied with"
+    },
+    {
+        "content": "",
+        "question": "If you  *give me a hand* , then I shall be able to finish more quickly.",
+        "answers": [
+            "take my hand",
+            "help me",
+            "take my fingers",
+            "pick me up"
+        ],
+        "rightAnswer": "help me"
+    },
+    {
+        "content": "",
+        "question": "I prefer to talk to people  *face to face*  rather than to talk on the phone.",
+        "answers": [
+            "in person",
+            "facing them",
+            "looking at them",
+            "seeing them"
+        ],
+        "rightAnswer": "in person"
+    },
+    {
+        "content": "",
+        "question": "The manager dismissed the new proposal  *out of hand*  and said that it was not at all practical.",
+        "answers": [
+            "quickly",
+            "utterly",
+            "directly",
+            "simply"
+        ],
+        "rightAnswer": "utterly"
+    },
+    {
+        "content": "",
+        "question": "As she is new to the job I would ask you  *to keep an eye on*  her for the time being",
+        "answers": [
+            "look at",
+            "consider",
+            "check",
+            "observe"
+        ],
+        "rightAnswer": "observe"
+    }
 ]

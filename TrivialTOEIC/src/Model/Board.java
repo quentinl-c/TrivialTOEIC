@@ -30,7 +30,7 @@ public class Board {
             }else if(i%7==0||(i-4)%7==0){
                 this.board.add(new Square("incomplete-sentences"));
             }else if((i-1)%7==0||(i-1-4)%7==0){
-                this.board.add(new Square("advanced-structures"));
+                this.board.add(new Square("vocabulary"));
             }else if((i-2)%7==0||(i-2-4)%7==0){
                 this.board.add(new Square("reading-comprehension"));
             }else if((i-3)%7==0||(i-3-4)%7==0){

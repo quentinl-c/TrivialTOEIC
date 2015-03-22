@@ -105,7 +105,7 @@ public class BoardView extends JPanel implements Observer {
                             g.drawImage(imageCategory1, i*50+25, j*50+25, this);
                             break;
                             
-                        case "advanced-structures":
+                        case "vocabulary":
                             g.drawImage(imageCategory2, i*50+25, j*50+25, this);
                             break;
                         
@@ -118,6 +118,7 @@ public class BoardView extends JPanel implements Observer {
                             break;
                          
                         default:
+                            System.out.println(type);
                             System.out.println("Error"); 
                     }
                 }

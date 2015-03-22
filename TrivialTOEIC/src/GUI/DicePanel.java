@@ -23,11 +23,9 @@ import Model.Game;
  * @author quentinlaporte-chabasse
  */
 public class DicePanel extends JPanel implements Observer{
-    /**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
-	private JButton rollDice = new JButton();
+    
+    private static final long serialVersionUID = 1L;
+    private JButton rollDice = new JButton();
     private JButton clockwiseB;
     private JButton counterclockwiseB;
     private JPanel clockwisePan = new JPanel();
@@ -80,7 +78,7 @@ public class DicePanel extends JPanel implements Observer{
                currentGame.clockwise(currentGame.getDiceValue(),currentGame.getCurrentPlayer());
                String category;
                if(currentGame.getCategory().equals("Base")){
-            	   category = "advanced-structures"; //default value
+            	   category = "reading-comprehension"; //default value
                }else{
             	   category = currentGame.getCategory();
                }
@@ -101,7 +99,7 @@ public class DicePanel extends JPanel implements Observer{
                currentGame.counterClockwise(currentGame.getDiceValue(),currentGame.getCurrentPlayer());
                String category;
                if(currentGame.getCategory().equals("Base")){
-            	   category = "advanced-structures"; //default value
+            	   category = "reading-comprehension"; //default value
                }else{
             	   category = currentGame.getCategory();
                }

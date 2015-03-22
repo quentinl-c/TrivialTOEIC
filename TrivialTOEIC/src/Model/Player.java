@@ -79,7 +79,7 @@ public class Player{
     		case "incomplete-sentences":
     			stat[0]++;
     			break;
-    		case "advanced-structures":
+    		case "vocabulary":
     			stat[1]++;
     			break;
     		case "reading-comprehension":

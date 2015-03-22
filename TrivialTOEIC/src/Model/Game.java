@@ -35,14 +35,12 @@ public class Game extends Observable {
         this.board = new Board();
     }
     public void initGame(ImportJSON jsonImportation){
-        initCategory("grammar", jsonImportation);
-        initCategory("vocabulary", jsonImportation);
         initCategory("incomplete-sentences", jsonImportation);
-        initCategory("advanced-structures", jsonImportation);
+        initCategory("vocabulary", jsonImportation);
         initCategory("reading-comprehension", jsonImportation);
         initCategory("error-recognition", jsonImportation);
         System.out.println(this.questions.get("incomplete-sentences").size() );
-        System.out.println(this.questions.get("advanced-structures").size() );
+        System.out.println(this.questions.get("vocabulary").size() );
         System.out.println(this.questions.get("reading-comprehension").size() );
         System.out.println(this.questions.get("error-recognition").size() );
         

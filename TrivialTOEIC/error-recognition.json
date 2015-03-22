@@ -1,0 +1,4898 @@
+[
+    {
+        "content": "",
+        "question": "The Suwannee River  *has been never*   *important for*  transport and  *no significant*  hydropower  *potential* .",
+        "answers": [
+            "has been never ",
+            "important for ",
+            "no significant ",
+            "potential"
+        ],
+        "rightAnswer": "has been never "
+    },
+    {
+        "content": "",
+        "question": "It is  *estimated*  that a scientific principle has a  *life expectancy*  of approximately a  *decade*  before it  *drastically*  revised or replaced by newer information.",
+        "answers": [
+            "estimated ",
+            "life expectancy ",
+            "decade ",
+            "drastically "
+        ],
+        "rightAnswer": "drastically "
+    },
+    {
+        "content": "",
+        "question": "Bone and ivory needles  *found*  at archaeological sites  *indicate*  that  *clothes*  have been sewn for some 17,000  *years ago* .",
+        "answers": [
+            "found ",
+            "indicate ",
+            "clothes ",
+            "years ago"
+        ],
+        "rightAnswer": "years ago"
+    },
+    {
+        "content": "",
+        "question": "Some scientists predict that,  *despite greater*   *material output* ,  *the people in the year 2,000*  will be poorer in many ways than  *it is today* .",
+        "answers": [
+            "despite greater ",
+            "material output",
+            "the people in the year 2,000 ",
+            "it is today"
+        ],
+        "rightAnswer": "it is today"
+    },
+    {
+        "content": "",
+        "question": "Over forty years ago, Helen Hall's  *outstanding*  contributions as a settlement organizer  *catch*  the attention of president Franklin Roosevelt, who appointed  *her to his*   *advisory committee*  on economic security.",
+        "answers": [
+            "outstanding ",
+            "catch ",
+            "her to his ",
+            "advisory committee "
+        ],
+        "rightAnswer": "catch "
+    },
+    {
+        "content": "",
+        "question": "Why is a man in civil life  *perpetually*  slandering and  *backbiting*  his fellow men, and  *is*  unable to see good  *even*  in his friends?",
+        "answers": [
+            "perpetually ",
+            "backbiting ",
+            "is ",
+            "even "
+        ],
+        "rightAnswer": "is "
+    },
+    {
+        "content": "",
+        "question": "The sun seems  *to have been formed*   *when*  the universe was  *already*  10 billion  *years* .",
+        "answers": [
+            "to have been formed ",
+            "when ",
+            "already ",
+            "years"
+        ],
+        "rightAnswer": "years"
+    },
+    {
+        "content": "",
+        "question": "The satellites are  *frequently*  eclipsed by Jupiter  *and*  may be seen to transit Jupiter  *as*  dark shadows or  *passing*  behind the planet.",
+        "answers": [
+            "frequently ",
+            "and ",
+            "as ",
+            "passing "
+        ],
+        "rightAnswer": "passing "
+    },
+    {
+        "content": "",
+        "question": "Not since Gerald Reed has a  *chief executive*  served  *two full terms*  or  *leave*  Washington with cheers ringing  *in his ears* .",
+        "answers": [
+            "chief executive ",
+            "two full terms ",
+            "leave ",
+            "in his ears"
+        ],
+        "rightAnswer": "leave "
+    },
+    {
+        "content": "",
+        "question": " *From*  1866 to 1833, the bison population in North America  *was reduced*  from an  *estimated*  13 million to a few  *hundreds* .",
+        "answers": [
+            "From ",
+            "was reduced ",
+            "estimated ",
+            "hundreds"
+        ],
+        "rightAnswer": "hundreds"
+    },
+    {
+        "content": "",
+        "question": "The spontaneity of children's artwork  *sets*  it  *apart from*  the regulated uniforming of  *much of*  what otherwise  *go on*  in traditional extraordinary classrooms.",
+        "answers": [
+            "sets ",
+            "apart from ",
+            "much of ",
+            "go on "
+        ],
+        "rightAnswer": "go on "
+    },
+    {
+        "content": "",
+        "question": "The Alaskan malamute,  *used*  extensively  *to pull*  sleds, is  *closely*  reacted to the  *wolves* .",
+        "answers": [
+            "used ",
+            "to pull ",
+            "closely ",
+            "wolves"
+        ],
+        "rightAnswer": "wolves"
+    },
+    {
+        "content": "",
+        "question": "An analytical index  *group*  many  *individual*  subtopics  *under*  major  *subject*  headings.",
+        "answers": [
+            "group ",
+            "individual ",
+            "under ",
+            "subject "
+        ],
+        "rightAnswer": "group "
+    },
+    {
+        "content": "",
+        "question": "Psychologists and psychiatrists  *are trained*  to encourage  *their*  parents to  *talk for*  the things that are causing them  *difficulty* .",
+        "answers": [
+            "are trained ",
+            "their ",
+            "talk for ",
+            "difficulty"
+        ],
+        "rightAnswer": "talk for "
+    },
+    {
+        "content": "",
+        "question": "One of the  *most*  difficult problems  *in understanding*  sleep is  *determining*  what the functions of sleep  *is* .",
+        "answers": [
+            "most ",
+            "in understanding ",
+            "determining ",
+            "is"
+        ],
+        "rightAnswer": "in understanding "
+    },
+    {
+        "content": "",
+        "question": "The American  *frontiersman* , politician, and soldier Davy crockett is one of the  *most*   popular  *of*  American  *hero* .",
+        "answers": [
+            "frontiersman",
+            "most",
+            "of",
+            "hero"
+        ],
+        "rightAnswer": "hero"
+    },
+    {
+        "content": "",
+        "question": "A desert area that  *has been*   *without water*  for six years will  *still*  bloom when rain  *will come* .",
+        "answers": [
+            "has been ",
+            "without water ",
+            "still ",
+            "will come"
+        ],
+        "rightAnswer": "will come"
+    },
+    {
+        "content": "",
+        "question": "The root of the chicory plant is  *often*   *ground up*  and  *added to*  coffee  *to elimination*  its bitterness.",
+        "answers": [
+            "often ",
+            "ground up ",
+            "added to ",
+            "to elimination "
+        ],
+        "rightAnswer": "to elimination "
+    },
+    {
+        "content": "",
+        "question": "Even the most  *discriminating*  gourmet will agree  *that*  food in the south is as  *good*   *as any*  other region in the country.",
+        "answers": [
+            "discriminating ",
+            "that ",
+            "good ",
+            "as any "
+        ],
+        "rightAnswer": "as any "
+    },
+    {
+        "content": "",
+        "question": " *Because of*   *its*  strong record during earlier recessions, the mutual fund  *has and will*  continue to be  *attractive to*  small investors.",
+        "answers": [
+            "Because of ",
+            "its ",
+            "has and will ",
+            "attractive to "
+        ],
+        "rightAnswer": "has and will "
+    },
+    {
+        "content": "",
+        "question": "It seemed as if I  *hadn't*  scarcely done anything  *worthwhile*   *with*  my time,  *for*  I failed three courses.",
+        "answers": [
+            "hadn't ",
+            "worthwhile ",
+            "with ",
+            "for "
+        ],
+        "rightAnswer": "hadn't "
+    },
+    {
+        "content": "",
+        "question": "Biologists and anthropologists  *possesses a wealth*   *of evidence*  to indicate that human beings  *arose from lower*  forms of life over a  *time long period* .",
+        "answers": [
+            "possesses a wealth ",
+            "of evidence ",
+            "arose from lower ",
+            "time long period"
+        ],
+        "rightAnswer": "time long period"
+    },
+    {
+        "content": "",
+        "question": "Ladybugs are  *desirous*   *in the garden*  because  *most*  kinds eat aphids and  *other*  harmful insects.",
+        "answers": [
+            "desirous ",
+            "in the garden ",
+            "most ",
+            "other "
+        ],
+        "rightAnswer": "desirous "
+    },
+    {
+        "content": "",
+        "question": "Carrie Chapman Catt  *organized*  the League of women voters  *after*  successfully  *campaign*  for the constitutional amendment  *that gave*  women the right to vote.",
+        "answers": [
+            "organized ",
+            "after ",
+            "campaign ",
+            "that gave "
+        ],
+        "rightAnswer": "campaign "
+    },
+    {
+        "content": "",
+        "question": "A measuring worm  *can hold*   *itself*  straight  *out*  from a branch  *so that looks*  like a small twig.",
+        "answers": [
+            "can hold",
+            "itself",
+            "out ",
+            "so that looks "
+        ],
+        "rightAnswer": "so that looks "
+    },
+    {
+        "content": "",
+        "question": "In  *reality* , all biological  *reproductive *   *begins*  at the  *cellular*  level.",
+        "answers": [
+            "reality",
+            "reproductive ",
+            "begins",
+            "cellular"
+        ],
+        "rightAnswer": "reproductive "
+    },
+    {
+        "content": "",
+        "question": "The  *preferring*  of  *many*  Western cultures for  *maintaining*  a physical distance of  *at least*  three feet during social interaction is well documented in anthropological studies.",
+        "answers": [
+            "preferring",
+            "many",
+            "maintaining",
+            "at least"
+        ],
+        "rightAnswer": "preferring"
+    },
+    {
+        "content": "",
+        "question": "Few synthetic vitamins and minerals in pill supplements are absorbed soefficiently  *by the body*   *that are*  those  *occurring*  naturally  *in foods* .",
+        "answers": [
+            "by the body",
+            "that are",
+            "occurring",
+            "in foods"
+        ],
+        "rightAnswer": "that are"
+    },
+    {
+        "content": "",
+        "question": "Fission tracking  *is*  a new artifact  *dating*  method  *who*  promises  *to have*  important archeological applications in the future.",
+        "answers": [
+            "is",
+            "dating",
+            "who",
+            "to have"
+        ],
+        "rightAnswer": "who"
+    },
+    {
+        "content": "",
+        "question": " *Contemporary*  poet James Merrill  *writes*  autobiographical verse that  *building on*  remembrances of  *his*  childhood.",
+        "answers": [
+            "Contemporary",
+            "writes",
+            "building on",
+            "his"
+        ],
+        "rightAnswer": "building on"
+    },
+    {
+        "content": "",
+        "question": "Tenant farmers are those  *they*  either rent a farm and  *work it*  for themselves  *or*  work the farm for  *the owner*  and receive payment.",
+        "answers": [
+            "they ",
+            "work it ",
+            "or ",
+            "the owner "
+        ],
+        "rightAnswer": "they "
+    },
+    {
+        "content": "",
+        "question": "After his  *trips*  to the west  *between*  1860 and 1872, Ralph Alber Bakelock would often  *painted*  American Indian encampments  *on*  brown-and-yellow-toned canvases.",
+        "answers": [
+            "trips ",
+            "between ",
+            "painted",
+            "on "
+        ],
+        "rightAnswer": "painted"
+    },
+    {
+        "content": "",
+        "question": "The fact that half of the known species  *is thought to*  inhabit the world's rain forests  *does not*  seem surprising,  *considering*  the huge numbers of insects that comprise the bulk of the  *species* .",
+        "answers": [
+            "is thought to ",
+            "does not ",
+            "considering ",
+            "species"
+        ],
+        "rightAnswer": "is thought to "
+    },
+    {
+        "content": "",
+        "question": "Langston Hughes always seemed to know  *exactly who*  he was, and  *those knowledges*  helped  *make him*  one of the  *most respected*  writers in the United States.",
+        "answers": [
+            "exactly who ",
+            "those knowledges ",
+            "make him",
+            "most respected "
+        ],
+        "rightAnswer": "those knowledges "
+    },
+    {
+        "content": "",
+        "question": "The  *double*   *bull's eye*   *in center*  of a dart board  *is worth*  fifty points.",
+        "answers": [
+            "double ",
+            "bull's eye ",
+            "in center ",
+            "is worth "
+        ],
+        "rightAnswer": "in center "
+    },
+    {
+        "content": "",
+        "question": "As we  *have finished*   *the first*  lesson, now we  *will read*   *the second one* .",
+        "answers": [
+            "have finished ",
+            "the first ",
+            "will read ",
+            "the second one"
+        ],
+        "rightAnswer": "the second one"
+    },
+    {
+        "content": "",
+        "question": "For a long time  *cotton*  ranked first  *between*  Alabama's crops,  *but*  today it accounts for only a fraction of the agricultural  *production* .",
+        "answers": [
+            "cotton ",
+            "between ",
+            "but ",
+            "production"
+        ],
+        "rightAnswer": "between "
+    },
+    {
+        "content": "",
+        "question": " *To become*  a member of the civic association, one  *need only*  attend three meetings and  *to pay*  his fees  *regularly* .",
+        "answers": [
+            "To become ",
+            "need only ",
+            "to pay ",
+            "regularly"
+        ],
+        "rightAnswer": "need only "
+    },
+    {
+        "content": "",
+        "question": "In order  *to prevent*  disease  *on*  a worldwide  *base* , nations  *must*  work together.",
+        "answers": [
+            "to prevent ",
+            "on ",
+            "base",
+            "must "
+        ],
+        "rightAnswer": "base"
+    },
+    {
+        "content": "",
+        "question": "Wood, the hardened  *material from which*  trees are  *composed* , is  *made up of millions*   *of tiny  tubes of fibers*  packed together.",
+        "answers": [
+            "material from which ",
+            "composed",
+            "made up of millions",
+            "of tiny tubes of fibers "
+        ],
+        "rightAnswer": "composed"
+    },
+    {
+        "content": "",
+        "question": "A square is  *a*   *geometric*  shape which is as long  *as is*  tall and which  *has*  four right angles.",
+        "answers": [
+            "a",
+            "geometric",
+            "as is",
+            "has"
+        ],
+        "rightAnswer": "as is"
+    },
+    {
+        "content": "",
+        "question": " *However*  unavoidable theivil War may have been, it was more devastating  *also*  exhausting  *than*  any European war  *between*  1815 and 1914.",
+        "answers": [
+            "However",
+            "also",
+            "than",
+            "between"
+        ],
+        "rightAnswer": "also"
+    },
+    {
+        "content": "",
+        "question": " *Allowing*  children to help plan and prepare family meals provides enjoyable  *learning*  experiences that later  *encouraging*  them to eat the foods they  *have prepared* .",
+        "answers": [
+            "Allowing",
+            "learning",
+            "encouraging",
+            "have prepared"
+        ],
+        "rightAnswer": "encouraging"
+    },
+    {
+        "content": "",
+        "question": "Nativemerican  *beaded*  designs are often  *characterized by*  geometric  *shaped*  and  *bright*  colors.",
+        "answers": [
+            "beaded",
+            "characterized by",
+            "shaped",
+            "bright"
+        ],
+        "rightAnswer": "shaped"
+    },
+    {
+        "content": "",
+        "question": "The colonists  *who*  first settled in New England  *did so*   *because*  they felt there was  *none*  social justice in their homeland of England.",
+        "answers": [
+            "who",
+            "did so",
+            "because",
+            "none"
+        ],
+        "rightAnswer": "none"
+    },
+    {
+        "content": "",
+        "question": " *While ancient*  times people simply painted inanimate objects,  *during*  the Renaissance the painting  *of*    *still life*   *developed as*  an accepted art form.",
+        "answers": [
+            "While ancient",
+            "during",
+            "of",
+            "developed as"
+        ],
+        "rightAnswer": "While ancient"
+    },
+    {
+        "content": "",
+        "question": "The doctor's records must be kept  *thorough*  and  *neatly* ,  *so as to*  insure  *good*  book-keeping.",
+        "answers": [
+            "thorough ",
+            "neatly",
+            "so as to ",
+            "good "
+        ],
+        "rightAnswer": "neatly"
+    },
+    {
+        "content": "",
+        "question": " *To become*  a skilled  *photograph* , a person  *should have*  both manual dexterity and a good eye  *for detail* .",
+        "answers": [
+            "To become ",
+            "photograph",
+            "should have ",
+            "for detail"
+        ],
+        "rightAnswer": "photograph"
+    },
+    {
+        "content": "",
+        "question": " *Any group*  that  *conducting*  its meetings using parliamentary rules will encounter situations  *where*  prescribed procedures  *cannot be*  applied.",
+        "answers": [
+            "Any group ",
+            "conducting ",
+            "where ",
+            "cannot be "
+        ],
+        "rightAnswer": "conducting "
+    },
+    {
+        "content": "",
+        "question": "Neither Russia  *nor*  the United States  *have been able*  to discover  *a mutually*   *satisfactory plan*  for gradual disarmament.",
+        "answers": [
+            "nor ",
+            "have been able ",
+            "a mutually ",
+            "satisfactory plan "
+        ],
+        "rightAnswer": "have been able "
+    },
+    {
+        "content": "",
+        "question": "He was stopped  *each*  dozen  *yards*  by friends who  *wanted to*  congratulate  *him* .",
+        "answers": [
+            "each ",
+            "yards ",
+            "wanted to ",
+            "him"
+        ],
+        "rightAnswer": "each "
+    },
+    {
+        "content": "",
+        "question": "Languon Hughes's The Book of Negro Looksore is a  *too much*  valuable introduction  *to*  an integral  *part*  of  *folk literature*  of the United States.",
+        "answers": [
+            "too much ",
+            "to ",
+            "part ",
+            "folk literature "
+        ],
+        "rightAnswer": "too much "
+    },
+    {
+        "content": "",
+        "question": " *After searching*  for evidence in the house, the police  *concluded*  that the thief  *must have come in*  through the window and  *stole*  the silver while the family was sleep.",
+        "answers": [
+            "After searching ",
+            "concluded ",
+            "must have come in ",
+            "stole "
+        ],
+        "rightAnswer": "stole "
+    },
+    {
+        "content": "",
+        "question": "The zenith provides  *a means*   *for making*  various  *calculates*  in  *astronomy* .",
+        "answers": [
+            "a means ",
+            "for making ",
+            "calculates ",
+            "astronomy"
+        ],
+        "rightAnswer": "calculates "
+    },
+    {
+        "content": "",
+        "question": " *The most*   *coral islands*  develop from  *reefs*  that grow up around  *volcanic refuges* .",
+        "answers": [
+            "The most ",
+            "coral islands ",
+            "reefs ",
+            "volcanic refuges"
+        ],
+        "rightAnswer": "The most "
+    },
+    {
+        "content": "",
+        "question": "The incidence  *of which*  is now  *referred*  to as cryovolcanism, or ice volcanoes,  *is*  quite high on the surface of Triton,  *one of the*  moons of Neptune.",
+        "answers": [
+            "of which",
+            "referred",
+            "is",
+            "one of the"
+        ],
+        "rightAnswer": "referred"
+    },
+    {
+        "content": "",
+        "question": "Water and petroleum are the  *only*  two liquids  *what*  occur in  *large*  quantities  *in*  nature.",
+        "answers": [
+            "only",
+            "what",
+            "large",
+            "in"
+        ],
+        "rightAnswer": "only"
+    },
+    {
+        "content": "",
+        "question": "Architect Louis Sullivan  *commanded*  the respect of  *his* contemporaries for his work on the  *designed*  of  *the first* merican skyscrapers.",
+        "answers": [
+            "commanded",
+            "his",
+            "designed",
+            "the first"
+        ],
+        "rightAnswer": "designed"
+    },
+    {
+        "content": "",
+        "question": " *During*  the 1850s, the Spanish colony ofuba was  *of interest*  to Southerners,  *who*  felt they needed it  *for it*  increasing political and economic power.",
+        "answers": [
+            "During",
+            "of interest",
+            "who",
+            "for it"
+        ],
+        "rightAnswer": "for it"
+    },
+    {
+        "content": "",
+        "question": "Works  *wrote*  by Vladimir Nabokov  *often*  contain heroes and heroines  *who*   *have lived*  in many places.",
+        "answers": [
+            "wrote",
+            "often",
+            "who",
+            "have lived"
+        ],
+        "rightAnswer": "wrote"
+    },
+    {
+        "content": "",
+        "question": "The  *discovering*  of quarks,  *minute*  particles of matter, has  *led to*  a new age in particle  *physics* .",
+        "answers": [
+            "discovering",
+            "minute",
+            "led to",
+            "physics"
+        ],
+        "rightAnswer": "minute"
+    },
+    {
+        "content": "",
+        "question": " *In accordance the*  wishes of  *most of his electorate* , President Franklin D. Roosevelt  * postponed entering*  the Second World War  *until*  December 11, 1941.",
+        "answers": [
+            "In accordance the",
+            "most of his electorate",
+            " postponed entering",
+            "until"
+        ],
+        "rightAnswer": "until"
+    },
+    {
+        "content": "",
+        "question": " *Nutritional*  adequacy is hard  *to achieve*  on a low-calorie diet;even a small person should not try to  *get by on*  fewer than twelve  *hundreds*  calories per day.",
+        "answers": [
+            "Nutritional",
+            "to achieve",
+            "get by on",
+            "hundreds"
+        ],
+        "rightAnswer": "hundreds"
+    },
+    {
+        "content": "",
+        "question": "Ethnolinguists  *study*  language as  *it*  relates to society,  *culture* , and human  *behaving* .",
+        "answers": [
+            "study",
+            "it",
+            "culture",
+            "behaving"
+        ],
+        "rightAnswer": "behaving"
+    },
+    {
+        "content": "",
+        "question": "The rocks of theambrian period  *of prehistory*   *were formed*  500 to 600 million  *year*   *ago* .",
+        "answers": [
+            "of prehistory",
+            "were formed",
+            "year",
+            "ago"
+        ],
+        "rightAnswer": "year"
+    },
+    {
+        "content": "",
+        "question": " *Natural*  adhesives are  *primarily*  of  *animals*  or  *vegetable*  origin.",
+        "answers": [
+            "Natural ",
+            "primarily ",
+            "animals ",
+            "vegetable "
+        ],
+        "rightAnswer": "animals "
+    },
+    {
+        "content": "",
+        "question": " *Though*  Artist Tatun was totally blind in one eye and had  *only slight*  vision in  *another* ,  *he became*  an internationally renowned jazz musician.",
+        "answers": [
+            "Though ",
+            "only slight ",
+            "another",
+            "he became "
+        ],
+        "rightAnswer": "another"
+    },
+    {
+        "content": "",
+        "question": "The waterwheel  *is*  a mechanism designed to  *harness*  energy  *from*  a source  *instead*  than animals.",
+        "answers": [
+            "is ",
+            "harness ",
+            "from ",
+            "instead "
+        ],
+        "rightAnswer": "instead "
+    },
+    {
+        "content": "",
+        "question": "Even as he  *wrote*  copiously on such  *diverse topic*  as education, politics, and religion, Lewis Mumford   *remained*  active  *in city*  and regional planning.",
+        "answers": [
+            "wrote ",
+            "diverse topic ",
+            "remained ",
+            "in city "
+        ],
+        "rightAnswer": "diverse topic "
+    },
+    {
+        "content": "",
+        "question": "We  *had been in*  the city  *not more than*  two days  *until*  we found that we  *needed*  a guide.",
+        "answers": [
+            "had been in ",
+            "not more than ",
+            "until ",
+            "needed "
+        ],
+        "rightAnswer": "until "
+    },
+    {
+        "content": "",
+        "question": " *Solar astronomers*  have  *recently*  observed bursts of coherent radio waves coming  *from*  a specific  *locations*  on the sun's surface.",
+        "answers": [
+            "Solar astronomers",
+            "recently",
+            "from",
+            "locations"
+        ],
+        "rightAnswer": "from"
+    },
+    {
+        "content": "",
+        "question": "Vitamin K  *providing*  the  *necessary*  impetus for the synthesis of  *at least*  two proteins  *involved*  in blood clotting.",
+        "answers": [
+            "providing",
+            "necessary",
+            "at least",
+            "involved"
+        ],
+        "rightAnswer": "providing"
+    },
+    {
+        "content": "",
+        "question": "If no fossil record  *were*  available, the next strongest evidence of the kinship among organisms would  *to be*  similarities in the  *embryonic*  development of organisms  *today* .",
+        "answers": [
+            "were",
+            "to be",
+            "embryonic",
+            "today"
+        ],
+        "rightAnswer": "to be"
+    },
+    {
+        "content": "",
+        "question": "Research and  *recommending*   *concerning*  the dangers of  *smoking*  are beginning to have an impact on the tobacco  *industry*  in the United States.",
+        "answers": [
+            "recommending",
+            "concerning",
+            "smoking",
+            "industry"
+        ],
+        "rightAnswer": "recommending"
+    },
+    {
+        "content": "",
+        "question": "Scholars of historical change  *feels*   *that*  the velocity of history  *has been*  greatly accelerated by the onward rush of science and technology  *during*  the twentieth century.",
+        "answers": [
+            "feels",
+            "that",
+            "has been",
+            "during"
+        ],
+        "rightAnswer": "feels"
+    },
+    {
+        "content": "",
+        "question": " *Slightly*  over  *half*  of the  *population*  of El Paso, Texas,  *says*  both English and spanish.",
+        "answers": [
+            "Slightly ",
+            "half ",
+            "population ",
+            "says "
+        ],
+        "rightAnswer": "says "
+    },
+    {
+        "content": "",
+        "question": " *Part of*  the sunlight that  *strikes*  the Earth is reflected into the sky, and  *a rest*  is absorbed by the  *ground* .",
+        "answers": [
+            "Part of ",
+            "strikes ",
+            "a rest ",
+            "ground"
+        ],
+        "rightAnswer": "a rest "
+    },
+    {
+        "content": "",
+        "question": "The office manager insists that his staff  *use all*   *of*   *its vacation time* , but he hardly  *never takes a  vacation himself* ",
+        "answers": [
+            "use all ",
+            "of ",
+            "its vacation time",
+            "never takes a vacation himself"
+        ],
+        "rightAnswer": "its vacation time"
+    },
+    {
+        "content": "",
+        "question": "The Millicent Rogers Museum houses  *five thousand*  pieces of Hispanic and American Indian jewelry, textiles, and  *other*  objects  *document*  the vibrancy of  *these cultures* .",
+        "answers": [
+            "five thousand ",
+            "other ",
+            "document ",
+            "these cultures"
+        ],
+        "rightAnswer": "document "
+    },
+    {
+        "content": "",
+        "question": "When  *seeing*   *near*  the horizon, the moon appears  *strikingly*  larger than when viewed  *overhead* .",
+        "answers": [
+            "seeing ",
+            "near ",
+            "strikingly ",
+            "overhead"
+        ],
+        "rightAnswer": "seeing "
+    },
+    {
+        "content": "",
+        "question": "Neither oil drilling  *or*  gas  *exploration*  can  *be prevented*  from  *steadily changing*  the face of the rctic.",
+        "answers": [
+            "or",
+            "exploration",
+            "be prevented",
+            "steadily changing"
+        ],
+        "rightAnswer": "steadily changing"
+    },
+    {
+        "content": "",
+        "question": "Raindrops  *falling*  on the ocean  *reduce*  the number of breaking waves, thereby  *calming*   *roughness*  water.",
+        "answers": [
+            "falling",
+            "reduce",
+            "calming",
+            "roughness"
+        ],
+        "rightAnswer": "roughness"
+    },
+    {
+        "content": "",
+        "question": "The codfish  *lays*   *million*  of eggs each year,  *only*  a small percentage  *of which*  actually hatch.",
+        "answers": [
+            "lays",
+            "million",
+            "only",
+            "of which"
+        ],
+        "rightAnswer": "million"
+    },
+    {
+        "content": "",
+        "question": "Booker T. Washington, head of the  *first industrial*  school forfrican Americans,  *was*  as  *popular with*  Southerners  *than he*  was with Northerners.",
+        "answers": [
+            "first industrial",
+            "was",
+            "popular with",
+            "than he"
+        ],
+        "rightAnswer": "than he"
+    },
+    {
+        "content": "",
+        "question": "Peacocks are  *among*  the  *most exotic*  birds in nature;  *its*  long tail feathers  *fan out*  to reveal a profusion of vivid colors.",
+        "answers": [
+            "among",
+            "most exotic",
+            "its",
+            "fan out"
+        ],
+        "rightAnswer": "its"
+    },
+    {
+        "content": "",
+        "question": "Banking  *is ancient*  origin,  *though little*   *3 known*  about its history  *prior to*  the thirteenth century.",
+        "answers": [
+            "is ancient ",
+            "though little ",
+            "3 known ",
+            "prior to "
+        ],
+        "rightAnswer": "is ancient "
+    },
+    {
+        "content": "",
+        "question": "The holograph was an  *instrument*  employed  *to send*   *signals*   *by reflecting sunlight*  a mirror or mirrors.",
+        "answers": [
+            "instrument ",
+            "to send ",
+            "signals",
+            "by reflecting sunlight "
+        ],
+        "rightAnswer": "by reflecting sunlight "
+    },
+    {
+        "content": "",
+        "question": "Business cycles have been  *placed the*  scrutiny of  *statisticians*   *so that*  recurring patterns not apparent at first sight  *might*  be disclosed.",
+        "answers": [
+            "placed the ",
+            "statisticians",
+            "so that ",
+            "might "
+        ],
+        "rightAnswer": "placed the "
+    },
+    {
+        "content": "",
+        "question": "Bats rely  *on*  their  *hearings*  to navigate and  *to find*  food  *at*  night.",
+        "answers": [
+            "on ",
+            "hearings ",
+            "to find ",
+            "at "
+        ],
+        "rightAnswer": "hearings "
+    },
+    {
+        "content": "",
+        "question": " *The dodo* , a giant bird now  *extinct* ,  *lived on*  the island of Mauritius,  *in Indian Ocean* .",
+        "answers": [
+            "The dodo",
+            "extinct",
+            "lived on ",
+            "in Indian Ocean"
+        ],
+        "rightAnswer": "in Indian Ocean"
+    },
+    {
+        "content": "",
+        "question": "The earth is  *the*  only planet with a large  *number*  of  *oxygen*  in  *its*  atmosphere.",
+        "answers": [
+            "the",
+            "number",
+            "oxygen",
+            "its"
+        ],
+        "rightAnswer": "number"
+    },
+    {
+        "content": "",
+        "question": "In retrospect, sadness,  *rather anger* ,  *seems*  to be the  *overriding*   *emotion*  in Langston Hughes's poetry.",
+        "answers": [
+            "rather anger",
+            "seems ",
+            "overriding ",
+            "emotion "
+        ],
+        "rightAnswer": "rather anger"
+    },
+    {
+        "content": "",
+        "question": "Nine state  *attorney generals*   *have been meeting*   *lately* ,  *apparently*  to prepare a tobacco-company-style humdinger court case against softies.",
+        "answers": [
+            "attorney generals ",
+            "have been meeting",
+            "lately",
+            "apparently "
+        ],
+        "rightAnswer": "attorney generals "
+    },
+    {
+        "content": "",
+        "question": "Scholars of historical change  *feel*  that the velocity of history  *has been*   *fastly*  accelerated by the  *onward rush*  of science and technology during the twentieth century.",
+        "answers": [
+            "feel ",
+            "has been ",
+            "fastly ",
+            "onward rush "
+        ],
+        "rightAnswer": "fastly "
+    },
+    {
+        "content": "",
+        "question": "The  *weaving*  design was then embellished with a series of small  *chained*   *diamond*  of  vertical and  *zigzag*  lines.",
+        "answers": [
+            "weaving ",
+            "chained ",
+            "diamond ",
+            "zigzag "
+        ],
+        "rightAnswer": "diamond "
+    },
+    {
+        "content": "",
+        "question": "Three months after they have been  *laid* ,  *crocodile*  eggs are  *ready*   *hatched* .",
+        "answers": [
+            "laid",
+            "crocodile ",
+            "ready ",
+            "hatched"
+        ],
+        "rightAnswer": "hatched"
+    },
+    {
+        "content": "",
+        "question": " *Some nematodes*  are  *very tiny*  that  *it*  Is necessary  *to view*  them through a microscope.",
+        "answers": [
+            "Some nematodes ",
+            "very tiny ",
+            "it ",
+            "to view "
+        ],
+        "rightAnswer": "very tiny "
+    },
+    {
+        "content": "",
+        "question": "Predators and parasites  *share*  a fundamental  *characteristic*   *they both*  survive a the  *price*  of others.",
+        "answers": [
+            "share ",
+            "characteristic",
+            "they both ",
+            "price "
+        ],
+        "rightAnswer": "they both "
+    },
+    {
+        "content": "",
+        "question": " *While*  his racking days, racehorse John Henry  *earned*  a record $6.5 million, $2.3 million more than  *his*  closest  *competitor* .",
+        "answers": [
+            "While ",
+            "earned ",
+            "his ",
+            "competitor"
+        ],
+        "rightAnswer": "While "
+    },
+    {
+        "content": "",
+        "question": " *The most*  of  *the energy*  used in our homes and factories is generated from  *coal* ,  *oil* , and natural gas",
+        "answers": [
+            "The most ",
+            "the energy ",
+            "coal",
+            "oil"
+        ],
+        "rightAnswer": "The most "
+    },
+    {
+        "content": "",
+        "question": "Thanksgivingay, a  *uniquely*  Northmerican holiday, *is celebrated* in the United States on the  *four*  Thursday  *in*  November.",
+        "answers": [
+            "uniquely",
+            "is celebrated",
+            "four",
+            "in"
+        ],
+        "rightAnswer": "is celebrated"
+    },
+    {
+        "content": "",
+        "question": "The rate of stomach cancer is  *lowest*  in countries  *where*  people  *don't eat*  processed meat products than in nations where such foods  *are consumed* .",
+        "answers": [
+            "lowest",
+            "where",
+            "don't eat",
+            "are consumed"
+        ],
+        "rightAnswer": "lowest"
+    },
+    {
+        "content": "",
+        "question": "Glucose is different from fructose  *in its*  structural formula,  *but*  the molecular formula for  *these*  two sugars is the  *similar* .",
+        "answers": [
+            "in its",
+            "but",
+            "these",
+            "similar"
+        ],
+        "rightAnswer": "similar"
+    },
+    {
+        "content": "",
+        "question": "The high temperatures  *created*  by fire are necessary  *for to split*   *open*  the  *seed-bearing*  cones of lodge pole pines.",
+        "answers": [
+            "created",
+            "for to split",
+            "open",
+            "seed-bearing"
+        ],
+        "rightAnswer": "for to split"
+    },
+    {
+        "content": "",
+        "question": "In Western culture,  *much*  attention  *been given*  to the subject of social class conflict,  *which*   *may cause*  revolution.",
+        "answers": [
+            "much",
+            "been given",
+            "which",
+            "may cause"
+        ],
+        "rightAnswer": "been given"
+    },
+    {
+        "content": "",
+        "question": " *Knowledge of*  the rate  *at which*  a ship is traveling  *through*  the water is important if the navigator  *need to*  estimate the time of arrival.",
+        "answers": [
+            "Knowledge of",
+            "at which",
+            "through",
+            "need to "
+        ],
+        "rightAnswer": "need to "
+    },
+    {
+        "content": "",
+        "question": "Peas require  *rich*  soil, constant  *moistures* , and a cool  *growing*  season to develop  *well* .",
+        "answers": [
+            "rich ",
+            "moistures",
+            "growing ",
+            "well"
+        ],
+        "rightAnswer": "moistures"
+    },
+    {
+        "content": "",
+        "question": "Hickories are  *medium to large*  trees  *common*   *in eastern*  and the  *central areas*  of North America.",
+        "answers": [
+            "medium to large ",
+            "common ",
+            "in eastern ",
+            "central areas "
+        ],
+        "rightAnswer": "in eastern "
+    },
+    {
+        "content": "",
+        "question": " *The earliest*  steam-driven  *vehicles*   *produced*   *great*  amount of noise.",
+        "answers": [
+            "The earliest ",
+            "vehicles ",
+            "produced ",
+            "great "
+        ],
+        "rightAnswer": "great "
+    },
+    {
+        "content": "",
+        "question": "When our neighbor's grandson  *caught*  his finger in the car door, he  *did not cry*  even though it  *must have hurted*  him  *a great deal* .",
+        "answers": [
+            "caught ",
+            "did not cry ",
+            "must have hurted ",
+            "a great deal"
+        ],
+        "rightAnswer": "must have hurted "
+    },
+    {
+        "content": "",
+        "question": " *According to*  many economists, international specialization in the production of some goods,  *such as*  cars and computers,  *increase*  world efficiency and output,  *making*  all nations richer.",
+        "answers": [
+            "According to",
+            "such as",
+            "increase",
+            "making"
+        ],
+        "rightAnswer": "increase"
+    },
+    {
+        "content": "",
+        "question": "Wages and salaries  *account for*  nearly three fourths of the total  *nationally*  income  *generated*  in the United States  *annually* .",
+        "answers": [
+            "account for",
+            "nationally",
+            "generated",
+            "annually"
+        ],
+        "rightAnswer": "nationally"
+    },
+    {
+        "content": "",
+        "question": " *Farther*  evidence is needed  *to support*  recent research which  *suggests*  that certain chemicals found in broccoli  *may act*  as cancer preventatives.",
+        "answers": [
+            "Farther",
+            "to support",
+            "suggests",
+            "may act"
+        ],
+        "rightAnswer": "Farther"
+    },
+    {
+        "content": "",
+        "question": "The basic factors  *that*  enhance health and  *longevity*  include vigorous exercise,  *hereditary* , and  *diet* .",
+        "answers": [
+            "that",
+            "longevity",
+            "hereditary",
+            "diet"
+        ],
+        "rightAnswer": "hereditary"
+    },
+    {
+        "content": "",
+        "question": "Human infants are  *not*  usually  *able*  to walk by  *selves*  until they reach eleven or twelve  *months*  of age.",
+        "answers": [
+            "not",
+            "able",
+            "selves",
+            "months"
+        ],
+        "rightAnswer": "selves"
+    },
+    {
+        "content": "",
+        "question": "The  *tiny nucleus*  of  *an atom*  is held together by  *forces powerful*  capable  *of unleashing*  great energy.",
+        "answers": [
+            "tiny nucleus",
+            "an atom",
+            "forces powerful",
+            "of unleashing"
+        ],
+        "rightAnswer": "tiny nucleus"
+    },
+    {
+        "content": "",
+        "question": "When the body becomes  *extremely*  overheated, it  *failure*  to cool  *itself*  again, and sunstroke  *can occur* .",
+        "answers": [
+            "extremely",
+            "failure",
+            "itself",
+            "can occur"
+        ],
+        "rightAnswer": "failure"
+    },
+    {
+        "content": "",
+        "question": " *In chronicling*  her months  *as*  a captive of the WampanoagIndians, Mary Rowlandson  *demonstrated*   *his*  narrative skill.",
+        "answers": [
+            "In chronicling",
+            "as",
+            "demonstrated",
+            "his"
+        ],
+        "rightAnswer": "his"
+    },
+    {
+        "content": "",
+        "question": "Antarctic blue whales  *can be*   *100 foot long*  and weigh  *more than any*  dinosaur that  *ever*  lived.",
+        "answers": [
+            "can be",
+            "100 foot long",
+            "more than any",
+            "ever"
+        ],
+        "rightAnswer": "100 foot long"
+    },
+    {
+        "content": "",
+        "question": " *Biologically*  produced ceramics,  *alike*  those made by mollusks  *such as*  the sea urchin, remain superior  *to those*  produced synthetically.",
+        "answers": [
+            "Biologically",
+            "alike",
+            "such as",
+            "to those"
+        ],
+        "rightAnswer": "alike"
+    },
+    {
+        "content": "",
+        "question": "Substances  *such as* DT become  *more concentrated*  in each  *successively*  level in  *an*  ecological pyramid.",
+        "answers": [
+            "such as",
+            "more concentrated",
+            "successively",
+            "an"
+        ],
+        "rightAnswer": "such as"
+    },
+    {
+        "content": "",
+        "question": "The nests of  *most*  bird  *species*  are  *strategic*  placed to camouflage them  *against predators* .",
+        "answers": [
+            "most",
+            "species",
+            "strategic",
+            "against predators"
+        ],
+        "rightAnswer": "strategic"
+    },
+    {
+        "content": "",
+        "question": "Perhaps  *the most*  unique thing  *about*  carbon atoms  *are*  their ability  *to combine*  with themselves.",
+        "answers": [
+            "the most",
+            "about",
+            "are",
+            "to combine"
+        ],
+        "rightAnswer": "are"
+    },
+    {
+        "content": "",
+        "question": "The mountain sheep  *is known for*  its  *incredible*  agility,  *timid* , and ability  *to withstand*  severe cold.",
+        "answers": [
+            "is known for",
+            "incredible",
+            "timid",
+            "to withstand"
+        ],
+        "rightAnswer": "timid"
+    },
+    {
+        "content": "",
+        "question": "It has  *long*  been known  *as*  an entire cluster of galaxies may sometimes  *lie*  buried  *within*  a vast, dense ball of gas.",
+        "answers": [
+            "long",
+            "as",
+            "lie",
+            "within"
+        ],
+        "rightAnswer": "as"
+    },
+    {
+        "content": "",
+        "question": "American manufacturers  *depend on*  ocean  *shipping*  for most  *of trade*  with other  *countries* .",
+        "answers": [
+            "depend on ",
+            "shipping ",
+            "of trade ",
+            "countries"
+        ],
+        "rightAnswer": "of trade "
+    },
+    {
+        "content": "",
+        "question": "When the boulders  *are made of*  rock that is different from the bedrock  *which*   *they*  or the soil of the field rests, they  *are called*  erratics.",
+        "answers": [
+            "are made of ",
+            "which ",
+            "they ",
+            "are called "
+        ],
+        "rightAnswer": "which "
+    },
+    {
+        "content": "",
+        "question": "For centuries,  *music*  have played acoustical guitars,  *which*  produce  *sound*  from the  *vibration*  of the strings.",
+        "answers": [
+            "music ",
+            "which ",
+            "sound ",
+            "vibration "
+        ],
+        "rightAnswer": "music "
+    },
+    {
+        "content": "",
+        "question": "The increased urban population  *was nourished by*  the  *increased*  farm production that, in turn, was made more  *productive*  by the use of the new farm  *machine* .",
+        "answers": [
+            "was nourished by ",
+            "increased ",
+            "productive ",
+            "machine"
+        ],
+        "rightAnswer": "machine"
+    },
+    {
+        "content": "",
+        "question": "Our  *urge*  to classify different life forms and give  *us*  names  *seems*  to be as  *old*  as the human race.",
+        "answers": [
+            "urge ",
+            "us ",
+            "seems ",
+            "old "
+        ],
+        "rightAnswer": "us "
+    },
+    {
+        "content": "",
+        "question": " *As*  a glacier  *melts* , rocks, boulders, trees, and tons of  *dirt*   *deposit* .",
+        "answers": [
+            "As ",
+            "melts",
+            "dirt ",
+            "deposit"
+        ],
+        "rightAnswer": "deposit"
+    },
+    {
+        "content": "",
+        "question": "A narcotic is a substance that  *is having*  a  *strong*  depressant effect on the  *human*  nervous  *system* .",
+        "answers": [
+            "is having ",
+            "strong ",
+            "human ",
+            "system"
+        ],
+        "rightAnswer": "is having "
+    },
+    {
+        "content": "",
+        "question": " *Found*  in all parts of  *the state* ,  *pines are*  the most  *ordinary*  trees in Georgia.",
+        "answers": [
+            "Found ",
+            "the state",
+            "pines are ",
+            "ordinary"
+        ],
+        "rightAnswer": "ordinary"
+    },
+    {
+        "content": "",
+        "question": " *Many of the satellites*   *of space*  carry telescopes and other instruments  *used in astronomy*  to  *look at the stars* .",
+        "answers": [
+            "Many of the satellites ",
+            "of space ",
+            "used in astronomy ",
+            "look at the stars"
+        ],
+        "rightAnswer": "of space "
+    },
+    {
+        "content": "",
+        "question": " *Old faitful*  in  *the Yollowstone National Park*  is probably  *the world's*   *most famous*   geyser.",
+        "answers": [
+            "Old faitful",
+            "the Yollowstone National Park ",
+            "the world's ",
+            "most famous  "
+        ],
+        "rightAnswer": "the Yollowstone National Park "
+    },
+    {
+        "content": "",
+        "question": "One of the  *essential*  features of the  *modern skyscraper*   *is being*  the  *elevator* .",
+        "answers": [
+            "essential ",
+            "modern skyscraper",
+            "is being ",
+            "elevator"
+        ],
+        "rightAnswer": "is being "
+    },
+    {
+        "content": "",
+        "question": " *Approximately*  one-third of  *all persons*  involved in adult education programs in 1970  *were enrolled*  in occupational education  *course* .",
+        "answers": [
+            "Approximately ",
+            "all persons ",
+            "were enrolled ",
+            "course"
+        ],
+        "rightAnswer": "course"
+    },
+    {
+        "content": "",
+        "question": "The city of Boston  *was settled*  in 1630 on  *a hilly* , wooded peninsula where  *the*  charles River flows into a natural  *harbors* .",
+        "answers": [
+            "was settled ",
+            "a hilly",
+            "the ",
+            "harbors"
+        ],
+        "rightAnswer": "harbors"
+    },
+    {
+        "content": "",
+        "question": "Artist Helen Frankenthaler  *returned*  home from college on 1949 to  *her native New York* , the city producing the most  *art revolutionary*  of the  *day* .",
+        "answers": [
+            "returned ",
+            "her native New York",
+            "art revolutionary ",
+            "day"
+        ],
+        "rightAnswer": "art revolutionary "
+    },
+    {
+        "content": "",
+        "question": "Obsidian, an  *uncommon*  volcanic  *rock* ,  *polishes good*  and makes  *an attractive semiprecious*  stone.",
+        "answers": [
+            "uncommon ",
+            "rock",
+            "polishes good ",
+            "an attractive semiprecious "
+        ],
+        "rightAnswer": "polishes good "
+    },
+    {
+        "content": "",
+        "question": "Oil-base house paint is neither easy to work with  *or*  quick to clean up,  *but*  it is often  *preferred to*  latex paint  *because of*  its high sheen and durability.",
+        "answers": [
+            "or",
+            "but",
+            "preferred to",
+            "because of"
+        ],
+        "rightAnswer": "or"
+    },
+    {
+        "content": "",
+        "question": "The field cricket is  *quite*   *injury*  to crops and  *vegetation*  and does most of its  *harmful*  work at night.",
+        "answers": [
+            "quite",
+            "injury",
+            "vegetation",
+            "harmful"
+        ],
+        "rightAnswer": "injury"
+    },
+    {
+        "content": "",
+        "question": "Many New England farmers  *supplement*  their incomes with the  *sold*  of maple syrup  *tapped*  from  *sugar maples*  growing on their farmland.",
+        "answers": [
+            "supplement",
+            "sold",
+            "tapped",
+            "sugar maples"
+        ],
+        "rightAnswer": "sold"
+    },
+    {
+        "content": "",
+        "question": "In the  *latter half*  of the nineteenth century, physical techniques  *making it*  possible  *to determine*  the chemical constitution  *of stars* .",
+        "answers": [
+            "latter half",
+            "making it",
+            "to determine",
+            "of stars"
+        ],
+        "rightAnswer": "making it"
+    },
+    {
+        "content": "",
+        "question": "Many of the mammals  *that*  dwell in the desert are active only at  *a night*   *as*  the intense heat of a desert day can be fatal to  *warm-blooded*  animals.",
+        "answers": [
+            "that",
+            "a night",
+            "as",
+            "warm-blooded"
+        ],
+        "rightAnswer": "a night"
+    },
+    {
+        "content": "",
+        "question": "A painter who lived  *most*  of  *his life*  in the Middle West, Grant wood  *has called*  America's  *Painter of the Soil.* ",
+        "answers": [
+            "most",
+            "his life",
+            "has called",
+            "Painter of the Soil"
+        ],
+        "rightAnswer": "Painter of the Soil"
+    },
+    {
+        "content": "",
+        "question": "Tempera, a  *type*  of paint, is prepared from a  *mixture*  of water, egg yolk, and one  *but*  more  *tinted*  powders.",
+        "answers": [
+            "type ",
+            "mixture ",
+            "but ",
+            "tinted"
+        ],
+        "rightAnswer": "but "
+    },
+    {
+        "content": "",
+        "question": "Moonquakes  *originating*  at  *deep*  of  *some*  800 kilometers indicate the Moon has  *considerable rigidity*  and is not molten at such levels.",
+        "answers": [
+            "originating ",
+            "deep ",
+            "some ",
+            "considerable rigidity"
+        ],
+        "rightAnswer": "deep "
+    },
+    {
+        "content": "",
+        "question": "Cartilage  *covers*   *the ends*  of bones helps  *to protect*  the joints  *from*  wear and tear.",
+        "answers": [
+            "covers ",
+            "the ends ",
+            "to protect ",
+            "from "
+        ],
+        "rightAnswer": "covers "
+    },
+    {
+        "content": "",
+        "question": "Laminated  *safety*  glass is produced  *with*  combining  *alternate*  layers of  *flat*  glass and plastic.",
+        "answers": [
+            "safety ",
+            "with ",
+            "alternate ",
+            "flat "
+        ],
+        "rightAnswer": "flat "
+    },
+    {
+        "content": "",
+        "question": "The languages  *spoken by*  thelaskan Eskimos  *and*  the Inuit of northernanada are  *such*  similar as to be mutually  *intelligible* .",
+        "answers": [
+            "spoken by",
+            "and",
+            "such",
+            "intelligible"
+        ],
+        "rightAnswer": "spoken by"
+    },
+    {
+        "content": "",
+        "question": "Contemporary  *newspaper columnist*  Russellaker is noted for his  *commentaries humorous*   *written*  in the tradition  *of* enjamin Franklin.",
+        "answers": [
+            "newspaper columnist",
+            "commentaries humorous",
+            "written",
+            "of"
+        ],
+        "rightAnswer": "commentaries humorous"
+    },
+    {
+        "content": "",
+        "question": "On the one hand, mostmericans  *feel*  that space exploration is a legitimate  *and important*  national undertaking;  *on the contrary* , they  *worry about*  the amount it costs.",
+        "answers": [
+            "feel",
+            "and important",
+            "on the contrary",
+            "worry about"
+        ],
+        "rightAnswer": "on the contrary"
+    },
+    {
+        "content": "",
+        "question": "The black cherry tree,  *from which*  fine cabinets and furniture  *is*  made, is found  *all across*  Northmerica,from Nova Scotia  *to*  Texas.",
+        "answers": [
+            "from which",
+            "is",
+            "all across",
+            "to"
+        ],
+        "rightAnswer": "is"
+    },
+    {
+        "content": "",
+        "question": "A sealer  *should be applied*   *at*  wood surfaces before they are varnished;  *otherwise* , uneven absorption of the varnish  *may occur* .",
+        "answers": [
+            "should be applied",
+            "at",
+            "otherwise",
+            "may occur"
+        ],
+        "rightAnswer": "at"
+    },
+    {
+        "content": "",
+        "question": "Contralto Marian Anderson  *became*  a  *member permanent*   *of the*  Metropolitan Opera Company  *in*  1995.",
+        "answers": [
+            "became ",
+            "member permanent ",
+            "of the ",
+            "in "
+        ],
+        "rightAnswer": "member permanent "
+    },
+    {
+        "content": "",
+        "question": "Many of the  *recording*  instruments used in  *vary*   *branches*  of science  *are*  kymographs.",
+        "answers": [
+            "recording ",
+            "vary ",
+            "branches ",
+            "are "
+        ],
+        "rightAnswer": "vary "
+    },
+    {
+        "content": "",
+        "question": "The luxuriant hardwood  *timberland*  of the southern Appalachian Mountains  *is classed*  as a  *temperate*   *rain forests* .",
+        "answers": [
+            "timberland ",
+            "is classed ",
+            "temperate",
+            "rain forests"
+        ],
+        "rightAnswer": "rain forests"
+    },
+    {
+        "content": "",
+        "question": "No  *other*  beverage comes  *even*  close to rivaling coffee as the  *more widely*  drunk refreshment in the  *world* .",
+        "answers": [
+            "other ",
+            "even ",
+            "more widely ",
+            "world"
+        ],
+        "rightAnswer": "more widely "
+    },
+    {
+        "content": "",
+        "question": " *The*  Obie Awards have been given annually  *for*  1956 to  *outstanding*  artists  *in*  off-Broadway theater.",
+        "answers": [
+            "The ",
+            "for ",
+            "outstanding ",
+            "in "
+        ],
+        "rightAnswer": "for "
+    },
+    {
+        "content": "",
+        "question": " *As*  every  *other*  nation, the United States  *used to define*   *its*  unit of currency, the dollars, in terms of the gold standard.",
+        "answers": [
+            "As ",
+            "other ",
+            "used to define ",
+            "its "
+        ],
+        "rightAnswer": "As "
+    },
+    {
+        "content": "",
+        "question": "The prime minister's  *conviction*  for improper campaign practices is  *likely*  to  *result in*  increasing pressure that she  *resigns* .",
+        "answers": [
+            "conviction ",
+            "likely ",
+            "result in ",
+            "resigns"
+        ],
+        "rightAnswer": "resigns"
+    },
+    {
+        "content": "",
+        "question": "Venus  *approaches*   *the Earth*  more closely than  *any other*  planet  *is* .",
+        "answers": [
+            "approaches ",
+            "the Earth ",
+            "any other ",
+            "is"
+        ],
+        "rightAnswer": "is"
+    },
+    {
+        "content": "",
+        "question": " *Along*  the East Coast, American Indian women's councils  *could veto*   *a declaration*  of war  *at refusal*   to supply moccasins and field rations.",
+        "answers": [
+            "Along ",
+            "could veto ",
+            "a declaration ",
+            "at refusal "
+        ],
+        "rightAnswer": "at refusal "
+    },
+    {
+        "content": "",
+        "question": "An echo is a sound  *heard*   *subsequently*  it is  *reflected from*   *an objec* t.",
+        "answers": [
+            "heard ",
+            "subsequently ",
+            "reflected from ",
+            "an object"
+        ],
+        "rightAnswer": "subsequently "
+    },
+    {
+        "content": "",
+        "question": "Contemporary poetllen Ginsberg prides  *him*  on his ability to create poetry  *which*  invites  *complete*  emotional and physical  *participation*  by its audience.",
+        "answers": [
+            "him",
+            "which",
+            "complete",
+            "participation"
+        ],
+        "rightAnswer": "participation"
+    },
+    {
+        "content": "",
+        "question": "The  *amount of*  red meat needed  *to provision*  sufficient protein  *for maintaining*  good health is estimated at  *less than*  four ounces per day.",
+        "answers": [
+            "amount of",
+            "to provision",
+            "for maintaining",
+            "less than"
+        ],
+        "rightAnswer": "for maintaining"
+    },
+    {
+        "content": "",
+        "question": " *Due to*  her untimely death, the  *talented*  writer Sylvia Plath was never to know how well  *would her work be*  received  *by*  themerican public.",
+        "answers": [
+            "Due to",
+            "talented",
+            "would her work be",
+            "by"
+        ],
+        "rightAnswer": "would her work be"
+    },
+    {
+        "content": "",
+        "question": "The chimpanzee possesses  *hand tool* , the sticky termite stick,  *with which*   *it*  digs termites  *out of*  logs and stumps.",
+        "answers": [
+            "hand tool",
+            "with which",
+            "it",
+            "out of"
+        ],
+        "rightAnswer": "hand tool"
+    },
+    {
+        "content": "",
+        "question": "The United States government  *use*  price supports and  *cost*   *subsidies*  to  *raise*  farm prices and profits.",
+        "answers": [
+            "use",
+            "cost",
+            "subsidies",
+            "raise"
+        ],
+        "rightAnswer": "use"
+    },
+    {
+        "content": "",
+        "question": "A dolphin locates underwater objects  *in*   *its*  path by  *doing*  a series of clicking and  *whistling*  sounds.",
+        "answers": [
+            "in ",
+            "its ",
+            "doing ",
+            "whistling "
+        ],
+        "rightAnswer": "whistling "
+    },
+    {
+        "content": "",
+        "question": " *Like*  a synonym of  *speech* , which is the  *general*  term, address implies some  *degree*  of formality.",
+        "answers": [
+            "Like ",
+            "speech",
+            "general ",
+            "degree "
+        ],
+        "rightAnswer": "Like "
+    },
+    {
+        "content": "",
+        "question": "Bauxite ores differ  *considerably physical*  appearance,  *according to*   *their*   *impurities*  and structural compositions.",
+        "answers": [
+            "considerably physical ",
+            "according to ",
+            "their ",
+            "impurities "
+        ],
+        "rightAnswer": "considerably physical "
+    },
+    {
+        "content": "",
+        "question": "On February 20, 1962, Friendship T  *has*  orbited the Earth in  *a manned*   *flight*  that  *last just*  under five hours.",
+        "answers": [
+            "has ",
+            "a manned ",
+            "flight ",
+            "last just "
+        ],
+        "rightAnswer": "has "
+    },
+    {
+        "content": "",
+        "question": "The GATT is an  *international*  agreement  *designing*  to increase trade  *among*   *member nations* .",
+        "answers": [
+            "international ",
+            "designing ",
+            "among ",
+            "member nations"
+        ],
+        "rightAnswer": "designing "
+    },
+    {
+        "content": "",
+        "question": " *Because of*  their  *beautiful*  coloration, palomino horses  *does*  often chosen  *as*  show horses for parades.",
+        "answers": [
+            "Because of",
+            "beautiful",
+            "does",
+            "as"
+        ],
+        "rightAnswer": "as"
+    },
+    {
+        "content": "",
+        "question": " *Unlike most*  liquids, which contract when they  *solidify* , water expands  *by*  nine  *percentage*  when it freezes.",
+        "answers": [
+            "Unlike most",
+            "solidify",
+            "by",
+            "percentage"
+        ],
+        "rightAnswer": "by"
+    },
+    {
+        "content": "",
+        "question": " *For make*   *its*  nest, the yellow-headed blackbird  *weaves*  a small cup and fastens  *it*  to reeds above water.",
+        "answers": [
+            "For make",
+            "its",
+            "weaves",
+            "it"
+        ],
+        "rightAnswer": "For make"
+    },
+    {
+        "content": "",
+        "question": "Mormon leaderrigham Young was  *too*  brilliant and strong-willed that he was  *able to organize*   *the*  most remarkable religious migration in the annals  *of*  merican history.",
+        "answers": [
+            "too",
+            "able to organize",
+            "the",
+            "of"
+        ],
+        "rightAnswer": "too"
+    },
+    {
+        "content": "",
+        "question": "Organisms and their cells live  *by maintaining*  a  *constant*  exchange  *of elemental* , ions, minerals, and  *gases* .",
+        "answers": [
+            "by maintaining",
+            "constant",
+            "of elemental",
+            "gases"
+        ],
+        "rightAnswer": "of elemental"
+    },
+    {
+        "content": "",
+        "question": "The ode was  *original*   *a ceremonial*  poem  *written to*  celebrate public occasions  *or*  exalted subjects.",
+        "answers": [
+            "original",
+            "a ceremonial",
+            "written to",
+            "or"
+        ],
+        "rightAnswer": "original"
+    },
+    {
+        "content": "",
+        "question": "Seaweed  *nurtures*  numerous communities of living things,  *which*  are protected  *under*  the wet coverings of the weeds while the  *tide out* .",
+        "answers": [
+            "numerous ",
+            "which ",
+            "under ",
+            "tide out"
+        ],
+        "rightAnswer": "tide out"
+    },
+    {
+        "content": "",
+        "question": " *Mosquitos*   *usually*   *lay*  eggs on  *top stagnant*  water.",
+        "answers": [
+            "Mosquitos ",
+            "usually ",
+            "lay ",
+            "top stagnant "
+        ],
+        "rightAnswer": "top stagnant "
+    },
+    {
+        "content": "",
+        "question": " *All alligator*  is an animal  *somewhat like*  a crocodile, but  *with*  a broad,  *flatten*  snout.",
+        "answers": [
+            "All alligator ",
+            "somewhat like ",
+            "with ",
+            "flatten "
+        ],
+        "rightAnswer": "flatten "
+    },
+    {
+        "content": "",
+        "question": "An extremely dangerous  *forms*  of cocaine, crack  *attacks*  the nervous system, brain, and  *body*  in a  *sharper*  fashion than cocaine.",
+        "answers": [
+            "forms ",
+            "attacks ",
+            "body ",
+            "sharper "
+        ],
+        "rightAnswer": "forms "
+    },
+    {
+        "content": "",
+        "question": "A rabbit  *moves about*   *by hopping*  on its hind legs,  *which are*  much longer and  *more strong*  than its  front legs.",
+        "answers": [
+            "moves about ",
+            "by hopping ",
+            "which are ",
+            "more strong "
+        ],
+        "rightAnswer": "more strong "
+    },
+    {
+        "content": "",
+        "question": "Farm animals have been  *regardless*  by  *nearly*  all societies  *as*  a valuable economic  *resource* .",
+        "answers": [
+            "regardless ",
+            "nearly ",
+            "as ",
+            "resource"
+        ],
+        "rightAnswer": "regardless "
+    },
+    {
+        "content": "",
+        "question": "Seven  *of planets*  rotate in the same direction  *as*  their orbital motions,  *while*  Venus and Uranus rotate in the  *opposite direction* .",
+        "answers": [
+            "of planets ",
+            "as ",
+            "while ",
+            "opposite direction"
+        ],
+        "rightAnswer": "of planets "
+    },
+    {
+        "content": "",
+        "question": "The firemen were unable  *to determine*  exactly  *what*  caused the fire,  *when*  they said that they  *would continue*  the investigation.",
+        "answers": [
+            "to determine ",
+            "what ",
+            "when ",
+            "would continue "
+        ],
+        "rightAnswer": "when "
+    },
+    {
+        "content": "",
+        "question": " *Both china* , Russia, and the united states  *are*   *aware*  of the role  *they*  play in world affairs.",
+        "answers": [
+            "Both china",
+            "are ",
+            "aware ",
+            "they "
+        ],
+        "rightAnswer": "Both china"
+    },
+    {
+        "content": "",
+        "question": "Mercury  and alcohol  *are*   *widely*  used in thermometers because   *their volume*  increases  *uniform with*  temperature.  ",
+        "answers": [
+            " are",
+            "widely",
+            "their volume",
+            "uniform with"
+        ],
+        "rightAnswer": "uniform with"
+    },
+    {
+        "content": "",
+        "question": "At the awards  banquet, the philanthropist  *was recognized*  for  *his*   generosity and  *careful*  in  *aiding*  the poor. ",
+        "answers": [
+            "was  recognized",
+            "his",
+            "careful",
+            "aiding"
+        ],
+        "rightAnswer": "careful"
+    },
+    {
+        "content": "",
+        "question": "A catalytic  agent  *such as*  platinum may be used  *so*  the chemical  reaction  *advances*  more  *rapidly* . ",
+        "answers": [
+            "such as",
+            " so",
+            "advances",
+            "rapidly"
+        ],
+        "rightAnswer": " so"
+    },
+    {
+        "content": "",
+        "question": "  *It has been proven*  that when a subject identifies a substance as  tasting  *well* ,  *he*  is often  *associating*   the taste with the smell. ",
+        "answers": [
+            "It has been proven",
+            "well",
+            "he",
+            "associating"
+        ],
+        "rightAnswer": "well"
+    },
+    {
+        "content": "",
+        "question": "Plant  cuttings  *who*  are  *placed*  in water will develop roots  and can  *then be*  planted  *in soil* . ",
+        "answers": [
+            " who",
+            "placed",
+            "then be",
+            "in soil"
+        ],
+        "rightAnswer": " who"
+    },
+    {
+        "content": "",
+        "question": "Species   *like*  snakes, lizards, coyotes, squirrels, and jack rabbits   *seems to*  exist  *quite happily*  in  *the*   desert. ",
+        "answers": [
+            "like",
+            "seems to",
+            "quite happily",
+            "the"
+        ],
+        "rightAnswer": "seems to"
+    },
+    {
+        "content": "",
+        "question": "Many states  *do*  laws   *regulating*   *production processes*  for different   *types of*  food products. ",
+        "answers": [
+            " do",
+            "regulating",
+            "production processes",
+            "types  of"
+        ],
+        "rightAnswer": " do"
+    },
+    {
+        "content": "",
+        "question": "President  Wilson had hoped that World War I  *be*  the last great war, but only  two decades  *later* ,  *the Second World War*   *was  erupting* . ",
+        "answers": [
+            "be",
+            "later",
+            "the Second World War",
+            "was  erupting"
+        ],
+        "rightAnswer": "be"
+    },
+    {
+        "content": "",
+        "question": "  *According to*  legend,  *because*  the Indian Princess  Pocahontas said that she loved  *he* , Captain John Smith   *was*  set free. ",
+        "answers": [
+            "According to",
+            "because",
+            " he",
+            "was"
+        ],
+        "rightAnswer": " he"
+    },
+    {
+        "content": "",
+        "question": "The  value of  *precious*   *gems*  is determined by   *their*  hardness, color, and  *brilliant* . ",
+        "answers": [
+            " precious",
+            "gems",
+            "their",
+            "brilliant"
+        ],
+        "rightAnswer": "brilliant"
+    },
+    {
+        "content": "",
+        "question": "Although  *jogging*  is a good way to lose  weight and improve one's physical condition,  *most*  doctors  recommend that the potential jogger begin  *in a correct manner*  by   *getting*  a complete checkup. ",
+        "answers": [
+            " jogging",
+            "most",
+            "in a correct manner",
+            " getting"
+        ],
+        "rightAnswer": "in a correct manner"
+    },
+    {
+        "content": "",
+        "question": " Urban consumers  *have formed*  co-operatives  *to provide*    *themselves*  with necessities  *such*  groceries,  household appliances, and gasoline at a lower cost. ",
+        "answers": [
+            "have  formed",
+            "to provide",
+            "themselves",
+            "such"
+        ],
+        "rightAnswer": "such"
+    },
+    {
+        "content": "",
+        "question": "  *The first*  electric lamp had two carbon rods from   *which*  vapor  *serves*   *to conduct*  the  current across the gap. ",
+        "answers": [
+            "The first",
+            "which",
+            "serves",
+            "to conduct"
+        ],
+        "rightAnswer": "serves"
+    },
+    {
+        "content": "",
+        "question": "The American buffalo must be  *reproduce*    *itself*  again  *because*   *it*  has been  removed from the endangered species list. ",
+        "answers": [
+            " reproduce",
+            "itself",
+            "because",
+            "it"
+        ],
+        "rightAnswer": " reproduce"
+    },
+    {
+        "content": "",
+        "question": "  *Once*  the scientist had figured out the precise path of the comet,  he  *is finding*  that he was able  *to predict*    *its*  next appearance. ",
+        "answers": [
+            "Once",
+            "is finding",
+            "to  predict",
+            "its"
+        ],
+        "rightAnswer": "is finding"
+    },
+    {
+        "content": "",
+        "question": "Since the average age of families  *has  fallen,*   *therefore*  more and more women  *have  been*  able to join  *the labor*  force. ",
+        "answers": [
+            "has fallen,",
+            " therefore",
+            "have been",
+            "the labor"
+        ],
+        "rightAnswer": " therefore"
+    },
+    {
+        "content": "",
+        "question": "Since  lightning was probably significant in the formation of life, understanding it   *might*   *help*  us  *to understanding*  life   *itself* . ",
+        "answers": [
+            "might",
+            "help",
+            "to understanding",
+            " itself"
+        ],
+        "rightAnswer": "to understanding"
+    },
+    {
+        "content": "",
+        "question": "The  narwhal can be easily  *to recognize*  by the long   *spiraled*  tusk  *attached to*  the left side of   *its*  head. ",
+        "answers": [
+            "to recognize",
+            "spiraled",
+            "attached  to",
+            "its"
+        ],
+        "rightAnswer": "to recognize"
+    },
+    {
+        "content": "",
+        "question": "  *In spite*  modern medical technology,  *many*  diseases  caused  *by viruses*  are still  *not*  curable. ",
+        "answers": [
+            "In spite",
+            " many",
+            "by viruses",
+            "not"
+        ],
+        "rightAnswer": "In spite"
+    },
+    {
+        "content": "",
+        "question": "Because national  statistics on crime have only been kept  *for 1930* ,  *it*   is not possible  *to make*  judgments about crime  *during the  early years*  of the nation. ",
+        "answers": [
+            "for 1930",
+            "it",
+            "to  make",
+            "during the early years"
+        ],
+        "rightAnswer": "for 1930"
+    },
+    {
+        "content": "",
+        "question": "Some executives require  *that*  the secretary   *is*  responsible for  *writing*  all reports  *as well  as*  for balancing the books. ",
+        "answers": [
+            " that",
+            "is",
+            "writing",
+            "as well as"
+        ],
+        "rightAnswer": "is"
+    },
+    {
+        "content": "",
+        "question": "  *Philosophy*  of the ancient Greeks  *has been preserved*   in the  *scholarly writing*  of  *Western civilization* .  ",
+        "answers": [
+            " Philosophy",
+            "has been preserved",
+            "scholarly  writing",
+            "Western civilization"
+        ],
+        "rightAnswer": " Philosophy"
+    },
+    {
+        "content": "",
+        "question": "Most large corporations provide pension plans for their  employees  *so that*  they will be  *secure enough than*    *to live*   *comfortably*  during their retirement. ",
+        "answers": [
+            "so  that",
+            "secure enough than",
+            "to live",
+            "comfortably"
+        ],
+        "rightAnswer": "secure enough than"
+    },
+    {
+        "content": "",
+        "question": "They are  *planning  on*   *attending*  the convention  *next*  month, and   *so I am* . ",
+        "answers": [
+            "planning on",
+            "attending",
+            "next",
+            "so I  am"
+        ],
+        "rightAnswer": "so I  am"
+    },
+    {
+        "content": "",
+        "question": "Benjamin Franklin's  *ability*  to learn  from observation and experience  *contributed greatly*  to   *him*  success  *in*  public life. ",
+        "answers": [
+            "ability",
+            "contributed  greatly",
+            "him",
+            "in"
+        ],
+        "rightAnswer": "him"
+    },
+    {
+        "content": "",
+        "question": "For the first time in the history of the country, the person   *which*   *was recommended*  by the president  *to  replace*  a  *retiring*  justice on the Supreme Court is a  woman. ",
+        "answers": [
+            "which",
+            "was recommended",
+            "to replace",
+            " retiring"
+        ],
+        "rightAnswer": "which"
+    },
+    {
+        "content": "",
+        "question": "The high protein content of various strains of alfalfa  plants, along with the  *characteristically*  long root system that   *enables*  them to survive long droughts,  *make*  them   *particularly*  valuable in arid countries. ",
+        "answers": [
+            " characteristically",
+            "enables",
+            "make",
+            " particularly"
+        ],
+        "rightAnswer": "make"
+    },
+    {
+        "content": "",
+        "question": "Psychological   *experiment*  indicate that people remember more math problems that  they cannot  *solve*  than  *those*  they are able  *to  solve* . ",
+        "answers": [
+            "experiment",
+            "solve",
+            "those",
+            "to solve"
+        ],
+        "rightAnswer": "experiment"
+    },
+    {
+        "content": "",
+        "question": "Aristotle  *systematically*  set out the   *various*  forms of the syllogism  *that*   *has  remained*  an important reference for logic. ",
+        "answers": [
+            " systematically",
+            "various",
+            "that",
+            "has remained"
+        ],
+        "rightAnswer": "has remained"
+    },
+    {
+        "content": "",
+        "question": " *While*  the sun is  *the major*  source  of ultraviolet rays,  *it is*  not the  *source only* .  ",
+        "answers": [
+            " While",
+            "the major",
+            "it is",
+            "source only"
+        ],
+        "rightAnswer": "source only"
+    },
+    {
+        "content": "",
+        "question": "Most fungi  *are  scavengers*   *who grow*  on  *the remains*  of plants  and animals, causing  *them*  to decay and change into rich soil.  ",
+        "answers": [
+            "are  scavengers",
+            "who grow",
+            "the  remains",
+            "them"
+        ],
+        "rightAnswer": "who grow"
+    },
+    {
+        "content": "",
+        "question": " The ATM card  *the principal*  means for  *getting*  cash   *quickly*   *is*  in most countries. ",
+        "answers": [
+            "the  principal",
+            "getting",
+            "quickly",
+            "is"
+        ],
+        "rightAnswer": "is"
+    },
+    {
+        "content": "",
+        "question": "The National  Wildflower Research Center  *which was*   *established*  in  1982 by Lady Bird Johnson  *on sixty acres*  of land  *east  of*  Austin. ",
+        "answers": [
+            "which was",
+            "established",
+            "on sixty  acres",
+            "east of"
+        ],
+        "rightAnswer": "which was"
+    },
+    {
+        "content": "",
+        "question": "  *Crocodiles*   *different from*  alligators in that they  have  *pointed snouts*  and long lower teeth that stick out when their  mouths  *are closed* . ",
+        "answers": [
+            "Crocodiles",
+            "different  from",
+            "pointed snouts",
+            "are closed"
+        ],
+        "rightAnswer": "different  from"
+    },
+    {
+        "content": "",
+        "question": "Venomous snakes  *with*  modified teeth  connected to  *poison glands*   *in which*  the venom   *is secreted*  and stored. ",
+        "answers": [
+            " with",
+            "poison glands",
+            "in which",
+            "is secreted"
+        ],
+        "rightAnswer": " with"
+    },
+    {
+        "content": "",
+        "question": " Some bumper stickers  *are*  very funny and make us   *laugh* , yet  *another*  can make us angry because of  their  *ridiculousness* . ",
+        "answers": [
+            "are",
+            " laugh",
+            "another",
+            "ridiculousness"
+        ],
+        "rightAnswer": "another"
+    },
+    {
+        "content": "",
+        "question": "Several people   *have*   *apparent*  tried to change  *the man's  mind* , but he refuses  *to listen* . ",
+        "answers": [
+            "have",
+            " apparent",
+            "the man's mind",
+            "to listen"
+        ],
+        "rightAnswer": " apparent"
+    },
+    {
+        "content": "",
+        "question": "  *Sometime*  ants keep  *smaller insects*  that give off  honeydew, milking them  *regularly*  and even building barns  *to  shelter*  them. ",
+        "answers": [
+            "Sometime",
+            "smaller insects",
+            "regularly",
+            "to  shelter"
+        ],
+        "rightAnswer": "Sometime"
+    },
+    {
+        "content": "",
+        "question": "When the weather  *becomes*    *colder*  we know that the air mass  *must originated*  in  the Arctic  *rather than*  over the Gulf of Mexico. ",
+        "answers": [
+            " becomes",
+            "colder",
+            "must originated",
+            "rather than"
+        ],
+        "rightAnswer": "must originated"
+    },
+    {
+        "content": "",
+        "question": "If his grades  *had been  better* , he  *would accept*   *as*  a graduate  student on  *the*  MBA program. ",
+        "answers": [
+            "had been  better",
+            "would accept",
+            "as",
+            "the"
+        ],
+        "rightAnswer": "would accept"
+    },
+    {
+        "content": "",
+        "question": "Nowadays   *illegally documents purchased*  are  *much more*   difficult  *to*  recognize  *than before* . ",
+        "answers": [
+            "illegally documents  purchased",
+            "much more",
+            "to",
+            "than before"
+        ],
+        "rightAnswer": "illegally documents  purchased"
+    },
+    {
+        "content": "",
+        "question": " Because there are  *less*  members present tonight  *than*   there  *were*  last night, we must wait until the next meeting   *to vote* . ",
+        "answers": [
+            "less",
+            "than",
+            "were",
+            "to vote"
+        ],
+        "rightAnswer": "less"
+    },
+    {
+        "content": "",
+        "question": "The  ordinary cold,  *which is*   *ours*  most common sickness,  is a rival disease  *whose*   *cure*  has not yet been  found. ",
+        "answers": [
+            "which is",
+            "ours",
+            "whose",
+            "cure"
+        ],
+        "rightAnswer": "ours"
+    },
+    {
+        "content": "",
+        "question": " *After  studying*   *all the new*  materials, the student  *was  able*  to  *rise*  his test score by twenty-five points. ",
+        "answers": [
+            "After  studying",
+            "all the new",
+            "was able",
+            "rise"
+        ],
+        "rightAnswer": "rise"
+    },
+    {
+        "content": "",
+        "question": "Under the crust of the Earth are  *bubbling*   hot  *liquids*  that  *sometime*  rise  *to*  the  surface. ",
+        "answers": [
+            "bubbling",
+            "liquids",
+            "sometime",
+            "to"
+        ],
+        "rightAnswer": "sometime"
+    },
+    {
+        "content": "",
+        "question": "Rocks can be  *broken  apart*  by water  *that*  seeps into the cracks and   *freeze*  in low  *temperatures* . ",
+        "answers": [
+            "broken apart",
+            " that",
+            "freeze",
+            "temperatures"
+        ],
+        "rightAnswer": "freeze"
+    },
+    {
+        "content": "",
+        "question": "Columbus, Ohio, the capital of the state,   *are*  not only  *the largest*  city in Ohio  *but  also*  a typical metropolitan area, often  *used*  in market  research. ",
+        "answers": [
+            "are",
+            "the largest",
+            "but also",
+            " used"
+        ],
+        "rightAnswer": "are"
+    },
+    {
+        "content": "",
+        "question": "Although maple trees are  *among*  the most  colorful varieties  *in the fall* , they lose  *its*  leaves   *sooner than*  oak trees. ",
+        "answers": [
+            " among",
+            "in the fall",
+            "its",
+            "sooner than"
+        ],
+        "rightAnswer": "its"
+    },
+    {
+        "content": "",
+        "question": "The  teacher  *told*  the students  *to don't*    *discuss*  the take-home exam  *with each other* . ",
+        "answers": [
+            " told",
+            "to don't",
+            "discuss",
+            "with each  other"
+        ],
+        "rightAnswer": "to don't"
+    },
+    {
+        "content": "",
+        "question": " *Because*  she didn't  like  *shop*  very much, she  *did*  most of it   *with*  her personal computer. ",
+        "answers": [
+            "Because",
+            " shop",
+            "did",
+            "with"
+        ],
+        "rightAnswer": " shop"
+    },
+    {
+        "content": "",
+        "question": " *Most*   Americans would not be happy  *without*   *a*  color  television, two cars, and  *working at*  an extra job. ",
+        "answers": [
+            "Most",
+            " without",
+            "a",
+            "working at"
+        ],
+        "rightAnswer": "working at"
+    },
+    {
+        "content": "",
+        "question": "The  Department of Fine Arts and Architecture  *has*  been criticized for   *not having*   *much*  required courses scheduled   *for*  this semester. ",
+        "answers": [
+            "has",
+            "not having",
+            " much",
+            "for"
+        ],
+        "rightAnswer": " much"
+    },
+    {
+        "content": "",
+        "question": "  *Despite of*  the fact that backgammon is easy to learn,   *it*  is as difficult  *to play*   *as chess* .  ",
+        "answers": [
+            "Despite  of",
+            "it",
+            "to play",
+            "as chess"
+        ],
+        "rightAnswer": "Despite  of"
+    },
+    {
+        "content": "",
+        "question": " *Those*  of us   *who*  smoke should have  *their*  lungs X-rayed   *regularly* . ",
+        "answers": [
+            "Those",
+            "who",
+            "their",
+            "regularly"
+        ],
+        "rightAnswer": "their"
+    },
+    {
+        "content": "",
+        "question": " Teddy Roosevelt  *demonstrated*  his  *competitive*  spirit  and tireless energy in 1905  *whenever*   *he*  led the  Rough Riders up San Juan Hill. ",
+        "answers": [
+            "demonstrated",
+            " competitive",
+            "whenever",
+            "he"
+        ],
+        "rightAnswer": "whenever"
+    },
+    {
+        "content": "",
+        "question": "Alcoholic beverages vary  *widely*  in content,  ranging  *from*  only 2 or 3 percent for some light beers to  *as  high to*  60 percent  *for*  some vodkas and brandies. ",
+        "answers": [
+            " widely",
+            "from",
+            "as high to",
+            "for"
+        ],
+        "rightAnswer": "as high to"
+    },
+    {
+        "content": "",
+        "question": "It is necessary that  one  *met*  a judge  *before signing*   *the final  papers*   *for a divorce* . ",
+        "answers": [
+            " met",
+            "before signing",
+            "the final papers",
+            "for a divorce"
+        ],
+        "rightAnswer": " met"
+    },
+    {
+        "content": "",
+        "question": "They asked us, Henry  and  *I* , whether we  *thought*  that the statistics   *had been presented*   *fairly*  and accurately. ",
+        "answers": [
+            " I",
+            "thought",
+            "had been presented",
+            " fairly"
+        ],
+        "rightAnswer": " I"
+    },
+    {
+        "content": "",
+        "question": " *When*  a child, Barbara Mandrell   *played*  the guitar, banjo, and saxophone in her family's band, but   *in 1981*  she  *was named*  Entertainer of the Year for  her singing. ",
+        "answers": [
+            "When",
+            "played",
+            "in 1981",
+            "was  named"
+        ],
+        "rightAnswer": "When"
+    },
+    {
+        "content": "",
+        "question": " When a patient's blood pressure is  *much*  higher  *than  it*   *should be* , a doctor usually insists that he  *will  not*  smoke. ",
+        "answers": [
+            "much",
+            "than it",
+            "should be",
+            "will not"
+        ],
+        "rightAnswer": "will not"
+    },
+    {
+        "content": "",
+        "question": "Death Valley  *is*  130 miles   *length*  and  *no more*   *than*  14 miles wide.  ",
+        "answers": [
+            " is",
+            "length",
+            "no more",
+            "than"
+        ],
+        "rightAnswer": "length"
+    },
+    {
+        "content": "",
+        "question": " *The*   average adult  *get*  two  *to*  five  *colds*   each year. ",
+        "answers": [
+            "The",
+            "get",
+            "to",
+            "colds"
+        ],
+        "rightAnswer": "get"
+    },
+    {
+        "content": "",
+        "question": "  *Alike*  other forms of energy, natural gas  *may be used*    *to heat*  homes, cook food, and even  *run*  automobiles.  ",
+        "answers": [
+            " Alike",
+            "may be used",
+            "to heat",
+            "run"
+        ],
+        "rightAnswer": " Alike"
+    },
+    {
+        "content": "",
+        "question": "Residents in some   *cities*  can call  *an*  electrical inspector  *to  have*  the wiring in their house  *is checked* . ",
+        "answers": [
+            "cities",
+            " an",
+            "to have",
+            "is checked"
+        ],
+        "rightAnswer": "is checked"
+    },
+    {
+        "content": "",
+        "question": " *The Chinese*   were first and  *large*  ethnic group  *to work*  on the  construction  *of*  the transcontinental railroad system. ",
+        "answers": [
+            "The  Chinese",
+            "large",
+            "to work",
+            "of"
+        ],
+        "rightAnswer": "large"
+    },
+    {
+        "content": "",
+        "question": "The cacao  bean  *was cultivated*   *by the Aztecs*  not only to drink   *but also*   *currency* . ",
+        "answers": [
+            "was  cultivated",
+            "by the Aztecs",
+            "but also",
+            " currency"
+        ],
+        "rightAnswer": " currency"
+    },
+    {
+        "content": "",
+        "question": "Her application  *for a  visa*  was turned  *down*  not only because it was   *incomplete*  and incorrectly filled out but also because it was  written  *in pencil* . ",
+        "answers": [
+            "for a visa",
+            "down",
+            "incomplete",
+            "in pencil"
+        ],
+        "rightAnswer": "incomplete"
+    },
+    {
+        "content": "",
+        "question": " *Before*   she moved here, Arlene had  *been*  president  *of the*   organization  *since*  four years. ",
+        "answers": [
+            "Before",
+            " been",
+            "of the",
+            "since"
+        ],
+        "rightAnswer": "since"
+    },
+    {
+        "content": "",
+        "question": "They   *are*  going  *to have to*   *leave soon* , and   *so do*  we. ",
+        "answers": [
+            "are",
+            "to have to",
+            "leave soon",
+            "so  do"
+        ],
+        "rightAnswer": "so  do"
+    },
+    {
+        "content": "",
+        "question": "John lived   *in*  New York  *since*  1960 to 1975, but he  *is now  living*   *in*  Detroit. ",
+        "answers": [
+            "in",
+            " since",
+            "is now living",
+            "in"
+        ],
+        "rightAnswer": " since"
+    },
+    {
+        "content": "",
+        "question": "Diamond   *itself*  is the  *only*  material  *hard  enough*  to cut and  *polishes*  diamonds. ",
+        "answers": [
+            "itself",
+            " only",
+            "hard enough",
+            "polishes"
+        ],
+        "rightAnswer": "polishes"
+    },
+    {
+        "content": "",
+        "question": "The tornado uprooted all   *the*  power lines  *leading*  to the town so the  inhabitants  *had to*  live in darkness  *until new ones* .  ",
+        "answers": [
+            " the",
+            "leading",
+            "had to",
+            "until new ones"
+        ],
+        "rightAnswer": "until new ones"
+    },
+    {
+        "content": "",
+        "question": " *Before*  the  nineteenth century  *it*  was  *rarely*  to find organized   *systems*  of adult education. ",
+        "answers": [
+            "Before",
+            " it",
+            "rarely",
+            "systems"
+        ],
+        "rightAnswer": "rarely"
+    },
+    {
+        "content": "",
+        "question": "  *This*  new model not only saves time but also  *energy*   by  *operating*  on two batteries  *instead*  of four.  ",
+        "answers": [
+            " This",
+            "energy",
+            "operating",
+            "instead"
+        ],
+        "rightAnswer": "energy"
+    },
+    {
+        "content": "",
+        "question": "When scientists   *discovered*   *how*  soap works,  *it*  became  possible  *to do*  synthetic detergents out of petroleum. ",
+        "answers": [
+            "discovered",
+            " how",
+            "it",
+            "to do"
+        ],
+        "rightAnswer": "to do"
+    },
+    {
+        "content": "",
+        "question": " The  *freshman*  failed to follow the advice of  *her*   senior that he  *studied*  hard and not  *go out*  too much.  ",
+        "answers": [
+            " freshman",
+            "her",
+            "studied",
+            "go out"
+        ],
+        "rightAnswer": "studied"
+    },
+    {
+        "content": "",
+        "question": " *Earwax  lubricates*  and protects the ear from  *foreign*  matter   *such*  water and  *insects* . ",
+        "answers": [
+            "Earwax  lubricates",
+            "foreign",
+            "such",
+            "insects"
+        ],
+        "rightAnswer": "such"
+    },
+    {
+        "content": "",
+        "question": " *How*  the  Earth is  *in the shadow*  of  *the*  moon, we see   *an*  eclipse of the sun. ",
+        "answers": [
+            "How",
+            "in the  shadow",
+            "the",
+            "an"
+        ],
+        "rightAnswer": "How"
+    },
+    {
+        "content": "",
+        "question": "The  MX  *is*   *a four-stages*  rocket with  *an  8,000* -mile range,  *larger than*  that of the Minuteman.  ",
+        "answers": [
+            " is",
+            "a four-stages",
+            "an 8,000",
+            "larger than"
+        ],
+        "rightAnswer": "a four-stages"
+    },
+    {
+        "content": "",
+        "question": "People   *from*  temperate  *climates*  cannot survive  *for  long*  in  *temperatures extreme* . ",
+        "answers": [
+            "from",
+            " climates",
+            "for long",
+            "temperatures extreme"
+        ],
+        "rightAnswer": "temperatures extreme"
+    },
+    {
+        "content": "",
+        "question": " *The Nineteenth Amendment*  to  the Constitution  *gives*  women the right  *to vote*  in   *the elections*  of 1920. ",
+        "answers": [
+            "The Nineteenth  Amendment",
+            "gives",
+            "to vote",
+            "the elections"
+        ],
+        "rightAnswer": "gives"
+    },
+    {
+        "content": "",
+        "question": " The aims of the European Economic Community  *are*  to eliminate  tariffs between member countries;  *developing*  common policies for  agriculture, labor, welfare, trade, and  *transportation* ; and   *to abolish*  trusts and cartels. ",
+        "answers": [
+            " are",
+            "developing",
+            "transportation",
+            "to abolish"
+        ],
+        "rightAnswer": "developing"
+    },
+    {
+        "content": "",
+        "question": " *Of*   *the two*  Diomede  Islands,  *only*  one  *belongs the*  United States. ",
+        "answers": [
+            " Of",
+            "the two",
+            "only",
+            "belongs the"
+        ],
+        "rightAnswer": "belongs the"
+    },
+    {
+        "content": "",
+        "question": "\"Moby-Dick\" is a   *novel*  that  *telling*  the story of a ship captain's   *single-minded*  hatred  *of*  a huge white whale. ",
+        "answers": [
+            "novel",
+            " telling",
+            "single-minded",
+            "of"
+        ],
+        "rightAnswer": " telling"
+    },
+    {
+        "content": "",
+        "question": "Please   *don't parking*  in those spaces that have signs   *reserving*  them  *for*   *the handicapped* .  ",
+        "answers": [
+            "don't  parking",
+            "reserving",
+            "for",
+            "the handicapped"
+        ],
+        "rightAnswer": "don't  parking"
+    },
+    {
+        "content": "",
+        "question": "New synthetic  materials  *have*  improved  *the construction*  of  artificial  *body parts*  by  *provide*  both the power and  the range of action for a natural limb. ",
+        "answers": [
+            " have",
+            "the construction",
+            "body parts",
+            "provide"
+        ],
+        "rightAnswer": "provide"
+    },
+    {
+        "content": "",
+        "question": " *The*  Earth   *depends*  the  *sun for*  its  *heating* .  ",
+        "answers": [
+            " The",
+            "depends",
+            "sun for",
+            "heating"
+        ],
+        "rightAnswer": "depends"
+    },
+    {
+        "content": "",
+        "question": "Perhaps the colonists  were  *looking for*  a climate  *like England* , when they  decided  *to settle*  the North American continent  *instead  of*  the South American continent. ",
+        "answers": [
+            "looking  for",
+            "like England",
+            "to settle",
+            "instead of"
+        ],
+        "rightAnswer": "like England"
+    },
+    {
+        "content": "",
+        "question": " *Chicago, is  called*  the Windy City  *because of*  the winds coming down  across the lake from Canada,  *is*   *never very*  hot in  summer. ",
+        "answers": [
+            "Chicago, is called",
+            "because of",
+            "is",
+            "never  very"
+        ],
+        "rightAnswer": "Chicago, is called"
+    },
+    {
+        "content": "",
+        "question": "Although  *no country*  has exactly  the same folk music  *like*   *that*  of any other, it is  significant that similar song exist among  *widely*  separated people.  ",
+        "answers": [
+            "no  country",
+            "like",
+            "that",
+            "widely"
+        ],
+        "rightAnswer": "like"
+    },
+    {
+        "content": "",
+        "question": "The  state  *with the*   *most large*  production of tobacco   *products*   *is*  North Carolina. ",
+        "answers": [
+            "with  the",
+            "most large",
+            "products",
+            "is"
+        ],
+        "rightAnswer": "most large"
+    },
+    {
+        "content": "",
+        "question": "The shortest  route for the rally drivers was  *through*  the mountains   *whereas if*  the desert road was  *much*  longer   *though*  faster. ",
+        "answers": [
+            "through",
+            "whereas if",
+            "much",
+            " though"
+        ],
+        "rightAnswer": "whereas if"
+    },
+    {
+        "content": "",
+        "question": "The problems which  *beset*  the  first settlers were  *nothing*  compared to  *those*  which  faced  *the lately ones*  who landed further north. ",
+        "answers": [
+            "beset",
+            " nothing",
+            "those",
+            "the lately ones"
+        ],
+        "rightAnswer": "the lately ones"
+    },
+    {
+        "content": "",
+        "question": "Starfishes and sea  urchins, members of the echinoderms or spiny skinned animals,  *are*   particularly  *interested*   *because of*    *their*  unusual structures. ",
+        "answers": [
+            " are",
+            "interested",
+            "because of",
+            "their"
+        ],
+        "rightAnswer": "interested"
+    },
+    {
+        "content": "",
+        "question": " *Electric  telegraph* , invented in 1835  *by Samuel Morse* , was   *first*   *used*  in 1844. ",
+        "answers": [
+            "Electric  telegraph",
+            "by Samuel Morse",
+            "first",
+            "used"
+        ],
+        "rightAnswer": "Electric  telegraph"
+    },
+    {
+        "content": "",
+        "question": "The new mall   *shopping*  in the  *downtown*  area will be more expensive   *for shoppers*  than  *the mall*  on the freeway outside  the town. ",
+        "answers": [
+            "shopping",
+            "downtown",
+            "for shoppers",
+            "the  mall"
+        ],
+        "rightAnswer": "shopping"
+    },
+    {
+        "content": "",
+        "question": " *West of*  the Missouri river  *have*   vast plains over which the wagon trains  *labored ignoring*  them in  favor of dreams of gold and richer land  *further west* . ",
+        "answers": [
+            "West of",
+            " have",
+            "labored ignoring",
+            "further west"
+        ],
+        "rightAnswer": " have"
+    },
+    {
+        "content": "",
+        "question": "The classification of a dinosaur   *as*  either saurischian  *nor*  ornithischian   *depends on*  the structure of  *the hip* . ",
+        "answers": [
+            " as",
+            "nor",
+            "depends on",
+            "the hip"
+        ],
+        "rightAnswer": "nor"
+    },
+    {
+        "content": "",
+        "question": " Salmon  *lay*  their eggs and die in freshwater,   *although*  they live in salt water  *when*  most of their   *adult lives* . ",
+        "answers": [
+            "lay",
+            "although",
+            "when",
+            "adult lives"
+        ],
+        "rightAnswer": "when"
+    },
+    {
+        "content": "",
+        "question": "  *Into among*  the five Great Lakes, only Lake Michigan  *is  located*   *entirely*  within the  *territorial  boundaries*  of the United States. ",
+        "answers": [
+            "Into  among",
+            "is located",
+            "entirely",
+            "territorial  boundaries"
+        ],
+        "rightAnswer": "Into  among"
+    },
+    {
+        "content": "",
+        "question": "It  is  *interesting*   *to compare*  the early stylized art  forms  *of*  ancient civilizations  *to*  the modern  abstract forms of art. ",
+        "answers": [
+            "interesting",
+            "to compare",
+            "of",
+            " to"
+        ],
+        "rightAnswer": " to"
+    },
+    {
+        "content": "",
+        "question": "George Gershwin not only   *composed*  popular songs  *for*  musicals,   *also*  wrote  *more serious*  concerts. ",
+        "answers": [
+            "composed",
+            " for",
+            "also",
+            "more serious"
+        ],
+        "rightAnswer": "also"
+    },
+    {
+        "content": "",
+        "question": "Pioneers   *on the*  plains  *sometimes*   *living*  in  dugouts, sod rooms  *cut into*  hillsides. ",
+        "answers": [
+            "on  the",
+            "sometimes",
+            "living",
+            "cut into"
+        ],
+        "rightAnswer": "living"
+    },
+    {
+        "content": "",
+        "question": "The  *average*  salt  *content*  of  seawater is  *more than*  three  *percents* . ",
+        "answers": [
+            " average",
+            "content",
+            "more than",
+            "percents"
+        ],
+        "rightAnswer": "percents"
+    },
+    {
+        "content": "",
+        "question": "The  *progress*   *made*   *in  space*  travel  *for*  the early 1960s is remarkable. ",
+        "answers": [
+            "progress",
+            " made",
+            "in space",
+            "for"
+        ],
+        "rightAnswer": "for"
+    },
+    {
+        "content": "",
+        "question": "  *Almost*  the plants  *known to us*  are made up of  *a  great many cells* , specialized  *to perform*  different tasks.  ",
+        "answers": [
+            " Almost",
+            "known to us",
+            "a great many cells",
+            "to  perform"
+        ],
+        "rightAnswer": " Almost"
+    },
+    {
+        "content": "",
+        "question": " *Because*  the interstate  highway system linking roads across the country  *was built*  about  thirty-five years  *ago* , most of the roads in the system now need   *repaired* . ",
+        "answers": [
+            "Because",
+            "was built",
+            "ago",
+            " repaired"
+        ],
+        "rightAnswer": " repaired"
+    },
+    {
+        "content": "",
+        "question": "  *Some*  methods  *to prevent*  soil erosion   *are*  plowing parallel with the slopes of hills,  *to  plant*  trees on unproductive land, and rotating crops. ",
+        "answers": [
+            "Some",
+            "to  prevent",
+            "are",
+            "to plant"
+        ],
+        "rightAnswer": "to plant"
+    },
+    {
+        "content": "",
+        "question": "I put my new  *book of zoology*  here on   *the desk*  a few minutes  *ago* , but  *I cannot seem  to find it* . ",
+        "answers": [
+            "book of zoology",
+            "the desk",
+            "ago",
+            "I cannot seem  to find it"
+        ],
+        "rightAnswer": "book of zoology"
+    },
+    {
+        "content": "",
+        "question": "  *What*  he was much better than me  *at*  chess   *became*  apparent after the  *first few*  minutes of the  game. ",
+        "answers": [
+            "What",
+            "at",
+            "became",
+            "first few"
+        ],
+        "rightAnswer": "What"
+    },
+    {
+        "content": "",
+        "question": "  *The children's*  television program  *called*  \"Sesame  Street\" was  *seeing*  in 84 countries  *in*  1989. ",
+        "answers": [
+            "The  children's",
+            "called",
+            "seeing",
+            "in"
+        ],
+        "rightAnswer": "seeing"
+    },
+    {
+        "content": "",
+        "question": "Today's  *job*  seekers are   *confronted*  with  *such question*  as \"Are you computer  literate?\" and \"Can you  *set up*  a data base?\" ",
+        "answers": [
+            " job",
+            "confronted",
+            "such question",
+            "set up"
+        ],
+        "rightAnswer": "such question"
+    },
+    {
+        "content": "",
+        "question": "A  galaxy,  *where*  may include billions  *of*  stars,   *is*  held together  *by*  gravitational attraction. ",
+        "answers": [
+            "where",
+            " of",
+            "is",
+            "by"
+        ],
+        "rightAnswer": "where"
+    },
+    {
+        "content": "",
+        "question": "People  with  *exceptionally*  high intelligence quotients may not be   *the best*  employees since they become  *bored of*  their  work unless the job is constantly  *changing* . ",
+        "answers": [
+            " exceptionally",
+            "the best",
+            "bored of",
+            " changing"
+        ],
+        "rightAnswer": "bored of"
+    },
+    {
+        "content": "",
+        "question": "  *One of*  history's  *most spectacular*  executions   *were*  that of Damiens, the  *unsuccessful*  assassin of  Louis XV of France. ",
+        "answers": [
+            "One of",
+            "most spectacular",
+            "were",
+            " unsuccessful"
+        ],
+        "rightAnswer": "were"
+    },
+    {
+        "content": "",
+        "question": "  *Fewest*  than half of all  *adults*  fully understand the   *kinds*  and amounts of exercise necessary for an   *effective*  physical fitness program. ",
+        "answers": [
+            "Fewest",
+            " adults",
+            "kinds",
+            "effective"
+        ],
+        "rightAnswer": "Fewest"
+    },
+    {
+        "content": "",
+        "question": " *Had we known*  the  traffic would  *be*  so bad, we  *did not drive*  back from  work  *so*  early. ",
+        "answers": [
+            "Had we known",
+            "be",
+            "did not drive",
+            "so"
+        ],
+        "rightAnswer": "be"
+    },
+    {
+        "content": "",
+        "question": "The student realised   *with*  disappointment  *that*  he had learned  *new  nothing*   *in*  the lecture. ",
+        "answers": [
+            "with",
+            " that",
+            "new nothing",
+            "in"
+        ],
+        "rightAnswer": "new nothing"
+    },
+    {
+        "content": "",
+        "question": "  *According the*  kinetic theory, all mater  *consists*  of   *constantly*   *moving*  particles. ",
+        "answers": [
+            "According  the",
+            "consists",
+            "constantly",
+            "moving"
+        ],
+        "rightAnswer": "According  the"
+    },
+    {
+        "content": "",
+        "question": " William Faulkner, a famous novelist from Mississippi, said that it   *is*  not possible  *to understand*   *the  South*  unless  *you*  were born there. ",
+        "answers": [
+            " is",
+            "to understand",
+            "the South",
+            "you"
+        ],
+        "rightAnswer": " is"
+    },
+    {
+        "content": "",
+        "question": "Plants  *absorb  water*  and nutrients and  *anchoring themselves*  in  *the  soil*  with  *their roots* . ",
+        "answers": [
+            "absorb water",
+            "anchoring  themselves",
+            "the soil",
+            "their roots"
+        ],
+        "rightAnswer": "anchoring  themselves"
+    },
+    {
+        "content": "",
+        "question": "  *Certain*  pollens are more  *likely*  to cause  *an  allergic*  reaction than  *another* . ",
+        "answers": [
+            "Certain",
+            " likely",
+            "an allergic",
+            "another"
+        ],
+        "rightAnswer": "another"
+    },
+    {
+        "content": "",
+        "question": "An  *uncultivated*   *tea plant*   might grow  *about*  30 feet  *height* . ",
+        "answers": [
+            "uncultivated",
+            "tea  plant",
+            "about",
+            "height"
+        ],
+        "rightAnswer": "height"
+    },
+    {
+        "content": "",
+        "question": "  *Many*  of the problems associated with aging  *such as*   disorientation and irritability  *may result*   *from to  eat*  an unbalanced diet. ",
+        "answers": [
+            "Many",
+            "such as",
+            "may result",
+            "from to  eat"
+        ],
+        "rightAnswer": "from to  eat"
+    },
+    {
+        "content": "",
+        "question": " *Even*  on the most  *careful*   prepared  *trip* , problems  *will sometimes*  develop.  ",
+        "answers": [
+            " Even",
+            "careful",
+            "trip",
+            "will sometimes"
+        ],
+        "rightAnswer": "careful"
+    },
+    {
+        "content": "",
+        "question": "Both   *cattle*   *or*  railroads  *helped*    *build*  the city of Chicago. ",
+        "answers": [
+            "cattle",
+            " or",
+            "helped",
+            "build"
+        ],
+        "rightAnswer": " or"
+    },
+    {
+        "content": "",
+        "question": "Champlain   *founded*  a base at Port Royal  *in 1605* , and   *builds*  a fort  *at Quebec*  three years later. ",
+        "answers": [
+            " founded",
+            "in 1605",
+            "builds",
+            "at Quebec"
+        ],
+        "rightAnswer": "builds"
+    },
+    {
+        "content": "",
+        "question": "The name  \"Vitamine\"  *is proposed by*  Casimir Funk,  *who  suspected*   *that*  these substance  *were*   essential for life. ",
+        "answers": [
+            "is proposed by",
+            "who suspected",
+            "that",
+            "were"
+        ],
+        "rightAnswer": "is proposed by"
+    },
+    {
+        "content": "",
+        "question": " *A progress*   *has been made*   toward  *finding*   *a cure*  for AIDS. ",
+        "answers": [
+            "A  progress",
+            "has been made",
+            "finding",
+            "a cure"
+        ],
+        "rightAnswer": "A  progress"
+    },
+    {
+        "content": "",
+        "question": "  *Too*  much water  *makes*  plants  *turning*   brown on the edges of  *their*  leaves. ",
+        "answers": [
+            " Too",
+            "makes",
+            "turning",
+            "their"
+        ],
+        "rightAnswer": "turning"
+    },
+    {
+        "content": "",
+        "question": " *The amount of*  women earning   *Master's*  Degrees  *has risen*  sharply in  *recent  years* . ",
+        "answers": [
+            "The amount of",
+            "Master's",
+            "has risen",
+            "recent  years"
+        ],
+        "rightAnswer": "The amount of"
+    },
+    {
+        "content": "",
+        "question": "When  the temperature is  *risen*  to  *the burning point*   without a source of escape  *for the heat* , spontaneous combustion   *occurs* . ",
+        "answers": [
+            "risen",
+            "the burning point",
+            "for the  heat",
+            "occurs"
+        ],
+        "rightAnswer": "risen"
+    },
+    {
+        "content": "",
+        "question": "When he   *was*  a little boy, Mark Twain  *would walk*  along the  piers,  *watch*  the river boats,  *swimming*  and fish in  the Mississippi, much like his famous character, Tom Sawyer. ",
+        "answers": [
+            " was",
+            "would walk",
+            "watch",
+            "swimming"
+        ],
+        "rightAnswer": "swimming"
+    },
+    {
+        "content": "",
+        "question": "The  influence of the  *nation's*  literature, art, and   *science*   *have*  captured  *widespread*   attention. ",
+        "answers": [
+            "nation's",
+            "science",
+            "have",
+            " widespread"
+        ],
+        "rightAnswer": "have"
+    },
+    {
+        "content": "",
+        "question": "Clare Boothe Luce   *wrote*  and  *productioned*   *her*  first   *play*  while she was in high school. ",
+        "answers": [
+            " wrote",
+            "productioned",
+            "her",
+            "play"
+        ],
+        "rightAnswer": "productioned"
+    },
+    {
+        "content": "",
+        "question": " Although  *almost all*  insects  *have*  six legs   *a*  immature insect  *may not have any* . ",
+        "answers": [
+            "almost all",
+            " have",
+            "a",
+            "may not have any"
+        ],
+        "rightAnswer": "a"
+    },
+    {
+        "content": "",
+        "question": " Sloths spend  *most*  of  *its*  time hanging upside down  from trees and  *feeding*  on leaves and  *fruit* . ",
+        "answers": [
+            "most",
+            " its",
+            "feeding",
+            "fruit"
+        ],
+        "rightAnswer": " its"
+    },
+    {
+        "content": "",
+        "question": " In the  *relatively*  short history of industrial   *developing*   *in the United States* , New York City   *has played*  a vital role. ",
+        "answers": [
+            " relatively",
+            "developing",
+            "in the United  States",
+            "has played"
+        ],
+        "rightAnswer": "developing"
+    },
+    {
+        "content": "",
+        "question": "Interest  *in*   automatic data processing has  *grown*   *rapid*    *since*  the first large calculators were introduced in 1950. ",
+        "answers": [
+            " in",
+            "grown",
+            "rapid",
+            "since"
+        ],
+        "rightAnswer": "rapid"
+    },
+    {
+        "content": "",
+        "question": "An ardent feminist, Margaret  Fuller,  *through*  her literature, asked  *that*  women   *be*  given a  *fairly*  chance. ",
+        "answers": [
+            "through",
+            " that",
+            "be",
+            "fairly"
+        ],
+        "rightAnswer": "fairly"
+    },
+    {
+        "content": "",
+        "question": "Sharks, when the current   *are*  in  *their favor* , can smell blood  *issuing  from*  a body at a distance of  *nearly*  half a kilometer.  ",
+        "answers": [
+            " are",
+            "their favor",
+            "issuing from",
+            "nearly"
+        ],
+        "rightAnswer": " are"
+    },
+    {
+        "content": "",
+        "question": "  *The*  1890's  *in*  America were known  *as*    *a*  Gay Nineties. ",
+        "answers": [
+            "The",
+            "in",
+            "as",
+            " a"
+        ],
+        "rightAnswer": " a"
+    },
+    {
+        "content": "",
+        "question": "The  need  *to improve*  technique  *motivates*  ballerinas   *exercising*  and rehearse for hours  *daily* . ",
+        "answers": [
+            "to  improve",
+            "motivates",
+            "exercising",
+            "daily"
+        ],
+        "rightAnswer": "exercising"
+    },
+    {
+        "content": "",
+        "question": " *After driving*  for twenty miles, he suddenly   *realized*  that he  *has been driving*   *in*   the wrong direction. ",
+        "answers": [
+            "After driving",
+            "realized",
+            "has been  driving",
+            "in"
+        ],
+        "rightAnswer": "has been  driving"
+    },
+    {
+        "content": "",
+        "question": " *Unexploded*   bombs  *buried deep*  in the ground  *have been*  found in  the construction site  *opposite of*  the City Hall. ",
+        "answers": [
+            "Unexploded",
+            "buried  deep",
+            "have been",
+            "opposite of"
+        ],
+        "rightAnswer": "opposite of"
+    },
+    {
+        "content": "",
+        "question": " *The*  guide  told the tourists that  *it was a*  good restaurant   *specializing*  in seafood  *just round*  the corner from  the museum. ",
+        "answers": [
+            "The",
+            "it was a",
+            "specializing",
+            "just  round"
+        ],
+        "rightAnswer": "it was a"
+    },
+    {
+        "content": "",
+        "question": "Balloons have been  used in  *various wars*  not only to direct artillery fire and report  troop  *movements*   *however*  to carry bombs and   *protect against*  low-flying planes. ",
+        "answers": [
+            "various  wars",
+            "movements",
+            "however",
+            "protect  against"
+        ],
+        "rightAnswer": "however"
+    },
+    {
+        "content": "",
+        "question": "During the early part of  the Colonial period, living conditions  *were*  hard, and  *people  have had*  little time  *for reading*  and   *studying* . ",
+        "answers": [
+            "were",
+            "people have had",
+            "for reading",
+            " studying"
+        ],
+        "rightAnswer": "people have had"
+    },
+    {
+        "content": "",
+        "question": "The  Indians of the southwestern United States  *are*  famous for their  beautiful  *art work* ,  *especially*  handmade jewelry cast  from silver, carved from stones, or  *decorations*  with beads and  feathers. ",
+        "answers": [
+            "are",
+            "art work",
+            "especially",
+            " decorations"
+        ],
+        "rightAnswer": " decorations"
+    },
+    {
+        "content": "",
+        "question": "Although both  *of them*   *are trying*    *to get*  the scholarship, she has the  *highest*  grades.  ",
+        "answers": [
+            "of  them",
+            "are trying",
+            "to get",
+            "highest"
+        ],
+        "rightAnswer": "highest"
+    },
+    {
+        "content": "",
+        "question": "Edmund  Hillary,  *a famous climber New Zealand,*   *learned*  the   *basics*  of his sport on the steep cliffs  *hanging over*   a rocky bay near his home. ",
+        "answers": [
+            "a famous climber New Zealand,",
+            "learned",
+            " basics",
+            "hanging over"
+        ],
+        "rightAnswer": "a famous climber New Zealand,"
+    },
+    {
+        "content": "",
+        "question": "International trade,  *going  traveling* , and television  *have lain*  the groundwork   *for*  modern global life  *styles* . ",
+        "answers": [
+            "going  traveling",
+            "have lain",
+            "for",
+            "styles"
+        ],
+        "rightAnswer": "going  traveling"
+    },
+    {
+        "content": "",
+        "question": " Astronomers do not know  *how many*  galaxies  *there are* ,  but  *is it*  thought that there are  *millions or perhaps  billions* . ",
+        "answers": [
+            "how many",
+            "there are",
+            "is it",
+            "millions or  perhaps billions"
+        ],
+        "rightAnswer": "is it"
+    },
+    {
+        "content": "",
+        "question": " *Alfalfa is*  a  *nutritious*  crop   *rich in*  proteins, minerals, and  *with vitamins* .  ",
+        "answers": [
+            "Alfalfa  is",
+            "nutritious",
+            "rich in",
+            "with vitamins"
+        ],
+        "rightAnswer": "with vitamins"
+    },
+    {
+        "content": "",
+        "question": "  *Even*  a professional psychologist may have difficulty talking   *calm*  and logically  *about*   *his own*   problems. ",
+        "answers": [
+            "Even",
+            "calm",
+            "about",
+            "his own"
+        ],
+        "rightAnswer": "calm"
+    },
+    {
+        "content": "",
+        "question": " *During*   wedding  *ceremonies*  in the United States  *guests*  are  usually  *silence* . ",
+        "answers": [
+            "During",
+            "ceremonies",
+            "guests",
+            " silence"
+        ],
+        "rightAnswer": " silence"
+    },
+    {
+        "content": "",
+        "question": "Supersonic transport  *such*  the Concorde will  probably be  *widely*  accepted  *as soon*  as problems of  noise and atmospheric pollution  *are*  resolved. ",
+        "answers": [
+            " such",
+            "widely",
+            "as soon",
+            "are"
+        ],
+        "rightAnswer": " such"
+    },
+    {
+        "content": "",
+        "question": "Some  religions  *have*   *none*  deity but  *are*   philosophies that function  *instead of religions* . ",
+        "answers": [
+            " have",
+            "none",
+            "are",
+            "instead of religions"
+        ],
+        "rightAnswer": "none"
+    },
+    {
+        "content": "",
+        "question": "A vine climbs from one tree to another,  continuing  *to grow*  and support  *itself*  even when the  original  *supporting*  tree is  *not longer*  alive. ",
+        "answers": [
+            "to  grow",
+            "itself",
+            "supporting",
+            "not longer"
+        ],
+        "rightAnswer": "not longer"
+    },
+    {
+        "content": "",
+        "question": "Every candidate  *under*    *considering*  for a federal job must  *undergo*  a  thorough  *medical*  examination. ",
+        "answers": [
+            "under",
+            " considering",
+            "undergo",
+            "medical"
+        ],
+        "rightAnswer": " considering"
+    },
+    {
+        "content": "",
+        "question": "Parks   *which*  are found in downtown areas where office workers and store   *employees*  can enjoy their  *lunch hours sitting*  on the  green grass in clean,  *fresh air* . ",
+        "answers": [
+            "which",
+            " employees",
+            "lunch hours sitting",
+            "fresh air"
+        ],
+        "rightAnswer": "fresh air"
+    },
+    {
+        "content": "",
+        "question": "In 1955  *the Hawaii*   was admitted to  *the*  Union as  *the 50th*    *State* . ",
+        "answers": [
+            "the Hawaii",
+            "the",
+            "the 50th",
+            "State"
+        ],
+        "rightAnswer": "the Hawaii"
+    },
+    {
+        "content": "",
+        "question": " *The*   girl  *whom*  my cousin married  *was used*  to be a chorus  girl for  *the*  Rockettes in Radio City Music Hall in New York.  ",
+        "answers": [
+            " The",
+            "whom",
+            "was used",
+            "the"
+        ],
+        "rightAnswer": "was used"
+    },
+    {
+        "content": "",
+        "question": "  *Some*  earthworms grow to  *a*  very large size. five or  six feet in length, but most of them are  *a*   *little*   inches long. ",
+        "answers": [
+            "Some",
+            "a",
+            "a",
+            "little"
+        ],
+        "rightAnswer": "little"
+    },
+    {
+        "content": "",
+        "question": "  *There is*  about 600 schools  *in the United States*  that   *use*  the Montessori method  *to encourage*  individual  initiative. ",
+        "answers": [
+            "There is",
+            "in the United States",
+            " use",
+            "to encourage"
+        ],
+        "rightAnswer": "There is"
+    },
+    {
+        "content": "",
+        "question": " *Doctors*  believe  *there is*  better  in this modern world  *of ours*  to try to prevent illnesses than to  rely on medicines  *to*  cure them. ",
+        "answers": [
+            "Doctors",
+            "there  is",
+            "of ours",
+            "to"
+        ],
+        "rightAnswer": "there  is"
+    },
+    {
+        "content": "",
+        "question": "Mary and  *her sister*   *just bought*    *two new*   *winters*  coats at the clearance sale. ",
+        "answers": [
+            "her  sister",
+            "just bought",
+            "two new",
+            "winters"
+        ],
+        "rightAnswer": "winters"
+    },
+    {
+        "content": "",
+        "question": " *Twenty the*  amino acids  *serve*    *as*  building  *blocks*  of proteins. ",
+        "answers": [
+            "Twenty  the",
+            "serve",
+            "as",
+            "blocks"
+        ],
+        "rightAnswer": "Twenty  the"
+    },
+    {
+        "content": "",
+        "question": " *The*  Rhode  Island is  *the*  smallest  *state*  in the  *United  States* . ",
+        "answers": [
+            "The",
+            "the",
+            "state",
+            "United States"
+        ],
+        "rightAnswer": "The"
+    },
+    {
+        "content": "",
+        "question": "The fire began   *in*  the  *fifth*  floor  *of*  the hotel, but  it  *soon spread*  to adjacent floors. ",
+        "answers": [
+            "in",
+            " fifth",
+            "of",
+            "soon spread"
+        ],
+        "rightAnswer": "in"
+    },
+    {
+        "content": "",
+        "question": "It  was  *her* , Elizabeth I, not  *her father* , King Henry,   *who*   *led*  England into the Age of Empire. ",
+        "answers": [
+            " her",
+            "her father",
+            "who",
+            "led"
+        ],
+        "rightAnswer": " her"
+    },
+    {
+        "content": "",
+        "question": "The  function of pain is  *to warn*  the individual of danger   *so*   *he*  can take action to avoid more   *serious*  damage. ",
+        "answers": [
+            "to warn",
+            "so",
+            " he",
+            "serious"
+        ],
+        "rightAnswer": "so"
+    },
+    {
+        "content": "",
+        "question": "The  winter storm  *that raced*   *through*  the area for   *the last*  two  *day*  moved east today. ",
+        "answers": [
+            "that  raced",
+            "through",
+            "the last",
+            "day"
+        ],
+        "rightAnswer": "day"
+    },
+    {
+        "content": "",
+        "question": "  *Perhaps was*  his own lack of  *proper schooling*  that   *led*  Horace Mann to struggle for the important reforms in   *education* . ",
+        "answers": [
+            "Perhaps was",
+            "proper schooling",
+            "led",
+            " education"
+        ],
+        "rightAnswer": "Perhaps was"
+    },
+    {
+        "content": "",
+        "question": "The 3,500-foot George Washington Bridge  *spans*    *the*  Hudson River to  *link*  New York City   *also*  New Jersey. ",
+        "answers": [
+            "spans",
+            "the",
+            "link",
+            " also"
+        ],
+        "rightAnswer": " also"
+    },
+    {
+        "content": "",
+        "question": " *By the turn of*  the  century, most of the inventions  *that*   *were to*  bring  in all the comforts of modern living  *have already been*  thought of.  ",
+        "answers": [
+            "By the turn  of",
+            "that",
+            "were to",
+            "have already been"
+        ],
+        "rightAnswer": "have already been"
+    },
+    {
+        "content": "",
+        "question": "Richard Gattling, an  *invention*  best known for  the development of the Gattling Gun,  *actually*  put  *most  of*  his effort into improving  *agricultural*  methods. ",
+        "answers": [
+            " invention",
+            "actually",
+            "most of",
+            "agricultural"
+        ],
+        "rightAnswer": " invention"
+    },
+    {
+        "content": "",
+        "question": " *The greater*  number  of dentists in  *smallest*  towns shows either that dentists don't  like  *big cities*  or there are now  *more*  dentists.  ",
+        "answers": [
+            "The  greater",
+            "smallest",
+            "big cities",
+            "more"
+        ],
+        "rightAnswer": "smallest"
+    },
+    {
+        "content": "",
+        "question": " Many birds will, in the normal course of  *their*  migrations,   *flying*   *more than three thousand miles*   *to  reach*  their winter homes. ",
+        "answers": [
+            "their",
+            "flying",
+            "more than three thousand  miles",
+            "to reach"
+        ],
+        "rightAnswer": "flying"
+    },
+    {
+        "content": "",
+        "question": "Heartburn can  *best be*  understood  as a symptom  *causing by*  acid reflux  *due*  to a   *weak*  lower esophageal sphincter. ",
+        "answers": [
+            "best be",
+            "causing  by",
+            "due",
+            "weak"
+        ],
+        "rightAnswer": "causing  by"
+    },
+    {
+        "content": "",
+        "question": "He  *has been  hoped*  for a raise for the  *last*  four months, but his boss  is reluctant  *to give*  him  *one* . ",
+        "answers": [
+            "has been  hoped",
+            "last",
+            "to give",
+            "one"
+        ],
+        "rightAnswer": "has been  hoped"
+    },
+    {
+        "content": "",
+        "question": "Dorothea Dix worked  *extensively*    *during the*  second half of the nineteenth century  *to improve  condition*  in mental health facilities and  *the*  prisons.  ",
+        "answers": [
+            " extensively",
+            "during the",
+            "to improve  condition",
+            "the"
+        ],
+        "rightAnswer": "the"
+    },
+    {
+        "content": "",
+        "question": "Mobile telephones   *have*  replaced  *the pagers*  as the  *most  common*  accouterments of the  *up-to-date*  young  businessperson. ",
+        "answers": [
+            "have",
+            "the pagers",
+            "most common",
+            " up-to-date"
+        ],
+        "rightAnswer": "the pagers"
+    },
+    {
+        "content": "",
+        "question": "Mosquitos are   *such*  fast breeders that it is almost impossible to control them   *either*  by draining areas where  *they breed*  or   *to spray*  them with pesticides. ",
+        "answers": [
+            "such",
+            " either",
+            "they breed",
+            "to spray"
+        ],
+        "rightAnswer": "to spray"
+    },
+    {
+        "content": "",
+        "question": " *The*  philanthropist   *did not*  feel sad  *when*  he donated  *his  only*  to the museum. ",
+        "answers": [
+            "The",
+            "did not",
+            "when",
+            "his only"
+        ],
+        "rightAnswer": "his only"
+    },
+    {
+        "content": "",
+        "question": "The  Commitments of Traders Report is  *released by*  the Commodity Futures  Trading Commission  *on eleventh*  day  *of*  each   *month* . ",
+        "answers": [
+            "released by",
+            "on eleventh",
+            "of",
+            " month"
+        ],
+        "rightAnswer": "on eleventh"
+    },
+    {
+        "content": "",
+        "question": "All data  *in  computer*  are changed  *into*  electronic pulses   *by*  an input  *unit* . ",
+        "answers": [
+            "in computer",
+            " into",
+            "by",
+            "unit"
+        ],
+        "rightAnswer": "in computer"
+    },
+    {
+        "content": "",
+        "question": "  *the*  lion has  *long*  been  *a*  symbol of  strength, power, and  *it is very cruel* . ",
+        "answers": [
+            "the",
+            " long",
+            "a",
+            "it is very cruel"
+        ],
+        "rightAnswer": "it is very cruel"
+    },
+    {
+        "content": "",
+        "question": " Ester Forbes  *won*  the 1943 Pulitzer Prize  *in*  American  history for  *her*   *biographer*  of Paul Revere. ",
+        "answers": [
+            " won",
+            "in",
+            "her",
+            "biographer"
+        ],
+        "rightAnswer": "biographer"
+    },
+    {
+        "content": "",
+        "question": " To see the Statue of Liberty and  *taking*  pictures   *from*  the top of the Empire State Building  *are*  two  reasons  *for visiting*  New York City. ",
+        "answers": [
+            "taking",
+            " from",
+            "are",
+            "for visiting"
+        ],
+        "rightAnswer": "taking"
+    },
+    {
+        "content": "",
+        "question": "  *Most*  newspapers depend  *on*  the wire services   *from*  their international  *stories and photographs* .  ",
+        "answers": [
+            " Most",
+            "on",
+            "from",
+            "stories and photographs"
+        ],
+        "rightAnswer": "from"
+    },
+    {
+        "content": "",
+        "question": "Having  been beaten  *by*  the police  *for striking an officer* ,   *the man*   *will cry out*  in pain. ",
+        "answers": [
+            "by",
+            "for striking an  officer",
+            "the man",
+            "will cry out"
+        ],
+        "rightAnswer": "will cry out"
+    },
+    {
+        "content": "",
+        "question": " *The  most common*  form  *of*  treatment  *it*  is mass  inoculation and chlorination of  *water sources* . ",
+        "answers": [
+            "The most  common",
+            "of",
+            "it",
+            "water sources"
+        ],
+        "rightAnswer": "it"
+    },
+    {
+        "content": "",
+        "question": "They  asked me  *what did happen*   *last night* , but I was   *unable to*   *tell them* . ",
+        "answers": [
+            "what did  happen",
+            "last night",
+            "unable to",
+            "tell them"
+        ],
+        "rightAnswer": "what did  happen"
+    },
+    {
+        "content": "",
+        "question": "In 1927  Charles Lindbergh  *was*  the first  *to fly*  solo nonstop  from New York to Paris  *in*   *such short time* . ",
+        "answers": [
+            "was",
+            "to  fly",
+            "in",
+            "such short time"
+        ],
+        "rightAnswer": "such short time"
+    },
+    {
+        "content": "",
+        "question": "The  \"Fairness Doctrine\" of the FCC  *requires that*  radio and television   *stations*  give equal time to  *opposing sides*  of   *issues controversial* . ",
+        "answers": [
+            "requires  that",
+            "stations",
+            "opposing sides",
+            "issues  controversial"
+        ],
+        "rightAnswer": "issues  controversial"
+    },
+    {
+        "content": "",
+        "question": " *Together*  Rogers and Hammerstein wrote nine   *musicals* , the  *first*  of  *whose*  was  Oklahoma [1943]. ",
+        "answers": [
+            "Together",
+            "musicals",
+            "first",
+            " whose"
+        ],
+        "rightAnswer": " whose"
+    },
+    {
+        "content": "",
+        "question": " Benjamin Franklin  *was*  the editor of  *the largest*   newspaper in the colonies, a diplomatic representative to France and later to  England, and  *he invented*   *many*  useful devices. ",
+        "answers": [
+            "was",
+            "the  largest",
+            "he invented",
+            "many"
+        ],
+        "rightAnswer": "he invented"
+    },
+    {
+        "content": "",
+        "question": " Agronomists  *study*   *crop disease* , selective breeding,  crop rotation, and climatic factors,  *as well*  soil content   *and*  erosion. ",
+        "answers": [
+            "study",
+            "crop disease",
+            "as well",
+            " and"
+        ],
+        "rightAnswer": "as well"
+    },
+    {
+        "content": "",
+        "question": "  *Despite*   *its*   *smaller size* , the Indian  Ocean is  *as deep*  the Atlantic Ocean. ",
+        "answers": [
+            " Despite",
+            "its",
+            "smaller size",
+            "as deep"
+        ],
+        "rightAnswer": "as deep"
+    },
+    {
+        "content": "",
+        "question": " Some important characteristics of the Baroque style  *was*   *a  renewed interest*  in ornamentation and a powerful  *use*  of  both light  *and*  shade. ",
+        "answers": [
+            "was",
+            "a renewed  interest",
+            "use",
+            "and"
+        ],
+        "rightAnswer": "was"
+    },
+    {
+        "content": "",
+        "question": "Alexander Graham Bell was   *once*  a teacher who  *run*  a school  *for*   the deaf  *in*  Massachusetts. ",
+        "answers": [
+            "once",
+            " run",
+            "for",
+            "in"
+        ],
+        "rightAnswer": " run"
+    },
+    {
+        "content": "",
+        "question": "There   *exists*   *more than*  2,600 different varieties of palm  trees,  *with*   *varying*  flowers, leaves, and fruits.  ",
+        "answers": [
+            " exists",
+            "more than",
+            "with",
+            "varying"
+        ],
+        "rightAnswer": " exists"
+    },
+    {
+        "content": "",
+        "question": " Ghost towns  *like*  Rhyolite, Nevada are communities that are   *not longer*  inhabited  *because*  changes in economic  conditions have caused the people  *to move*  elsewhere. ",
+        "answers": [
+            " like",
+            "not longer",
+            "because",
+            "to move"
+        ],
+        "rightAnswer": "not longer"
+    },
+    {
+        "content": "",
+        "question": "Harvey seldom  *pays his  bills*   *on time* , and  *his*  brother  *does  too* . ",
+        "answers": [
+            "pays his bills",
+            "on time",
+            "his",
+            "does  too"
+        ],
+        "rightAnswer": "does  too"
+    },
+    {
+        "content": "",
+        "question": "  *It is*  the role of the National Bureau of Standards to   *establish*  accurate  *measurements*  for science,   *industrial* , and commerce. ",
+        "answers": [
+            "It  is",
+            "establish",
+            "measurements",
+            "industrial"
+        ],
+        "rightAnswer": "industrial"
+    },
+    {
+        "content": "",
+        "question": "Of  *all the*  states  *in  the*  United States, Rhode Island  *is*   *a*   smallest. ",
+        "answers": [
+            "all the",
+            "in the",
+            "is",
+            " a"
+        ],
+        "rightAnswer": "all the"
+    },
+    {
+        "content": "",
+        "question": " *Active*  animal life exists at all temperatures  from  *the melting*  point of ice, 32 degree, to about 40 degree below   *boiling*  point of  *water* . ",
+        "answers": [
+            " Active",
+            "the melting",
+            "boiling",
+            "water"
+        ],
+        "rightAnswer": "boiling"
+    },
+    {
+        "content": "",
+        "question": "After the  team of geologists had drawn diagrams in  *their*  notebooks and   *wrote*  explanations of the formations  *which*  they had  observed, they returned to their camp-side  *to compare*  notes.  ",
+        "answers": [
+            " their",
+            "wrote",
+            "which",
+            "to compare"
+        ],
+        "rightAnswer": "wrote"
+    },
+    {
+        "content": "",
+        "question": "  *The smallest*  of the apes, the gibbon, is distinguished   *by*   *its*   *too long*  arms. ",
+        "answers": [
+            "The  smallest",
+            "by",
+            "its",
+            "too long"
+        ],
+        "rightAnswer": "too long"
+    },
+    {
+        "content": "",
+        "question": "Nobel prizes  *are awarded*  to people  *who  excellent*  in their fields above  *and beyond*    *what*  is expected from scholars. ",
+        "answers": [
+            "are awarded",
+            "who  excellent",
+            "and beyond",
+            "what"
+        ],
+        "rightAnswer": "who  excellent"
+    },
+    {
+        "content": "",
+        "question": "Luther Burbank was   *a pioneer*  in the process of  *graft*  immature plants  onto  *fully*  mature  *plants* . ",
+        "answers": [
+            "a pioneer",
+            " graft",
+            "fully",
+            "plants"
+        ],
+        "rightAnswer": " graft"
+    },
+    {
+        "content": "",
+        "question": "I do not know where  *could he have*    *gone*   *so early*   *in the*  morning. ",
+        "answers": [
+            "could he  have",
+            "gone",
+            "so early",
+            "in the"
+        ],
+        "rightAnswer": "could he  have"
+    },
+    {
+        "content": "",
+        "question": " *Disease*  is not as widespread  *than  before*  because of  *better*  preventive medicine and   *vastly*  improved nutrition. ",
+        "answers": [
+            "Disease",
+            "than  before",
+            "better",
+            "vastly"
+        ],
+        "rightAnswer": "than  before"
+    },
+    {
+        "content": "",
+        "question": "The Secret Garden,  *it is a book*  written   *years ago*  for children,  *has*  become popular again  among adults in the  *film version* . ",
+        "answers": [
+            "it is a book",
+            "years  ago",
+            "has",
+            "film version"
+        ],
+        "rightAnswer": "it is a book"
+    },
+    {
+        "content": "",
+        "question": "Mrs. Stevens, along  *with*   *her  cousins from*  New Mexico,  *are*  planning  *to  attend*  the festivities. ",
+        "answers": [
+            "with",
+            "her cousins from",
+            " are",
+            "to attend"
+        ],
+        "rightAnswer": " are"
+    },
+    {
+        "content": "",
+        "question": " Geochemistry includes  *the study of*  the movement  *of  elements*  from one place to another  *as a*  result of   *processes chemical* . ",
+        "answers": [
+            "the study of",
+            "of elements",
+            "as a",
+            "processes  chemical"
+        ],
+        "rightAnswer": "processes  chemical"
+    },
+    {
+        "content": "",
+        "question": "  *Spell*   *correctly*  is easy with the aid of a number of   *word processing*  programs for personal  *computers* .  ",
+        "answers": [
+            " Spell",
+            "correctly",
+            "word processing",
+            "computers"
+        ],
+        "rightAnswer": " Spell"
+    },
+    {
+        "content": "",
+        "question": " *Esperanto*  is  *an unique*  language  because it  *was created*  by  *a*  man called Ludwig  Zamenhoff. ",
+        "answers": [
+            "Esperanto",
+            "an unique",
+            "was  created",
+            "a"
+        ],
+        "rightAnswer": "an unique"
+    },
+    {
+        "content": "",
+        "question": " *Every student*  must make up  *their  own*  study list of the classes  *he is*  going to take at the  beginning of  *the quarter* . ",
+        "answers": [
+            "Every  student",
+            "their own",
+            "he is",
+            "the quarter"
+        ],
+        "rightAnswer": "their own"
+    },
+    {
+        "content": "",
+        "question": "Before  television became  *so popular* , Americans used  *to  entertain*   *each other*  in the evening by playing games,   *saying*  stories, and singing songs. ",
+        "answers": [
+            "so  popular",
+            "to entertain",
+            "each other",
+            "saying"
+        ],
+        "rightAnswer": "saying"
+    },
+    {
+        "content": "",
+        "question": "The professor had already  given  *the homework assignment*  when he  *had remembered*   that  *Monday*   *was*  a holiday. ",
+        "answers": [
+            "the homework  assignment",
+            "had remembered",
+            "Monday",
+            "was"
+        ],
+        "rightAnswer": "had remembered"
+    },
+    {
+        "content": "",
+        "question": "Akuce  Ganuktibm,  *she*  spent  *her life*  working with the  health and  *welfare*  of  *the*  families of workers.  ",
+        "answers": [
+            " she",
+            "her life",
+            "welfare",
+            "the"
+        ],
+        "rightAnswer": " she"
+    },
+    {
+        "content": "",
+        "question": "  *It is*   *extremely*  important  *for*  an  engineer  *to know*  to use a computer. ",
+        "answers": [
+            "It  is",
+            "extremely",
+            "for",
+            "to know"
+        ],
+        "rightAnswer": "to know"
+    },
+    {
+        "content": "",
+        "question": "The master   *of ceremonies*  announced in a loud and clear voice  *and  told*  that the dinner  *would be*  late  *due to*   unforseen circumstances. ",
+        "answers": [
+            "of ceremonies",
+            "and told",
+            "would be",
+            "due to"
+        ],
+        "rightAnswer": "and told"
+    },
+    {
+        "content": "",
+        "question": " While verbalization is  *the most common form*  of language in   *existence* , humans make use of many  *others systems*   and techniques  *to express*  their thoughts and feelings. ",
+        "answers": [
+            "the most common  form",
+            "existence",
+            "others systems",
+            "to express"
+        ],
+        "rightAnswer": "others systems"
+    },
+    {
+        "content": "",
+        "question": " *Smoking*  is   *the*  number one  *prevent*  cause  *of death*   in the United States. ",
+        "answers": [
+            "Smoking",
+            "the",
+            "prevent",
+            "of death"
+        ],
+        "rightAnswer": "prevent"
+    },
+    {
+        "content": "",
+        "question": "  *If*  you  *will buy*  one box at the regular price, you  would receive  *another one*  at  *no*  extra cost. ",
+        "answers": [
+            " If",
+            "will buy",
+            "another one",
+            "no"
+        ],
+        "rightAnswer": "will buy"
+    },
+    {
+        "content": "",
+        "question": " The  *equipment*   *in the office*   *was badly*   in need of  *to be repaired* . ",
+        "answers": [
+            "equipment",
+            "in the  office",
+            "was badly",
+            "to be repaired"
+        ],
+        "rightAnswer": "to be repaired"
+    },
+    {
+        "content": "",
+        "question": "  *The*  governor  *has*  not decided  *how to  deal*  with the new problems  *already* . ",
+        "answers": [
+            "The",
+            " has",
+            "how to deal",
+            "already"
+        ],
+        "rightAnswer": "already"
+    },
+    {
+        "content": "",
+        "question": " *When mining*  for gold, you  *must  first*  obtain the gold ore  *and then*   *apart*  the  gold from the ore. ",
+        "answers": [
+            "When mining",
+            "must first",
+            "and then",
+            " apart"
+        ],
+        "rightAnswer": " apart"
+    },
+    {
+        "content": "",
+        "question": "Cotton  fiber,  *like*   *other*  vegetable fibers,   *are*  composed  *mostly*  of cellulose. ",
+        "answers": [
+            " like",
+            "other",
+            "are",
+            "mostly"
+        ],
+        "rightAnswer": "are"
+    },
+    {
+        "content": "",
+        "question": " *That it is  believed*  that  *most of the earthquakes*  in the world occur   *near*   *the youngest*  mountain ranges-the Himalayas, the  Andes, and the Sierra Nevadas. ",
+        "answers": [
+            "That it is believed",
+            "most of the  earthquakes",
+            "near",
+            "the youngest"
+        ],
+        "rightAnswer": "That it is believed"
+    },
+    {
+        "content": "",
+        "question": "  *A barometer*  is a device with a  *sealed*  metal chamber  designed to  *reading*  the changes in the pressure of   *air*  in the atmosphere. ",
+        "answers": [
+            "A  barometer",
+            "sealed",
+            "reading",
+            "air"
+        ],
+        "rightAnswer": "reading"
+    },
+    {
+        "content": "",
+        "question": "  *The understanding*  electricity  *depends on*  a knowledge  of atoms and the subatomic particles of which  *they*   *are  composed* . ",
+        "answers": [
+            "The understanding",
+            "depends on",
+            "they",
+            "are  composed"
+        ],
+        "rightAnswer": "The understanding"
+    },
+    {
+        "content": "",
+        "question": "\"Gone with the Wind\"   *written*  after Margaret Mitchell  *quit*  her job   *as*  a reporter because  *of*  an ankle injury. ",
+        "answers": [
+            "written",
+            " quit",
+            "as",
+            "of"
+        ],
+        "rightAnswer": "written"
+    },
+    {
+        "content": "",
+        "question": " *Those  of*  you who signed up  *for*  Dr Daniel's anthropology class  should get  *their*  books as soon  *as possible* . ",
+        "answers": [
+            "Those  of",
+            "for",
+            "their",
+            "as possible"
+        ],
+        "rightAnswer": "their"
+    },
+    {
+        "content": "",
+        "question": "A jellyfish, which   *isn't*  really  *a*  fish,  *it*  has no brain,  no  *bones* , and no face. ",
+        "answers": [
+            "isn't",
+            " a",
+            "it",
+            "bones"
+        ],
+        "rightAnswer": "it"
+    },
+    {
+        "content": "",
+        "question": " *Cotton*  used to  *rank*  first   *between*  Alabama's crops, but it  *represents only*  a  fraction of the agricultural production now. ",
+        "answers": [
+            "Cotton",
+            " rank",
+            "between",
+            "represents only"
+        ],
+        "rightAnswer": "between"
+    },
+    {
+        "content": "",
+        "question": "In ancient times and  throughout the Middle Ages,  *many people*   *believed*   that  *the earth*   *is*  motionless. ",
+        "answers": [
+            "many people",
+            " believed",
+            "the earth",
+            "is"
+        ],
+        "rightAnswer": "is"
+    },
+    {
+        "content": "",
+        "question": "The Greek historian Herodotus reported that one hundred  thousand men  *are*  employed  *for*  twenty years  *to  build*  the Great Pyramid  *at Gizeh* . ",
+        "answers": [
+            " are",
+            "for",
+            "to build",
+            "at Gizeh"
+        ],
+        "rightAnswer": " are"
+    },
+    {
+        "content": "",
+        "question": "The  patient who  *was not supposed*  to be released  *until*   the end of the week was told to dress  *in clothes*  and report to   *the nurses'station* . ",
+        "answers": [
+            "was not supposed",
+            "until",
+            "in clothes",
+            "the  nurses'station"
+        ],
+        "rightAnswer": "in clothes"
+    },
+    {
+        "content": "",
+        "question": "The corals  *can be divided*  into three   *groups* , two  *of which*   *is*  extinct.  ",
+        "answers": [
+            "can be  divided",
+            "groups",
+            "of which",
+            "is"
+        ],
+        "rightAnswer": "is"
+    },
+    {
+        "content": "",
+        "question": "The leader emphasized  *the need*   *for  justice*  and equality  *between*  his  *people* .  ",
+        "answers": [
+            "the  need",
+            "for justice",
+            "between",
+            "people"
+        ],
+        "rightAnswer": "between"
+    },
+    {
+        "content": "",
+        "question": "  *Industrialist*  Henry Ford  *introduced*  assembly-line  techniques into the  *manufacturer*  of motor  *vehicles* .  ",
+        "answers": [
+            " Industrialist",
+            "introduced",
+            "manufacturer",
+            " vehicles"
+        ],
+        "rightAnswer": "manufacturer"
+    },
+    {
+        "content": "",
+        "question": " Although business practices have been  *applied*    *successfully*  to agriculture,  *farming*  is   *different*  other industries. ",
+        "answers": [
+            " applied",
+            "successfully",
+            "farming",
+            "different"
+        ],
+        "rightAnswer": "different"
+    },
+    {
+        "content": "",
+        "question": "Although  *there are*  exceptions,   *as whole* , the male of the bird species is  *more*    *brilliantly*  colored. ",
+        "answers": [
+            "there are",
+            "as whole",
+            " more",
+            "brilliantly"
+        ],
+        "rightAnswer": "as whole"
+    },
+    {
+        "content": "",
+        "question": "In the United States,  the  *bark the*  eastern hemlock is  *the main*    *source*  of tannin  *for curing*  leather. ",
+        "answers": [
+            "bark the",
+            "the  main",
+            "source",
+            "for curing"
+        ],
+        "rightAnswer": "bark the"
+    },
+    {
+        "content": "",
+        "question": "  *Authors*  Samuel Eliot Morison  *won*  two Pultizer  Prizes, one in 1943 for  *a biography*  of Columbus and  *the  other*  in 1960 for a biography of John Paul Jones. ",
+        "answers": [
+            " Authors",
+            "won",
+            "a biography",
+            "the other"
+        ],
+        "rightAnswer": " Authors"
+    },
+    {
+        "content": "",
+        "question": " *When zippers*   are easy to use,  *it took*  almost half a century to perfect the  zipper and find a way to manufacture  *them*    *economically* . ",
+        "answers": [
+            "When zippers",
+            "it took",
+            "them",
+            "economically"
+        ],
+        "rightAnswer": "When zippers"
+    },
+    {
+        "content": "",
+        "question": " Each  *of the*  nurses  *report*  to the operating room when   *his or her name*   *is called* . ",
+        "answers": [
+            "of the",
+            " report",
+            "his or her name",
+            "is called"
+        ],
+        "rightAnswer": " report"
+    },
+    {
+        "content": "",
+        "question": "  *Because*  blood from different individuals may   *different*  in the type of antigen on the surface of the red cells  and the type of antibody in the plasma, a dangerous reaction  *can  occur*  between the donor  *and*  recipient in a blood  transfusion. ",
+        "answers": [
+            "Because",
+            "different",
+            "can occur",
+            " and"
+        ],
+        "rightAnswer": "different"
+    },
+    {
+        "content": "",
+        "question": "Both viruses  *also*  genes   *are*  made from nucleoproteins, the essential chemicals with which   *living*  matter duplicates  *itself* . ",
+        "answers": [
+            " also",
+            "are",
+            "living",
+            "itself"
+        ],
+        "rightAnswer": " also"
+    },
+    {
+        "content": "",
+        "question": " Although the Red Cross  *accepts*  blood from most donors, the nurses  will not  *leave*  you  *give*  blood if you have just   *had*  a cold. ",
+        "answers": [
+            "accepts",
+            "leave",
+            "give",
+            "had"
+        ],
+        "rightAnswer": "leave"
+    },
+    {
+        "content": "",
+        "question": " Economists have tried  *to discourage*   *the use*  of the  phrase \"underdeveloped nation\" and  *encouraging*   *the  more*  accurate phrase \"developing nation\" in order to suggest an ongoing  process. ",
+        "answers": [
+            "to discourage",
+            "the use",
+            " encouraging",
+            "the more"
+        ],
+        "rightAnswer": " encouraging"
+    }
+
+]
